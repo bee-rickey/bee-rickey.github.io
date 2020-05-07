@@ -1,6 +1,7 @@
 #curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vQW1sf6ptHC1I4vLmEI6kddb_2C1T3x4062y7NFn8s_G0rq0_c7RvtHcRDpohA8hkNQxIFRy6H4OIdJ/pub?gid=1857317333&single=true&output=csv"  | grep -v "^," > siva.csv
 #curl https://api.covid19india.org/csv/latest/district_wise.csv > districtwise.csv
-#curl https://api.covid19india.org/csv/latest/raw_data.csv > rawdata.csv
+#curl https://api.covid19india.org/csv/latest/raw_data1.csv > rawdata1.csv
+#curl https://api.covid19india.org/csv/latest/raw_data2.csv > rawdata2.csv
 #curl https://api.covid19india.org/csv/latest/raw_data3.csv > rawdata3.csv
 
 >matching.txt
@@ -10,14 +11,18 @@
 
 echo "<html> " >> notMatching.html
 echo "	<body> " >> notMatching.html
+prevState="gloglog"
 
 while read line
 do
 	district=`echo $line | awk -F, '{print $2}'`
 	state=`echo $line | awk -F, '{print $1}'`
 	districtFound=0
-	echo $state
-
+	if [ "$prevState" != "$state" ]
+	then
+		echo "<h2> $state </h2><br>" >> notMatching.html
+		prevState=`echo $state`
+	fi
 	grep -i "$state" districtwise.csv | while read -r matched; do 
 		if [ -n "${district}" ]
 		then
