@@ -8,10 +8,11 @@
 >notMatching.txt
 >notMatching.html
 > notfound.txt
+>notMatching.tmp
 
-echo "<html> " >> notMatching.html
-echo "	<body> " >> notMatching.html
 prevState="gloglog"
+districtCount=1
+var=0
 
 while read line
 do
@@ -20,7 +21,7 @@ do
 	districtFound=0
 	if [ "$prevState" != "$state" ]
 	then
-		echo "<h2> $state </h2><br>" >> notMatching.html
+		echo "<h2> $state </h2>" >> notMatching.tmp
 		prevState=`echo $state`
 	fi
 	grep -i "$state" districtwise.csv | while read -r matched; do 
@@ -35,8 +36,9 @@ do
 
                 if [ $confirmedCountFromDistrictWise != $confirmedCountFromSiva ]
 				then
-
-					echo "<a href=\"#$district\"> $district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise </a><br>" >> notMatching.html
+					
+					echo "<a href=\"#$district\"> $district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise </a><br>" >> notMatching.tmp
+					echo "$district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise" >> notMatching.txt
 					echo "<h2 id=\"$district\">$district</h2>" >> notMatching.txt
 	   				echo "<h3>RAW DATA V1</h3>:<br>" >> notMatching.txt
    					grep -i "$district" rawdata1.csv >> notMatching.txt
@@ -61,6 +63,12 @@ do
 
 done < siva.csv
 
+districtCount=`grep "count does not match" notMatching.tmp | wc -l`
+
+echo "<html> " >> notMatching.html
+echo "	<body> " >> notMatching.html
+echo "<h2> Number of districts having mismatches in count: $districtCount </h2> <br>" >> notMatching.html
+cat notMatching.tmp >> notMatching.html
 sed 's/$/ <br>/' notMatching.txt >> notMatching.html
 echo "	</body> " >> notMatching.html
 echo "</html> " >> notMatching.html
