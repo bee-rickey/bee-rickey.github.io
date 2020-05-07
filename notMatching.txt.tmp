@@ -1,8 +1,10 @@
-Guntur count does not match 370:373
-Krishna count does not match 318:316
-Kurnool count does not match 539:540
-S.P.S. Nellore count does not match 97:96
-Y.S.R. Kadapa count does not match 75:96
+Anantapur count does not match 80:83
+Guntur count does not match 360:373
+Krishna count does not match 302:316
+Kurnool count does not match 532:540
+S.P.S. Nellore count does not match 93:96
+Visakhapatnam count does not match 39:46
+Y.S.R. Kadapa count does not match 69:96
 Cachar count does not match 3:2
 Dhubri count does not match 4:5
 Golaghat count does not match 1:9
@@ -12,6 +14,7 @@ Karimganj count does not match 1:2
 Morigaon count does not match 3:6
 Nalbari count does not match 3:4
 Other State count does not match 0:1
+Chandigarh count does not match 128:134
 East Delhi count does not match 1:38
 New Delhi count does not match 5:37
 North Delhi count does not match 3:60
@@ -25,8 +28,12 @@ Dahod count does not match 18:19
 Dang count does not match 1:2
 Mahisagar count does not match 45:42
 Vadodara count does not match 437:440
+Faridabad count does not match 78:84
 Italians count does not match 0:14
+Jind count does not match 11:14
+Panipat count does not match 33:34
 Sonipat count does not match 82:84
+Chamba count does not match 6:8
 Hamirpur count does not match 0:2
 Sirmaur count does not match 1:2
 Una count does not match 15:16
@@ -34,14 +41,16 @@ Anantnag count does not match 121:122
 Bandipora count does not match 94:134
 Baramulla count does not match 87:105
 Shopiyan count does not match 57:98
-Bagalkote count does not match 50:51
-Belagavi count does not match 75:72
+Bagalkote count does not match 47:51
+Belagavi count does not match 74:72
 Bengaluru Rural count does not match 10:6
-Bengaluru Urban count does not match 162:156
+Bengaluru Urban count does not match 161:156
 Bidar count does not match 23:22
 Chitradurga count does not match 0:1
 Dakshina Kannada count does not match 27:22
-Davanagere count does not match 48:47
+Davanagere count does not match 45:47
+Dharwad count does not match 11:12
+Kalaburagi count does not match 64:67
 Mysuru count does not match 90:88
 Other State count does not match 0:20
 Agar Malwa count does not match 9:13
@@ -91,16 +100,23 @@ Satara count does not match 74:89
 Solapur count does not match 147:175
 Thane count does not match 1270:1616
 Yavatmal count does not match 59:92
+Mayurbhanj count does not match 3:4
 Gurdaspur count does not match 92:91
 Jalandhar count does not match 138:147
 Ludhiana count does not match 124:125
+Ajmer count does not match 182:187
 Bhilwara count does not match 40:39
+BSF Camp count does not match 30:42
 Dholpur count does not match 20:21
 Evacuees count does not match 0:61
-Pali count does not match 48:47
+Jaipur count does not match 1107:1111
+Jodhpur count does not match 820:842
 Sawai Madhopur count does not match 8:9
+Chengalpattu count does not match 141:152
+Chennai count does not match 2619:2647
 Dindigul count does not match 106:107
 Thanjavur count does not match 61:60
+Thiruvallur count does not match 197:198
 Adilabad count does not match 18:21
 Hyderabad count does not match 631:614
 Jangaon count does not match 2:3
