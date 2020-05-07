@@ -8,6 +8,7 @@
 >notMatching.txt
 >notMatching.html
 > notfound.txt
+> notMatching.txt.tmp
 >notMatching.tmp
 
 prevState="gloglog"
@@ -38,7 +39,7 @@ do
 				then
 					
 					echo "<a href=\"#$district\"> $district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise </a><br>" >> notMatching.tmp
-					echo "$district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise" >> notMatching.txt
+					echo "$district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise" >> notMatching.txt.tmp
 					echo "<h2 id=\"$district\">$district</h2>" >> notMatching.txt
 	   				echo "<h3>RAW DATA V1</h3>:<br>" >> notMatching.txt
    					grep -i "$district" rawdata1.csv >> notMatching.txt
