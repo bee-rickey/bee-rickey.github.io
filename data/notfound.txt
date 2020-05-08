@@ -2,15 +2,7 @@ Patient District Not found in districtwise.csv.
 Y.S.R Kadapa Not found in districtwise.csv.
 Dohad Not found in districtwise.csv. Present in raw_data2.csv
 The Dangs Not found in districtwise.csv.
-Italians* Not found in districtwise.csv. Present in raw_data1.csv
 Sonitpur Not found in districtwise.csv. Present in raw_data2.csv
-Badgam Not found in districtwise.csv. Present in raw_data2.csv
-Bandipore Not found in districtwise.csv. Present in raw_data2.csv
-Baramula Not found in districtwise.csv. Present in raw_data2.csv
-Shupiyan Not found in districtwise.csv. Present in raw_data2.csv
 Other Region* Not found in districtwise.csv.
-Evacuees* Not found in districtwise.csv. Present in raw_data1.csv Present in raw_data2.csv
-Italians* Not found in districtwise.csv. Present in raw_data1.csv
-Other State Not found in districtwise.csv.
-Jangoan Not found in districtwise.csv. Present in raw_data2.csv
+Other state Not found in districtwise.csv.
 mathura Not found in districtwise.csv.
