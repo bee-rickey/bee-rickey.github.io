@@ -1,32 +1,16 @@
-Patient District Not found
-Patient State,Patient District,Recovered Cases,Deceased Cases,Confirmed Cases,ISOCode,Zone,Type 
-Y.S.R Kadapa Not found
-Andhra Pradesh,Y.S.R Kadapa,0,1,21,IN-AP,Southern,State 
-Dohad Not found
-Gujarat,Dohad,1,0,1,IN-GJ,Western,State 
-The Dangs Not found
-Gujarat,The Dangs,0,0,1,IN-GJ,Western,State 
-Italians* Not found
-Haryana,Italians*,14,0,14,IN-HR,Northern,State 
-Sonitpur Not found
-Haryana,Sonitpur,0,0,2,IN-HR,Northern,State 
-Badgam Not found
-Jammu and Kashmir,Badgam,0,0,1,IN-JK,NA,Union Territory 
-Bandipore Not found
-Jammu and Kashmir,Bandipore,0,0,40,IN-JK,NA,Union Territory 
-Baramula Not found
-Jammu and Kashmir,Baramula,0,0,18,IN-JK,NA,Union Territory 
-Shupiyan Not found
-Jammu and Kashmir,Shupiyan,0,0,41,IN-JK,NA,Union Territory 
-Other Region* Not found
-Madhya Pradesh,Other Region*,0,0,-1,IN-MP,Central,State 
-Evacuees* Not found
-Rajasthan,Evacuees*,36,0,61,IN-RJ,Northern,State 
-Italians* Not found
-Rajasthan,Italians*,0,0,2,IN-RJ,Northern,State 
-Other State Not found
-Rajasthan,Other State,-2,1,2,IN-RJ,Northern,State 
-Jangoan Not found
-Telangana,Jangoan,0,0,1,IN-TG,Southern,State 
-mathura Not found
-Uttar Pradesh,mathura,5,4,37,IN-UP,Northern,State 
+Patient District Not found in districtwise.csv.
+Y.S.R Kadapa Not found in districtwise.csv.
+Dohad Not found in districtwise.csv. Present in raw_data2.csv
+The Dangs Not found in districtwise.csv.
+Italians* Not found in districtwise.csv. Present in raw_data1.csv
+Sonitpur Not found in districtwise.csv. Present in raw_data2.csv
+Badgam Not found in districtwise.csv. Present in raw_data2.csv
+Bandipore Not found in districtwise.csv. Present in raw_data2.csv
+Baramula Not found in districtwise.csv. Present in raw_data2.csv
+Shupiyan Not found in districtwise.csv. Present in raw_data2.csv
+Other Region* Not found in districtwise.csv.
+Evacuees* Not found in districtwise.csv. Present in raw_data1.csv Present in raw_data2.csv
+Italians* Not found in districtwise.csv. Present in raw_data1.csv
+Other State Not found in districtwise.csv.
+Jangoan Not found in districtwise.csv. Present in raw_data2.csv
+mathura Not found in districtwise.csv.

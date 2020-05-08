@@ -75,9 +75,20 @@ do
 	districtFound=`cat data/.found`
 	if (( $districtFound == 0 ))
 	then
-		echo "$districtFound ---- $district "
-		echo "$district Not found" >> data/notfound.txt
-		echo "$line " >> data/notfound.txt
+		message="$district Not found in districtwise.csv." 
+		grep $district data/rawdata1.csv > /dev/null 2>&1 
+		if (( $? == 0 ))
+		then
+			message="$message Present in raw_data1.csv"
+		fi
+
+		grep $district data/rawdata2.csv > /dev/null 2>&1 
+		if (( $? == 0 ))
+		then
+			message="$message Present in raw_data2.csv"
+		fi
+
+		echo $message >> data/notfound.txt
 	fi
 
 
