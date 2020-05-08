@@ -1,11 +1,14 @@
 North and Middle Andaman count does not match 1:1
 South Andaman count does not match 32:32
-Chittoor count does not match 82:82
+Anantapur count does not match 99:99
+Chittoor count does not match 85:85
 East Godavari count does not match 46:46
 Other State count does not match 27:27
 Prakasam count does not match 61:61
 Srikakulam count does not match 5:5
-West Godavari count does not match 59:59
+Visakhapatnam count does not match 57:57
+Vizianagaram count does not match 4:4
+West Godavari count does not match 68:68
 Lohit count does not match 1:1
 Bongaigaon count does not match 5:5
 Goalpara count does not match 6:6
@@ -36,10 +39,10 @@ Madhubani count does not match 24:24
 Munger count does not match 102:102
 Nalanda count does not match 36:36
 Nawada count does not match 4:4
-Patna count does not match 46:46
+Patna count does not match 47:47
 Purnia count does not match 2:2
 Rohtas count does not match 54:54
-Samastipur count does not match 1:1
+Samastipur count does not match 7:7
 Saran count does not match 8:8
 Sheikhpura count does not match 1:1
 Sheohar count does not match 3:3
@@ -47,6 +50,7 @@ Sitamarhi count does not match 6:6
 Siwan count does not match 32:32
 Vaishali count does not match 3:3
 West Champaran count does not match 11:11
+Chandigarh count does not match 134:134
 Bilaspur count does not match 1:1
 Durg count does not match 10:10
 Kabeerdham count does not match 6:6
@@ -87,10 +91,12 @@ Valsad count does not match 6:6
 Ambala count does not match 41:41
 Bhiwani count does not match 3:3
 Charkhi Dadri count does not match 1:1
+Faridabad count does not match 84:84
 Fatehabad count does not match 5:5
 Gurugram count does not match 117:117
 Hisar count does not match 4:4
 Jhajjar count does not match 73:73
+Jind count does not match 14:14
 Kaithal count does not match 2:2
 Karnal count does not match 14:14
 Kurukshetra count does not match 2:2
@@ -98,9 +104,11 @@ Mahendragarh count does not match 2:2
 Nuh count does not match 59:59
 Palwal count does not match 36:36
 Panchkula count does not match 18:18
+Panipat count does not match 34:34
 Rohtak count does not match 4:4
 Sirsa count does not match 6:6
 Yamunanagar count does not match 8:8
+Chamba count does not match 8:8
 Kangra count does not match 6:6
 Mandi count does not match 2:2
 Shimla count does not match 1:1
@@ -132,15 +140,17 @@ Koderma count does not match 1:1
 Palamu count does not match 8:8
 Ranchi count does not match 93:93
 Simdega count does not match 2:2
-Ballari count does not match 14:14
+Ballari count does not match 15:15
 Chikkaballapura count does not match 21:21
+Dharwad count does not match 12:12
 Gadag count does not match 5:5
 Haveri count does not match 2:2
+Kalaburagi count does not match 67:67
 Kodagu count does not match 1:1
 Mandya count does not match 28:28
 Tumakuru count does not match 7:7
 Udupi count does not match 3:3
-Uttara Kannada count does not match 12:12
+Uttara Kannada count does not match 24:24
 Vijayapura count does not match 48:48
 Alappuzha count does not match 5:5
 Ernakulam count does not match 24:24
@@ -163,8 +173,9 @@ Ashoknagar count does not match 1:1
 Burhanpur count does not match 38:38
 Chhindwara count does not match 5:5
 Harda count does not match 3:3
+Jhabua count does not match 1:1
 Katni count does not match 0:0
-Mandsaur count does not match 40:40
+Mandsaur count does not match 52:52
 Neemuch count does not match 4:4
 Niwari count does not match 0:0
 Panna count does not match 1:1
@@ -179,7 +190,7 @@ Bhandara count does not match 1:1
 Chandrapur count does not match 4:4
 Gondia count does not match 1:1
 Mumbai Suburban count does not match 0:0
-Nanded count does not match 31:31
+Nanded count does not match 32:32
 Osmanabad count does not match 3:3
 Parbhani count does not match 2:2
 Sindhudurg count does not match 4:4
@@ -190,19 +201,20 @@ East Khasi Hills count does not match 12:12
 Aizawl count does not match 1:1
 Balangir count does not match 2:2
 Balasore count does not match 27:27
-Bhadrak count does not match 21:21
+Bhadrak count does not match 23:23
 Cuttack count does not match 2:2
 Deogarh count does not match 1:1
 Dhenkanal count does not match 1:1
-Ganjam count does not match 28:28
+Ganjam count does not match 47:47
 Jagatsinghpur count does not match 5:5
 Jajpur count does not match 55:55
 Jharsuguda count does not match 2:2
 Kalahandi count does not match 2:2
-Kendrapara count does not match 3:3
+Kendrapara count does not match 8:8
 Kendujhar count does not match 2:2
 Khordha count does not match 50:50
 Koraput count does not match 1:1
+Mayurbhanj count does not match 4:4
 Puri count does not match 1:1
 Sundargarh count does not match 12:12
 Mahe count does not match 2:2
@@ -226,32 +238,38 @@ Sangrur count does not match 88:88
 Shahid Bhagat Singh Nagar count does not match 86:86
 Sri Muktsar Sahib count does not match 65:65
 Tarn Taran count does not match 146:146
-Alwar count does not match 18:18
+Ajmer count does not match 189:189
+Alwar count does not match 19:19
 Banswara count does not match 66:66
 Baran count does not match 1:1
 Barmer count does not match 3:3
 Bharatpur count does not match 116:116
 Bikaner count does not match 38:38
+BSF Camp count does not match 42:42
 Chittorgarh count does not match 116:116
 Churu count does not match 14:14
 Dausa count does not match 21:21
 Dungarpur count does not match 9:9
 Hanumangarh count does not match 11:11
+Jaipur count does not match 1117:1117
 Jaisalmer count does not match 35:35
 Jalore count does not match 4:4
-Jhalawar count does not match 45:45
+Jhalawar count does not match 47:47
 Jhunjhunu count does not match 42:42
+Jodhpur count does not match 842:842
 Karauli count does not match 4:4
-Kota count does not match 223:223
+Kota count does not match 231:231
 Nagaur count does not match 119:119
 Other state count does not match 2:2
-Pali count does not match 50:50
 Pratapgarh count does not match 4:4
 Rajsamand count does not match 7:7
 Sikar count does not match 8:8
+Sirohi count does not match 1:1
 Tonk count does not match 136:136
-Udaipur count does not match 20:20
+Udaipur count does not match 22:22
 Ariyalur count does not match 245:245
+Chengalpattu count does not match 152:152
+Chennai count does not match 2647:2647
 Coimbatore count does not match 146:146
 Cuddalore count does not match 356:356
 Dharmapuri count does not match 2:2
@@ -273,6 +291,7 @@ Salem count does not match 35:35
 Sivaganga count does not match 12:12
 Tenkasi count does not match 48:48
 Theni count does not match 54:54
+Thiruvallur count does not match 198:198
 Thiruvarur count does not match 33:33
 Thoothukkudi count does not match 30:30
 Tiruchirappalli count does not match 62:62
@@ -299,7 +318,7 @@ Rajanna Sircilla count does not match 3:3
 Sangareddy count does not match 7:7
 Siddipet count does not match 1:1
 Vikarabad count does not match 37:37
-Dhalai count does not match 62:62
+Dhalai count does not match 86:86
 Gomati count does not match 1:1
 North Tripura count does not match 1:1
 Aligarh count does not match 53:53
