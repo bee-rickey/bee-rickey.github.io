@@ -1,15 +1,15 @@
-curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vQW1sf6ptHC1I4vLmEI6kddb_2C1T3x4062y7NFn8s_G0rq0_c7RvtHcRDpohA8hkNQxIFRy6H4OIdJ/pub?gid=1857317333&single=true&output=csv"  | grep -v "^," > siva.csv
-curl https://api.covid19india.org/csv/latest/district_wise.csv > districtwise.csv
-#curl https://api.covid19india.org/csv/latest/raw_data1.csv > rawdata1.csv
-#curl https://api.covid19india.org/csv/latest/raw_data2.csv > rawdata2.csv
-curl https://api.covid19india.org/csv/latest/raw_data3.csv > rawdata3.csv
+curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vQW1sf6ptHC1I4vLmEI6kddb_2C1T3x4062y7NFn8s_G0rq0_c7RvtHcRDpohA8hkNQxIFRy6H4OIdJ/pub?gid=1857317333&single=true&output=csv"  | grep -v "^," > data/siva.csv
+curl https://api.covid19india.org/csv/latest/district_wise.csv > data/districtwise.csv
+curl https://api.covid19india.org/csv/latest/raw_data1.csv > data/rawdata1.csv
+curl https://api.covid19india.org/csv/latest/raw_data2.csv > data/rawdata2.csv
+curl https://api.covid19india.org/csv/latest/raw_data3.csv > data/rawdata3.csv
 
->matching.txt
->notMatching.txt
+>data/matching.txt
+>data/notMatching.txt
 >notMatching.html
-> notfound.txt
-> notMatching.txt.tmp
->notMatching.tmp
+>data/notfound.txt
+>data/notMatching.txt.tmp
+>data/notMatching.tmp
 
 prevState="gloglog"
 districtCount=1
@@ -22,10 +22,10 @@ do
 	districtFound=0
 	if [ "$prevState" != "$state" ]
 	then
-		echo "<h2> $state </h2>" >> notMatching.tmp
+		echo "<h2> $state </h2>" >> data/notMatching.tmp
 		prevState=`echo $state`
 	fi
-	grep -i "$state" districtwise.csv | while read -r matched; do 
+	grep -i "$state" data/districtwise.csv | while read -r matched; do 
 		if [ -n "${district}" ]
 		then
 			districtNameFromDistrictWise=`echo $matched | awk -F, '{print $5}'`
@@ -38,18 +38,18 @@ do
                 if [ $confirmedCountFromDistrictWise != $confirmedCountFromSiva ]
 				then
 					
-					echo "<a href=\"#$district\"> $district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise </a><br>" >> notMatching.tmp
-					echo "$district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise" >> notMatching.txt.tmp
-					echo "<h2 id=\"$district\">$district</h2>" >> notMatching.txt
-	   				echo "<h3>RAW DATA V1</h3>:<br>" >> notMatching.txt
-   					grep -i "$district" rawdata1.csv >> notMatching.txt
-   					echo "<h3>RAW DATA V2</h3><br>:" >> notMatching.txt
-   					grep -i "$district" rawdata2.csv >> notMatching.txt
-   					echo "<h3>RAW DATA V3</h3><br>" >> notMatching.txt
-   					grep -i "$district" rawdata3.csv >> notMatching.txt
+					echo "<a href=\"#$district\"> $district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise </a><br>" >> data/notMatching.tmp
+					echo "$district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise" >> data/notMatching.txt.tmp
+					echo "<h2 id=\"$district\">$district</h2>" >> data/notMatching.txt
+	   				echo "<h3>RAW DATA V1</h3>:<br>" >> data/notMatching.txt
+   					grep -i "$district" data/rawdata1.csv >> data/notMatching.txt
+   					echo "<h3>RAW DATA V2</h3><br>:" >> data/notMatching.txt
+   					grep -i "$district" data/rawdata2.csv >> data/notMatching.txt
+   					echo "<h3>RAW DATA V3</h3><br>" >> data/notMatching.txt
+   					grep -i "$district" data/rawdata3.csv >> data/notMatching.txt
 
 				else
-					echo "$district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise" >> matching.txt
+					echo "$district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise" >> data/matching.txt
 				fi
 			fi
 		fi
@@ -57,19 +57,19 @@ do
 
 	if [ $districtFound -eq 0 ]
 	then
-		echo "$district Not found" >> notfound.txt
-		echo "$line " >> notfound.txt
+		echo "$district Not found" >> data/notfound.txt
+		echo "$line " >> data/notfound.txt
 	fi
 
 
-done < siva.csv
+done < data/siva.csv
 
-districtCount=`grep "count does not match" notMatching.tmp | wc -l`
+districtCount=`grep "count does not match" data/notMatching.tmp | wc -l`
 
 echo "<html> " >> notMatching.html
 echo "	<body> " >> notMatching.html
 echo "<h2> Number of districts having mismatches in count: $districtCount </h2> <br>" >> notMatching.html
-cat notMatching.tmp >> notMatching.html
-sed 's/$/ <br>/' notMatching.txt >> notMatching.html
+cat data/notMatching.tmp >> notMatching.html
+sed 's/$/ <br>/' data/notMatching.txt >> notMatching.html
 echo "	</body> " >> notMatching.html
 echo "</html> " >> notMatching.html
