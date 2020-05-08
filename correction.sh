@@ -1,8 +1,8 @@
-curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vQW1sf6ptHC1I4vLmEI6kddb_2C1T3x4062y7NFn8s_G0rq0_c7RvtHcRDpohA8hkNQxIFRy6H4OIdJ/pub?gid=1857317333&single=true&output=csv"  | grep -v "^," > data/siva.csv
-curl https://api.covid19india.org/csv/latest/district_wise.csv > data/districtwise.csv
-curl https://api.covid19india.org/csv/latest/raw_data1.csv > data/rawdata1.csv
-curl https://api.covid19india.org/csv/latest/raw_data2.csv > data/rawdata2.csv
-curl https://api.covid19india.org/csv/latest/raw_data3.csv > data/rawdata3.csv
+#curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vQW1sf6ptHC1I4vLmEI6kddb_2C1T3x4062y7NFn8s_G0rq0_c7RvtHcRDpohA8hkNQxIFRy6H4OIdJ/pub?gid=1857317333&single=true&output=csv"  | grep -v "^," > data/siva.csv
+#curl https://api.covid19india.org/csv/latest/district_wise.csv > data/districtwise.csv
+#curl https://api.covid19india.org/csv/latest/raw_data1.csv > data/rawdata1.csv
+#curl https://api.covid19india.org/csv/latest/raw_data2.csv > data/rawdata2.csv
+#curl https://api.covid19india.org/csv/latest/raw_data3.csv > data/rawdata3.csv
 
 >data/matching.txt
 >data/notMatching.txt
@@ -44,7 +44,7 @@ do
                 if [ $confirmedCountFromDistrictWise != $confirmedCountFromSiva ]
 				then
 					
-					echo "<a href=\"#$district\"> $district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise </a><br>" >> data/notMatching.tmp
+					districtString="<a href=\"#$district\"> $district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise    ";
 					echo "$district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise" >> data/notMatching.txt.tmp
 
 					echo "<h2 id=\"$district\">$district</h2>" >> data/notMatching.txt
@@ -54,6 +54,7 @@ do
 					countForVersion=`wc -l < data/.notMatching.txt | bc`
 	   				echo "<h3>RAW DATA V1 : Total Count: $countForVersion </h3>:<br>" >> data/notMatching.txt
 					cat data/.notMatching.txt >> data/notMatching.txt
+					districtString="$districtString V1: $countForVersion,";
 						
 
 					> data/.notMatching.txt
@@ -61,9 +62,13 @@ do
 					countForVersion=`wc -l < data/.notMatching.txt | bc`
 	   				echo "<h3>RAW DATA V2 : Total Count: $countForVersion </h3>:<br>" >> data/notMatching.txt
 					cat data/.notMatching.txt >> data/notMatching.txt
+					districtString="$districtString V2: $countForVersion";
 
    					echo "<h3>RAW DATA V3</h3><br>" >> data/notMatching.txt
    					grep -i "$district" data/rawdata3.csv >> data/notMatching.txt
+
+					districtString="$districtString </a><br>";
+					echo $districtString >> data/notMatching.tmp
 
 				else
 					echo "$district count does not match $confirmedCountFromSiva:$confirmedCountFromDistrictWise" >> data/matching.txt
