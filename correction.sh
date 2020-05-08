@@ -25,6 +25,12 @@ do
 		echo "<h2> $state </h2>" >> data/notMatching.tmp
 		prevState=`echo $state`
 	fi
+
+    if [ -z "${district}" ]
+	then
+		continue;
+	fi
+
 	grep -i "$state" data/districtwise.csv | while read -r matched; do 
 		if [ -n "${district}" ]
 		then
