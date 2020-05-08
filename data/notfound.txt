@@ -2,1153 +2,95 @@ Patient District Not found
 Patient State,Patient District,Recovered Cases,Deceased Cases,Confirmed Cases,ISOCode,Zone,Type 
  Not found
 Andaman and Nicobar Islands,,11,0,0,IN-AN,NA,Union Territory 
-North and Middle Andaman Not found
-Andaman and Nicobar Islands,North and Middle Andaman,0,0,1,IN-AN,NA,Union Territory 
-South Andaman Not found
-Andaman and Nicobar Islands,South Andaman,22,0,32,IN-AN,NA,Union Territory 
  Not found
 Andhra Pradesh,,136,3,1,IN-AP,Southern,State 
-Anantapur Not found
-Andhra Pradesh,Anantapur,38,4,99,IN-AP,Southern,State 
-Chittoor Not found
-Andhra Pradesh,Chittoor,63,0,85,IN-AP,Southern,State 
-East Godavari Not found
-Andhra Pradesh,East Godavari,14,0,46,IN-AP,Southern,State 
-Guntur Not found
-Andhra Pradesh,Guntur,149,8,371,IN-AP,Southern,State 
-Krishna Not found
-Andhra Pradesh,Krishna,99,9,324,IN-AP,Southern,State 
-Kurnool Not found
-Andhra Pradesh,Kurnool,184,12,546,IN-AP,Southern,State 
-Other State Not found
-Andhra Pradesh,Other State,0,0,27,IN-AP,Southern,State 
-Prakasam Not found
-Andhra Pradesh,Prakasam,48,0,61,IN-AP,Southern,State 
-S.P.S. Nellore Not found
-Andhra Pradesh,S.P.S. Nellore,57,3,97,IN-AP,Southern,State 
-Srikakulam Not found
-Andhra Pradesh,Srikakulam,0,0,5,IN-AP,Southern,State 
-Visakhapatnam Not found
-Andhra Pradesh,Visakhapatnam,11,1,57,IN-AP,Southern,State 
-Vizianagaram Not found
-Andhra Pradesh,Vizianagaram,0,0,4,IN-AP,Southern,State 
-West Godavari Not found
-Andhra Pradesh,West Godavari,24,0,68,IN-AP,Southern,State 
 Y.S.R Kadapa Not found
 Andhra Pradesh,Y.S.R Kadapa,0,1,21,IN-AP,Southern,State 
-Y.S.R. Kadapa Not found
-Andhra Pradesh,Y.S.R. Kadapa,19,0,75,IN-AP,Southern,State 
  Not found
 Arunachal Pradesh,,1,0,0,IN-AR,North-Eastern,State 
-Lohit Not found
-Arunachal Pradesh,Lohit,0,0,1,IN-AR,North-Eastern,State 
  Not found
 Assam,,16,0,1,IN-AS,North-Eastern,State 
-Bongaigaon Not found
-Assam,Bongaigaon,0,0,5,IN-AS,North-Eastern,State 
-Cachar Not found
-Assam,Cachar,1,0,7,IN-AS,North-Eastern,State 
-Dhubri Not found
-Assam,Dhubri,5,0,4,IN-AS,North-Eastern,State 
-Goalpara Not found
-Assam,Goalpara,1,0,6,IN-AS,North-Eastern,State 
-Golaghat Not found
-Assam,Golaghat,5,0,1,IN-AS,North-Eastern,State 
-Hailakandi Not found
-Assam,Hailakandi,0,1,1,IN-AS,North-Eastern,State 
-Jorhat Not found
-Assam,Jorhat,0,0,8,IN-AS,North-Eastern,State 
-Kamrup Not found
-Assam,Kamrup,0,0,1,IN-AS,North-Eastern,State 
-Kamrup Metropolitan Not found
-Assam,Kamrup Metropolitan,2,1,10,IN-AS,North-Eastern,State 
-Karimganj Not found
-Assam,Karimganj,1,0,1,IN-AS,North-Eastern,State 
-Kokrajhar Not found
-Assam,Kokrajhar,0,0,1,IN-AS,North-Eastern,State 
-Lakhimpur Not found
-Assam,Lakhimpur,0,0,1,IN-AS,North-Eastern,State 
-Morigaon Not found
-Assam,Morigaon,2,0,3,IN-AS,North-Eastern,State 
-Nalbari Not found
-Assam,Nalbari,1,0,3,IN-AS,North-Eastern,State 
-Other State Not found
-Assam,Other State,1,0,0,IN-AS,North-Eastern,State 
-South Salmara Mankachar Not found
-Assam,South Salmara Mankachar,0,0,1,IN-AS,North-Eastern,State 
  Not found
 Bihar,,16,0,0,IN-BR,Eastern,State 
-Araria Not found
-Bihar,Araria,0,0,2,IN-BR,Eastern,State 
-Arwal Not found
-Bihar,Arwal,1,0,5,IN-BR,Eastern,State 
-Aurangabad Not found
-Bihar,Aurangabad,6,0,14,IN-BR,Eastern,State 
-Banka Not found
-Bihar,Banka,0,0,3,IN-BR,Eastern,State 
-Begusarai Not found
-Bihar,Begusarai,8,0,13,IN-BR,Eastern,State 
-Bhagalpur Not found
-Bihar,Bhagalpur,3,0,13,IN-BR,Eastern,State 
-Bhojpur Not found
-Bihar,Bhojpur,10,0,18,IN-BR,Eastern,State 
-Buxar Not found
-Bihar,Buxar,19,0,56,IN-BR,Eastern,State 
-Darbhanga Not found
-Bihar,Darbhanga,0,0,5,IN-BR,Eastern,State 
-East Champaran Not found
-Bihar,East Champaran,0,1,9,IN-BR,Eastern,State 
-Gaya Not found
-Bihar,Gaya,4,0,6,IN-BR,Eastern,State 
-Gopalganj Not found
-Bihar,Gopalganj,2,0,18,IN-BR,Eastern,State 
-Jehanabad Not found
-Bihar,Jehanabad,0,0,5,IN-BR,Eastern,State 
-Kaimur Not found
-Bihar,Kaimur,16,0,32,IN-BR,Eastern,State 
-Katihar Not found
-Bihar,Katihar,0,0,10,IN-BR,Eastern,State 
-Kishanganj Not found
-Bihar,Kishanganj,0,0,1,IN-BR,Eastern,State 
-Lakhisarai Not found
-Bihar,Lakhisarai,2,0,4,IN-BR,Eastern,State 
-Madhepura Not found
-Bihar,Madhepura,2,0,2,IN-BR,Eastern,State 
-Madhubani Not found
-Bihar,Madhubani,0,0,24,IN-BR,Eastern,State 
-Munger Not found
-Bihar,Munger,38,1,102,IN-BR,Eastern,State 
-Nalanda Not found
-Bihar,Nalanda,29,0,36,IN-BR,Eastern,State 
-Nawada Not found
-Bihar,Nawada,3,0,4,IN-BR,Eastern,State 
-Patna Not found
-Bihar,Patna,18,0,47,IN-BR,Eastern,State 
-Purnia Not found
-Bihar,Purnia,0,0,2,IN-BR,Eastern,State 
-Rohtas Not found
-Bihar,Rohtas,22,1,54,IN-BR,Eastern,State 
-Samastipur Not found
-Bihar,Samastipur,0,0,7,IN-BR,Eastern,State 
-Saran Not found
-Bihar,Saran,3,0,8,IN-BR,Eastern,State 
-Sheikhpura Not found
-Bihar,Sheikhpura,0,0,1,IN-BR,Eastern,State 
-Sheohar Not found
-Bihar,Sheohar,0,0,3,IN-BR,Eastern,State 
-Sitamarhi Not found
-Bihar,Sitamarhi,1,1,6,IN-BR,Eastern,State 
-Siwan Not found
-Bihar,Siwan,13,0,32,IN-BR,Eastern,State 
-Vaishali Not found
-Bihar,Vaishali,2,1,3,IN-BR,Eastern,State 
-West Champaran Not found
-Bihar,West Champaran,0,0,11,IN-BR,Eastern,State 
  Not found
 Chandigarh,,13,0,1,IN-CH,NA,Union Territory 
-Chandigarh Not found
-Chandigarh,Chandigarh,8,1,134,IN-CH,NA,Union Territory 
  Not found
 Chhattisgarh,,17,0,0,IN-CT,Central,State 
-Bilaspur Not found
-Chhattisgarh,Bilaspur,1,0,1,IN-CT,Central,State 
-Durg Not found
-Chhattisgarh,Durg,1,0,10,IN-CT,Central,State 
-Kabeerdham Not found
-Chhattisgarh,Kabeerdham,0,0,6,IN-CT,Central,State 
-Korba Not found
-Chhattisgarh,Korba,9,0,28,IN-CT,Central,State 
-Raipur Not found
-Chhattisgarh,Raipur,7,0,7,IN-CT,Central,State 
-Rajnandgaon Not found
-Chhattisgarh,Rajnandgaon,1,0,1,IN-CT,Central,State 
-Surajpur Not found
-Chhattisgarh,Surajpur,0,0,6,IN-CT,Central,State 
-Dadra and Nagar Haveli Not found
-Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,0,0,1,IN-DD,NA,Union Territory 
  Not found
 Delhi,,1931,65,5936,IN-DL,NA,Union Territory 
-East Delhi Not found
-Delhi,East Delhi,0,0,1,IN-DL,NA,Union Territory 
-New Delhi Not found
-Delhi,New Delhi,0,0,5,IN-DL,NA,Union Territory 
-North Delhi Not found
-Delhi,North Delhi,0,0,3,IN-DL,NA,Union Territory 
-North East Delhi Not found
-Delhi,North East Delhi,0,0,1,IN-DL,NA,Union Territory 
-North West Delhi Not found
-Delhi,North West Delhi,0,1,3,IN-DL,NA,Union Territory 
-South Delhi Not found
-Delhi,South Delhi,0,0,26,IN-DL,NA,Union Territory 
-South West Delhi Not found
-Delhi,South West Delhi,0,0,3,IN-DL,NA,Union Territory 
-West Delhi Not found
-Delhi,West Delhi,0,0,2,IN-DL,NA,Union Territory 
  Not found
 Goa,,7,0,3,IN-GA,Western,State 
-North Goa Not found
-Goa,North Goa,0,0,4,IN-GA,Western,State 
  Not found
 Gujarat,,52,24,0,IN-GJ,Western,State 
-Ahmedabad Not found
-Gujarat,Ahmedabad,855,298,4991,IN-GJ,Western,State 
-Anand Not found
-Gujarat,Anand,43,6,76,IN-GJ,Western,State 
-Aravalli Not found
-Gujarat,Aravalli,14,2,47,IN-GJ,Western,State 
-Banaskantha Not found
-Gujarat,Banaskantha,22,2,67,IN-GJ,Western,State 
-Bharuch Not found
-Gujarat,Bharuch,21,2,27,IN-GJ,Western,State 
-Bhavnagar Not found
-Gujarat,Bhavnagar,20,5,83,IN-GJ,Western,State 
-Botad Not found
-Gujarat,Botad,8,1,48,IN-GJ,Western,State 
-Chhota Udaipur Not found
-Gujarat,Chhota Udaipur,12,0,14,IN-GJ,Western,State 
-Dahod Not found
-Gujarat,Dahod,1,0,18,IN-GJ,Western,State 
-Dang Not found
-Gujarat,Dang,1,0,1,IN-GJ,Western,State 
-Devbhumi Dwarka Not found
-Gujarat,Devbhumi Dwarka,0,0,4,IN-GJ,Western,State 
 Dohad Not found
 Gujarat,Dohad,1,0,1,IN-GJ,Western,State 
-Gandhinagar Not found
-Gujarat,Gandhinagar,15,4,88,IN-GJ,Western,State 
-Gir Somnath Not found
-Gujarat,Gir Somnath,3,0,3,IN-GJ,Western,State 
-Jamnagar Not found
-Gujarat,Jamnagar,0,1,9,IN-GJ,Western,State 
-Junagadh Not found
-Gujarat,Junagadh,0,0,2,IN-GJ,Western,State 
-Kheda Not found
-Gujarat,Kheda,3,1,20,IN-GJ,Western,State 
-Kutch Not found
-Gujarat,Kutch,3,1,7,IN-GJ,Western,State 
-Mahisagar Not found
-Gujarat,Mahisagar,7,1,45,IN-GJ,Western,State 
-Mehsana Not found
-Gujarat,Mehsana,8,1,42,IN-GJ,Western,State 
-Morbi Not found
-Gujarat,Morbi,1,0,1,IN-GJ,Western,State 
-Narmada Not found
-Gujarat,Narmada,12,0,12,IN-GJ,Western,State 
-Navsari Not found
-Gujarat,Navsari,4,0,8,IN-GJ,Western,State 
-Other State Not found
-Gujarat,Other State,0,0,1,IN-GJ,Western,State 
-Panchmahal Not found
-Gujarat,Panchmahal,6,3,51,IN-GJ,Western,State 
-Patan Not found
-Gujarat,Patan,13,1,24,IN-GJ,Western,State 
-Porbandar Not found
-Gujarat,Porbandar,2,0,3,IN-GJ,Western,State 
-Rajkot Not found
-Gujarat,Rajkot,24,1,64,IN-GJ,Western,State 
-Sabarkantha Not found
-Gujarat,Sabarkantha,3,2,10,IN-GJ,Western,State 
-Surat Not found
-Gujarat,Surat,362,37,799,IN-GJ,Western,State 
-Surendranagar Not found
-Gujarat,Surendranagar,1,0,1,IN-GJ,Western,State 
-Tapi Not found
-Gujarat,Tapi,1,0,2,IN-GJ,Western,State 
 The Dangs Not found
 Gujarat,The Dangs,0,0,1,IN-GJ,Western,State 
-Vadodara Not found
-Gujarat,Vadodara,188,31,437,IN-GJ,Western,State 
-Valsad Not found
-Gujarat,Valsad,3,1,6,IN-GJ,Western,State 
  Not found
 Haryana,,4,2,0,IN-HR,Northern,State 
-Ambala Not found
-Haryana,Ambala,11,1,41,IN-HR,Northern,State 
-Bhiwani Not found
-Haryana,Bhiwani,3,0,3,IN-HR,Northern,State 
-Charkhi Dadri Not found
-Haryana,Charkhi Dadri,1,0,1,IN-HR,Northern,State 
-Faridabad Not found
-Haryana,Faridabad,42,2,84,IN-HR,Northern,State 
-Fatehabad Not found
-Haryana,Fatehabad,1,0,5,IN-HR,Northern,State 
-Gurugram Not found
-Haryana,Gurugram,51,0,117,IN-HR,Northern,State 
-Hisar Not found
-Haryana,Hisar,2,0,4,IN-HR,Northern,State 
-Italians Not found
-Haryana,Italians,14,0,0,IN-HR,Northern,State 
 Italians* Not found
 Haryana,Italians*,14,0,14,IN-HR,Northern,State 
-Jhajjar Not found
-Haryana,Jhajjar,0,0,73,IN-HR,Northern,State 
-Jind Not found
-Haryana,Jind,2,0,14,IN-HR,Northern,State 
-Kaithal Not found
-Haryana,Kaithal,2,0,2,IN-HR,Northern,State 
-Karnal Not found
-Haryana,Karnal,5,1,14,IN-HR,Northern,State 
-Kurukshetra Not found
-Haryana,Kurukshetra,2,0,2,IN-HR,Northern,State 
-Mahendragarh Not found
-Haryana,Mahendragarh,0,0,2,IN-HR,Northern,State 
-Nuh Not found
-Haryana,Nuh,53,0,59,IN-HR,Northern,State 
-Palwal Not found
-Haryana,Palwal,32,0,36,IN-HR,Northern,State 
-Panchkula Not found
-Haryana,Panchkula,17,0,18,IN-HR,Northern,State 
-Panipat Not found
-Haryana,Panipat,4,1,34,IN-HR,Northern,State 
-Rohtak Not found
-Haryana,Rohtak,2,0,4,IN-HR,Northern,State 
-Sirsa Not found
-Haryana,Sirsa,4,0,6,IN-HR,Northern,State 
-Sonipat Not found
-Haryana,Sonipat,5,0,82,IN-HR,Northern,State 
 Sonitpur Not found
 Haryana,Sonitpur,0,0,2,IN-HR,Northern,State 
-Yamunanagar Not found
-Haryana,Yamunanagar,3,0,8,IN-HR,Northern,State 
  Not found
 Himachal Pradesh,,19,1,4,IN-HP,Northern,State 
-Chamba Not found
-Himachal Pradesh,Chamba,5,0,8,IN-HP,Northern,State 
-Hamirpur Not found
-Himachal Pradesh,Hamirpur,2,0,0,IN-HP,Northern,State 
-Kangra Not found
-Himachal Pradesh,Kangra,1,0,6,IN-HP,Northern,State 
-Mandi Not found
-Himachal Pradesh,Mandi,0,1,2,IN-HP,Northern,State 
-Shimla Not found
-Himachal Pradesh,Shimla,0,0,1,IN-HP,Northern,State 
-Sirmaur Not found
-Himachal Pradesh,Sirmaur,0,0,1,IN-HP,Northern,State 
-Solan Not found
-Himachal Pradesh,Solan,2,1,9,IN-HP,Northern,State 
-Una Not found
-Himachal Pradesh,Una,5,0,15,IN-HP,Northern,State 
  Not found
 Jammu and Kashmir,,47,2,0,IN-JK,NA,Union Territory 
-Anantnag Not found
-Jammu and Kashmir,Anantnag,1,1,121,IN-JK,NA,Union Territory 
 Badgam Not found
 Jammu and Kashmir,Badgam,0,0,1,IN-JK,NA,Union Territory 
-Bandipora Not found
-Jammu and Kashmir,Bandipora,52,1,94,IN-JK,NA,Union Territory 
 Bandipore Not found
 Jammu and Kashmir,Bandipore,0,0,40,IN-JK,NA,Union Territory 
 Baramula Not found
 Jammu and Kashmir,Baramula,0,0,18,IN-JK,NA,Union Territory 
-Baramulla Not found
-Jammu and Kashmir,Baramulla,42,2,87,IN-JK,NA,Union Territory 
-Budgam Not found
-Jammu and Kashmir,Budgam,9,0,31,IN-JK,NA,Union Territory 
-Ganderbal Not found
-Jammu and Kashmir,Ganderbal,14,0,16,IN-JK,NA,Union Territory 
-Jammu Not found
-Jammu and Kashmir,Jammu,22,0,31,IN-JK,NA,Union Territory 
-Kathua Not found
-Jammu and Kashmir,Kathua,0,0,1,IN-JK,NA,Union Territory 
-Kishtwar Not found
-Jammu and Kashmir,Kishtwar,0,0,1,IN-JK,NA,Union Territory 
-Kulgam Not found
-Jammu and Kashmir,Kulgam,5,0,12,IN-JK,NA,Union Territory 
-Kupwara Not found
-Jammu and Kashmir,Kupwara,31,0,69,IN-JK,NA,Union Territory 
-Pulwama Not found
-Jammu and Kashmir,Pulwama,3,0,12,IN-JK,NA,Union Territory 
-Rajouri Not found
-Jammu and Kashmir,Rajouri,0,0,4,IN-JK,NA,Union Territory 
-Ramban Not found
-Jammu and Kashmir,Ramban,0,0,1,IN-JK,NA,Union Territory 
-Reasi Not found
-Jammu and Kashmir,Reasi,0,0,1,IN-JK,NA,Union Territory 
-Samba Not found
-Jammu and Kashmir,Samba,4,0,7,IN-JK,NA,Union Territory 
-Shopiyan Not found
-Jammu and Kashmir,Shopiyan,32,0,57,IN-JK,NA,Union Territory 
 Shupiyan Not found
 Jammu and Kashmir,Shupiyan,0,0,41,IN-JK,NA,Union Territory 
-Srinagar Not found
-Jammu and Kashmir,Srinagar,59,2,126,IN-JK,NA,Union Territory 
-Udhampur Not found
-Jammu and Kashmir,Udhampur,14,1,22,IN-JK,NA,Union Territory 
  Not found
 Jharkhand,,12,1,0,IN-JH,Eastern,State 
-Bokaro Not found
-Jharkhand,Bokaro,9,1,10,IN-JH,Eastern,State 
-Deoghar Not found
-Jharkhand,Deoghar,2,0,4,IN-JH,Eastern,State 
-Dhanbad Not found
-Jharkhand,Dhanbad,2,0,2,IN-JH,Eastern,State 
-Dumka Not found
-Jharkhand,Dumka,0,0,2,IN-JH,Eastern,State 
-Garhwa Not found
-Jharkhand,Garhwa,0,0,3,IN-JH,Eastern,State 
-Giridih Not found
-Jharkhand,Giridih,1,0,1,IN-JH,Eastern,State 
-Godda Not found
-Jharkhand,Godda,0,0,1,IN-JH,Eastern,State 
-Hazaribagh Not found
-Jharkhand,Hazaribagh,1,0,3,IN-JH,Eastern,State 
-Jamtara Not found
-Jharkhand,Jamtara,0,0,2,IN-JH,Eastern,State 
-Koderma Not found
-Jharkhand,Koderma,1,0,1,IN-JH,Eastern,State 
-Palamu Not found
-Jharkhand,Palamu,0,0,8,IN-JH,Eastern,State 
-Ranchi Not found
-Jharkhand,Ranchi,13,1,93,IN-JH,Eastern,State 
-Simdega Not found
-Jharkhand,Simdega,0,0,2,IN-JH,Eastern,State 
  Not found
 Karnataka,,154,4,0,IN-KA,Southern,State 
-Bagalkote Not found
-Karnataka,Bagalkote,16,1,50,IN-KA,Southern,State 
-Ballari Not found
-Karnataka,Ballari,6,0,15,IN-KA,Southern,State 
-Belagavi Not found
-Karnataka,Belagavi,30,1,86,IN-KA,Southern,State 
-Bengaluru Rural Not found
-Karnataka,Bengaluru Rural,1,0,10,IN-KA,Southern,State 
-Bengaluru Urban Not found
-Karnataka,Bengaluru Urban,38,6,169,IN-KA,Southern,State 
-Bidar Not found
-Karnataka,Bidar,5,1,23,IN-KA,Southern,State 
-Chikkaballapura Not found
-Karnataka,Chikkaballapura,1,1,21,IN-KA,Southern,State 
-Chitradurga Not found
-Karnataka,Chitradurga,1,0,0,IN-KA,Southern,State 
-Dakshina Kannada Not found
-Karnataka,Dakshina Kannada,1,3,27,IN-KA,Southern,State 
-Davanagere Not found
-Karnataka,Davanagere,1,4,62,IN-KA,Southern,State 
-Dharwad Not found
-Karnataka,Dharwad,4,0,12,IN-KA,Southern,State 
-Gadag Not found
-Karnataka,Gadag,1,1,5,IN-KA,Southern,State 
-Haveri Not found
-Karnataka,Haveri,0,0,2,IN-KA,Southern,State 
-Kalaburagi Not found
-Karnataka,Kalaburagi,22,5,67,IN-KA,Southern,State 
-Kodagu Not found
-Karnataka,Kodagu,0,0,1,IN-KA,Southern,State 
-Mandya Not found
-Karnataka,Mandya,11,0,28,IN-KA,Southern,State 
-Mysuru Not found
-Karnataka,Mysuru,49,0,90,IN-KA,Southern,State 
-Other State Not found
-Karnataka,Other State,3,0,0,IN-KA,Southern,State 
-Tumakuru Not found
-Karnataka,Tumakuru,0,1,7,IN-KA,Southern,State 
-Udupi Not found
-Karnataka,Udupi,0,0,3,IN-KA,Southern,State 
-Uttara Kannada Not found
-Karnataka,Uttara Kannada,2,0,24,IN-KA,Southern,State 
-Vijayapura Not found
-Karnataka,Vijayapura,25,2,48,IN-KA,Southern,State 
  Not found
 Kerala,,39,2,0,IN-KL,Southern,State 
-Alappuzha Not found
-Kerala,Alappuzha,4,0,5,IN-KL,Southern,State 
-Ernakulam Not found
-Kerala,Ernakulam,18,0,24,IN-KL,Southern,State 
-Idukki Not found
-Kerala,Idukki,19,0,23,IN-KL,Southern,State 
-Kannur Not found
-Kerala,Kannur,98,0,116,IN-KL,Southern,State 
-Kasaragod Not found
-Kerala,Kasaragod,166,0,179,IN-KL,Southern,State 
-Kollam Not found
-Kerala,Kollam,16,0,20,IN-KL,Southern,State 
-Kottayam Not found
-Kerala,Kottayam,19,0,21,IN-KL,Southern,State 
-Kozhikode Not found
-Kerala,Kozhikode,27,0,24,IN-KL,Southern,State 
-Malappuram Not found
-Kerala,Malappuram,22,1,24,IN-KL,Southern,State 
-Palakkad Not found
-Kerala,Palakkad,8,0,13,IN-KL,Southern,State 
-Pathanamthitta Not found
-Kerala,Pathanamthitta,12,0,17,IN-KL,Southern,State 
-Thiruvananthapuram Not found
-Kerala,Thiruvananthapuram,10,1,17,IN-KL,Southern,State 
-Thrissur Not found
-Kerala,Thrissur,13,0,13,IN-KL,Southern,State 
-Wayanad Not found
-Kerala,Wayanad,3,0,7,IN-KL,Southern,State 
  Not found
 Ladakh,,12,0,0,IN-LA,NA,Union Territory 
-Kargil Not found
-Ladakh,Kargil,2,0,9,IN-LA,NA,Union Territory 
-Leh Not found
-Ladakh,Leh,3,0,33,IN-LA,NA,Union Territory 
  Not found
 Madhya Pradesh,,273,31,338,IN-MP,Central,State 
-Agar Malwa Not found
-Madhya Pradesh,Agar Malwa,10,0,9,IN-MP,Central,State 
-Alirajpur Not found
-Madhya Pradesh,Alirajpur,3,0,1,IN-MP,Central,State 
-Anuppur Not found
-Madhya Pradesh,Anuppur,0,0,3,IN-MP,Central,State 
-Ashoknagar Not found
-Madhya Pradesh,Ashoknagar,0,1,1,IN-MP,Central,State 
-Barwani Not found
-Madhya Pradesh,Barwani,23,0,24,IN-MP,Central,State 
-Betul Not found
-Madhya Pradesh,Betul,1,0,2,IN-MP,Central,State 
-Bhopal Not found
-Madhya Pradesh,Bhopal,214,19,558,IN-MP,Central,State 
-Burhanpur Not found
-Madhya Pradesh,Burhanpur,0,4,38,IN-MP,Central,State 
-Chhindwara Not found
-Madhya Pradesh,Chhindwara,2,1,5,IN-MP,Central,State 
-Dewas Not found
-Madhya Pradesh,Dewas,8,6,28,IN-MP,Central,State 
-Dhar Not found
-Madhya Pradesh,Dhar,26,0,56,IN-MP,Central,State 
-Dindori Not found
-Madhya Pradesh,Dindori,0,0,2,IN-MP,Central,State 
-Gwalior Not found
-Madhya Pradesh,Gwalior,0,0,14,IN-MP,Central,State 
-Harda Not found
-Madhya Pradesh,Harda,0,0,3,IN-MP,Central,State 
-Hoshangabad Not found
-Madhya Pradesh,Hoshangabad,22,3,26,IN-MP,Central,State 
-Indore Not found
-Madhya Pradesh,Indore,491,67,1559,IN-MP,Central,State 
-Jabalpur Not found
-Madhya Pradesh,Jabalpur,12,3,101,IN-MP,Central,State 
-Jhabua Not found
-Madhya Pradesh,Jhabua,0,0,1,IN-MP,Central,State 
-Katni Not found
-Madhya Pradesh,Katni,0,0,0,IN-MP,Central,State 
-Khandwa Not found
-Madhya Pradesh,Khandwa,20,7,51,IN-MP,Central,State 
-Khargone Not found
-Madhya Pradesh,Khargone,30,6,69,IN-MP,Central,State 
-Mandsaur Not found
-Madhya Pradesh,Mandsaur,6,3,52,IN-MP,Central,State 
-Morena Not found
-Madhya Pradesh,Morena,0,0,23,IN-MP,Central,State 
-Neemuch Not found
-Madhya Pradesh,Neemuch,0,0,4,IN-MP,Central,State 
-Niwari Not found
-Madhya Pradesh,Niwari,0,0,0,IN-MP,Central,State 
-Other Region Not found
-Madhya Pradesh,Other Region,0,0,-2,IN-MP,Central,State 
 Other Region* Not found
 Madhya Pradesh,Other Region*,0,0,-1,IN-MP,Central,State 
-Panna Not found
-Madhya Pradesh,Panna,0,0,1,IN-MP,Central,State 
-Raisen Not found
-Madhya Pradesh,Raisen,21,3,44,IN-MP,Central,State 
-Ratlam Not found
-Madhya Pradesh,Ratlam,12,0,20,IN-MP,Central,State 
-Rewa Not found
-Madhya Pradesh,Rewa,0,0,2,IN-MP,Central,State 
-Sagar Not found
-Madhya Pradesh,Sagar,5,0,4,IN-MP,Central,State 
-Satna Not found
-Madhya Pradesh,Satna,0,1,3,IN-MP,Central,State 
-Shahdol Not found
-Madhya Pradesh,Shahdol,0,0,3,IN-MP,Central,State 
-Shajapur Not found
-Madhya Pradesh,Shajapur,5,1,7,IN-MP,Central,State 
-Sheopur Not found
-Madhya Pradesh,Sheopur,2,0,3,IN-MP,Central,State 
-Shivpuri Not found
-Madhya Pradesh,Shivpuri,0,0,3,IN-MP,Central,State 
-Tikamgarh Not found
-Madhya Pradesh,Tikamgarh,0,0,3,IN-MP,Central,State 
-Ujjain Not found
-Madhya Pradesh,Ujjain,45,37,179,IN-MP,Central,State 
-Vidisha Not found
-Madhya Pradesh,Vidisha,0,0,13,IN-MP,Central,State 
  Not found
 Maharashtra,,1148,60,3794,IN-MH,Western,State 
-Ahmednagar Not found
-Maharashtra,Ahmednagar,8,2,46,IN-MH,Western,State 
-Akola Not found
-Maharashtra,Akola,19,10,90,IN-MH,Western,State 
-Amravati Not found
-Maharashtra,Amravati,4,10,60,IN-MH,Western,State 
-Aurangabad Not found
-Maharashtra,Aurangabad,10,12,381,IN-MH,Western,State 
-Beed Not found
-Maharashtra,Beed,0,0,1,IN-MH,Western,State 
-Bhandara Not found
-Maharashtra,Bhandara,0,0,1,IN-MH,Western,State 
-Buldhana Not found
-Maharashtra,Buldhana,10,1,27,IN-MH,Western,State 
-Chandrapur Not found
-Maharashtra,Chandrapur,0,0,4,IN-MH,Western,State 
-Dhule Not found
-Maharashtra,Dhule,12,2,13,IN-MH,Western,State 
-Gondia Not found
-Maharashtra,Gondia,0,0,1,IN-MH,Western,State 
-Hingoli Not found
-Maharashtra,Hingoli,0,0,57,IN-MH,Western,State 
-Jalgaon Not found
-Maharashtra,Jalgaon,1,10,64,IN-MH,Western,State 
-Jalna Not found
-Maharashtra,Jalna,1,0,9,IN-MH,Western,State 
-Kolhapur Not found
-Maharashtra,Kolhapur,4,1,11,IN-MH,Western,State 
-Latur Not found
-Maharashtra,Latur,0,0,24,IN-MH,Western,State 
-Mumbai Not found
-Maharashtra,Mumbai,1166,411,8674,IN-MH,Western,State 
-Mumbai Suburban Not found
-Maharashtra,Mumbai Suburban,0,1,0,IN-MH,Western,State 
-Nagpur Not found
-Maharashtra,Nagpur,47,2,180,IN-MH,Western,State 
-Nanded Not found
-Maharashtra,Nanded,0,2,32,IN-MH,Western,State 
-Nandurbar Not found
-Maharashtra,Nandurbar,4,0,12,IN-MH,Western,State 
-Nashik Not found
-Maharashtra,Nashik,22,11,465,IN-MH,Western,State 
-Osmanabad Not found
-Maharashtra,Osmanabad,0,0,3,IN-MH,Western,State 
-Other States Not found
-Maharashtra,Other States,0,6,9,IN-MH,Western,State 
-Palghar Not found
-Maharashtra,Palghar,69,10,180,IN-MH,Western,State 
-Parbhani Not found
-Maharashtra,Parbhani,1,1,2,IN-MH,Western,State 
-Pune Not found
-Maharashtra,Pune,476,110,1757,IN-MH,Western,State 
-Raigad Not found
-Maharashtra,Raigad,25,2,187,IN-MH,Western,State 
-Ratnagiri Not found
-Maharashtra,Ratnagiri,0,0,14,IN-MH,Western,State 
-Sangli Not found
-Maharashtra,Sangli,0,1,34,IN-MH,Western,State 
-Satara Not found
-Maharashtra,Satara,11,1,79,IN-MH,Western,State 
-Sindhudurg Not found
-Maharashtra,Sindhudurg,0,0,4,IN-MH,Western,State 
-Solapur Not found
-Maharashtra,Solapur,22,9,155,IN-MH,Western,State 
-Thane Not found
-Maharashtra,Thane,228,19,1543,IN-MH,Western,State 
-Washim Not found
-Maharashtra,Washim,1,0,1,IN-MH,Western,State 
-Yavatmal Not found
-Maharashtra,Yavatmal,12,0,60,IN-MH,Western,State 
  Not found
 Manipur,,2,0,0,IN-MN,North-Eastern,State 
-Imphal East Not found
-Manipur,Imphal East,0,0,1,IN-MN,North-Eastern,State 
-Imphal West Not found
-Manipur,Imphal West,0,0,1,IN-MN,North-Eastern,State 
  Not found
 Meghalaya,,0,1,0,IN-ML,North-Eastern,State 
-East Khasi Hills Not found
-Meghalaya,East Khasi Hills,10,0,12,IN-ML,North-Eastern,State 
-Aizawl Not found
-Mizoram,Aizawl,1,0,1,IN-MZ,North-Eastern,State 
  Not found
 Odisha,,18,0,0,IN-OR,Eastern,State 
-Balangir Not found
-Odisha,Balangir,0,0,2,IN-OR,Eastern,State 
-Balasore Not found
-Odisha,Balasore,5,0,27,IN-OR,Eastern,State 
-Bhadrak Not found
-Odisha,Bhadrak,10,0,23,IN-OR,Eastern,State 
-Cuttack Not found
-Odisha,Cuttack,0,0,2,IN-OR,Eastern,State 
-Deogarh Not found
-Odisha,Deogarh,0,0,1,IN-OR,Eastern,State 
-Dhenkanal Not found
-Odisha,Dhenkanal,1,0,1,IN-OR,Eastern,State 
-Ganjam Not found
-Odisha,Ganjam,0,0,47,IN-OR,Eastern,State 
-Jagatsinghpur Not found
-Odisha,Jagatsinghpur,0,0,5,IN-OR,Eastern,State 
-Jajpur Not found
-Odisha,Jajpur,0,0,55,IN-OR,Eastern,State 
-Jharsuguda Not found
-Odisha,Jharsuguda,0,0,2,IN-OR,Eastern,State 
-Kalahandi Not found
-Odisha,Kalahandi,1,0,2,IN-OR,Eastern,State 
-Kendrapara Not found
-Odisha,Kendrapara,2,0,8,IN-OR,Eastern,State 
-Kendujhar Not found
-Odisha,Kendujhar,0,0,2,IN-OR,Eastern,State 
-Khordha Not found
-Odisha,Khordha,21,2,50,IN-OR,Eastern,State 
-Koraput Not found
-Odisha,Koraput,0,0,1,IN-OR,Eastern,State 
-Mayurbhanj Not found
-Odisha,Mayurbhanj,0,0,4,IN-OR,Eastern,State 
-Puri Not found
-Odisha,Puri,0,0,1,IN-OR,Eastern,State 
-Sundargarh Not found
-Odisha,Sundargarh,4,0,12,IN-OR,Eastern,State 
  Not found
 Puducherry,,2,0,0,IN-PY,NA,Union Territory 
-Mahe Not found
-Puducherry,Mahe,1,0,2,IN-PY,NA,Union Territory 
-Puducherry Not found
-Puducherry,Puducherry,3,0,7,IN-PY,NA,Union Territory 
  Not found
 Punjab,,32,3,9,IN-PB,Northern,State 
-Amritsar Not found
-Punjab,Amritsar,8,3,277,IN-PB,Northern,State 
-Barnala Not found
-Punjab,Barnala,1,0,20,IN-PB,Northern,State 
-Bathinda Not found
-Punjab,Bathinda,0,0,39,IN-PB,Northern,State 
-Faridkot Not found
-Punjab,Faridkot,3,0,45,IN-PB,Northern,State 
-Fatehgarh Sahib Not found
-Punjab,Fatehgarh Sahib,2,0,20,IN-PB,Northern,State 
-Fazilka Not found
-Punjab,Fazilka,0,0,39,IN-PB,Northern,State 
-Ferozepur Not found
-Punjab,Ferozepur,1,1,43,IN-PB,Northern,State 
-Gurdaspur Not found
-Punjab,Gurdaspur,0,0,92,IN-PB,Northern,State 
-Hoshiarpur Not found
-Punjab,Hoshiarpur,4,3,89,IN-PB,Northern,State 
-Jalandhar Not found
-Punjab,Jalandhar,5,5,138,IN-PB,Northern,State 
-Kapurthala Not found
-Punjab,Kapurthala,2,2,18,IN-PB,Northern,State 
-Ludhiana Not found
-Punjab,Ludhiana,5,6,124,IN-PB,Northern,State 
-Mansa Not found
-Punjab,Mansa,4,0,19,IN-PB,Northern,State 
-Moga Not found
-Punjab,Moga,4,0,56,IN-PB,Northern,State 
-Pathankot Not found
-Punjab,Pathankot,10,0,27,IN-PB,Northern,State 
-Patiala Not found
-Punjab,Patiala,18,2,95,IN-PB,Northern,State 
-Rupnagar Not found
-Punjab,Rupnagar,1,1,14,IN-PB,Northern,State 
-S.A.S. Nagar Not found
-Punjab,S.A.S. Nagar,44,2,95,IN-PB,Northern,State 
-Sangrur Not found
-Punjab,Sangrur,3,0,88,IN-PB,Northern,State 
-Shahid Bhagat Singh Nagar Not found
-Punjab,Shahid Bhagat Singh Nagar,1,0,86,IN-PB,Northern,State 
-Sri Muktsar Sahib Not found
-Punjab,Sri Muktsar Sahib,1,0,65,IN-PB,Northern,State 
-Tarn Taran Not found
-Punjab,Tarn Taran,0,0,146,IN-PB,Northern,State 
  Not found
 Rajasthan,,587,17,0,IN-RJ,Northern,State 
-Ajmer Not found
-Rajasthan,Ajmer,58,3,189,IN-RJ,Northern,State 
-Alwar Not found
-Rajasthan,Alwar,2,0,19,IN-RJ,Northern,State 
-Banswara Not found
-Rajasthan,Banswara,53,0,66,IN-RJ,Northern,State 
-Baran Not found
-Rajasthan,Baran,0,0,1,IN-RJ,Northern,State 
-Barmer Not found
-Rajasthan,Barmer,0,0,3,IN-RJ,Northern,State 
-Bharatpur Not found
-Rajasthan,Bharatpur,100,1,116,IN-RJ,Northern,State 
-Bhilwara Not found
-Rajasthan,Bhilwara,5,0,40,IN-RJ,Northern,State 
-Bikaner Not found
-Rajasthan,Bikaner,5,1,38,IN-RJ,Northern,State 
-BSF Camp Not found
-Rajasthan,BSF Camp,0,0,42,IN-RJ,Northern,State 
-Chittorgarh Not found
-Rajasthan,Chittorgarh,0,2,116,IN-RJ,Northern,State 
-Churu Not found
-Rajasthan,Churu,3,0,14,IN-RJ,Northern,State 
-Dausa Not found
-Rajasthan,Dausa,13,0,21,IN-RJ,Northern,State 
-Dholpur Not found
-Rajasthan,Dholpur,0,0,20,IN-RJ,Northern,State 
-Dungarpur Not found
-Rajasthan,Dungarpur,0,0,9,IN-RJ,Northern,State 
-Evacuees Not found
-Rajasthan,Evacuees,36,0,0,IN-RJ,Northern,State 
 Evacuees* Not found
 Rajasthan,Evacuees*,36,0,61,IN-RJ,Northern,State 
-Hanumangarh Not found
-Rajasthan,Hanumangarh,11,0,11,IN-RJ,Northern,State 
 Italians* Not found
 Rajasthan,Italians*,0,0,2,IN-RJ,Northern,State 
-Jaipur Not found
-Rajasthan,Jaipur,455,45,1117,IN-RJ,Northern,State 
-Jaisalmer Not found
-Rajasthan,Jaisalmer,5,0,35,IN-RJ,Northern,State 
-Jalore Not found
-Rajasthan,Jalore,0,0,4,IN-RJ,Northern,State 
-Jhalawar Not found
-Rajasthan,Jhalawar,27,0,47,IN-RJ,Northern,State 
-Jhunjhunu Not found
-Rajasthan,Jhunjhunu,10,0,42,IN-RJ,Northern,State 
-Jodhpur Not found
-Rajasthan,Jodhpur,262,13,842,IN-RJ,Northern,State 
-Karauli Not found
-Rajasthan,Karauli,1,1,4,IN-RJ,Northern,State 
-Kota Not found
-Rajasthan,Kota,97,10,231,IN-RJ,Northern,State 
-Nagaur Not found
-Rajasthan,Nagaur,73,2,119,IN-RJ,Northern,State 
 Other State Not found
 Rajasthan,Other State,-2,1,2,IN-RJ,Northern,State 
-Other state Not found
-Rajasthan,Other state,-2,1,2,IN-RJ,Northern,State 
-Pali Not found
-Rajasthan,Pali,1,0,56,IN-RJ,Northern,State 
-Pratapgarh Not found
-Rajasthan,Pratapgarh,0,1,4,IN-RJ,Northern,State 
-Rajsamand Not found
-Rajasthan,Rajsamand,0,0,7,IN-RJ,Northern,State 
-Sawai Madhopur Not found
-Rajasthan,Sawai Madhopur,8,1,8,IN-RJ,Northern,State 
-Sikar Not found
-Rajasthan,Sikar,2,1,8,IN-RJ,Northern,State 
-Sirohi Not found
-Rajasthan,Sirohi,0,0,1,IN-RJ,Northern,State 
-Tonk Not found
-Rajasthan,Tonk,88,1,136,IN-RJ,Northern,State 
-Udaipur Not found
-Rajasthan,Udaipur,3,0,22,IN-RJ,Northern,State 
  Not found
 Tamil Nadu,,990,7,0,IN-TN,Southern,State 
-Ariyalur Not found
-Tamil Nadu,Ariyalur,4,0,245,IN-TN,Southern,State 
-Chengalpattu Not found
-Tamil Nadu,Chengalpattu,9,0,152,IN-TN,Southern,State 
-Chennai Not found
-Tamil Nadu,Chennai,178,22,2647,IN-TN,Southern,State 
-Coimbatore Not found
-Tamil Nadu,Coimbatore,51,1,146,IN-TN,Southern,State 
-Cuddalore Not found
-Tamil Nadu,Cuddalore,8,0,356,IN-TN,Southern,State 
-Dharmapuri Not found
-Tamil Nadu,Dharmapuri,0,0,2,IN-TN,Southern,State 
-Dindigul Not found
-Tamil Nadu,Dindigul,13,0,106,IN-TN,Southern,State 
-Erode Not found
-Tamil Nadu,Erode,5,1,70,IN-TN,Southern,State 
-Kallakurichi Not found
-Tamil Nadu,Kallakurichi,1,0,54,IN-TN,Southern,State 
-Kancheepuram Not found
-Tamil Nadu,Kancheepuram,4,0,88,IN-TN,Southern,State 
-Kanyakumari Not found
-Tamil Nadu,Kanyakumari,7,0,17,IN-TN,Southern,State 
-Karur Not found
-Tamil Nadu,Karur,1,0,46,IN-TN,Southern,State 
-Krishnagiri Not found
-Tamil Nadu,Krishnagiri,0,0,8,IN-TN,Southern,State 
-Madurai Not found
-Tamil Nadu,Madurai,46,1,112,IN-TN,Southern,State 
-Nagapattinam Not found
-Tamil Nadu,Nagapattinam,16,0,45,IN-TN,Southern,State 
-Namakkal Not found
-Tamil Nadu,Namakkal,6,0,76,IN-TN,Southern,State 
-Nilgiris Not found
-Tamil Nadu,Nilgiris,0,0,14,IN-TN,Southern,State 
-Perambalur Not found
-Tamil Nadu,Perambalur,3,0,73,IN-TN,Southern,State 
-Pudukkottai Not found
-Tamil Nadu,Pudukkottai,1,0,5,IN-TN,Southern,State 
-Ramanathapuram Not found
-Tamil Nadu,Ramanathapuram,7,0,23,IN-TN,Southern,State 
-Ranipet Not found
-Tamil Nadu,Ranipet,5,0,49,IN-TN,Southern,State 
-Salem Not found
-Tamil Nadu,Salem,18,0,35,IN-TN,Southern,State 
-Sivaganga Not found
-Tamil Nadu,Sivaganga,12,0,12,IN-TN,Southern,State 
-Tenkasi Not found
-Tamil Nadu,Tenkasi,13,0,48,IN-TN,Southern,State 
-Thanjavur Not found
-Tamil Nadu,Thanjavur,20,0,61,IN-TN,Southern,State 
-Theni Not found
-Tamil Nadu,Theni,7,1,54,IN-TN,Southern,State 
-Thiruvallur Not found
-Tamil Nadu,Thiruvallur,36,1,198,IN-TN,Southern,State 
-Thiruvarur Not found
-Tamil Nadu,Thiruvarur,15,0,33,IN-TN,Southern,State 
-Thoothukkudi Not found
-Tamil Nadu,Thoothukkudi,3,1,30,IN-TN,Southern,State 
-Tiruchirappalli Not found
-Tamil Nadu,Tiruchirappalli,8,0,62,IN-TN,Southern,State 
-Tirunelveli Not found
-Tamil Nadu,Tirunelveli,6,0,70,IN-TN,Southern,State 
-Tirupathur Not found
-Tamil Nadu,Tirupathur,0,0,22,IN-TN,Southern,State 
-Tiruppur Not found
-Tamil Nadu,Tiruppur,29,0,114,IN-TN,Southern,State 
-Tiruvannamalai Not found
-Tamil Nadu,Tiruvannamalai,0,0,57,IN-TN,Southern,State 
-Vellore Not found
-Tamil Nadu,Vellore,3,1,30,IN-TN,Southern,State 
-Viluppuram Not found
-Tamil Nadu,Viluppuram,10,1,214,IN-TN,Southern,State 
-Virudhunagar Not found
-Tamil Nadu,Virudhunagar,12,0,35,IN-TN,Southern,State 
  Not found
 Telangana,,592,16,75,IN-TG,Southern,State 
-Adilabad Not found
-Telangana,Adilabad,4,0,18,IN-TG,Southern,State 
-Bhadradri Kothagudem Not found
-Telangana,Bhadradri Kothagudem,0,0,4,IN-TG,Southern,State 
-Hyderabad Not found
-Telangana,Hyderabad,62,13,631,IN-TG,Southern,State 
-Jagtial Not found
-Telangana,Jagtial,0,0,4,IN-TG,Southern,State 
-Jangaon Not found
-Telangana,Jangaon,0,0,2,IN-TG,Southern,State 
 Jangoan Not found
 Telangana,Jangoan,0,0,1,IN-TG,Southern,State 
-Jayashankar Bhupalapally Not found
-Telangana,Jayashankar Bhupalapally,0,0,3,IN-TG,Southern,State 
-Jogulamba Gadwal Not found
-Telangana,Jogulamba Gadwal,10,0,40,IN-TG,Southern,State 
-Kamareddy Not found
-Telangana,Kamareddy,0,0,11,IN-TG,Southern,State 
-Karimnagar Not found
-Telangana,Karimnagar,0,0,19,IN-TG,Southern,State 
-Khammam Not found
-Telangana,Khammam,2,0,8,IN-TG,Southern,State 
-Komaram Bheem Not found
-Telangana,Komaram Bheem,0,0,4,IN-TG,Southern,State 
-Mahabubabad Not found
-Telangana,Mahabubabad,0,0,1,IN-TG,Southern,State 
-Mahabubnagar Not found
-Telangana,Mahabubnagar,0,0,11,IN-TG,Southern,State 
-Medak Not found
-Telangana,Medak,0,0,5,IN-TG,Southern,State 
-Medchal Malkajgiri Not found
-Telangana,Medchal Malkajgiri,2,0,9,IN-TG,Southern,State 
-Mulugu Not found
-Telangana,Mulugu,0,0,2,IN-TG,Southern,State 
-Nagarkurnool Not found
-Telangana,Nagarkurnool,0,0,2,IN-TG,Southern,State 
-Nalgonda Not found
-Telangana,Nalgonda,1,0,15,IN-TG,Southern,State 
-Nirmal Not found
-Telangana,Nirmal,1,0,17,IN-TG,Southern,State 
-Nizamabad Not found
-Telangana,Nizamabad,2,0,62,IN-TG,Southern,State 
-Other State Not found
-Telangana,Other State,0,0,3,IN-TG,Southern,State 
-Peddapalli Not found
-Telangana,Peddapalli,0,0,2,IN-TG,Southern,State 
-Rajanna Sircilla Not found
-Telangana,Rajanna Sircilla,0,0,3,IN-TG,Southern,State 
-Ranga Reddy Not found
-Telangana,Ranga Reddy,2,0,30,IN-TG,Southern,State 
-Sangareddy Not found
-Telangana,Sangareddy,1,0,7,IN-TG,Southern,State 
-Siddipet Not found
-Telangana,Siddipet,0,0,1,IN-TG,Southern,State 
-Suryapet Not found
-Telangana,Suryapet,8,0,72,IN-TG,Southern,State 
-Vikarabad Not found
-Telangana,Vikarabad,6,0,37,IN-TG,Southern,State 
-Warangal Urban Not found
-Telangana,Warangal Urban,0,0,23,IN-TG,Southern,State 
  Not found
 To Be Reconciled,,-1,-3,-4,#N/A,#N/A,#N/A 
  Not found
 Tripura,,2,0,0,IN-TR,North-Eastern,State 
-Dhalai Not found
-Tripura,Dhalai,0,0,86,IN-TR,North-Eastern,State 
-Gomati Not found
-Tripura,Gomati,0,0,1,IN-TR,North-Eastern,State 
-North Tripura Not found
-Tripura,North Tripura,0,0,1,IN-TR,North-Eastern,State 
  Not found
 Uttar Pradesh,,293,10,4,IN-UP,Northern,State 
-Agra Not found
-Uttar Pradesh,Agra,179,13,672,IN-UP,Northern,State 
-Aligarh Not found
-Uttar Pradesh,Aligarh,6,2,53,IN-UP,Northern,State 
-Amethi Not found
-Uttar Pradesh,Amethi,0,0,3,IN-UP,Northern,State 
-Amroha Not found
-Uttar Pradesh,Amroha,26,1,32,IN-UP,Northern,State 
-Auraiya Not found
-Uttar Pradesh,Auraiya,12,0,13,IN-UP,Northern,State 
-Ayodhya Not found
-Uttar Pradesh,Ayodhya,0,0,1,IN-UP,Northern,State 
-Azamgarh Not found
-Uttar Pradesh,Azamgarh,5,0,8,IN-UP,Northern,State 
-Baghpat Not found
-Uttar Pradesh,Baghpat,13,0,18,IN-UP,Northern,State 
-Bahraich Not found
-Uttar Pradesh,Bahraich,0,0,15,IN-UP,Northern,State 
-Balrampur Not found
-Uttar Pradesh,Balrampur,1,0,2,IN-UP,Northern,State 
-Banda Not found
-Uttar Pradesh,Banda,3,0,18,IN-UP,Northern,State 
-Barabanki Not found
-Uttar Pradesh,Barabanki,0,0,2,IN-UP,Northern,State 
-Bareilly Not found
-Uttar Pradesh,Bareilly,0,1,11,IN-UP,Northern,State 
-Basti Not found
-Uttar Pradesh,Basti,15,1,36,IN-UP,Northern,State 
-Bhadohi Not found
-Uttar Pradesh,Bhadohi,1,0,2,IN-UP,Northern,State 
-Bijnor Not found
-Uttar Pradesh,Bijnor,21,1,33,IN-UP,Northern,State 
-Budaun Not found
-Uttar Pradesh,Budaun,4,0,16,IN-UP,Northern,State 
-Bulandshahr Not found
-Uttar Pradesh,Bulandshahr,16,1,57,IN-UP,Northern,State 
-Chitrakoot Not found
-Uttar Pradesh,Chitrakoot,0,0,3,IN-UP,Northern,State 
-Deoria Not found
-Uttar Pradesh,Deoria,0,0,2,IN-UP,Northern,State 
-Etah Not found
-Uttar Pradesh,Etah,3,1,12,IN-UP,Northern,State 
-Etawah Not found
-Uttar Pradesh,Etawah,2,0,3,IN-UP,Northern,State 
-Firozabad Not found
-Uttar Pradesh,Firozabad,57,2,178,IN-UP,Northern,State 
-Gautam Buddha Nagar Not found
-Uttar Pradesh,Gautam Buddha Nagar,50,0,193,IN-UP,Northern,State 
-Ghaziabad Not found
-Uttar Pradesh,Ghaziabad,41,2,116,IN-UP,Northern,State 
-Ghazipur Not found
-Uttar Pradesh,Ghazipur,1,0,7,IN-UP,Northern,State 
-Gonda Not found
-Uttar Pradesh,Gonda,1,0,10,IN-UP,Northern,State 
-Gorakhpur Not found
-Uttar Pradesh,Gorakhpur,0,0,3,IN-UP,Northern,State 
-Hapur Not found
-Uttar Pradesh,Hapur,15,0,54,IN-UP,Northern,State 
-Hardoi Not found
-Uttar Pradesh,Hardoi,0,0,2,IN-UP,Northern,State 
-Hathras Not found
-Uttar Pradesh,Hathras,0,0,9,IN-UP,Northern,State 
-Jalaun Not found
-Uttar Pradesh,Jalaun,0,0,8,IN-UP,Northern,State 
-Jaunpur Not found
-Uttar Pradesh,Jaunpur,1,0,8,IN-UP,Northern,State 
-Jhansi Not found
-Uttar Pradesh,Jhansi,0,1,15,IN-UP,Northern,State 
-Kannauj Not found
-Uttar Pradesh,Kannauj,4,0,7,IN-UP,Northern,State 
-Kanpur Dehat Not found
-Uttar Pradesh,Kanpur Dehat,0,1,2,IN-UP,Northern,State 
-Kanpur Nagar Not found
-Uttar Pradesh,Kanpur Nagar,44,4,292,IN-UP,Northern,State 
-Kasganj Not found
-Uttar Pradesh,Kasganj,3,0,3,IN-UP,Northern,State 
-Kaushambi Not found
-Uttar Pradesh,Kaushambi,0,0,2,IN-UP,Northern,State 
-Kushinagar Not found
-Uttar Pradesh,Kushinagar,0,0,2,IN-UP,Northern,State 
-Lakhimpur Kheri Not found
-Uttar Pradesh,Lakhimpur Kheri,1,0,4,IN-UP,Northern,State 
-Lucknow Not found
-Uttar Pradesh,Lucknow,132,1,234,IN-UP,Northern,State 
-Maharajganj Not found
-Uttar Pradesh,Maharajganj,0,0,7,IN-UP,Northern,State 
-Mahoba Not found
-Uttar Pradesh,Mahoba,0,0,2,IN-UP,Northern,State 
-Mainpuri Not found
-Uttar Pradesh,Mainpuri,4,1,11,IN-UP,Northern,State 
-Mathura Not found
-Uttar Pradesh,Mathura,5,4,37,IN-UP,Northern,State 
 mathura Not found
 Uttar Pradesh,mathura,5,4,37,IN-UP,Northern,State 
-Mau Not found
-Uttar Pradesh,Mau,1,0,1,IN-UP,Northern,State 
-Meerut Not found
-Uttar Pradesh,Meerut,38,7,184,IN-UP,Northern,State 
-Mirzapur Not found
-Uttar Pradesh,Mirzapur,2,0,4,IN-UP,Northern,State 
-Moradabad Not found
-Uttar Pradesh,Moradabad,74,5,120,IN-UP,Northern,State 
-Muzaffarnagar Not found
-Uttar Pradesh,Muzaffarnagar,16,0,26,IN-UP,Northern,State 
-Pilibhit Not found
-Uttar Pradesh,Pilibhit,1,0,3,IN-UP,Northern,State 
-Pratapgarh Not found
-Uttar Pradesh,Pratapgarh,0,0,12,IN-UP,Northern,State 
-Prayagraj Not found
-Uttar Pradesh,Prayagraj,0,1,15,IN-UP,Northern,State 
-Rae Bareli Not found
-Uttar Pradesh,Rae Bareli,8,0,47,IN-UP,Northern,State 
-Rampur Not found
-Uttar Pradesh,Rampur,12,0,27,IN-UP,Northern,State 
-Saharanpur Not found
-Uttar Pradesh,Saharanpur,102,0,205,IN-UP,Northern,State 
-Sambhal Not found
-Uttar Pradesh,Sambhal,6,0,22,IN-UP,Northern,State 
-Sant Kabir Nagar Not found
-Uttar Pradesh,Sant Kabir Nagar,2,0,29,IN-UP,Northern,State 
-Shahjahanpur Not found
-Uttar Pradesh,Shahjahanpur,0,0,1,IN-UP,Northern,State 
-Shamli Not found
-Uttar Pradesh,Shamli,10,0,26,IN-UP,Northern,State 
-Shrawasti Not found
-Uttar Pradesh,Shrawasti,0,1,8,IN-UP,Northern,State 
-Siddharthnagar Not found
-Uttar Pradesh,Siddharthnagar,0,0,20,IN-UP,Northern,State 
-Sitapur Not found
-Uttar Pradesh,Sitapur,5,0,17,IN-UP,Northern,State 
-Sultanpur Not found
-Uttar Pradesh,Sultanpur,0,0,3,IN-UP,Northern,State 
-Unnao Not found
-Uttar Pradesh,Unnao,1,0,3,IN-UP,Northern,State 
-Varanasi Not found
-Uttar Pradesh,Varanasi,13,1,76,IN-UP,Northern,State 
  Not found
 Uttarakhand,,26,0,3,IN-UT,Northern,State 
-Almora Not found
-Uttarakhand,Almora,0,0,1,IN-UT,Northern,State 
-Dehradun Not found
-Uttarakhand,Dehradun,6,1,31,IN-UT,Northern,State 
-Haridwar Not found
-Uttarakhand,Haridwar,5,0,7,IN-UT,Northern,State 
-Nainital Not found
-Uttarakhand,Nainital,2,0,10,IN-UT,Northern,State 
-Pauri Garhwal Not found
-Uttarakhand,Pauri Garhwal,0,0,1,IN-UT,Northern,State 
-Udham Singh Nagar Not found
-Uttarakhand,Udham Singh Nagar,0,0,8,IN-UT,Northern,State 
  Not found
 West Bengal,,0,-5,361,IN-WB,Eastern,State 
-Birbhum Not found
-West Bengal,Birbhum,0,0,6,IN-WB,Eastern,State 
-Darjeeling Not found
-West Bengal,Darjeeling,5,1,3,IN-WB,Eastern,State 
-Hooghly Not found
-West Bengal,Hooghly,9,4,38,IN-WB,Eastern,State 
-Howrah Not found
-West Bengal,Howrah,23,20,246,IN-WB,Eastern,State 
-Jalpaiguri Not found
-West Bengal,Jalpaiguri,4,0,-1,IN-WB,Eastern,State 
-Kalimpong Not found
-West Bengal,Kalimpong,6,2,1,IN-WB,Eastern,State 
-Kolkata Not found
-West Bengal,Kolkata,149,101,610,IN-WB,Eastern,State 
-Malda Not found
-West Bengal,Malda,0,0,3,IN-WB,Eastern,State 
-Murshidabad Not found
-West Bengal,Murshidabad,0,1,-1,IN-WB,Eastern,State 
-Nadia Not found
-West Bengal,Nadia,8,0,7,IN-WB,Eastern,State 
-North 24 Parganas Not found
-West Bengal,North 24 Parganas,48,22,177,IN-WB,Eastern,State 
-Other State Not found
-West Bengal,Other State,0,1,14,IN-WB,Eastern,State 
-Paschim Bardhaman Not found
-West Bengal,Paschim Bardhaman,6,2,4,IN-WB,Eastern,State 
-Paschim Medinipur Not found
-West Bengal,Paschim Medinipur,3,0,17,IN-WB,Eastern,State 
-Purba Bardhaman Not found
-West Bengal,Purba Bardhaman,2,0,3,IN-WB,Eastern,State 
-Purba Medinipur Not found
-West Bengal,Purba Medinipur,23,1,20,IN-WB,Eastern,State 
-South 24 Parganas Not found
-West Bengal,South 24 Parganas,10,1,40,IN-WB,Eastern,State 
