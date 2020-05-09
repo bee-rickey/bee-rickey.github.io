@@ -3,17 +3,17 @@ Andaman and Nicobar Islands,,11,0,0,IN-AN,NA,Union Territory
 Andaman and Nicobar Islands,North and Middle Andaman,0,0,1,IN-AN,NA,Union Territory
 Andaman and Nicobar Islands,South Andaman,22,0,32,IN-AN,NA,Union Territory
 Andhra Pradesh,,136,3,1,IN-AP,Southern,State
-Andhra Pradesh,Anantapur,38,4,99,IN-AP,Southern,State
-Andhra Pradesh,Chittoor,63,0,85,IN-AP,Southern,State
-Andhra Pradesh,East Godavari,14,0,46,IN-AP,Southern,State
-Andhra Pradesh,Guntur,149,8,371,IN-AP,Southern,State
-Andhra Pradesh,Krishna,99,9,324,IN-AP,Southern,State
-Andhra Pradesh,Kurnool,184,12,546,IN-AP,Southern,State
+Andhra Pradesh,Anantapur,40,4,102,IN-AP,Southern,State
+Andhra Pradesh,Chittoor,63,0,96,IN-AP,Southern,State
+Andhra Pradesh,East Godavari,17,0,46,IN-AP,Southern,State
+Andhra Pradesh,Guntur,153,8,373,IN-AP,Southern,State
+Andhra Pradesh,Krishna,107,11,340,IN-AP,Southern,State
+Andhra Pradesh,Kurnool,211,13,552,IN-AP,Southern,State
 Andhra Pradesh,Other State,0,0,27,IN-AP,Southern,State
 Andhra Pradesh,Prakasam,48,0,61,IN-AP,Southern,State
-Andhra Pradesh,S.P.S. Nellore,57,3,97,IN-AP,Southern,State
+Andhra Pradesh,S.P.S. Nellore,58,3,97,IN-AP,Southern,State
 Andhra Pradesh,Srikakulam,0,0,5,IN-AP,Southern,State
-Andhra Pradesh,Visakhapatnam,11,1,57,IN-AP,Southern,State
+Andhra Pradesh,Visakhapatnam,11,1,62,IN-AP,Southern,State
 Andhra Pradesh,Vizianagaram,0,0,4,IN-AP,Southern,State
 Andhra Pradesh,West Godavari,24,0,68,IN-AP,Southern,State
 Andhra Pradesh,Y.S.R Kadapa,0,1,21,IN-AP,Southern,State
@@ -29,7 +29,7 @@ Assam,Golaghat,5,0,1,IN-AS,North-Eastern,State
 Assam,Hailakandi,0,1,1,IN-AS,North-Eastern,State
 Assam,Jorhat,0,0,8,IN-AS,North-Eastern,State
 Assam,Kamrup,0,0,1,IN-AS,North-Eastern,State
-Assam,Kamrup Metropolitan,2,1,10,IN-AS,North-Eastern,State
+Assam,Kamrup Metropolitan,2,1,11,IN-AS,North-Eastern,State
 Assam,Karimganj,1,0,1,IN-AS,North-Eastern,State
 Assam,Kokrajhar,0,0,1,IN-AS,North-Eastern,State
 Assam,Lakhimpur,0,0,1,IN-AS,North-Eastern,State
@@ -39,7 +39,7 @@ Assam,Other State,1,0,0,IN-AS,North-Eastern,State
 Assam,South Salmara Mankachar,0,0,1,IN-AS,North-Eastern,State
 Bihar,,16,0,0,IN-BR,Eastern,State
 Bihar,Araria,0,0,2,IN-BR,Eastern,State
-Bihar,Arwal,1,0,5,IN-BR,Eastern,State
+Bihar,Arwal,1,0,8,IN-BR,Eastern,State
 Bihar,Aurangabad,6,0,14,IN-BR,Eastern,State
 Bihar,Banka,0,0,4,IN-BR,Eastern,State
 Bihar,Begusarai,8,0,14,IN-BR,Eastern,State
@@ -59,33 +59,34 @@ Bihar,Lakhisarai,2,0,4,IN-BR,Eastern,State
 Bihar,Madhepura,2,0,2,IN-BR,Eastern,State
 Bihar,Madhubani,0,0,24,IN-BR,Eastern,State
 Bihar,Munger,42,1,102,IN-BR,Eastern,State
-Bihar,Nalanda,34,0,37,IN-BR,Eastern,State
+Bihar,Muzaffarpur,0,0,3,IN-BR,Eastern,State
+Bihar,Nalanda,34,0,39,IN-BR,Eastern,State
 Bihar,Nawada,3,0,5,IN-BR,Eastern,State
-Bihar,Patna,20,0,47,IN-BR,Eastern,State
+Bihar,Patna,20,0,52,IN-BR,Eastern,State
 Bihar,Purnia,0,0,2,IN-BR,Eastern,State
 Bihar,Rohtas,34,1,54,IN-BR,Eastern,State
 Bihar,Saharsa,0,0,2,IN-BR,Eastern,State
 Bihar,Samastipur,0,0,7,IN-BR,Eastern,State
 Bihar,Saran,3,0,8,IN-BR,Eastern,State
-Bihar,Sheikhpura,0,0,1,IN-BR,Eastern,State
+Bihar,Sheikhpura,0,0,2,IN-BR,Eastern,State
 Bihar,Sheohar,0,0,3,IN-BR,Eastern,State
 Bihar,Sitamarhi,1,1,6,IN-BR,Eastern,State
-Bihar,Siwan,13,0,32,IN-BR,Eastern,State
+Bihar,Siwan,13,0,33,IN-BR,Eastern,State
 Bihar,Supaul,0,0,1,IN-BR,Eastern,State
 Bihar,Vaishali,2,1,3,IN-BR,Eastern,State
 Bihar,West Champaran,0,0,11,IN-BR,Eastern,State
 Chandigarh,,13,0,0,IN-CH,NA,Union Territory
-Chandigarh,Chandigarh,8,1,146,IN-CH,NA,Union Territory
+Chandigarh,Chandigarh,8,2,146,IN-CH,NA,Union Territory
 Chhattisgarh,,17,0,0,IN-CT,Central,State
 Chhattisgarh,Bilaspur,1,0,1,IN-CT,Central,State
 Chhattisgarh,Durg,1,0,10,IN-CT,Central,State
 Chhattisgarh,Kabeerdham,0,0,6,IN-CT,Central,State
 Chhattisgarh,Korba,9,0,28,IN-CT,Central,State
-Chhattisgarh,Raipur,7,0,7,IN-CT,Central,State
+Chhattisgarh,Raipur,8,0,7,IN-CT,Central,State
 Chhattisgarh,Rajnandgaon,1,0,1,IN-CT,Central,State
-Chhattisgarh,Surajpur,0,0,6,IN-CT,Central,State
+Chhattisgarh,Surajpur,1,0,6,IN-CT,Central,State
 Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,0,0,1,IN-DD,NA,Union Territory
-Delhi,,1931,65,5936,IN-DL,NA,Union Territory
+Delhi,,2020,67,6274,IN-DL,NA,Union Territory
 Delhi,East Delhi,0,0,1,IN-DL,NA,Union Territory
 Delhi,New Delhi,0,0,5,IN-DL,NA,Union Territory
 Delhi,North Delhi,0,0,3,IN-DL,NA,Union Territory
@@ -149,11 +150,11 @@ Haryana,Kurukshetra,2,0,2,IN-HR,Northern,State
 Haryana,Mahendragarh,0,0,2,IN-HR,Northern,State
 Haryana,Nuh,57,0,59,IN-HR,Northern,State
 Haryana,Palwal,32,0,36,IN-HR,Northern,State
-Haryana,Panchkula,17,0,18,IN-HR,Northern,State
-Haryana,Panipat,5,2,35,IN-HR,Northern,State
+Haryana,Panchkula,17,0,19,IN-HR,Northern,State
+Haryana,Panipat,5,3,36,IN-HR,Northern,State
 Haryana,Rohtak,2,0,4,IN-HR,Northern,State
-Haryana,Sirsa,4,0,6,IN-HR,Northern,State
-Haryana,Sonipat,8,0,84,IN-HR,Northern,State
+Haryana,Sirsa,4,0,7,IN-HR,Northern,State
+Haryana,Sonipat,8,0,87,IN-HR,Northern,State
 Haryana,Sonitpur,0,0,2,IN-HR,Northern,State
 Haryana,Yamunanagar,3,0,8,IN-HR,Northern,State
 Himachal Pradesh,,19,1,4,IN-HP,Northern,State
@@ -184,10 +185,10 @@ Jammu and Kashmir,Samba,4,0,7,IN-JK,NA,Union Territory
 Jammu and Kashmir,Shopiyan,45,0,98,IN-JK,NA,Union Territory
 Jammu and Kashmir,Srinagar,59,2,129,IN-JK,NA,Union Territory
 Jammu and Kashmir,Udhampur,14,1,22,IN-JK,NA,Union Territory
-Jharkhand,,12,1,0,IN-JH,Eastern,State
+Jharkhand,,12,1,21,IN-JH,Eastern,State
 Jharkhand,Bokaro,9,1,10,IN-JH,Eastern,State
 Jharkhand,Deoghar,2,0,4,IN-JH,Eastern,State
-Jharkhand,Dhanbad,2,0,2,IN-JH,Eastern,State
+Jharkhand,Dhanbad,2,0,3,IN-JH,Eastern,State
 Jharkhand,Dumka,0,0,2,IN-JH,Eastern,State
 Jharkhand,Garhwa,0,0,3,IN-JH,Eastern,State
 Jharkhand,Giridih,1,0,1,IN-JH,Eastern,State
@@ -198,17 +199,17 @@ Jharkhand,Koderma,1,0,1,IN-JH,Eastern,State
 Jharkhand,Palamu,0,0,8,IN-JH,Eastern,State
 Jharkhand,Ranchi,13,1,93,IN-JH,Eastern,State
 Jharkhand,Simdega,0,0,2,IN-JH,Eastern,State
-Karnataka,,149,4,0,IN-KA,Southern,State
+Karnataka,,152,4,0,IN-KA,Southern,State
 Karnataka,Bagalkote,16,1,50,IN-KA,Southern,State
 Karnataka,Ballari,8,0,15,IN-KA,Southern,State
 Karnataka,Belagavi,30,1,86,IN-KA,Southern,State
 Karnataka,Bengaluru Rural,1,0,10,IN-KA,Southern,State
-Karnataka,Bengaluru Urban,45,6,169,IN-KA,Southern,State
-Karnataka,Bidar,5,1,23,IN-KA,Southern,State
+Karnataka,Bengaluru Urban,45,6,181,IN-KA,Southern,State
+Karnataka,Bidar,5,1,26,IN-KA,Southern,State
 Karnataka,Chikkaballapura,1,1,21,IN-KA,Southern,State
-Karnataka,Chitradurga,1,0,3,IN-KA,Southern,State
-Karnataka,Dakshina Kannada,1,3,27,IN-KA,Southern,State
-Karnataka,Davanagere,1,4,62,IN-KA,Southern,State
+Karnataka,Chitradurga,1,0,6,IN-KA,Southern,State
+Karnataka,Dakshina Kannada,1,3,30,IN-KA,Southern,State
+Karnataka,Davanagere,1,4,68,IN-KA,Southern,State
 Karnataka,Dharwad,5,0,12,IN-KA,Southern,State
 Karnataka,Gadag,1,1,5,IN-KA,Southern,State
 Karnataka,Haveri,0,0,2,IN-KA,Southern,State
@@ -217,19 +218,19 @@ Karnataka,Kodagu,0,0,1,IN-KA,Southern,State
 Karnataka,Mandya,11,0,28,IN-KA,Southern,State
 Karnataka,Mysuru,49,0,90,IN-KA,Southern,State
 Karnataka,Other State,3,0,0,IN-KA,Southern,State
-Karnataka,Tumakuru,0,1,7,IN-KA,Southern,State
+Karnataka,Tumakuru,0,1,8,IN-KA,Southern,State
 Karnataka,Udupi,0,0,3,IN-KA,Southern,State
-Karnataka,Uttara Kannada,2,0,24,IN-KA,Southern,State
-Karnataka,Vijayapura,25,2,48,IN-KA,Southern,State
+Karnataka,Uttara Kannada,2,0,31,IN-KA,Southern,State
+Karnataka,Vijayapura,25,2,49,IN-KA,Southern,State
 Kerala,,39,2,0,IN-KL,Southern,State
 Kerala,Alappuzha,4,0,5,IN-KL,Southern,State
-Kerala,Ernakulam,18,0,25,IN-KL,Southern,State
-Kerala,Idukki,19,0,23,IN-KL,Southern,State
+Kerala,Ernakulam,18,0,26,IN-KL,Southern,State
+Kerala,Idukki,20,0,23,IN-KL,Southern,State
 Kerala,Kannur,108,0,116,IN-KL,Southern,State
 Kerala,Kasaragod,166,0,179,IN-KL,Southern,State
 Kerala,Kollam,16,0,20,IN-KL,Southern,State
 Kerala,Kottayam,19,0,21,IN-KL,Southern,State
-Kerala,Kozhikode,27,0,24,IN-KL,Southern,State
+Kerala,Kozhikode,27,0,25,IN-KL,Southern,State
 Kerala,Malappuram,22,1,24,IN-KL,Southern,State
 Kerala,Palakkad,8,0,13,IN-KL,Southern,State
 Kerala,Pathanamthitta,12,0,17,IN-KL,Southern,State
@@ -238,7 +239,7 @@ Kerala,Thrissur,13,0,13,IN-KL,Southern,State
 Kerala,Wayanad,3,0,7,IN-KL,Southern,State
 Ladakh,,12,0,0,IN-LA,NA,Union Territory
 Ladakh,Kargil,2,0,9,IN-LA,NA,Union Territory
-Ladakh,Leh,3,0,33,IN-LA,NA,Union Territory
+Ladakh,Leh,4,0,33,IN-LA,NA,Union Territory
 Madhya Pradesh,,273,31,338,IN-MP,Central,State
 Madhya Pradesh,Agar Malwa,10,0,9,IN-MP,Central,State
 Madhya Pradesh,Alirajpur,3,0,1,IN-MP,Central,State
@@ -282,70 +283,71 @@ Madhya Pradesh,Shivpuri,0,0,3,IN-MP,Central,State
 Madhya Pradesh,Tikamgarh,0,0,3,IN-MP,Central,State
 Madhya Pradesh,Ujjain,52,38,198,IN-MP,Central,State
 Madhya Pradesh,Vidisha,0,0,13,IN-MP,Central,State
-Maharashtra,,1317,60,3794,IN-MH,Western,State
+Maharashtra,,1148,60,3794,IN-MH,Western,State
 Maharashtra,Ahmednagar,8,2,46,IN-MH,Western,State
 Maharashtra,Akola,19,10,112,IN-MH,Western,State
 Maharashtra,Amravati,4,11,67,IN-MH,Western,State
 Maharashtra,Aurangabad,10,12,404,IN-MH,Western,State
 Maharashtra,Beed,0,0,1,IN-MH,Western,State
 Maharashtra,Bhandara,0,0,1,IN-MH,Western,State
-Maharashtra,Buldhana,10,1,27,IN-MH,Western,State
+Maharashtra,Buldhana,7,1,27,IN-MH,Western,State
 Maharashtra,Chandrapur,0,0,4,IN-MH,Western,State
-Maharashtra,Dhule,12,2,13,IN-MH,Western,State
+Maharashtra,Dhule,14,2,13,IN-MH,Western,State
 Maharashtra,Gondia,0,0,1,IN-MH,Western,State
 Maharashtra,Hingoli,0,0,57,IN-MH,Western,State
 Maharashtra,Jalgaon,1,11,82,IN-MH,Western,State
 Maharashtra,Jalna,1,0,13,IN-MH,Western,State
 Maharashtra,Kolhapur,4,1,11,IN-MH,Western,State
 Maharashtra,Latur,0,0,24,IN-MH,Western,State
-Maharashtra,Mumbai,1166,436,9422,IN-MH,Western,State
+Maharashtra,Mumbai,1240,436,9422,IN-MH,Western,State
 Maharashtra,Mumbai Suburban,0,1,0,IN-MH,Western,State
 Maharashtra,Nagpur,47,2,186,IN-MH,Western,State
 Maharashtra,Nanded,0,2,32,IN-MH,Western,State
 Maharashtra,Nandurbar,4,0,12,IN-MH,Western,State
-Maharashtra,Nashik,22,11,489,IN-MH,Western,State
+Maharashtra,Nashik,40,11,489,IN-MH,Western,State
 Maharashtra,Osmanabad,0,0,3,IN-MH,Western,State
 Maharashtra,Other State,0,6,9,IN-MH,Western,State
-Maharashtra,Palghar,69,10,187,IN-MH,Western,State
+Maharashtra,Palghar,72,10,187,IN-MH,Western,State
 Maharashtra,Parbhani,1,1,2,IN-MH,Western,State
-Maharashtra,Pune,476,120,1805,IN-MH,Western,State
+Maharashtra,Pune,536,120,1805,IN-MH,Western,State
 Maharashtra,Raigad,25,2,199,IN-MH,Western,State
 Maharashtra,Ratnagiri,0,0,15,IN-MH,Western,State
-Maharashtra,Sangli,0,1,34,IN-MH,Western,State
-Maharashtra,Satara,11,1,79,IN-MH,Western,State
+Maharashtra,Sangli,1,1,34,IN-MH,Western,State
+Maharashtra,Satara,13,1,79,IN-MH,Western,State
 Maharashtra,Sindhudurg,0,0,5,IN-MH,Western,State
-Maharashtra,Solapur,22,9,157,IN-MH,Western,State
-Maharashtra,Thane,228,19,1707,IN-MH,Western,State
-Maharashtra,Washim,1,0,1,IN-MH,Western,State
+Maharashtra,Solapur,28,9,157,IN-MH,Western,State
+Maharashtra,Thane,235,19,1707,IN-MH,Western,State
+Maharashtra,Washim,0,0,1,IN-MH,Western,State
 Maharashtra,Yavatmal,12,0,62,IN-MH,Western,State
 Manipur,,2,0,0,IN-MN,North-Eastern,State
 Manipur,Imphal East,0,0,1,IN-MN,North-Eastern,State
 Manipur,Imphal West,0,0,1,IN-MN,North-Eastern,State
 Meghalaya,,0,1,0,IN-ML,North-Eastern,State
-Meghalaya,East Khasi Hills,10,0,12,IN-ML,North-Eastern,State
+Meghalaya,East Khasi Hills,10,0,13,IN-ML,North-Eastern,State
 Mizoram,Aizawl,1,0,1,IN-MZ,North-Eastern,State
 Odisha,,18,0,0,IN-OR,Eastern,State
 Odisha,Balangir,0,0,2,IN-OR,Eastern,State
-Odisha,Balasore,5,0,27,IN-OR,Eastern,State
-Odisha,Bhadrak,10,0,24,IN-OR,Eastern,State
+Odisha,Balasore,9,0,27,IN-OR,Eastern,State
+Odisha,Bhadrak,10,0,25,IN-OR,Eastern,State
 Odisha,Cuttack,0,0,2,IN-OR,Eastern,State
 Odisha,Deogarh,0,0,1,IN-OR,Eastern,State
 Odisha,Dhenkanal,1,0,1,IN-OR,Eastern,State
-Odisha,Ganjam,0,0,71,IN-OR,Eastern,State
+Odisha,Ganjam,0,0,89,IN-OR,Eastern,State
 Odisha,Jagatsinghpur,0,0,5,IN-OR,Eastern,State
-Odisha,Jajpur,0,0,55,IN-OR,Eastern,State
+Odisha,Jajpur,1,0,55,IN-OR,Eastern,State
 Odisha,Jharsuguda,0,0,2,IN-OR,Eastern,State
 Odisha,Kalahandi,1,0,2,IN-OR,Eastern,State
 Odisha,Kendrapara,2,0,8,IN-OR,Eastern,State
 Odisha,Kendujhar,0,0,2,IN-OR,Eastern,State
 Odisha,Khordha,21,2,50,IN-OR,Eastern,State
 Odisha,Koraput,0,0,1,IN-OR,Eastern,State
-Odisha,Mayurbhanj,0,0,4,IN-OR,Eastern,State
+Odisha,Mayurbhanj,0,0,7,IN-OR,Eastern,State
+Odisha,Nayagarh,0,0,1,IN-OR,Eastern,State
 Odisha,Puri,0,0,1,IN-OR,Eastern,State
-Odisha,Sundargarh,5,0,12,IN-OR,Eastern,State
+Odisha,Sundargarh,5,0,13,IN-OR,Eastern,State
 Puducherry,,2,0,0,IN-PY,NA,Union Territory
-Puducherry,Mahe,1,0,2,IN-PY,NA,Union Territory
-Puducherry,Puducherry,3,0,7,IN-PY,NA,Union Territory
+Puducherry,Mahe,2,0,2,IN-PY,NA,Union Territory
+Puducherry,Puducherry,4,0,8,IN-PY,NA,Union Territory
 Punjab,,32,3,9,IN-PB,Northern,State
 Punjab,Amritsar,8,3,288,IN-PB,Northern,State
 Punjab,Barnala,1,0,21,IN-PB,Northern,State
@@ -370,42 +372,42 @@ Punjab,Shahid Bhagat Singh Nagar,1,0,104,IN-PB,Northern,State
 Punjab,Sri Muktsar Sahib,1,0,65,IN-PB,Northern,State
 Punjab,Tarn Taran,0,0,157,IN-PB,Northern,State
 Rajasthan,,587,17,1,IN-RJ,Northern,State
-Rajasthan,Ajmer,58,4,196,IN-RJ,Northern,State
+Rajasthan,Ajmer,63,4,209,IN-RJ,Northern,State
 Rajasthan,Alwar,2,0,20,IN-RJ,Northern,State
 Rajasthan,Banswara,53,0,66,IN-RJ,Northern,State
 Rajasthan,Baran,0,0,1,IN-RJ,Northern,State
-Rajasthan,Barmer,0,0,3,IN-RJ,Northern,State
+Rajasthan,Barmer,0,0,4,IN-RJ,Northern,State
 Rajasthan,Bharatpur,100,1,116,IN-RJ,Northern,State
 Rajasthan,Bhilwara,5,0,44,IN-RJ,Northern,State
 Rajasthan,Bikaner,5,1,38,IN-RJ,Northern,State
 Rajasthan,BSF Camp,0,0,42,IN-RJ,Northern,State
 Rajasthan,Chittorgarh,0,2,126,IN-RJ,Northern,State
-Rajasthan,Churu,3,0,14,IN-RJ,Northern,State
-Rajasthan,Dausa,14,0,21,IN-RJ,Northern,State
-Rajasthan,Dholpur,0,0,20,IN-RJ,Northern,State
+Rajasthan,Churu,3,0,16,IN-RJ,Northern,State
+Rajasthan,Dausa,14,0,22,IN-RJ,Northern,State
+Rajasthan,Dholpur,4,0,20,IN-RJ,Northern,State
 Rajasthan,Dungarpur,0,0,9,IN-RJ,Northern,State
 Rajasthan,Evacuees,36,0,60,IN-RJ,Northern,State
 Rajasthan,Hanumangarh,11,0,11,IN-RJ,Northern,State
 Rajasthan,Italians,0,0,2,IN-RJ,Northern,State
-Rajasthan,Jaipur,498,46,1145,IN-RJ,Northern,State
+Rajasthan,Jaipur,498,46,1165,IN-RJ,Northern,State
 Rajasthan,Jaisalmer,5,0,35,IN-RJ,Northern,State
-Rajasthan,Jalore,0,0,4,IN-RJ,Northern,State
+Rajasthan,Jalore,0,0,7,IN-RJ,Northern,State
 Rajasthan,Jhalawar,27,0,47,IN-RJ,Northern,State
 Rajasthan,Jhunjhunu,10,0,42,IN-RJ,Northern,State
-Rajasthan,Jodhpur,292,14,851,IN-RJ,Northern,State
+Rajasthan,Jodhpur,292,14,857,IN-RJ,Northern,State
 Rajasthan,Karauli,1,1,5,IN-RJ,Northern,State
-Rajasthan,Kota,97,10,232,IN-RJ,Northern,State
+Rajasthan,Kota,97,10,233,IN-RJ,Northern,State
 Rajasthan,Nagaur,95,2,119,IN-RJ,Northern,State
 Rajasthan,Other State,-2,1,2,IN-RJ,Northern,State
 Rajasthan,Other state,-2,1,2,IN-RJ,Northern,State
-Rajasthan,Pali,1,0,56,IN-RJ,Northern,State
+Rajasthan,Pali,1,0,60,IN-RJ,Northern,State
 Rajasthan,Pratapgarh,0,1,4,IN-RJ,Northern,State
-Rajasthan,Rajsamand,1,0,13,IN-RJ,Northern,State
+Rajasthan,Rajsamand,2,0,15,IN-RJ,Northern,State
 Rajasthan,Sawai Madhopur,8,1,8,IN-RJ,Northern,State
 Rajasthan,Sikar,2,1,9,IN-RJ,Northern,State
 Rajasthan,Sirohi,0,0,2,IN-RJ,Northern,State
 Rajasthan,Tonk,99,1,136,IN-RJ,Northern,State
-Rajasthan,Udaipur,3,0,79,IN-RJ,Northern,State
+Rajasthan,Udaipur,8,0,102,IN-RJ,Northern,State
 Tamil Nadu,,990,7,0,IN-TN,Southern,State
 Tamil Nadu,Ariyalur,4,0,245,IN-TN,Southern,State
 Tamil Nadu,Chengalpattu,9,0,178,IN-TN,Southern,State
@@ -476,7 +478,7 @@ Telangana,Vikarabad,7,0,37,IN-TG,Southern,State
 Telangana,Warangal Urban,0,0,23,IN-TG,Southern,State
 To Be Reconciled,,-1,-3,-4,#N/A,#N/A,#N/A
 Tripura,,2,0,0,IN-TR,North-Eastern,State
-Tripura,Dhalai,0,0,86,IN-TR,North-Eastern,State
+Tripura,Dhalai,0,0,116,IN-TR,North-Eastern,State
 Tripura,Gomati,0,0,1,IN-TR,North-Eastern,State
 Tripura,North Tripura,0,0,1,IN-TR,North-Eastern,State
 Uttar Pradesh,,293,10,4,IN-UP,Northern,State
@@ -549,13 +551,13 @@ Uttar Pradesh,Sitapur,5,0,19,IN-UP,Northern,State
 Uttar Pradesh,Sultanpur,0,0,3,IN-UP,Northern,State
 Uttar Pradesh,Unnao,1,0,3,IN-UP,Northern,State
 Uttar Pradesh,Varanasi,13,1,77,IN-UP,Northern,State
-Uttarakhand,,26,0,3,IN-UT,Northern,State
+Uttarakhand,,27,0,3,IN-UT,Northern,State
 Uttarakhand,Almora,0,0,1,IN-UT,Northern,State
 Uttarakhand,Dehradun,12,1,31,IN-UT,Northern,State
 Uttarakhand,Haridwar,5,0,8,IN-UT,Northern,State
 Uttarakhand,Nainital,2,0,10,IN-UT,Northern,State
 Uttarakhand,Pauri Garhwal,0,0,1,IN-UT,Northern,State
-Uttarakhand,Udham Singh Nagar,0,0,9,IN-UT,Northern,State
+Uttarakhand,Udham Singh Nagar,0,0,13,IN-UT,Northern,State
 West Bengal,,0,-5,361,IN-WB,Eastern,State
 West Bengal,Birbhum,3,0,6,IN-WB,Eastern,State
 West Bengal,Darjeeling,5,1,3,IN-WB,Eastern,State

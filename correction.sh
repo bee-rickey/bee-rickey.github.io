@@ -1,8 +1,8 @@
-#curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vQW1sf6ptHC1I4vLmEI6kddb_2C1T3x4062y7NFn8s_G0rq0_c7RvtHcRDpohA8hkNQxIFRy6H4OIdJ/pub?gid=1857317333&single=true&output=csv"  | grep -v "^," > data/siva.csv
-#curl https://api.covid19india.org/csv/latest/district_wise.csv > data/districtwise.csv
-#curl https://api.covid19india.org/csv/latest/raw_data1.csv > data/rawdata1.csv
-#curl https://api.covid19india.org/csv/latest/raw_data2.csv > data/rawdata2.csv
-#curl https://api.covid19india.org/csv/latest/raw_data3.csv > data/rawdata3.csv
+curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vQW1sf6ptHC1I4vLmEI6kddb_2C1T3x4062y7NFn8s_G0rq0_c7RvtHcRDpohA8hkNQxIFRy6H4OIdJ/pub?gid=1857317333&single=true&output=csv"  | grep -v "^," > data/siva.csv
+curl https://api.covid19india.org/csv/latest/district_wise.csv > data/districtwise.csv
+curl https://api.covid19india.org/csv/latest/raw_data1.csv > data/rawdata1.csv
+curl https://api.covid19india.org/csv/latest/raw_data2.csv > data/rawdata2.csv
+curl https://api.covid19india.org/csv/latest/raw_data3.csv > data/rawdata3.csv
 
 >data/matching.txt
 >data/notMatching.txt
