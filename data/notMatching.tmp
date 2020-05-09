@@ -1,180 +1,182 @@
-<h2> Patient State </h2>
+<h2> NULL </h2>
+<h2>  </h2>
+<a href="#Dholpur"> Dholpur count does not match 2:21 V1: 1, V2: 3 </a><br>
 <h2> Andaman and Nicobar Islands </h2>
 <h2> Andhra Pradesh </h2>
-<a href="#Guntur"> Guntur count does not match 371:374 </a><br>
-<a href="#Krishna"> Krishna count does not match 324:322 </a><br>
-<a href="#Kurnool"> Kurnool count does not match 546:547 </a><br>
-<a href="#S.P.S. Nellore"> S.P.S. Nellore count does not match 97:96 </a><br>
-<a href="#Y.S.R. Kadapa"> Y.S.R. Kadapa count does not match 75:96 </a><br>
+<a href="#Guntur"> Guntur count does not match 373:376 V1: 129, V2: 83 </a><br>
+<a href="#Krishna"> Krishna count does not match 340:338 V1: 75, V2: 104 </a><br>
+<a href="#Kurnool"> Kurnool count does not match 551:553 V1: 160, V2: 120 </a><br>
+<a href="#Chittoor"> Chittoor count does not match 93:96 V1: 28, V2: 45 </a><br>
+<a href="#Prakasam"> Prakasam count does not match 59:61 V1: 45, V2: 12 </a><br>
 <h2> Arunachal Pradesh </h2>
 <h2> Assam </h2>
-<a href="#Cachar"> Cachar count does not match 7:6 </a><br>
-<a href="#Dhubri"> Dhubri count does not match 4:5 </a><br>
-<a href="#Golaghat"> Golaghat count does not match 1:9 </a><br>
-<a href="#Jorhat"> Jorhat count does not match 8:0 </a><br>
-<a href="#Kamrup Metropolitan"> Kamrup Metropolitan count does not match 10:5 </a><br>
-<a href="#Karimganj"> Karimganj count does not match 1:2 </a><br>
-<a href="#Morigaon"> Morigaon count does not match 3:6 </a><br>
-<a href="#Nalbari"> Nalbari count does not match 3:4 </a><br>
-<a href="#Other State"> Other State count does not match 0:1 </a><br>
+<a href="#Dhubri"> Dhubri count does not match 4:5 V1: 4, V2: 0 </a><br>
+<a href="#Jorhat"> Jorhat count does not match 11:3 V1: 8, V2: 0 </a><br>
+<a href="#Kamrup Metropolitan"> Kamrup Metropolitan count does not match 10:6 V1: 6, V2: 0 </a><br>
+<a href="#Cachar"> Cachar count does not match 12:11 V1: 2, V2: 0 </a><br>
+<a href="#Nalbari"> Nalbari count does not match 3:4 V1: 3, V2: 0 </a><br>
+<a href="#Karimganj"> Karimganj count does not match 1:2 V1: 0, V2: 0 </a><br>
+<a href="#Morigaon"> Morigaon count does not match 3:6 V1: 3, V2: 0 </a><br>
+<a href="#Golaghat"> Golaghat count does not match 1:9 V1: 1, V2: 0 </a><br>
 <h2> Bihar </h2>
+<a href="#Munger"> Munger count does not match 103:104 V1: 20, V2: 48 </a><br>
+<a href="#Banka"> Banka count does not match 3:4 V1: 0, V2: 2 </a><br>
+<a href="#Nalanda"> Nalanda count does not match 38:39 V1: 11, V2: 23 </a><br>
 <h2> Chandigarh </h2>
+<a href="#Chandigarh"> Chandigarh count does not match 164:169 V1: 29, V2: 10 </a><br>
 <h2> Chhattisgarh </h2>
+<h2> Chittoor </h2>
 <h2> Dadra and Nagar Haveli and Daman and Diu </h2>
 <h2> Delhi </h2>
-<a href="#East Delhi"> East Delhi count does not match 1:38 </a><br>
-<a href="#New Delhi"> New Delhi count does not match 5:37 </a><br>
-<a href="#North Delhi"> North Delhi count does not match 3:60 </a><br>
-<a href="#North East Delhi"> North East Delhi count does not match 1:25 </a><br>
-<a href="#North West Delhi"> North West Delhi count does not match 3:32 </a><br>
-<a href="#South Delhi"> South Delhi count does not match 26:70 </a><br>
-<a href="#South West Delhi"> South West Delhi count does not match 3:42 </a><br>
-<a href="#West Delhi"> West Delhi count does not match 2:122 </a><br>
+<a href="#West Delhi"> West Delhi count does not match 2:122 V1: 8, V2: 0 </a><br>
+<a href="#South West Delhi"> South West Delhi count does not match 3:42 V1: 3, V2: 0 </a><br>
+<a href="#North Delhi"> North Delhi count does not match 3:60 V1: 3, V2: 0 </a><br>
+<a href="#North West Delhi"> North West Delhi count does not match 3:32 V1: 3, V2: 0 </a><br>
+<a href="#North East Delhi"> North East Delhi count does not match 1:25 V1: 1, V2: 0 </a><br>
+<a href="#East Delhi"> East Delhi count does not match 1:38 V1: 2, V2: 0 </a><br>
+<a href="#New Delhi"> New Delhi count does not match 5:37 V1: 9, V2: 0 </a><br>
+<a href="#South Delhi"> South Delhi count does not match 26:70 V1: 26, V2: 0 </a><br>
+<h2> Detected State </h2>
 <h2> Goa </h2>
-<a href="#North Goa"> North Goa count does not match 4:6 </a><br>
+<a href="#North Goa"> North Goa count does not match 4:6 V1: 4, V2: 0 </a><br>
 <h2> Gujarat </h2>
-<a href="#Dahod"> Dahod count does not match 18:19 </a><br>
-<a href="#Dang"> Dang count does not match 1:2 </a><br>
-<a href="#Mahisagar"> Mahisagar count does not match 45:42 </a><br>
-<a href="#Vadodara"> Vadodara count does not match 437:440 </a><br>
+<a href="#Dang"> Dang count does not match 1:2 V1: 0, V2: 1 </a><br>
+<a href="#Vadodara"> Vadodara count does not match 490:493 V1: 185, V2: 51 </a><br>
+<a href="#Mahisagar"> Mahisagar count does not match 47:44 V1: 2, V2: 11 </a><br>
+<a href="#Sabarkantha"> Sabarkantha count does not match 16:17 V1: 2, V2: 1 </a><br>
 <h2> Haryana </h2>
-<a href="#Italians"> Italians count does not match 0:14 </a><br>
-<a href="#Sonipat"> Sonipat count does not match 82:84 </a><br>
+<a href="#Sonipat"> Sonipat count does not match 87:89 V1: 8, V2: 11 </a><br>
 <h2> Himachal Pradesh </h2>
-<a href="#Hamirpur"> Hamirpur count does not match 0:2 </a><br>
-<a href="#Sirmaur"> Sirmaur count does not match 1:2 </a><br>
-<a href="#Una"> Una count does not match 15:16 </a><br>
+<a href="#Hamirpur"> Hamirpur count does not match 2:4 V1: 0, V2: 0 </a><br>
+<a href="#Sirmaur"> Sirmaur count does not match 1:2 V1: 1, V2: 0 </a><br>
+<a href="#Una"> Una count does not match 16:17 V1: 49, V2: 13 </a><br>
 <h2> Jammu and Kashmir </h2>
-<a href="#Anantnag"> Anantnag count does not match 121:122 </a><br>
-<a href="#Bandipora"> Bandipora count does not match 94:134 </a><br>
-<a href="#Baramulla"> Baramulla count does not match 87:105 </a><br>
-<a href="#Shopiyan"> Shopiyan count does not match 57:98 </a><br>
+<a href="#Anantnag"> Anantnag count does not match 121:122 V1: 2, V2: 45 </a><br>
+<a href="#Budgam"> Budgam count does not match 47:46 V1: 14, V2: 1 </a><br>
 <h2> Jharkhand </h2>
+<h2> Kamrup Metropolitan </h2>
 <h2> Karnataka </h2>
-<a href="#Bagalkote"> Bagalkote count does not match 50:51 </a><br>
-<a href="#Belagavi"> Belagavi count does not match 86:83 </a><br>
-<a href="#Bengaluru Rural"> Bengaluru Rural count does not match 10:6 </a><br>
-<a href="#Bengaluru Urban"> Bengaluru Urban count does not match 169:163 </a><br>
-<a href="#Bidar"> Bidar count does not match 23:22 </a><br>
-<a href="#Chitradurga"> Chitradurga count does not match 0:1 </a><br>
-<a href="#Dakshina Kannada"> Dakshina Kannada count does not match 27:22 </a><br>
-<a href="#Davanagere"> Davanagere count does not match 62:61 </a><br>
-<a href="#Mysuru"> Mysuru count does not match 90:88 </a><br>
-<a href="#Other State"> Other State count does not match 0:20 </a><br>
+<a href="#Belagavi"> Belagavi count does not match 84:83 V1: 40, V2: 12 </a><br>
+<a href="#Bagalkote"> Bagalkote count does not match 50:51 V1: 21, V2: 3 </a><br>
 <h2> Kerala </h2>
+<h2> Khordha </h2>
+<h2> Kurnool </h2>
 <h2> Ladakh </h2>
 <h2> Madhya Pradesh </h2>
-<a href="#Agar Malwa"> Agar Malwa count does not match 9:13 </a><br>
-<a href="#Alirajpur"> Alirajpur count does not match 1:3 </a><br>
-<a href="#Barwani"> Barwani count does not match 24:26 </a><br>
-<a href="#Betul"> Betul count does not match 2:1 </a><br>
-<a href="#Bhopal"> Bhopal count does not match 558:652 </a><br>
-<a href="#Dewas"> Dewas count does not match 28:30 </a><br>
-<a href="#Dhar"> Dhar count does not match 56:77 </a><br>
-<a href="#Dindori"> Dindori count does not match 2:1 </a><br>
-<a href="#Gwalior"> Gwalior count does not match 14:12 </a><br>
-<a href="#Hoshangabad"> Hoshangabad count does not match 26:36 </a><br>
-<a href="#Indore"> Indore count does not match 1559:1699 </a><br>
-<a href="#Jabalpur"> Jabalpur count does not match 101:115 </a><br>
-<a href="#Khandwa"> Khandwa count does not match 51:50 </a><br>
-<a href="#Khargone"> Khargone count does not match 69:80 </a><br>
-<a href="#Morena"> Morena count does not match 23:22 </a><br>
-<a href="#Other Region"> Other Region count does not match -2:0 </a><br>
-<a href="#Raisen"> Raisen count does not match 44:64 </a><br>
-<a href="#Sagar"> Sagar count does not match 4:5 </a><br>
-<a href="#Satna"> Satna count does not match 3:1 </a><br>
-<a href="#Shajapur"> Shajapur count does not match 7:8 </a><br>
-<a href="#Sheopur"> Sheopur count does not match 3:4 </a><br>
-<a href="#Ujjain"> Ujjain count does not match 179:201 </a><br>
+<a href="#Other Region"> Other Region count does not match -2:0 V1: 1, V2: 0 </a><br>
+<a href="#Ujjain"> Ujjain count does not match 205:227 V1: 35, V2: 53 </a><br>
+<a href="#Gwalior"> Gwalior count does not match 19:17 V1: 7, V2: 0 </a><br>
+<a href="#Alirajpur"> Alirajpur count does not match 1:3 V1: 1, V2: 0 </a><br>
+<a href="#Bhopal"> Bhopal count does not match 610:704 V1: 200, V2: 124 </a><br>
+<a href="#Morena"> Morena count does not match 23:22 V1: 14, V2: 0 </a><br>
+<a href="#Raisen"> Raisen count does not match 44:64 V1: 8, V2: 0 </a><br>
+<a href="#Sagar"> Sagar count does not match 5:6 V1: 3, V2: 14 </a><br>
+<a href="#Shajapur"> Shajapur count does not match 7:8 V1: 5, V2: 0 </a><br>
+<a href="#Hoshangabad"> Hoshangabad count does not match 26:36 V1: 19, V2: 3 </a><br>
+<a href="#Jabalpur"> Jabalpur count does not match 105:119 V1: 13, V2: 32 </a><br>
+<a href="#Barwani"> Barwani count does not match 24:26 V1: 22, V2: 0 </a><br>
+<a href="#Dindori"> Dindori count does not match 2:1 V1: 0, V2: 2 </a><br>
+<a href="#Khandwa"> Khandwa count does not match 57:56 V1: 33, V2: 4 </a><br>
+<a href="#Dhar"> Dhar count does not match 58:79 V1: 65, V2: 30 </a><br>
+<a href="#Satna"> Satna count does not match 4:2 V1: 2, V2: 0 </a><br>
+<a href="#Indore"> Indore count does not match 1640:1780 V1: 843, V2: 195 </a><br>
+<a href="#Sheopur"> Sheopur count does not match 3:4 V1: 3, V2: 0 </a><br>
+<a href="#Betul"> Betul count does not match 2:1 V1: 2, V2: 0 </a><br>
+<a href="#Dewas"> Dewas count does not match 34:36 V1: 18, V2: 3 </a><br>
+<a href="#Khargone"> Khargone count does not match 70:81 V1: 39, V2: 11 </a><br>
+<a href="#Agar Malwa"> Agar Malwa count does not match 9:13 V1: 4, V2: 3 </a><br>
 <h2> Maharashtra </h2>
-<a href="#Ahmednagar"> Ahmednagar count does not match 46:53 </a><br>
-<a href="#Akola"> Akola count does not match 90:99 </a><br>
-<a href="#Amravati"> Amravati count does not match 60:73 </a><br>
-<a href="#Aurangabad"> Aurangabad count does not match 381:400 </a><br>
-<a href="#Buldhana"> Buldhana count does not match 27:24 </a><br>
-<a href="#Dhule"> Dhule count does not match 13:32 </a><br>
-<a href="#Hingoli"> Hingoli count does not match 57:58 </a><br>
-<a href="#Jalgaon"> Jalgaon count does not match 64:78 </a><br>
-<a href="#Jalna"> Jalna count does not match 9:8 </a><br>
-<a href="#Kolhapur"> Kolhapur count does not match 11:16 </a><br>
-<a href="#Latur"> Latur count does not match 24:25 </a><br>
-<a href="#Mumbai"> Mumbai count does not match 8674:11394 </a><br>
-<a href="#Nagpur"> Nagpur count does not match 180:206 </a><br>
-<a href="#Nandurbar"> Nandurbar count does not match 12:19 </a><br>
-<a href="#Nashik"> Nashik count does not match 465:533 </a><br>
-<a href="#Other States"> Other States count does not match 9:34 </a><br>
-<a href="#Palghar"> Palghar count does not match 180:233 </a><br>
-<a href="#Pune"> Pune count does not match 1757:2129 </a><br>
-<a href="#Raigad"> Raigad count does not match 187:201 </a><br>
-<a href="#Ratnagiri"> Ratnagiri count does not match 14:16 </a><br>
-<a href="#Sangli"> Sangli count does not match 34:35 </a><br>
-<a href="#Satara"> Satara count does not match 79:94 </a><br>
-<a href="#Solapur"> Solapur count does not match 155:183 </a><br>
-<a href="#Thane"> Thane count does not match 1543:1889 </a><br>
-<a href="#Yavatmal"> Yavatmal count does not match 60:93 </a><br>
+<a href="#Aurangabad"> Aurangabad count does not match 423:442 V1: 30, V2: 5 </a><br>
+<a href="#Solapur"> Solapur count does not match 162:190 V1: 14, V2: 5 </a><br>
+<a href="#Yavatmal"> Yavatmal count does not match 62:95 V1: 13, V2: 2 </a><br>
+<a href="#Nandurbar"> Nandurbar count does not match 12:19 V1: 1, V2: 3 </a><br>
+<a href="#Jalgaon"> Jalgaon count does not match 119:133 V1: 2, V2: 3 </a><br>
+<a href="#Kolhapur"> Kolhapur count does not match 14:19 V1: 5, V2: 0 </a><br>
+<a href="#Mumbai"> Mumbai count does not match 10144:12864 V1: 2385, V2: 1230 </a><br>
+<a href="#Latur"> Latur count does not match 24:25 V1: 8, V2: 0 </a><br>
+<a href="#Buldhana"> Buldhana count does not match 27:24 V1: 21, V2: 3 </a><br>
+<a href="#Raigad"> Raigad count does not match 212:226 V1: 42, V2: 1 </a><br>
+<a href="#Amravati"> Amravati count does not match 69:82 V1: 6, V2: 1 </a><br>
+<a href="#Satara"> Satara count does not match 83:98 V1: 11, V2: 3 </a><br>
+<a href="#Hingoli"> Hingoli count does not match 57:58 V1: 1, V2: 6 </a><br>
+<a href="#Nagpur"> Nagpur count does not match 198:224 V1: 62, V2: 21 </a><br>
+<a href="#Nashik"> Nashik count does not match 527:595 V1: 53, V2: 10 </a><br>
+<a href="#Palghar"> Palghar count does not match 195:248 V1: 83, V2: 5 </a><br>
+<a href="#Sangli"> Sangli count does not match 34:35 V1: 26, V2: 0 </a><br>
+<a href="#Other State"> Other State count does not match 10:35 V1: 21, V2: 0 </a><br>
+<a href="#Thane"> Thane count does not match 1911:2257 V1: 345, V2: 51 </a><br>
+<a href="#Ahmednagar"> Ahmednagar count does not match 53:60 V1: 29, V2: 0 </a><br>
+<a href="#Pune"> Pune count does not match 1853:2225 V1: 607, V2: 89 </a><br>
+<a href="#Dhule"> Dhule count does not match 31:50 V1: 2, V2: 5 </a><br>
+<a href="#Ratnagiri"> Ratnagiri count does not match 16:18 V1: 6, V2: 0 </a><br>
+<a href="#Akola"> Akola count does not match 134:143 V1: 15, V2: 5 </a><br>
+<a href="#Jalna"> Jalna count does not match 13:12 V1: 2, V2: 1 </a><br>
 <h2> Manipur </h2>
 <h2> Meghalaya </h2>
 <h2> Mizoram </h2>
 <h2> Odisha </h2>
+<a href="#Khordha"> Khordha count does not match 45:50 V1: 46, V2: 0 </a><br>
+<h2> Prakasam </h2>
 <h2> Puducherry </h2>
 <h2> Punjab </h2>
-<a href="#Gurdaspur"> Gurdaspur count does not match 92:91 </a><br>
-<a href="#Jalandhar"> Jalandhar count does not match 138:147 </a><br>
-<a href="#Ludhiana"> Ludhiana count does not match 124:125 </a><br>
+<a href="#S.A.S. Nagar"> S.A.S. Nagar count does not match 94:95 V1: 61, V2: 2 </a><br>
+<a href="#Ludhiana"> Ludhiana count does not match 124:125 V1: 15, V2: 2 </a><br>
+<a href="#Gurdaspur"> Gurdaspur count does not match 116:115 V1: 2, V2: 0 </a><br>
+<a href="#Jalandhar"> Jalandhar count does not match 166:175 V1: 47, V2: 22 </a><br>
 <h2> Rajasthan </h2>
-<a href="#Bhilwara"> Bhilwara count does not match 40:39 </a><br>
-<a href="#Dholpur"> Dholpur count does not match 20:21 </a><br>
-<a href="#Evacuees"> Evacuees count does not match 0:61 </a><br>
-<a href="#Pali"> Pali count does not match 56:55 </a><br>
-<a href="#Sawai Madhopur"> Sawai Madhopur count does not match 8:9 </a><br>
+<a href="#Bhilwara"> Bhilwara count does not match 44:43 V1: 33, V2: 5 </a><br>
+<a href="#Sawai Madhopur"> Sawai Madhopur count does not match 9:10 V1: 4, V2: 3 </a><br>
+<a href="#Dholpur"> Dholpur count does not match 20:21 V1: 1, V2: 3 </a><br>
+<a href="#Evacuees"> Evacuees count does not match 60:61 V1: 60, V2: 0 </a><br>
+<a href="#Pali"> Pali count does not match 61:60 V1: 2, V2: 1 </a><br>
+<h2> S.A.S. Nagar </h2>
+<h2> S.P.S. Nellore </h2>
 <h2> Tamil Nadu </h2>
-<a href="#Dindigul"> Dindigul count does not match 106:107 </a><br>
-<a href="#Thanjavur"> Thanjavur count does not match 61:60 </a><br>
+<a href="#Dindigul"> Dindigul count does not match 107:108 V1: 74, V2: 5 </a><br>
+<a href="#Thanjavur"> Thanjavur count does not match 62:61 V1: 45, V2: 10 </a><br>
 <h2> Telangana </h2>
-<a href="#Adilabad"> Adilabad count does not match 18:21 </a><br>
-<a href="#Hyderabad"> Hyderabad count does not match 631:614 </a><br>
-<a href="#Jangaon"> Jangaon count does not match 2:3 </a><br>
-<a href="#Jogulamba Gadwal"> Jogulamba Gadwal count does not match 40:45 </a><br>
-<a href="#Kamareddy"> Kamareddy count does not match 11:12 </a><br>
-<a href="#Komaram Bheem"> Komaram Bheem count does not match 4:7 </a><br>
-<a href="#Medchal Malkajgiri"> Medchal Malkajgiri count does not match 9:22 </a><br>
-<a href="#Nalgonda"> Nalgonda count does not match 15:17 </a><br>
-<a href="#Nirmal"> Nirmal count does not match 17:20 </a><br>
-<a href="#Nizamabad"> Nizamabad count does not match 62:61 </a><br>
-<a href="#Ranga Reddy"> Ranga Reddy count does not match 30:36 </a><br>
-<a href="#Suryapet"> Suryapet count does not match 72:83 </a><br>
-<a href="#Warangal Urban"> Warangal Urban count does not match 23:27 </a><br>
-<h2> To Be Reconciled </h2>
+<a href="#Hyderabad"> Hyderabad count does not match 671:654 V1: 582, V2: 71 </a><br>
+<a href="#Ranga Reddy"> Ranga Reddy count does not match 30:36 V1: 25, V2: 2 </a><br>
+<a href="#Medchal Malkajgiri"> Medchal Malkajgiri count does not match 9:22 V1: 6, V2: 3 </a><br>
+<a href="#Jogulamba Gadwal"> Jogulamba Gadwal count does not match 40:45 V1: 26, V2: 14 </a><br>
+<a href="#Warangal Urban"> Warangal Urban count does not match 23:27 V1: 21, V2: 2 </a><br>
+<a href="#Suryapet"> Suryapet count does not match 72:83 V1: 43, V2: 29 </a><br>
+<a href="#Komaram Bheem"> Komaram Bheem count does not match 4:7 V1: 3, V2: 1 </a><br>
+<a href="#Nizamabad"> Nizamabad count does not match 62:61 V1: 58, V2: 4 </a><br>
+<a href="#Kamareddy"> Kamareddy count does not match 11:12 V1: 11, V2: 0 </a><br>
+<a href="#Adilabad"> Adilabad count does not match 18:21 V1: 16, V2: 2 </a><br>
+<a href="#Nirmal"> Nirmal count does not match 17:20 V1: 17, V2: 0 </a><br>
+<a href="#Nalgonda"> Nalgonda count does not match 15:17 V1: 15, V2: 0 </a><br>
 <h2> Tripura </h2>
 <h2> Uttar Pradesh </h2>
-<a href="#Agra"> Agra count does not match 672:670 </a><br>
-<a href="#Banda"> Banda count does not match 18:17 </a><br>
-<a href="#Bijnor"> Bijnor count does not match 33:35 </a><br>
-<a href="#Etawah"> Etawah count does not match 3:2 </a><br>
-<a href="#Ghazipur"> Ghazipur count does not match 7:6 </a><br>
-<a href="#Lucknow"> Lucknow count does not match 234:237 </a><br>
-<a href="#Mathura"> Mathura count does not match 37:38 </a><br>
-<a href="#Mirzapur"> Mirzapur count does not match 4:3 </a><br>
-<a href="#Moradabad"> Moradabad count does not match 120:117 </a><br>
-<a href="#Muzaffarnagar"> Muzaffarnagar count does not match 26:24 </a><br>
-<a href="#Sant Kabir Nagar"> Sant Kabir Nagar count does not match 29:30 </a><br>
-<a href="#Shamli"> Shamli count does not match 26:29 </a><br>
-<a href="#Sitapur"> Sitapur count does not match 17:20 </a><br>
-<a href="#Sultanpur"> Sultanpur count does not match 3:4 </a><br>
-<a href="#Varanasi"> Varanasi count does not match 76:77 </a><br>
+<a href="#Sitapur"> Sitapur count does not match 19:22 V1: 17, V2: 0 </a><br>
+<a href="#Bijnor"> Bijnor count does not match 40:42 V1: 22, V2: 5 </a><br>
+<a href="#Mathura"> Mathura count does not match 51:52 V1: 4, V2: 5 </a><br>
+<a href="#Muzaffarnagar"> Muzaffarnagar count does not match 28:26 V1: 7, V2: 13 </a><br>
+<a href="#Sultanpur"> Sultanpur count does not match 3:4 V1: 0, V2: 2 </a><br>
+<a href="#Mirzapur"> Mirzapur count does not match 5:4 V1: 4, V2: 0 </a><br>
+<a href="#Agra"> Agra count does not match 745:743 V1: 254, V2: 135 </a><br>
+<a href="#Banda"> Banda count does not match 19:18 V1: 6, V2: 1 </a><br>
+<a href="#Ghazipur"> Ghazipur count does not match 8:7 V1: 5, V2: 2 </a><br>
+<a href="#Etawah"> Etawah count does not match 4:3 V1: 3, V2: 0 </a><br>
+<a href="#Lucknow"> Lucknow count does not match 247:250 V1: 165, V2: 29 </a><br>
+<a href="#Moradabad"> Moradabad count does not match 129:126 V1: 57, V2: 47 </a><br>
+<a href="#Varanasi"> Varanasi count does not match 81:82 V1: 16, V2: 22 </a><br>
+<a href="#Shamli"> Shamli count does not match 28:31 V1: 23, V2: 1 </a><br>
+<a href="#Sant Kabir Nagar"> Sant Kabir Nagar count does not match 29:30 V1: 1, V2: 19 </a><br>
 <h2> Uttarakhand </h2>
-<a href="#Dehradun"> Dehradun count does not match 31:34 </a><br>
+<a href="#Dehradun"> Dehradun count does not match 31:34 V1: 22, V2: 4 </a><br>
 <h2> West Bengal </h2>
-<a href="#Darjeeling"> Darjeeling count does not match 3:7 </a><br>
-<a href="#Hooghly"> Hooghly count does not match 38:49 </a><br>
-<a href="#Howrah"> Howrah count does not match 246:324 </a><br>
-<a href="#Jalpaiguri"> Jalpaiguri count does not match -1:4 </a><br>
-<a href="#Kalimpong"> Kalimpong count does not match 1:7 </a><br>
-<a href="#Kolkata"> Kolkata count does not match 610:783 </a><br>
-<a href="#Murshidabad"> Murshidabad count does not match -1:1 </a><br>
-<a href="#Nadia"> Nadia count does not match 7:8 </a><br>
-<a href="#North 24 Parganas"> North 24 Parganas count does not match 177:220 </a><br>
-<a href="#Paschim Bardhaman"> Paschim Bardhaman count does not match 4:11 </a><br>
-<a href="#Purba Bardhaman"> Purba Bardhaman count does not match 3:4 </a><br>
-<a href="#Purba Medinipur"> Purba Medinipur count does not match 20:39 </a><br>
-<a href="#South 24 Parganas"> South 24 Parganas count does not match 40:51 </a><br>
+<a href="#Nadia"> Nadia count does not match 8:9 V1: 6, V2: 0 </a><br>
+<a href="#Purba Medinipur"> Purba Medinipur count does not match 25:44 V1: 3, V2: 0 </a><br>
+<a href="#Murshidabad"> Murshidabad count does not match -1:1 V1: 0, V2: 0 </a><br>
+<a href="#Jalpaiguri"> Jalpaiguri count does not match -1:4 V1: 0, V2: 0 </a><br>
+<a href="#Kalimpong"> Kalimpong count does not match 1:7 V1: 1, V2: 0 </a><br>
+<a href="#Hooghly"> Hooghly count does not match 60:71 V1: 1, V2: 0 </a><br>
+<a href="#Howrah"> Howrah count does not match 292:370 V1: 1, V2: 0 </a><br>
+<a href="#Paschim Bardhaman"> Paschim Bardhaman count does not match 5:12 V1: 0, V2: 0 </a><br>
+<a href="#Purba Bardhaman"> Purba Bardhaman count does not match 4:5 V1: 0, V2: 0 </a><br>
+<a href="#North 24 Parganas"> North 24 Parganas count does not match 200:243 V1: 4, V2: 0 </a><br>
+<a href="#Kolkata"> Kolkata count does not match 738:911 V1: 29, V2: 6 </a><br>
+<a href="#Darjeeling"> Darjeeling count does not match 3:7 V1: 0, V2: 0 </a><br>
+<a href="#South 24 Parganas"> South 24 Parganas count does not match 46:57 V1: 1, V2: 0 </a><br>

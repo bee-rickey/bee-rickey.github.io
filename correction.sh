@@ -1,8 +1,17 @@
-curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vQW1sf6ptHC1I4vLmEI6kddb_2C1T3x4062y7NFn8s_G0rq0_c7RvtHcRDpohA8hkNQxIFRy6H4OIdJ/pub?gid=1857317333&single=true&output=csv"  | grep -v "^," > data/siva.csv
-curl https://api.covid19india.org/csv/latest/district_wise.csv > data/districtwise.csv
-curl https://api.covid19india.org/csv/latest/raw_data1.csv > data/rawdata1.csv
-curl https://api.covid19india.org/csv/latest/raw_data2.csv > data/rawdata2.csv
-curl https://api.covid19india.org/csv/latest/raw_data3.csv > data/rawdata3.csv
+#curl "https://docs.google.com/spreadsheets/d/e/2PACX-1vQW1sf6ptHC1I4vLmEI6kddb_2C1T3x4062y7NFn8s_G0rq0_c7RvtHcRDpohA8hkNQxIFRy6H4OIdJ/pub?gid=1857317333&single=true&output=csv"  | grep -v "^," > data/siva.csv
+#curl https://api.covid19india.org/csv/latest/district_wise.csv > data/districtwise.csv
+#curl https://api.covid19india.org/csv/latest/raw_data1.csv > data/rawdata1.csv
+#curl https://api.covid19india.org/csv/latest/raw_data2.csv > data/rawdata2.csv
+#curl https://api.covid19india.org/csv/latest/raw_data3.csv > data/rawdata3.csv
+
+if [ "$1" == "resetAll" ]
+then
+echo "Calling raw data loader"
+	cat data/rawdata1.csv > data/rawdata.csv
+	cat data/rawdata2.csv >> data/rawdata.csv
+	./loadv1v2.sh
+fi
+./loaddata.sh
 
 >data/matching.txt
 >data/notMatching.txt
@@ -18,7 +27,7 @@ var=0
 while read line
 do
 	district=`echo $line | awk -F, '{print $2}'`
-	state=`echo $line | awk -F, '{print $1}'`
+	state=`echo $line | awk -F, '{print $3}'`
 	echo "0" > data/.found
 	if [ "$prevState" != "$state" ]
 	then
@@ -39,7 +48,7 @@ do
 			then
 				echo "1" > data/.found
 				confirmedCountFromDistrictWise=`echo $matched | awk -F, '{print $6}'`
-				confirmedCountFromSiva=`echo $line | awk -F, '{print $5}'`
+				confirmedCountFromSiva=`echo $line | awk -F, '{print $1}'`
 
                 if [ $confirmedCountFromDistrictWise != $confirmedCountFromSiva ]
 				then
@@ -98,7 +107,7 @@ do
 	fi
 
 
-done < data/siva.csv
+done < data/groupby.csv
 
 districtCount=`grep "count does not match" data/notMatching.tmp | wc -l`
 

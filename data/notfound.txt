@@ -1,8 +1,13 @@
-Patient District Not found in districtwise.csv.
-Y.S.R Kadapa Not found in districtwise.csv.
-Dohad Not found in districtwise.csv. Present in raw_data2.csv
-The Dangs Not found in districtwise.csv.
+NULL Not found in districtwise.csv.
+Tirupathi" Not found in districtwise.csv. Present in raw_data1.csv
+Detected District Not found in districtwise.csv.
+Dangs Not found in districtwise.csv. Present in raw_data2.csv
 Sonitpur Not found in districtwise.csv. Present in raw_data2.csv
+Nagaland" Not found in districtwise.csv. Present in raw_data1.csv
+Bhubaneswar" Not found in districtwise.csv. Present in raw_data1.csv
+Atmakur" Not found in districtwise.csv. Present in raw_data1.csv
 Other Region* Not found in districtwise.csv.
+karamchedu" Not found in districtwise.csv. Present in raw_data1.csv
 Other state Not found in districtwise.csv.
-mathura Not found in districtwise.csv.
+Mohali" Not found in districtwise.csv. Present in raw_data1.csv
+Ozhili" Not found in districtwise.csv. Present in raw_data1.csv
