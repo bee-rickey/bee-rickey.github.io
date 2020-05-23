@@ -79,12 +79,17 @@ with open("extract.meta", "r") as metaFile:
 
 def getDataForStates():
 	outputToWrite=[]
+	header = "State, Last Updated, Samples Tested, Samples Positive, Samples Negative, Results Awaited, Total Confirmed, Total Active, Total Discharged\n"
+	outputToWrite.append(header)
+
 	for metaObject in metaArray:
 		if metaObject.districtRequired == True:
 #districtDetailsExtractor(metaObject)
 			print(' ')
 		else:
 			stateDetailsExtractor(metaObject, outputToWrite)
+
+	writeToOutputCsv("summary.csv", outputToWrite)
 
 def writeToOutputCsv(fileName, dataToWrite):
 	testingNumbersFile = open(fileName, "w")
@@ -96,7 +101,6 @@ def stateDetailsExtractor(metaObject, outputString):
 	url = metaObject.url
 	response = requests.request("GET", url)
 	soup = BeautifulSoup(response.content, 'html5lib')
-	header = "State, Last Updated, Samples Tested, Samples Positive, Samples Negative, Results Awaited, Total Confirmed, Total Active, Total Discharged"
     
 	if metaObject.stateName == "Andhra Pradesh":
 		samplesTested = soup.find("span", id = "lblSamples").get_text()
@@ -135,7 +139,6 @@ def stateDetailsExtractor(metaObject, outputString):
 
 		rowString = "Chandigarh, " + datetime.date.today().strftime("%d/%m/%Y") + "," + dataDictionary['Total Sampled'] + "," + dataDictionary['Confirmed'] + "," + dataDictionary['Negative Cases'] + "," +dataDictionary['Result Awaited'] + "," + dataDictionary['Confirmed'] + ",,"+ dataDictionary['Recovered'] + "\n"
 		outputString.append(rowString)
-		header = "State, Last Updated, Samples Tested, Samples Positive, Samples Negative, Results Awaited, Total Confirmed, Total Active, Total Discharged"
 
 	if metaObject.stateName == "Gujarat":
 		divs = soup.find_all("div", {"class": "dashboard-status"})
