@@ -81,9 +81,10 @@ def getDataForStates():
 	outputToWrite=[]
 	for metaObject in metaArray:
 		if metaObject.districtRequired == True:
-			outputToWrite.append(districtDetailsExtractor(metaObject))
+#districtDetailsExtractor(metaObject)
+			print(' ')
 		else:
-			outputToWrite.append(stateDetailsExtractor(metaObject))
+			stateDetailsExtractor(metaObject, outputToWrite)
 
 def writeToOutputCsv(fileName, dataToWrite):
 	testingNumbersFile = open(fileName, "w")
@@ -91,32 +92,99 @@ def writeToOutputCsv(fileName, dataToWrite):
 	testingNumbersFile.close()
 
 
-def stateDetailsExtractor(metaObject):
-	outputString=""
+def stateDetailsExtractor(metaObject, outputString):
 	url = metaObject.url
 	response = requests.request("GET", url)
 	soup = BeautifulSoup(response.content, 'html5lib')
+	header = "State, Last Updated, Samples Tested, Samples Positive, Samples Negative, Results Awaited, Total Confirmed, Total Active, Total Discharged"
     
-#if metaObject.stateName == "Andhra Pradesh":
-#		samplesTested = soup.find("span", id = "lblSamples").get_text()
-#		samplesNegative = soup.find("span", id = "lblNegative").get_text()
-#		lastUpdated = datetime.datetime.strptime(soup.find("span", id = "lblLast_Update").get_text(), "%d-%m-%Y %I:%M:%S %p")
-#		outputString = "Andhra Pradesh, " + lastUpdated.strftime("%d/%m/%Y") + ", " + samplesTested + ", " + samplesNegative
-#		return outputString
-#	
-#if metaObject.stateName == "Arunachal Pradesh":
-#		row = soup.find("tbody").find("tr")
-#		for index, data in enumerate(row.find_all("td")):
-#			if index == 0:
-#				lastUpdated = datetime.datetime.strptime(data.get_text().split(' ')[0], "%d-%b-%Y")
-#			if index == 1:
-#				samplesTested = data.get_text()
-#			if index == 2:
-#				samplesNegative = data.get_text()
-#				
-#		outputString = "Arunachal Pradesh, " + lastUpdated.strftime("%d/%m/%Y") + ", " + samplesTested + ", " + samplesNegative
-#		print(outputString)
+	if metaObject.stateName == "Andhra Pradesh":
+		samplesTested = soup.find("span", id = "lblSamples").get_text()
+		samplesNegative = soup.find("span", id = "lblNegative").get_text()
+		confirmed = soup.find("span", id = "lblConfirmed").get_text()
+		active = soup.find("span", id = "lblActive").get_text()
+		discharged = soup.find("span", id = "lblDischarged").get_text()
+		lastUpdated = datetime.datetime.strptime(soup.find("span", id = "lblLast_Update").get_text(), "%d-%m-%Y %I:%M:%S %p")
+		outputString.append("Andhra Pradesh, " + lastUpdated.strftime("%d/%m/%Y") + ", " + samplesTested + ", " + confirmed +","+ samplesNegative + ",,"+ confirmed +","+ active +", "+ discharged + "\n")
+		
+	if metaObject.stateName == "Arunachal Pradesh":
+		row = soup.find("tbody").find("tr")
+		for index, data in enumerate(row.find_all("td")):
+			if index == 0:
+				lastUpdated = datetime.datetime.strptime(data.get_text().split(' ')[0], "%d-%b-%Y")
+			if index == 1:
+				samplesTested = data.get_text()
+			if index == 2:
+				samplesNegative = data.get_text()
+			if index == 3:
+				samplesPositive = data.get_text()
+			if index == 4:
+				resultsAwaited = data.get_text()
+			if index == 5:
+				active = data.get_text()
+				
+		outputString.append("Arunachal Pradesh, " + lastUpdated.strftime("%d/%m/%Y") + ", " + samplesTested + ", " + samplesPositive + ", " + samplesNegative +","+ resultsAwaited +",," + active +",\n")
 
+	if metaObject.stateName == "Chandigarh":
+		divs = soup.find("div", {"class": "col-lg-8 col-md-9 form-group pt-10"}).find_all("div", {"class": "col-md-3"})
+
+		dataDictionary = {}
+		for div in divs:
+			innerDiv = div.find("div", {'class': 'stats'}).find_all('div')
+			dataDictionary[innerDiv[0].get_text()] = innerDiv[1].get_text()
+
+		rowString = "Chandigarh, " + datetime.date.today().strftime("%d/%m/%Y") + "," + dataDictionary['Total Sampled'] + "," + dataDictionary['Confirmed'] + "," + dataDictionary['Negative Cases'] + "," +dataDictionary['Result Awaited'] + "," + dataDictionary['Confirmed'] + ",,"+ dataDictionary['Recovered'] + "\n"
+		outputString.append(rowString)
+		header = "State, Last Updated, Samples Tested, Samples Positive, Samples Negative, Results Awaited, Total Confirmed, Total Active, Total Discharged"
+
+	if metaObject.stateName == "Gujarat":
+		divs = soup.find_all("div", {"class": "dashboard-status"})
+		date = soup.find("span", id="ctl00_body_lblDate").get_text()
+		dataDictionary = {}
+
+		for div in divs:
+			value = div.find("h3")
+			key = div.find_all("h5")
+			dataDictionary[key[len(key)-1].get_text().strip()] = value.get_text()
+
+		rowString = "Gujarat, " + date + "," + dataDictionary['Cases Tested for COVID19'] +","+ dataDictionary['Confirmed Positive Cases'] + ",,," + dataDictionary['Confirmed Positive Cases'] + ",," + dataDictionary['Patients Recovered'] + "," + dataDictionary['People Under Quarantine'] + "\n"
+		outputString.append(rowString)
+
+	if metaObject.stateName == "Kerala":
+		table = soup.find('table', {"class": "table-bordered"}).find_all("tr")
+		date = soup.find("small").get_text()
+		dataDictionary = {}
+		keys = table[0].find_all("td")
+		values = table[1].find_all("td")
+		for index, value in enumerate(values):
+			dataDictionary[keys[index].get_text().strip()] = value.get_text().strip()
+
+		keys = soup.find('section', {"class": "content"}).find("div", {"class": "container-fluid"}).find("div", {"class": "row"}).find_all("p")
+		values = soup.find('section', {"class": "content"}).find("div", {"class": "container-fluid"}).find("div", {"class": "row"}).find_all("h3")
+		
+		for index, value in enumerate(values):
+			if '(' in keys[index].get_text().strip():
+				key = keys[index].get_text().strip().split('(')[0]
+			else:
+			 	key = keys[index].get_text().strip()
+			dataDictionary[key] = value.get_text().strip()
+
+		rowString = "Kerala, " + date + "," + dataDictionary['Total  Sent'] +","+ dataDictionary['Tested Positive'] + "," + dataDictionary['Tested Negative'] + "," + dataDictionary['Result Awaiting'] + "," + dataDictionary['Total Confirmed'] + "," + dataDictionary['Active Cases '] +  "," + dataDictionary['Recovered '] + "\n"
+		outputString.append(rowString)
+
+
+	if metaObject.stateName == "Nagaland":
+		keys = soup.find("div", {"class": "row"}).find_all('p')
+		values = soup.find("div", {"class": "row"}).find_all('h3')
+			
+		dataDictionary = {}
+		for index, value in enumerate(values):
+			dataDictionary[keys[index].get_text().strip()] = value.get_text().strip()
+
+		rowString = "Nagaland, " + datetime.date.today().strftime("%d/%m/%Y") + "," + dataDictionary['Samples Sent'] +","+ dataDictionary['Results Positive'] + "," + dataDictionary['Results Negative'] + "," + dataDictionary['Results awaited'] + "\n" 
+		outputString.append(rowString)
+
+	
 	
 def nagalandTableExtractor(soupObject, districtDictionary, firstPass):
 	for index, row in enumerate(soupObject):
