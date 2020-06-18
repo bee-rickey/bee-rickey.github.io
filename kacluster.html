@@ -60,7 +60,7 @@ d3.json("kacluster2.json", function(error, graph) {
       .attr("fill", function(d) { return "#3D3C3A"; })
       .call(d3.drag()
           .on("start", dragstarted)
-          .on("drag", dragged));
+          .on("drag", dragged)
           .on("end", dragended));
 
   var lables = node.append("text")
