@@ -3,13 +3,13 @@
 <style>
 
 .links line {
-  stroke: #999;
-  stroke-opacity: 0.4;
+  stroke: #000;
+  stroke-opacity: 1.4;
 }
 
 .nodes circle {
-  stroke: #fff;
-  stroke-width: 1.5px;
+  stroke: #000;
+  stroke-width: 1.0px;
 }
 
 text {
@@ -59,12 +59,22 @@ var g = svg.append("g")
 
 var color = d3.scaleOrdinal(d3.schemeCategory20);
 
+/*
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody())
+    .force("charge", d3.forceManyBody().strength(-200))
 		.force("x", d3.forceX())
 		.force("y", d3.forceY());
-    //.force("center", d3.forceCenter(width / 2, height / 2));
+    //.force("center", d3.forceCenter(width / 2, height / 2)); */
+
+var simulation = d3.forceSimulation()
+						.force("x", d3.forceX())
+						.force("y", d3.forceY())
+						.force("charge", d3.forceManyBody().strength(-140))
+						.force("link", d3.forceLink().strength(1.4).id(function(d) { return d.id; }))
+						.alphaTarget(0)
+						.alphaDecay(0.03)
+
 
 d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/master/kacluster2.json", function(error, graph) {
   if (error) throw error;
@@ -104,13 +114,13 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
   });
 
 	var labels = node.append("text")
-      .attr("dy", ".35em")
+      .attr("dy", ".45em")
       .text(function(d) { return d.id; })
 			.attr('x', 6)
-      .attr('y', 3);
+      .attr('y', -3);
     
   var circles = node.append("circle")
-      .attr("r", 2)
+      .attr("r", 1.5)
       .attr("fill", function(d) { return "#3D3C3A"; });
 
   simulation
@@ -138,7 +148,7 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
 	drag_handler(node);
 
 	function drag_start(d) {
-	 if (!d3.event.active) simulation.alphaTarget(0.5).restart();
+	 if (!d3.event.active) simulation.alphaTarget(0.3).restart();
 			d.fx = d.x;
 			d.fy = d.y;
 	}
@@ -178,8 +188,11 @@ function searchNode(){
 		d3.select(".nodes")
 			.selectAll("circle")
 			.attr("fill", function(c) {
-				if (c.id == selectedNode) return "red";
-				else return color(c.group);
+				if (c.id == selectedNode){ 
+					return "red";
+				}else { 
+					return color(c.group);
+				}
 			});
 
 		d3.select(".links")
