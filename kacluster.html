@@ -4,7 +4,7 @@
 
 .links line {
   stroke: #999;
-  stroke-opacity: 0.6;
+  stroke-opacity: 0.4;
 }
 
 .nodes circle {
@@ -13,8 +13,15 @@
 }
 
 text {
-  font-family: arial;
-  font-size: 06px;
+  font: 4px sans-serif;
+}
+
+.node.fixed {
+  fill: #f00;
+}
+
+.node:hover text {
+  display: inline;
 }
 
 </style>
@@ -54,24 +61,37 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
 			.selectAll("g")
 			.data(graph.nodes)
 			.enter().append("g")
+
+	node.on("click", function(d) {
+    var connectedNodeIds = graph
+      .links
+      .filter(x => x.source.id == d.id || x.target.id == d.id)
+      .map(x => x.source.id == d.id ? x.target.id : x.source.id);
+
+    d3.select(".nodes")
+      .selectAll("circle")
+      .attr("fill", function(c) {
+        if (connectedNodeIds.indexOf(c.id) > -1 || c.id == d.id) return "red";
+        else return color(c.group);
+			});
+
+    d3.select(".links")
+      .selectAll("line")
+      .style("stroke", function(c) {
+				if(c.source.id == d.id || c.target.id == d.id) return "red";
+			})
+		;
+  });
+
+	var labels = node.append("text")
+      .attr("dy", ".35em")
+      .text(function(d) { return d.id; })
+			.attr('x', 6)
+      .attr('y', 3);
     
   var circles = node.append("circle")
-      .attr("r", 3)
-      .attr("fill", function(d) { return "#3D3C3A"; })
-      .call(d3.drag()
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended));
-
-  var lables = node.append("text")
-      .text(function(d) {
-        return d.id;
-      })
-      .attr('x', 6)
-      .attr('y', 3);
-
-  node.append("title")
-      .text(function(d) { return d.id; });
+      .attr("r", 2)
+      .attr("fill", function(d) { return "#3D3C3A"; });
 
   simulation
       .nodes(graph.nodes)
@@ -84,7 +104,7 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
     .on("zoom", zoom_actions);
 
 
-zoom_handler(svg);
+	zoom_handler(svg);
 
 	function zoom_actions(){
     g.attr("transform", d3.event.transform)
@@ -93,27 +113,27 @@ zoom_handler(svg);
 	var drag_handler = d3.drag()
 	.on("start", drag_start)
 	.on("drag", drag_drag)
-	.on("end", drag_end);
+	.on("end", drag_end); 
 
-drag_handler(node);
+	drag_handler(node);
 
-function drag_start(d) {
- if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-    d.fx = d.x;
-    d.fy = d.y;
-}
+	function drag_start(d) {
+	 if (!d3.event.active) simulation.alphaTarget(0.5).restart();
+			d.fx = d.x;
+			d.fy = d.y;
+	}
 
-//make sure you can't drag the circle outside the box
-function drag_drag(d) {
-  d.fx = d3.event.x;
-  d.fy = d3.event.y;
-}
+	//make sure you can't drag the circle outside the box
+	function drag_drag(d) {
+		d.fx = d3.event.x;
+		d.fy = d3.event.y;
+	}
 
-function drag_end(d) {
-  if (!d3.event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
-}
+	function drag_end(d) {
+		if (!d3.event.active) simulation.alphaTarget(0);
+		d.fx = d.x;
+		d.fy = d.y;
+	}
 
   function ticked() {
     link
@@ -126,27 +146,8 @@ function drag_end(d) {
         .attr("transform", function(d) {
           return "translate(" + d.x + "," + d.y + ")";
         })
-		label
-			        .attr("x", function(d) { return d.x + 8; })
-        .attr("y", function(d) { return d.y; });
   }
 });
 
-function dragstarted(d) {
-  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-  d.fx = d.x;
-  d.fy = d.y;
-}
-
-function dragged(d) {
-  d.fx = d3.event.x;
-  d.fy = d3.event.y;
-}
-
-function dragended(d) {
-  if (!d3.event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
-}
 
 </script>
