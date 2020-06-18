@@ -1,18 +1,53 @@
 import json
+import pandas as pd
 
-with open('ka.json') as f:
+def fetch_KA_data(writeJson=False):
+    '''
+    Returns KA data as pd.DataFrame, fetched from Vikram sir's sheet.
+    Switch `writeJson` to save to file.
+    '''
+
+    url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRp1Wz_VBpM54n04JzYdTGGrrvghLVf-6BjPAw9Ahwzr2uGPsoLlDTKNvhtLLUsW2oSZ_jxRQGRs2xC/pubhtml?gid=1042945172&single=true'
+    l = pd.read_html(url, encoding='utf8')
+    cd = l[0]
+    cd.columns = cd.iloc[0]
+    cd = cd[1:]
+
+    cd.rename(columns={'Date Announced':"date",
+              'State Patient Number':'p_num',
+              'Age Bracket':'age',
+              'Gender':'gender',
+              'Detected District':'distrct',
+              'Current Status':'status',
+              'Status Change Date':'change_date',
+              'Notes':'notes',
+              'Infected from': 'infection_type',
+              'Inter District - Infected from':'infected_district',
+              'Contact - Infected from':'contracted_from'},
+             inplace=True)
+    if writeJson:
+        cd.to_json("ka_sheet.json",orient='records')
+
+    return cd
+	
+#fetch_KA_data(True)
+
+with open('ka_sheet.json') as f:
   data = json.load(f)
 
 linkArray = []
 for obj in data: 
+	print(obj)
+	'''
 	if len(obj['note_extract']) > 0:
 		for parents in obj['note_extract']:
 			link = {}
 			link["source"] = parents
 			link["target"] = obj['p_num']
 			linkArray.append(link)
+	'''
 		
-	if len(obj['contracted_from']) > 0:
+	if obj['contracted_from'] != None:
 		for parents in obj['contracted_from'].split(','):
 			link = {}
 			link["source"] = parents

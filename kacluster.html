@@ -25,6 +25,8 @@ text {
 }
 
 </style>
+<div><input type="text" id="textBox"> </input>  </div>
+<button type="button" onclick="searchNode()">Search</button>
 <svg width="1500" height="1000" viewBox="-580 -300 1400 600"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
@@ -135,6 +137,7 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
 		d.fy = d.y;
 	}
 
+
   function ticked() {
     link
         .attr("x1", function(d) { return d.source.x; })
@@ -148,6 +151,27 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
         })
   }
 });
+
+	function searchNode(){
+		selectedNode = document.getElementById("textBox").value;
+		if (selectedNode === "none") {
+			return;
+		} else {
+
+			d3.select(".nodes")
+				.selectAll("circle")
+				.attr("fill", function(c) {
+					if (c.id == selectedNode) return "red";
+					else return color(c.group);
+				});
+
+			d3.select(".links")
+				.selectAll("line")
+				.style("stroke", function(c) {
+					if(c.source.id == selectedNode || c.target.id == selectedNode) return "red";
+				});
+		}
+	};
 
 
 </script>
