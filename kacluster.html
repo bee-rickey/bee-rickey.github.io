@@ -22,12 +22,30 @@ text {
 
 .node:hover text {
   display: inline;
+}    
+
+#display {
+    height: 98vh;
+    width: 190vh;
+    border: 1px solid black;
+    overflow: hidden;
+		position: relative; /* add this line! */
+}
+#search {
+		z-index: 1;
+    border: 1px solid black;
+    overflow: auto;
+		position: absolute; 
 }
 
 </style>
-<div><input type="text" id="textBox"> </input>  </div>
-<button type="button" onclick="searchNode()">Search</button>
-<svg width="1500" height="1000" viewBox="-580 -300 1400 600"></svg>
+<div id = "search">
+	<input type="text" id="textBox"> </input>  
+	<button type="button" id="triggerButton" onclick="searchNode()">Search</button>   
+</div>
+<div id="display">
+	<svg width="1500" height="1000" viewBox="-580 -300 1400 600"></svg>
+</div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -152,26 +170,33 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
   }
 });
 
-	function searchNode(){
-		selectedNode = document.getElementById("textBox").value;
-		if (selectedNode === "none") {
-			return;
-		} else {
+function searchNode(){
+	selectedNode = document.getElementById("textBox").value;
+	if (selectedNode === "none") {
+		return;
+	} else {
+		d3.select(".nodes")
+			.selectAll("circle")
+			.attr("fill", function(c) {
+				if (c.id == selectedNode) return "red";
+				else return color(c.group);
+			});
 
-			d3.select(".nodes")
-				.selectAll("circle")
-				.attr("fill", function(c) {
-					if (c.id == selectedNode) return "red";
-					else return color(c.group);
-				});
+		d3.select(".links")
+			.selectAll("line")
+			.style("stroke", function(c) {
+				if(c.source.id == selectedNode || c.target.id == selectedNode) return "red";
+			});
+	}
+};
 
-			d3.select(".links")
-				.selectAll("line")
-				.style("stroke", function(c) {
-					if(c.source.id == selectedNode || c.target.id == selectedNode) return "red";
-				});
-		}
-	};
+var input = document.getElementById("textBox");
+input.addEventListener("keyup", function(event) {
+  if (event.keyCode === 13) {
+    event.preventDefault();
+    document.getElementById("triggerButton").click();
+  }
+});
 
 
 </script>
