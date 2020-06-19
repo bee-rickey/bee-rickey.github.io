@@ -92,23 +92,45 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
 			.data(graph.nodes)
 			.enter().append("g")
 
+	function recursiveMap(clickedNode){
+			let explored = new Set();
+			let queue = new Array();
+
+			queue.push(clickedNode);
+			explored.add(clickedNode);
+
+			while(queue.length != 0){
+				visitingNode = queue.pop();
+				var connectedNodeIds = graph
+					.links
+					.filter(x => x.source.id == visitingNode || x.target.id == visitingNode)
+					.map(x => x.source.id == visitingNode ? x.target.id : x.source.id);
+				for(i = 0 ; i < connectedNodeIds.length ; i++){
+					if(!explored.has(connectedNodeIds[i])){
+						explored.add(connectedNodeIds[i]);
+						queue.push(connectedNodeIds[i]);
+					}
+				}
+			}
+
+			return explored;
+	}
+	
 	node.on("click", function(d) {
-    var connectedNodeIds = graph
-      .links
-      .filter(x => x.source.id == d.id || x.target.id == d.id)
-      .map(x => x.source.id == d.id ? x.target.id : x.source.id);
+		recursiveMap(d.id);
+		connectedNodeIds = recursiveMap(d.id)
 
     d3.select(".nodes")
       .selectAll("circle")
       .attr("fill", function(c) {
-        if (connectedNodeIds.indexOf(c.id) > -1 || c.id == d.id) return "red";
+        if (connectedNodeIds.has(c.id)) return "red";
         else return color(c.group);
 			});
 
     d3.select(".links")
       .selectAll("line")
       .style("stroke", function(c) {
-				if(c.source.id == d.id || c.target.id == d.id) return "red";
+				if(connectedNodeIds.has(c.source.id) || connectedNodeIds.has(c.target.id) ) return "red";
 			})
 		;
   });
