@@ -4,16 +4,16 @@
 
 .links line {
   stroke: #000;
-  stroke-opacity: 1.4;
+  stroke-opacity: 0.70;
 }
 
 .nodes circle {
   stroke: #000;
-  stroke-width: 1.0px;
+  stroke-width: 0.80px;
 }
 
 text {
-  font: 4px sans-serif;
+  font: 4px arial;
 }
 
 .node.fixed {
@@ -77,6 +77,7 @@ var simulation = d3.forceSimulation()
 
 
 d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/master/kacluster2.json", function(error, graph) {
+//d3.json("kacluster2.json", function(error, graph) {
   if (error) throw error;
 
   var link = g.append("g")
@@ -84,7 +85,7 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
     .selectAll("line")
     .data(graph.links)
     .enter().append("line")
-    .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+    .attr("stroke-width", function(d) { return 0.8; });
 
   var node = g.append("g")
       .attr("class", "nodes")
@@ -136,13 +137,13 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
   });
 
 	var labels = node.append("text")
-      .attr("dy", ".45em")
       .text(function(d) { return d.id; })
 			.attr('x', 6)
-      .attr('y', -3);
+      .attr('y', -3)
+      .attr('z', 1);
     
   var circles = node.append("circle")
-      .attr("r", 1.5)
+      .attr("r", 1.0)
       .attr("fill", function(d) { return "#3D3C3A"; });
 
   simulation

@@ -36,8 +36,8 @@ with open('ka_sheet.json') as f:
   data = json.load(f)
 
 linkArray = []
+nodeLinkCount = {}
 for obj in data: 
-	print(obj)
 	'''
 	if len(obj['note_extract']) > 0:
 		for parents in obj['note_extract']:
@@ -50,6 +50,15 @@ for obj in data:
 	if obj['contracted_from'] != None:
 		for parents in obj['contracted_from'].split(','):
 			link = {}
+			try:
+				nodeLinkCount[parents] += 1 
+			except KeyError:
+				nodeLinkCount[parents] = 1 
+
+			try:
+				nodeLinkCount[obj['p_num']] += 1 
+			except KeyError:
+				nodeLinkCount[obj['p_num']] = 1 
 			link["source"] = parents
 			link["target"] = obj['p_num']
 			linkArray.append(link)
@@ -57,7 +66,13 @@ for obj in data:
 nodesSet = set()
 
 nodesArray = []
+finalLinkArray = []
+
 for link in linkArray:
+	if nodeLinkCount[link['source']] <= 1 and nodeLinkCount[link['target']] <= 1:
+		continue
+	else:
+		finalLinkArray.append(link)
 	nodesSet.add(link['source'])
 	nodesSet.add(link['target'])
 	
@@ -68,6 +83,6 @@ for node in nodesSet:
 
 masterObj = {}
 masterObj['nodes'] = nodesArray
-masterObj['links'] = linkArray
+masterObj['links'] = finalLinkArray
 
 print(masterObj)
