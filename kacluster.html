@@ -141,7 +141,7 @@ d3.json("kacluster2.json", function(error, graph) {
 	node.on("click", function(d) {
 		recursiveMap(d.id);
 		connectedNodeIds = recursiveMap(d.id)
-		document.getElementById("insights").innerHTML = "Number of nodes associated with this node is " + connectedNodeIds.size;
+		document.getElementById("insights").innerHTML = " Number of nodes associated with this node is " + connectedNodeIds.size;
 
     	d3.select(".nodes")
     		.selectAll("circle")
