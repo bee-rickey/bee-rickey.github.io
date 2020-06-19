@@ -37,6 +37,7 @@ with open('ka_sheet.json') as f:
 
 linkArray = []
 nodeLinkCount = {}
+patientIdMap = {}
 for obj in data: 
 	'''
 	if len(obj['note_extract']) > 0:
@@ -46,21 +47,25 @@ for obj in data:
 			link["target"] = obj['p_num']
 			linkArray.append(link)
 	'''
+	if obj['p_num'] is None:
+		continue
+	patientIdMap[obj['p_num'].strip()] = obj
 		
 	if obj['contracted_from'] != None:
 		for parents in obj['contracted_from'].split(','):
 			link = {}
 			try:
-				nodeLinkCount[parents] += 1 
+				nodeLinkCount[parents.strip().replace('.', '')] += 1 
 			except KeyError:
-				nodeLinkCount[parents] = 1 
+				nodeLinkCount[parents.strip().replace('.', '')] = 1 
 
 			try:
-				nodeLinkCount[obj['p_num']] += 1 
+				nodeLinkCount[obj['p_num'].strip().replace('.', '')] += 1 
 			except KeyError:
-				nodeLinkCount[obj['p_num']] = 1 
-			link["source"] = parents
-			link["target"] = obj['p_num']
+				nodeLinkCount[obj['p_num'].strip().replace('.', '')] = 1 
+
+			link["source"] = parents.strip().replace('.', '')
+			link["target"] = obj['p_num'].strip().replace('.', '')
 			linkArray.append(link)
 
 nodesSet = set()
@@ -78,7 +83,17 @@ for link in linkArray:
 	
 for node in nodesSet:
 	nodeObj = {}
+	
+	node = node.strip().replace('.', '')
 	nodeObj["id"] = node
+	try:
+		nodeObj["a"] = patientIdMap[node]['age']
+		nodeObj["s"] = patientIdMap[node]['gender']
+		nodeObj["l"] = patientIdMap[node]['distrct']
+	except KeyError:
+		nodeObj["a"] = "N/A"
+		nodeObj["s"] = "N/A"
+		nodeObj["l"] = "N/A"
 	nodesArray.append(nodeObj)
 
 masterObj = {}

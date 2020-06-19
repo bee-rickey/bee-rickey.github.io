@@ -2,6 +2,19 @@
 <meta charset="utf-8">
 <style>
 
+div.tooltip {	
+	position: absolute;
+	text-align: center;
+	padding: 2px 6px;
+	font: 12px sans-serif;
+	background-color: #e5e2e1;
+	color: black;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events: none;
+	line-height: 28px;			
+}
+
 .links line {
   stroke: #000;
   stroke-opacity: 0.70;
@@ -20,7 +33,7 @@ text {
   fill: #f00;
 }
 
-.node:hover text {
+.nodes:hover text {
   display: inline;
 }    
 
@@ -37,6 +50,7 @@ text {
     overflow: auto;
 		position: absolute; 
 }
+
 
 </style>
 <div id = "search">
@@ -76,8 +90,8 @@ var simulation = d3.forceSimulation()
 						.alphaDecay(0.03)
 
 
-d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/master/kacluster2.json", function(error, graph) {
-//d3.json("kacluster2.json", function(error, graph) {
+//d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/master/kacluster2.json", function(error, graph) {
+d3.json("kacluster2.json", function(error, graph) {
   if (error) throw error;
 
   var link = g.append("g")
@@ -141,10 +155,31 @@ d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/maste
 			.attr('x', 6)
       .attr('y', -3)
       .attr('z', 1);
+
+	var div = d3.select("body").append("div")
+		.attr("class", "tooltip")
+		.style("opacity", 0);
+
     
   var circles = node.append("circle")
-      .attr("r", 1.0)
+      .attr("r", 1.5)
       .attr("fill", function(d) { return "#3D3C3A"; });
+
+	circles.on("mouseover", function(d) {
+			div.transition()
+			.style("opacity", 1);
+
+			var text = "<label> " + d.id + ", " + d.a + ", " + d.s + ", " + d.l ;
+
+			div.html(text)
+			.style("left", (d3.event.pageX - 60) + "px")
+			.style("top", (d3.event.pageY - 28) + "px");
+		})
+		.on("mouseout", function(d) {
+			div.transition()
+			.duration(800)
+			.style("opacity", 0);
+		})
 
   simulation
       .nodes(graph.nodes)
