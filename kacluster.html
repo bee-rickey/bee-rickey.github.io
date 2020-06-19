@@ -240,13 +240,15 @@ d3.json("kacluster2.json", function(error, graph) {
 
 function searchNode(){
 	selectedNode = document.getElementById("textBox").value;
+	selectedNodes = new Set();
 	if (selectedNode === "none") {
 		return;
 	} else {
 		d3.select(".nodes")
 			.selectAll("circle")
 			.attr("fill", function(c) {
-				if (c.id == selectedNode){ 
+				if (c.id == selectedNode || c.l.toUpperCase() == selectedNode.toUpperCase()){ 
+					selectedNodes.add(c.id);
 					return "red";
 				}else { 
 					return color(c.group);
@@ -256,7 +258,7 @@ function searchNode(){
 		d3.select(".links")
 			.selectAll("line")
 			.style("stroke", function(c) {
-				if(c.source.id == selectedNode || c.target.id == selectedNode) return "red";
+				if(selectedNodes.has(c.source.id) || selectedNodes.has(c.target.id)) return "red";
 			});
 	}
 };
