@@ -9,7 +9,7 @@ def fetch_KA_data(writeJson=False):
 
     url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRp1Wz_VBpM54n04JzYdTGGrrvghLVf-6BjPAw9Ahwzr2uGPsoLlDTKNvhtLLUsW2oSZ_jxRQGRs2xC/pubhtml?gid=1042945172&single=true'
     l = pd.read_html(url, encoding='utf8')
-    cd = l[0]
+    cd = l[0].copy()
     cd.columns = cd.iloc[0]
     cd = cd[1:]
 
