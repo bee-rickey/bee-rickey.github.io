@@ -52,10 +52,14 @@ text {
 	background-color: #e5e2e1
 }
 
+#textBox {
+	z-index: 1;
+	width: 150px;
+}
 
 </style>
 <div id = "search">
-	<input type="text" id="textBox"> </input>  
+	<input type="text" id="textBox" placeholder="District | patient Id | Month"> </input>  
 	<button type="button" id="triggerButton" onclick="searchNode()">Search</button>   
 	<label id = "insights"> </label>
 </div>
