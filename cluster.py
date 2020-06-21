@@ -125,10 +125,12 @@ def buildFinalList():
 			nodeObj["a"] = patientIdMap[node]['age']
 			nodeObj["s"] = patientIdMap[node]['gender']
 			nodeObj["l"] = patientIdMap[node]['district']
+			nodeObj["d"] = patientIdMap[node]['date']
 		except KeyError:
 			nodeObj["a"] = "N/A"
 			nodeObj["s"] = "N/A"
 			nodeObj["l"] = "N/A"
+			nodeObj["d"] = "N/A"
 		nodesArray.append(nodeObj)
 
 	masterObj = {}
