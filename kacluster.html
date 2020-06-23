@@ -15,6 +15,20 @@ div.tooltip {
 	line-height: 28px;			
 }
 
+div.clusterdiv {	
+	position: absolute;
+	text-align: center;
+	padding: 2px 6px;
+	font: 12px sans-serif;
+	background-color: #e5e2e1;
+	color: black;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events: none;
+	line-height: 28px;			
+}
+
+
 .links line {
  	stroke: #000;
  	stroke-opacity: 0.70;
@@ -137,10 +151,29 @@ d3.json("kacluster2.json", function(error, graph) {
 		return explored;
 	}
 	
+
+	svg.on("click", function(d) {
+		clusterDiv.transition()
+			.style("opacity", 0);
+	});
+
 	node.on("click", function(d) {
 		recursiveMap(d.id);
 		connectedNodeIds = recursiveMap(d.id)
-		document.getElementById("insights").innerHTML = " Number of nodes associated with this node is " + connectedNodeIds.size;
+		//document.getElementById("insights").innerHTML = " Number of nodes associated with this node is " + connectedNodeIds.size;
+
+		div.transition()
+				.duration(800)
+				.style("opacity", 0);
+
+		clusterDiv.transition()
+			.style("opacity", 1);
+
+		clusterDiv.html(" Number of nodes associated with this node is " + connectedNodeIds.size)
+			.style("left", (d3.event.pageX - 60) + "px")
+			.style("top", (d3.event.pageY - 28) + "px");
+		
+		d3.event.stopPropagation();
 
     	d3.select(".nodes")
     		.selectAll("circle")
@@ -166,7 +199,11 @@ d3.json("kacluster2.json", function(error, graph) {
 		.attr("class", "tooltip")
 		.style("opacity", 0);
 
-    
+
+	var clusterDiv = d3.select("body").append("div")
+		.attr("class", "clusterdiv")
+		.style("opacity", 0);
+
   	var circles = node.append("circle")
     	.attr("r", 1.5)
     	.attr("fill", function(d) { return "#3D3C3A"; });
