@@ -1,4 +1,5 @@
 import json
+import datetime as datetime
 import pandas as pd
 
 def fetch_KA_data(writeJson=False):
@@ -34,6 +35,7 @@ nodeLinkCount = {}
 patientIdMap = {}
 linkArray = []
 ignoredNodeList = set()
+metaData = {}
 
 def readSheetJson():
 	with open('ka_sheet.json') as f:
@@ -100,8 +102,76 @@ def buildIgnoreList():
 						explored.add(node)
 						masterExplored.add(node)
 						queue.append(node)
-			if len(explored) < 5:
+			if len(explored) < 3:
+#ignoredNodeList = {**ignoredNodeList, **explored} if len(ignoredNodeList) > 0 else explored
+#				print(ignoredNodeList)
 				ignoredNodeList = ignoredNodeList.union(explored) if len(ignoredNodeList) > 0 else explored
+			else:
+				buildAdditionalInfo(explored)
+
+def buildAdditionalInfo(exploredNodes):
+
+	minDate = datetime.datetime.today()
+	gender = {}
+	age = 0
+	month = {}
+	metaNode = ""
+	superSpreader = ""
+	superSpreaderCount = 0
+	districts = ""
+
+	for index, node in enumerate(exploredNodes):
+		if index == 0:
+			metaNode = node
+
+		if nodeLinkCount[node] > superSpreaderCount:
+			superSpreader = node
+			superSpreaderCount = nodeLinkCount[node]
+
+		try:
+			patientIdMap[node]['metaNode'] = metaNode
+		except KeyError:
+			patientIdMap[node] = {}
+			patientIdMap[node]['metaNode'] = metaNode
+	
+		try:
+			if patientIdMap[node]['district'] not in districts:
+				districts = patientIdMap[node]['district'] if len(districts) == 0 else districts + ", " + patientIdMap[node]['district']
+		except KeyError:
+			continue
+
+		try:
+			if minDate > datetime.datetime.strptime(patientIdMap[node]['date'], "%B %d, %Y"):
+				minDate = datetime.datetime.strptime(patientIdMap[node]['date'], "%B %d, %Y") 
+				firstPatient = node
+		except KeyError:
+			continue
+
+		try:
+			month[patientIdMap[node]['date'].split(' ')[0]] += 1
+		except KeyError:
+			month[patientIdMap[node]['date'].split(' ')[0]] = 1
+
+		try:
+			gender[patientIdMap[node]['gender']] += 1
+		except KeyError:
+			gender[patientIdMap[node]['gender']] = 1
+
+		try:
+			age += int(patientIdMap[node]['age'])
+		except KeyError:
+			continue
+	
+	metaData[metaNode] = {}
+	metaData[metaNode]['minDate'] = minDate.strftime("%B %d, %Y")
+	metaData[metaNode]['firstPatient'] = firstPatient
+	metaData[metaNode]['month'] = month
+	metaData[metaNode]['gender'] = gender
+	metaData[metaNode]['avgAge'] = "{0:.2f}".format(age/len(exploredNodes))
+	metaData[metaNode]['superSpreader'] = superSpreader
+	metaData[metaNode]['superSpreaderCount'] = superSpreaderCount
+	metaData[metaNode]['districts'] = districts
+	
 
 def buildFinalList():
 	global ignoredNodeList
@@ -113,8 +183,19 @@ def buildFinalList():
 			continue
 		else:
 			finalLinkArray.append(link)
+
 		nodesSet.add(link['source'])
 		nodesSet.add(link['target'])
+
+		try:
+			sourceDate = datetime.datetime.strptime(patientIdMap[link['source']]['date'], "%B %d, %Y")
+			targetDate = datetime.datetime.strptime(patientIdMap[link['target']]['date'], "%B %d, %Y")
+		except KeyError:
+			link['days'] = 0
+			continue
+
+		delta = sourceDate - targetDate
+		link['days'] = abs(delta.days)
 		
 	for node in nodesSet:
 		nodeObj = {}
@@ -126,11 +207,16 @@ def buildFinalList():
 			nodeObj["s"] = patientIdMap[node]['gender']
 			nodeObj["l"] = patientIdMap[node]['district']
 			nodeObj["d"] = patientIdMap[node]['date']
+			nodeObj["m"] = patientIdMap[node]['metaNode']
+			if patientIdMap[node]['metaNode'] == node:
+				nodeObj["additional"] = metaData[node]
 		except KeyError:
 			nodeObj["a"] = "N/A"
 			nodeObj["s"] = "N/A"
 			nodeObj["l"] = "N/A"
 			nodeObj["d"] = "N/A"
+			nodeObj["m"] = patientIdMap[node]['metaNode']
+
 		nodesArray.append(nodeObj)
 
 	masterObj = {}

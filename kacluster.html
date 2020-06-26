@@ -19,6 +19,7 @@ div.clusterdiv {
 	position: absolute;
 	text-align: center;
 	padding: 2px 6px;
+	width: 300px;
 	font: 12px sans-serif;
 	background-color: #e5e2e1;
 	color: black;
@@ -162,32 +163,55 @@ d3.json("kacluster2.json", function(error, graph) {
 		connectedNodeIds = recursiveMap(d.id)
 		//document.getElementById("insights").innerHTML = " Number of nodes associated with this node is " + connectedNodeIds.size;
 
+
+		metaNode = graph.nodes.find(m => m.id === d.m)
 		div.transition()
 				.duration(800)
 				.style("opacity", 0);
 
+
+		d3.select(".nodes")
+			.selectAll("circle")
+			.attr("fill", function(c) {
+					if (connectedNodeIds.has(c.id)) return "red";
+					else return color(c.group);
+		});
+
+		var linkDays = 0;
+		var linkCount = 0;
+		d3.select(".links")
+			.selectAll("line")
+			.style("stroke", function(c) {
+			if(connectedNodeIds.has(c.source.id) || connectedNodeIds.has(c.target.id) ) {
+				linkDays += c.days;
+				linkCount++;
+				return "red";
+			}
+		});
+
 		clusterDiv.transition()
 			.style("opacity", 1);
 
-		clusterDiv.html(" Number of nodes associated with this node is " + connectedNodeIds.size)
+		var monthBasedData = ""
+		Object.keys(metaNode.additional.month).forEach(function (key) {
+			monthBasedData += "<b>No of cases in " + key + " :</b> " + metaNode.additional.month[key] + "<br>";
+		})
+
+		divContent = "<b>Cluster size:</b> " + connectedNodeIds.size + "<br>";
+		divContent += "<b>First patient:</b> " + metaNode.additional.firstPatient + ", <b>Date:</b> " + metaNode.additional.minDate + "<br>";
+		divContent += "<b>Superspreader:</b> " + metaNode.additional.superSpreader + ", <b>Count:</b> " + metaNode.additional.superSpreaderCount + "<br>";
+		divContent += "<b>Average age of patients:</b> " + metaNode.additional.avgAge + "<br>";
+		divContent += "<b>Districts affected:</b> " + metaNode.additional.districts + "<br>";
+		divContent += "<b>Avg days between links: </b> " + (linkDays/linkCount).toFixed(2) + "<br>";
+		divContent += monthBasedData;
+
+		clusterDiv.html(divContent)
 			.style("left", (d3.event.pageX - 60) + "px")
 			.style("top", (d3.event.pageY - 28) + "px");
 		
 		d3.event.stopPropagation();
 
-    	d3.select(".nodes")
-    		.selectAll("circle")
-    		.attr("fill", function(c) {
-        		if (connectedNodeIds.has(c.id)) return "red";
-        		else return color(c.group);
-			});
-
-    	d3.select(".links")
-     		.selectAll("line")
-    		.style("stroke", function(c) {
-				if(connectedNodeIds.has(c.source.id) || connectedNodeIds.has(c.target.id) ) return "red";
-			});
-  	});
+  });
 
 	var labels = node.append("text")
      	.text(function(d) { return d.id; })
