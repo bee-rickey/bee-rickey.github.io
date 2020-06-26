@@ -102,7 +102,7 @@ def buildIgnoreList():
 						explored.add(node)
 						masterExplored.add(node)
 						queue.append(node)
-			if len(explored) < 3:
+			if len(explored) < 5:
 #ignoredNodeList = {**ignoredNodeList, **explored} if len(ignoredNodeList) > 0 else explored
 #				print(ignoredNodeList)
 				ignoredNodeList = ignoredNodeList.union(explored) if len(ignoredNodeList) > 0 else explored

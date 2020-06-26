@@ -192,10 +192,13 @@ d3.json("kacluster2.json", function(error, graph) {
 		clusterDiv.transition()
 			.style("opacity", 1);
 
-		var monthBasedData = ""
-		Object.keys(metaNode.additional.month).forEach(function (key) {
-			monthBasedData += "<b>No of cases in " + key + " :</b> " + metaNode.additional.month[key] + "<br>";
-		})
+		var monthBasedData = "";
+		
+		['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'].forEach(function(m){
+			if(metaNode.additional.month[m] != undefined){
+				monthBasedData += "<b>No of cases in " + m + " :</b> " + metaNode.additional.month[m] + "<br>";
+			}		
+		});
 
 		divContent = "<b>Cluster size:</b> " + connectedNodeIds.size + "<br>";
 		divContent += "<b>First patient:</b> " + metaNode.additional.firstPatient + ", <b>Date:</b> " + metaNode.additional.minDate + "<br>";
