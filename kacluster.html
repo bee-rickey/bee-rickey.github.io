@@ -370,9 +370,13 @@ async function animateCluster(){
 		if(a.d === "N/A")
 			return;
 		let dateObj = new Date(a.d);
-
+/*
 		monthBasedData[monthMapping[dateObj.getMonth()]] = monthBasedData[monthMapping[dateObj.getMonth()]] || [];		
 		monthBasedData[monthMapping[dateObj.getMonth()]].push(a);
+
+*/
+		monthBasedData[a.d] = monthBasedData[a.d] || [];		
+		monthBasedData[a.d].push(a);
 		/*
 		monthBasedData[dateObj.getMonth()] = monthBasedData[dateObj.getMonth()] || [];
 		monthBasedData[dateObj.getMonth()][1] = monthBasedData[dateObj.getMonth()][1] || [];
