@@ -385,6 +385,8 @@ async function animateCluster(){
 		monthBasedData[dateObj.getMonth()][0].push(monthMapping[dateObj.getMonth()]); */
 	});
 
+
+
 	d3.select(".nodes")
 		.selectAll("circle")
 		.attr("fill", function(c) {
@@ -405,6 +407,8 @@ async function animateCluster(){
 	let i = 0;                  
 	let interval = 1;
 	let monthArray = Object.keys(monthBasedData);
+
+	monthArray = monthArray.sort(function(a,b){return Date.parse(a) - Date.parse(b)});
 
 	function animateNodes() {
 		     
