@@ -105,6 +105,23 @@ var svg = d3.select("svg"),
 var g = svg.append("g")
     .attr("class", "everything");
 
+var div = d3.select("body").append("div")
+		.attr("class", "tooltip")
+		.style("opacity", 0);
+
+var clusterDiv = d3.select("body").append("div")
+	.attr("id", "clusterdiv")
+	.attr("class", "clusterdiv")
+	.style("opacity", 0);
+
+		svg.on("click", function(d) {
+	clusterDiv.transition()
+		.style("opacity", 0);
+	document.getElementById("animate").style.visibility = "hidden";
+	document.getElementById("search").style.visibility = "visible";
+	connectedNodeIds = null;
+	//connectedNodeIds.splice(0, connectedNodeIds.length);
+});
 
 //var color = d3.scaleOrdinal(d3.schemeCategory20);
 
@@ -129,14 +146,14 @@ var simulation = d3.forceSimulation()
 d3.json("kacluster2.json", function(error, graph) {
 	if (error) throw error;
 
-	var link = g.append("g")
+	let link = g.append("g")
 	    .attr("class", "links")
 	    .selectAll("line")
 	    .data(graph.links)
 	    .enter().append("line")
 	    .attr("stroke-width", function(d) { return 0.8; });
 
-	var node = g.append("g")
+	let node = g.append("g")
 		.attr("class", "nodes")
 		.selectAll("g")
 		.data(graph.nodes)
@@ -166,16 +183,6 @@ d3.json("kacluster2.json", function(error, graph) {
 		return explored;
 	}
 	
-
-	svg.on("click", function(d) {
-		clusterDiv.transition()
-			.style("opacity", 0);
-		document.getElementById("animate").style.visibility = "hidden";
-		document.getElementById("search").style.visibility = "visible";
-		connectedNodeIds = null;
-		//connectedNodeIds.splice(0, connectedNodeIds.length);
-	});
-
 	node.on("click", function(d) {
 		connectedNodeIds = recursiveMap(d);
 		document.getElementById("animate").style.visibility = "visible";
@@ -210,8 +217,8 @@ d3.json("kacluster2.json", function(error, graph) {
 			.style("opacity", 1);
 
 		let monthBasedData = "";
-		
-		['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'].forEach(function(m){
+		let months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+		months.forEach(function(m){
 			if(metaNode.additional.month[m] != undefined){
 				monthBasedData += "<b>No of cases in " + m + " :</b> " + metaNode.additional.month[m] + "<br>";
 			}		
@@ -231,25 +238,16 @@ d3.json("kacluster2.json", function(error, graph) {
 		
 		d3.event.stopPropagation();
 
-  });
+  	});
 
-	var labels = node.append("text")
+	let labels = node.append("text")
      	.text(function(d) { return d.id; })
 		.attr('x', 6)
       	.attr('y', -3)
       	.attr('z', 1);
 
-	var div = d3.select("body").append("div")
-		.attr("class", "tooltip")
-		.style("opacity", 0);
 
-
-	var clusterDiv = d3.select("body").append("div")
-		.attr("id", "clusterdiv")
-		.attr("class", "clusterdiv")
-		.style("opacity", 0);
-
-  	var circles = node.append("circle")
+  	let circles = node.append("circle")
     	.attr("r", 1.5)
     	.attr("fill", function(d) { return "blue"; });
 
@@ -276,17 +274,8 @@ d3.json("kacluster2.json", function(error, graph) {
   	simulation.force("link")
 		.links(graph.links);
 
-	var zoom_handler = d3.zoom()
-    	.on("zoom", zoom_actions);
-
-
-	zoom_handler(svg);
-
-	function zoom_actions(){
-    	g.attr("transform", d3.event.transform)
-	}
-
-	var drag_handler = d3.drag()
+	/*
+	let drag_handler = d3.drag()
 		.on("start", drag_start)
 		.on("drag", drag_drag)
 		.on("end", drag_end); 
@@ -310,7 +299,7 @@ d3.json("kacluster2.json", function(error, graph) {
 		d.fx = d.x;
 		d.fy = d.y;
 	}
-
+	*/
 
   	function ticked() {
     	link
@@ -325,6 +314,16 @@ d3.json("kacluster2.json", function(error, graph) {
         	})
   	}
 });
+
+
+	let zoom_handler = d3.zoom()
+    	.on("zoom", zoom_actions);
+
+	zoom_handler(svg);
+
+	function zoom_actions(){
+    	g.attr("transform", d3.event.transform)
+	}
 
 function searchNode(){
 	let selectedNode = document.getElementById("textBox").value;
@@ -430,6 +429,7 @@ async function animateCluster(){
 	}
 
 	animateNodes(); 
+
 
 
 /*
