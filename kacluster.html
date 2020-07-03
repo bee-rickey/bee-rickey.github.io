@@ -255,11 +255,11 @@ d3.json("kacluster2.json", function(error, graph) {
 		div.transition()
 			.style("opacity", 1);
 
-		let text = "<label> " + d.id + ", " + d.a + ", " + d.s + ", " + d.l ;
+		let text = "<label> " + d.id + ", " + d.a + ", " + d.s + ", " + d.l + ", " + d.d ;
 
 		div.html(text)
-			.style("left", (d3.event.pageX - 60) + "px")
-			.style("top", (d3.event.pageY - 28) + "px");
+			.style("left", (d3.event.pageX) + "px")
+			.style("top", (d3.event.pageY) + "px");
 		})
 		.on("mouseout", function(d) {
 			div.transition()
