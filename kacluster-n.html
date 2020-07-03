@@ -226,7 +226,7 @@ d3.json("kacluster2.json", function(error, graph) {
 
 		divContent = "<b>Cluster size:</b> " + connectedNodeIds.length + "<br>";
 		divContent += "<b>First patient:</b> " + metaNode.additional.firstPatient + ", <b>Date:</b> " + metaNode.additional.minDate + "<br>";
-		divContent += "<b>Superspreader:</b> " + metaNode.additional.superSpreader + ", <b>Count:</b> " + metaNode.additional.superSpreaderCount + "<br>";
+		divContent += "<b>Case with max links:</b> " + metaNode.additional.superSpreader + ", <b>Count:</b> " + metaNode.additional.superSpreaderCount + "<br>";
 		divContent += "<b>Average age of patients:</b> " + metaNode.additional.avgAge + "<br>";
 		divContent += "<b>Districts affected:</b> " + metaNode.additional.districts + "<br>";
 		divContent += "<b>Avg days between links: </b> " + (linkDays/linkCount).toFixed(2) + "<br>";
