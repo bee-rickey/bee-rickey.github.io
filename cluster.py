@@ -158,7 +158,7 @@ def buildAdditionalInfo(exploredNodes):
 			gender[patientIdMap[node]['gender']] = 1
 
 		try:
-			age += int(patientIdMap[node]['age'])
+			age += float(patientIdMap[node]['age'])
 		except KeyError:
 			continue
 	
@@ -216,6 +216,8 @@ def buildFinalList():
 			nodeObj["l"] = "N/A"
 			nodeObj["d"] = "N/A"
 			nodeObj["m"] = patientIdMap[node]['metaNode']
+			if patientIdMap[node]['metaNode'] == node:
+				nodeObj["additional"] = metaData[node]
 
 		nodesArray.append(nodeObj)
 
