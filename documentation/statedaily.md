@@ -58,4 +58,5 @@ This API gives the daily statistics for all states across confirmed, recovered a
 - The values given in the value part for each state code gives the delta for that status for that state for that date. 
 
 #### Usage and caveats:
-- 
+- The cateogry "tt" represents the total count for that date/status combination.
+- The API does not consider Migrated category.

@@ -1,5 +1,5 @@
 #### Description
-This API gives the district level details of states that includes the totals for all categories and the deltas for today.
+This API gives the district level details of states that includes the totals for all categories and the deltas for **the current day**.
 
 #### Structure
 ```
