@@ -3,6 +3,7 @@ This API gives the district level details of states that includes the totals for
 
 #### Structure
 ```
+{
   "State Name": {
     "districtData": {
       "DistrictName": {
@@ -19,8 +20,12 @@ This API gives the district level details of states that includes the totals for
       }
     },
     "statecode": "twoLetterStateCode"
-  }
-  ```
+  },
+  .
+  .
+  .
+}
+```
 The values for delta and totals are per district per state combination. 
 
 ### Usage and caveats:
@@ -30,3 +35,4 @@ The values for delta and totals are per district per state combination.
 	- Deltas could go negative if the state buleltins show lesser cumulative count for categories from one day to the next.
 	- There is a remote possibility of total active count going negative if the state announced recoveries/deceased for a district but does not provided updated cumulative confirmed count.
 - The district names are the ones given in state bulletins. So sometimes the district names might have values like "Other State", "BSF Camp" et al. These are due to the states categorising cases into those broad categories.
+- The values of delta reset to 0 for all districts once a new case gets reported anytime after 7am IST the next day.
