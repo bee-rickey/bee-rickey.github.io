@@ -16,50 +16,50 @@
 <meta charset="utf-8">
 <style>
 
-div.tooltip {	
-	position: absolute;
-	text-align: center;
-	padding: 2px 6px;
-	font: 12px sans-serif;
-	background-color: #e5e2e1;
-	color: black;
-	border: 0px;
-	border-radius: 8px;
-	pointer-events: none;
-	line-height: 28px;			
+div.tooltip {  
+  position: absolute;
+  text-align: center;
+  padding: 2px 6px;
+  font: 12px sans-serif;
+  background-color: #e5e2e1;
+  color: black;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  line-height: 28px;      
 }
 
-div.clusterdiv {	
-	position: absolute;
-	text-align: center;
-	padding: 2px 6px;
-	width: 300px;
-	font: 12px sans-serif;
-	background-color: #e5e2e1;
-	color: black;
-	border: 0px;
-	border-radius: 8px;
-	pointer-events: none;
-	line-height: 28px;			
+div.clusterdiv {  
+  position: absolute;
+  text-align: center;
+  padding: 2px 6px;
+  width: 300px;
+  font: 12px sans-serif;
+  background-color: #e5e2e1;
+  color: black;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  line-height: 28px;      
 }
 
 
 .links line {
- 	stroke: #000;
- 	stroke-opacity: 0.70;
+   stroke: #000;
+   stroke-opacity: 0.70;
 }
 
 .nodes circle {
-	stroke: #000;
-	stroke-width: 0.40px;
+  stroke: #000;
+  stroke-width: 0.40px;
 }
 
 text {
-	font: 4px arial;
+  font: 4px arial;
 }
 
 .node.fixed {
-	fill: #f00;
+  fill: #f00;
 }
 
 .nodes:hover text {
@@ -71,41 +71,41 @@ text {
     width: 190vh;
     border: 1px solid black;
     overflow: hidden;
-	position: relative; /* add this line! */
+  position: relative; /* add this line! */
 }
 
 #search {
-	z-index: 1;
+  z-index: 1;
     border: 1px solid black;
-	position: absolute;
-	background-color: #e5e2e1
+  position: absolute;
+  background-color: #e5e2e1
 }
 
 #animate {
-	z-index: 1;
+  z-index: 1;
     border: 1px solid black;
-	position: absolute;
-	width: 100px;
-	background-color: #e5e2e1;
-	visibility: hidden
+  position: absolute;
+  width: 100px;
+  background-color: #e5e2e1;
+  visibility: hidden
 }
 
 #textBox {
-	z-index: 1;
-	width: 150px;
+  z-index: 1;
+  width: 150px;
 }
 
 </style>
 <div id = "search">
-	<input type="text" id="textBox" placeholder="District | patient Id | Month"> </input>  
-	<button type="button" id="triggerButton" onclick="searchNode()">Search</button>   
-	<label id = "insights"> </label>
+  <input type="text" id="textBox" placeholder="District | patient Id | Month"> </input>  
+  <button type="button" id="triggerButton" onclick="searchNode()">Search</button>   
+  <label id = "insights"> </label>
 </div>
 <div id = "animate">
-	<button type="button" id="animateBtn" onclick="animateCluster()">Animate</button>   
+  <button type="button" id="animateBtn" onclick="animateCluster()">Animate</button>   
 </div>
 <div id="display">
-	<svg width="1500" height="1000" viewBox="-580 -300 1400 600"></svg>
+  <svg width="1500" height="1000" viewBox="-580 -300 1400 600"></svg>
 </div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
@@ -120,21 +120,21 @@ var g = svg.append("g")
     .attr("class", "everything");
 
 var div = d3.select("body").append("div")
-		.attr("class", "tooltip")
-		.style("opacity", 0);
+    .attr("class", "tooltip")
+    .style("opacity", 0);
 
 var clusterDiv = d3.select("body").append("div")
-	.attr("id", "clusterdiv")
-	.attr("class", "clusterdiv")
-	.style("opacity", 0);
+  .attr("id", "clusterdiv")
+  .attr("class", "clusterdiv")
+  .style("opacity", 0);
 
-		svg.on("click", function(d) {
-	clusterDiv.transition()
-		.style("opacity", 0);
-	document.getElementById("animate").style.visibility = "hidden";
-	document.getElementById("search").style.visibility = "visible";
-	connectedNodeIds = null;
-	//connectedNodeIds.splice(0, connectedNodeIds.length);
+    svg.on("click", function(d) {
+  clusterDiv.transition()
+    .style("opacity", 0);
+  document.getElementById("animate").style.visibility = "hidden";
+  document.getElementById("search").style.visibility = "visible";
+  connectedNodeIds = null;
+  //connectedNodeIds.splice(0, connectedNodeIds.length);
 });
 
 //var color = d3.scaleOrdinal(d3.schemeCategory20);
@@ -143,227 +143,227 @@ var clusterDiv = d3.select("body").append("div")
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
     .force("charge", d3.forceManyBody().strength(-200))
-		.force("x", d3.forceX())
-		.force("y", d3.forceY());
+    .force("x", d3.forceX())
+    .force("y", d3.forceY());
     //.force("center", d3.forceCenter(width / 2, height / 2)); */
 
 var simulation = d3.forceSimulation()
-					.force("x", d3.forceX())
-					.force("y", d3.forceY())
-					.force("charge", d3.forceManyBody().strength(-140))
-					.force("link", d3.forceLink().strength(1.4).id(function(d) { return d.id; }))
-					.alphaTarget(0)
-					.alphaDecay(0.03)
+          .force("x", d3.forceX())
+          .force("y", d3.forceY())
+          .force("charge", d3.forceManyBody().strength(-140))
+          .force("link", d3.forceLink().strength(1.4).id(function(d) { return d.id; }))
+          .alphaTarget(0)
+          .alphaDecay(0.03)
 
 
 //d3.json("https://raw.githubusercontent.com/bee-rickey/bee-rickey.github.io/master/kacluster2.json", function(error, graph) {
 d3.json("kacluster2.json", function(error, graph) {
-	if (error) throw error;
+  if (error) throw error;
 
-	let link = g.append("g")
-	    .attr("class", "links")
-	    .selectAll("line")
-	    .data(graph.links)
-	    .enter().append("line")
-	    .attr("stroke-width", function(d) { return 0.8; });
+  let link = g.append("g")
+      .attr("class", "links")
+      .selectAll("line")
+      .data(graph.links)
+      .enter().append("line")
+      .attr("stroke-width", function(d) { return 0.8; });
 
-	let node = g.append("g")
-		.attr("class", "nodes")
-		.selectAll("g")
-		.data(graph.nodes)
-		.enter().append("g")
+  let node = g.append("g")
+    .attr("class", "nodes")
+    .selectAll("g")
+    .data(graph.nodes)
+    .enter().append("g")
 
-	function recursiveMap(clickedNode){
-		let explored = new Array();
-		let queue = new Array();
+  function recursiveMap(clickedNode){
+    let explored = new Array();
+    let queue = new Array();
 
-		queue.push(clickedNode);
-		explored.push(clickedNode);
+    queue.push(clickedNode);
+    explored.push(clickedNode);
 
-		while(queue.length != 0){
-			visitingNode = queue.pop();
-			let connectedNodeIds = graph
-				.links
-				.filter(x => x.source.id == visitingNode.id || x.target.id == visitingNode.id)
-				.map(x => x.source.id == visitingNode.id ? x.target : x.source);
-			for(i = 0 ; i < connectedNodeIds.length ; i++){
-				if(!explored.includes(connectedNodeIds[i])){
-					explored.push(connectedNodeIds[i]);
-					queue.push(connectedNodeIds[i]);
-				}
-			}
-		}
+    while(queue.length != 0){
+      visitingNode = queue.pop();
+      let connectedNodeIds = graph
+        .links
+        .filter(x => x.source.id == visitingNode.id || x.target.id == visitingNode.id)
+        .map(x => x.source.id == visitingNode.id ? x.target : x.source);
+      for(i = 0 ; i < connectedNodeIds.length ; i++){
+        if(!explored.includes(connectedNodeIds[i])){
+          explored.push(connectedNodeIds[i]);
+          queue.push(connectedNodeIds[i]);
+        }
+      }
+    }
 
-		return explored;
-	}
-	
-	node.on("click", function(d) {
-		connectedNodeIds = recursiveMap(d);
-		document.getElementById("animate").style.visibility = "visible";
-		document.getElementById("search").style.visibility = "hidden";
+    return explored;
+  }
+  
+  node.on("click", function(d) {
+    connectedNodeIds = recursiveMap(d);
+    document.getElementById("animate").style.visibility = "visible";
+    document.getElementById("search").style.visibility = "hidden";
 
-		let metaNode = graph.nodes.find(m => m.id === d.m)
-		div.transition()
-				.duration(800)
-				.style("opacity", 0);
-
-
-		d3.select(".nodes")
-			.selectAll("circle")
-			.attr("fill", function(c) {
-				if (connectedNodeIds.includes(c)) return "red";
-				else return "blue";
-		});
-
-		let linkDays = 0;
-		let linkCount = 0;
-		d3.select(".links")
-			.selectAll("line")
-			.style("stroke", function(c) {
-			if(connectedNodeIds.includes(c.source) || connectedNodeIds.includes(c.target) ) {
-				linkDays += c.days;
-				linkCount++;
-				return "red";
-			}
-		});
-
-		clusterDiv.transition()
-			.style("opacity", 1);
-
-		let monthBasedData = "";
-		let months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-		months.forEach(function(m){
-			if(metaNode.additional.month[m] != undefined){
-				monthBasedData += "<b>No of cases in " + m + " :</b> " + metaNode.additional.month[m] + "<br>";
-			}		
-		});
-
-		divContent = "<b>Cluster size:</b> " + connectedNodeIds.length + "<br>";
-		divContent += "<b>First patient:</b> " + metaNode.additional.firstPatient + ", <b>Date:</b> " + metaNode.additional.minDate + "<br>";
-		divContent += "<b>Case with max links:</b> " + metaNode.additional.superSpreader + ", <b>Count:</b> " + metaNode.additional.superSpreaderCount + "<br>";
-		divContent += "<b>Average age of patients:</b> " + metaNode.additional.avgAge + "<br>";
-		divContent += "<b>Districts affected:</b> " + metaNode.additional.districts + "<br>";
-		divContent += "<b>Avg days between links: </b> " + (linkDays/linkCount).toFixed(2) + "<br>";
-		divContent += monthBasedData;
-
-		clusterDiv.html(divContent)
-			.style("left", (d3.event.pageX) + "px")
-			.style("top", (d3.event.pageY) + "px");
-		
-		d3.event.stopPropagation();
-
-  	});
-
-	let labels = node.append("text")
-     	.text(function(d) { return d.id; })
-		.attr('x', 6)
-      	.attr('y', -3)
-      	.attr('z', 1);
+    let metaNode = graph.nodes.find(m => m.id === d.m)
+    div.transition()
+        .duration(800)
+        .style("opacity", 0);
 
 
-  	let circles = node.append("circle")
-    	.attr("r", 1.5)
-    	.attr("fill", function(d) { return "blue"; });
+    d3.select(".nodes")
+      .selectAll("circle")
+      .attr("fill", function(c) {
+        if (connectedNodeIds.includes(c)) return "red";
+        else return "blue";
+    });
 
-	circles.on("mouseover", function(d) {
-		div.transition()
-			.style("opacity", 1);
+    let linkDays = 0;
+    let linkCount = 0;
+    d3.select(".links")
+      .selectAll("line")
+      .style("stroke", function(c) {
+      if(connectedNodeIds.includes(c.source) || connectedNodeIds.includes(c.target) ) {
+        linkDays += c.days;
+        linkCount++;
+        return "red";
+      }
+    });
 
-		let text = "<label> " + d.id + ", " + d.a + ", " + d.s + ", " + d.l + ", " + d.d ;
+    clusterDiv.transition()
+      .style("opacity", 1);
 
-		div.html(text)
-			.style("left", (d3.event.pageX) + "px")
-			.style("top", (d3.event.pageY) + "px");
-		})
-		.on("mouseout", function(d) {
-			div.transition()
-				.duration(800)
-				.style("opacity", 0);
-		})
+    let monthBasedData = "";
+    let months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    months.forEach(function(m){
+      if(metaNode.additional.month[m] != undefined){
+        monthBasedData += "<b>No of cases in " + m + " :</b> " + metaNode.additional.month[m] + "<br>";
+      }    
+    });
 
-  	simulation
-		.nodes(graph.nodes)
-		.on("tick", ticked);
+    divContent = "<b>Cluster size:</b> " + connectedNodeIds.length + "<br>";
+    divContent += "<b>First patient:</b> " + metaNode.additional.firstPatient + ", <b>Date:</b> " + metaNode.additional.minDate + "<br>";
+    divContent += "<b>Case with max links:</b> " + metaNode.additional.superSpreader + ", <b>Count:</b> " + metaNode.additional.superSpreaderCount + "<br>";
+    divContent += "<b>Average age of patients:</b> " + metaNode.additional.avgAge + "<br>";
+    divContent += "<b>Districts affected:</b> " + metaNode.additional.districts + "<br>";
+    divContent += "<b>Avg days between links: </b> " + (linkDays/linkCount).toFixed(2) + "<br>";
+    divContent += monthBasedData;
 
-  	simulation.force("link")
-		.links(graph.links);
+    clusterDiv.html(divContent)
+      .style("left", (d3.event.pageX) + "px")
+      .style("top", (d3.event.pageY) + "px");
+    
+    d3.event.stopPropagation();
 
-	/*
-	let drag_handler = d3.drag()
-		.on("start", drag_start)
-		.on("drag", drag_drag)
-		.on("end", drag_end); 
+    });
 
-	drag_handler(node);
+  let labels = node.append("text")
+       .text(function(d) { return d.id; })
+    .attr('x', 6)
+        .attr('y', -3)
+        .attr('z', 1);
 
-	function drag_start(d) {
-	 	if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-		d.fx = d.x;
-		d.fy = d.y;
-	}
 
-	//make sure you cant drag the circle outside the box
-	function drag_drag(d) {
-		d.fx = d3.event.x;
-		d.fy = d3.event.y;
-	}
+    let circles = node.append("circle")
+      .attr("r", 1.5)
+      .attr("fill", function(d) { return "blue"; });
 
-	function drag_end(d) {
-		if (!d3.event.active) simulation.alphaTarget(0);
-		d.fx = d.x;
-		d.fy = d.y;
-	}
-	*/
+  circles.on("mouseover", function(d) {
+    div.transition()
+      .style("opacity", 1);
 
-  	function ticked() {
-    	link
-        	.attr("x1", function(d) { return d.source.x; })
-        	.attr("y1", function(d) { return d.source.y; })
-        	.attr("x2", function(d) { return d.target.x; })
-        	.attr("y2", function(d) { return d.target.y; }); 
+    let text = "<label> " + d.id + ", " + d.a + ", " + d.s + ", " + d.l + ", " + d.d ;
 
-    	node
-        	.attr("transform", function(d) {
-        		return "translate(" + d.x + "," + d.y + ")";
-        	})
-  	}
+    div.html(text)
+      .style("left", (d3.event.pageX) + "px")
+      .style("top", (d3.event.pageY) + "px");
+    })
+    .on("mouseout", function(d) {
+      div.transition()
+        .duration(800)
+        .style("opacity", 0);
+    })
+
+    simulation
+    .nodes(graph.nodes)
+    .on("tick", ticked);
+
+    simulation.force("link")
+    .links(graph.links);
+
+  /*
+  let drag_handler = d3.drag()
+    .on("start", drag_start)
+    .on("drag", drag_drag)
+    .on("end", drag_end); 
+
+  drag_handler(node);
+
+  function drag_start(d) {
+     if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+
+  //make sure you cant drag the circle outside the box
+  function drag_drag(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+  }
+
+  function drag_end(d) {
+    if (!d3.event.active) simulation.alphaTarget(0);
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+  */
+
+    function ticked() {
+      link
+          .attr("x1", function(d) { return d.source.x; })
+          .attr("y1", function(d) { return d.source.y; })
+          .attr("x2", function(d) { return d.target.x; })
+          .attr("y2", function(d) { return d.target.y; }); 
+
+      node
+          .attr("transform", function(d) {
+            return "translate(" + d.x + "," + d.y + ")";
+          })
+    }
 });
 
 
-	let zoom_handler = d3.zoom()
-    	.on("zoom", zoom_actions);
+  let zoom_handler = d3.zoom()
+      .on("zoom", zoom_actions);
 
-	zoom_handler(svg);
+  zoom_handler(svg);
 
-	function zoom_actions(){
-    	g.attr("transform", d3.event.transform)
-	}
+  function zoom_actions(){
+      g.attr("transform", d3.event.transform)
+  }
 
 function searchNode(){
-	let selectedNode = document.getElementById("textBox").value;
-	let selectedNodes = new Set();
-	
-	if (selectedNode === "none" || selectedNode === "") {
-		return;
-	} else {
-		document.getElementById("insights").innerHTML = "";
-		d3.select(".nodes")
-			.selectAll("circle")
-			.attr("fill", function(c) {
-				if (c.id == selectedNode || c.l.toUpperCase() == selectedNode.toUpperCase() || c.d.toUpperCase().includes(selectedNode.toUpperCase())){ 
-					selectedNodes.add(c.id);
-					return "red";
-				}else { 
-					return "blue";
-				}
-			});
+  let selectedNode = document.getElementById("textBox").value;
+  let selectedNodes = new Set();
+  
+  if (selectedNode === "none" || selectedNode === "") {
+    return;
+  } else {
+    document.getElementById("insights").innerHTML = "";
+    d3.select(".nodes")
+      .selectAll("circle")
+      .attr("fill", function(c) {
+        if (c.id == selectedNode || c.l.toUpperCase() == selectedNode.toUpperCase() || c.d.toUpperCase().includes(selectedNode.toUpperCase())){ 
+          selectedNodes.add(c.id);
+          return "red";
+        }else { 
+          return "blue";
+        }
+      });
 
-		d3.select(".links")
-			.selectAll("line")
-			.style("stroke", function(c) {
-				if(selectedNodes.has(c.source.id) || selectedNodes.has(c.target.id)) return "red";
-			});
-	}
+    d3.select(".links")
+      .selectAll("line")
+      .style("stroke", function(c) {
+        if(selectedNodes.has(c.source.id) || selectedNodes.has(c.target.id)) return "red";
+      });
+  }
 };
 
 
@@ -373,132 +373,132 @@ function sleep(ms) {
 
 
 async function animateCluster(){
-	connectedNodeIds = connectedNodeIds.sort(function(a,b){return Date.parse(a.d) - Date.parse(b.d)});
+  connectedNodeIds = connectedNodeIds.sort(function(a,b){return Date.parse(a.d) - Date.parse(b.d)});
 
-	//let monthBasedData = [];
-	let monthMapping = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  //let monthBasedData = [];
+  let monthMapping = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
-	let monthBasedData = {};
+  let monthBasedData = {};
 
-	connectedNodeIds.forEach(function(a){
-		if(a.d === "N/A")
-			return;
-		let dateObj = new Date(a.d);
+  connectedNodeIds.forEach(function(a){
+    if(a.d === "N/A")
+      return;
+    let dateObj = new Date(a.d);
 /*
-		monthBasedData[monthMapping[dateObj.getMonth()]] = monthBasedData[monthMapping[dateObj.getMonth()]] || [];		
-		monthBasedData[monthMapping[dateObj.getMonth()]].push(a);
+    monthBasedData[monthMapping[dateObj.getMonth()]] = monthBasedData[monthMapping[dateObj.getMonth()]] || [];    
+    monthBasedData[monthMapping[dateObj.getMonth()]].push(a);
 
 */
-		monthBasedData[a.d] = monthBasedData[a.d] || [];		
-		monthBasedData[a.d].push(a);
-		/*
-		monthBasedData[dateObj.getMonth()] = monthBasedData[dateObj.getMonth()] || [];
-		monthBasedData[dateObj.getMonth()][1] = monthBasedData[dateObj.getMonth()][1] || [];
-		monthBasedData[dateObj.getMonth()][0] = monthBasedData[dateObj.getMonth()][0] || [];
-		monthBasedData[dateObj.getMonth()][1].push(a);
-		monthBasedData[dateObj.getMonth()][0].push(monthMapping[dateObj.getMonth()]); */
-	});
+    monthBasedData[a.d] = monthBasedData[a.d] || [];    
+    monthBasedData[a.d].push(a);
+    /*
+    monthBasedData[dateObj.getMonth()] = monthBasedData[dateObj.getMonth()] || [];
+    monthBasedData[dateObj.getMonth()][1] = monthBasedData[dateObj.getMonth()][1] || [];
+    monthBasedData[dateObj.getMonth()][0] = monthBasedData[dateObj.getMonth()][0] || [];
+    monthBasedData[dateObj.getMonth()][1].push(a);
+    monthBasedData[dateObj.getMonth()][0].push(monthMapping[dateObj.getMonth()]); */
+  });
 
 
 
-	d3.select(".nodes")
-		.selectAll("circle")
-		.attr("fill", function(c) {
-			return "blue";
-	});
+  d3.select(".nodes")
+    .selectAll("circle")
+    .attr("fill", function(c) {
+      return "blue";
+  });
 
 
-	d3.select(".links")
-		.selectAll("line")
-		.style("stroke", function(c) {
-			return "black";
-		});
+  d3.select(".links")
+    .selectAll("line")
+    .style("stroke", function(c) {
+      return "black";
+    });
 
-	let timeoutValue = 1;
-	let firstRun = true;
+  let timeoutValue = 1;
+  let firstRun = true;
 
 
-	let i = 0;                  
-	let interval = 1;
-	let monthArray = Object.keys(monthBasedData);
+  let i = 0;                  
+  let interval = 1;
+  let monthArray = Object.keys(monthBasedData);
 
-	monthArray = monthArray.sort(function(a,b){return Date.parse(a) - Date.parse(b)});
+  monthArray = monthArray.sort(function(a,b){return Date.parse(a) - Date.parse(b)});
 
-	function animateNodes() {
-		     
-		setTimeout(function() {
+  function animateNodes() {
+         
+    setTimeout(function() {
 
-	    	document.getElementById("clusterdiv").innerHTML = "<b>" + monthArray[i] + "</b> <br> <b> Number of cases: </b> " + monthBasedData[monthArray[i]].length;
-	    	d3.select(".nodes")
-				.selectAll("circle")
-				.attr("fill", function(c) {
-					if (monthBasedData[monthArray[i]].includes(c)) 
-						return "red";
-					else
-						return "blue";
-					}); 
+        document.getElementById("clusterdiv").innerHTML = "<b>" + monthArray[i] + "</b> <br> <b> Number of cases: </b> " + monthBasedData[monthArray[i]].length;
+        d3.select(".nodes")
+        .selectAll("circle")
+        .attr("fill", function(c) {
+          if (monthBasedData[monthArray[i]].includes(c)) 
+            return "red";
+          else
+            return "blue";
+          }); 
 
-			d3.select(".links")
-				.selectAll("line")
-				.style("stroke", function(c) {
-					if(monthBasedData[monthArray[i]].includes(c.source) || monthBasedData[monthArray[i]].includes(c.target)) return "red";
-				});	
-	    	i++;                    
-	    	if (i < monthArray.length) {
-		     	animateNodes();             
-	   		}                       
-		}, 2000);
-	}
+      d3.select(".links")
+        .selectAll("line")
+        .style("stroke", function(c) {
+          if(monthBasedData[monthArray[i]].includes(c.source) || monthBasedData[monthArray[i]].includes(c.target)) return "red";
+        });  
+        i++;                    
+        if (i < monthArray.length) {
+           animateNodes();             
+         }                       
+    }, 2000);
+  }
 
-	animateNodes(); 
+  animateNodes(); 
 
 
 
 /*
-	for (let i=0; i<monthBasedData.length; i++) {
-		if(monthBasedData[i].length === 0)
-			continue;
+  for (let i=0; i<monthBasedData.length; i++) {
+    if(monthBasedData[i].length === 0)
+      continue;
 
-		if(firstRun){
-			timeoutValue = 0;
-			firstRun = false;
-		} else {
-			timeoutValue = i * 1000;
-		}
+    if(firstRun){
+      timeoutValue = 0;
+      firstRun = false;
+    } else {
+      timeoutValue = i * 1000;
+    }
 
-    	setTimeout( function timer(){
-    		document.getElementById("clusterdiv").innerHTML = monthMapping[i];
+      setTimeout( function timer(){
+        document.getElementById("clusterdiv").innerHTML = monthMapping[i];
 
-        	d3.select(".nodes")
-				.selectAll("circle")
-				.attr("fill", function(c) {
-					if (monthBasedData[i].includes(c)) 
-						return "red";
-					else
-						color("blue");
-					}); 
+          d3.select(".nodes")
+        .selectAll("circle")
+        .attr("fill", function(c) {
+          if (monthBasedData[i].includes(c)) 
+            return "red";
+          else
+            color("blue");
+          }); 
 
-			d3.select(".links")
-				.selectAll("line")
-				.style("stroke", function(c) {
-					if(monthBasedData[i].includes(c.source) || monthBasedData[i].includes(c.target)) return "red";
-				});		
-			
-    	}, 2000);
-	};
+      d3.select(".links")
+        .selectAll("line")
+        .style("stroke", function(c) {
+          if(monthBasedData[i].includes(c.source) || monthBasedData[i].includes(c.target)) return "red";
+        });    
+      
+      }, 2000);
+  };
 */
-		//setTimeout(() => {  console.log("World!"); }, 200);
-		//sleep(2000);
-	
+    //setTimeout(() => {  console.log("World!"); }, 200);
+    //sleep(2000);
+  
 };
 
 
 let input = document.getElementById("textBox");
 input.addEventListener("keyup", function(event) {
- 	if (event.keyCode === 13) {
-   		event.preventDefault();
-		document.getElementById("triggerButton").click();
- 	}
+   if (event.keyCode === 13) {
+       event.preventDefault();
+    document.getElementById("triggerButton").click();
+   }
 });
 
 
