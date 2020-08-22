@@ -1,0 +1,3919 @@
+State,District,Status,Date,Count
+Andaman and Nicobar Islands,North and Middle Andaman,confirmed,2020-03-27,1.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-03-26,1.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-03-27,4.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-03-28,3.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-03-30,1.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-08,1.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-17,1.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-18,2.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-19,1.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-20,1.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-21,1.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-22,1.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-23,4.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-24,7.0
+Andaman and Nicobar Islands,South Andaman,confirmed,2020-04-25,4.0
+Andhra Pradesh,Anantapur,deceased,2020-04-06,1.0
+Andhra Pradesh,Anantapur,deceased,2020-04-09,1.0
+Andhra Pradesh,Anantapur,deceased,2020-04-20,1.0
+Andhra Pradesh,Anantapur,deceased,2020-04-24,1.0
+Andhra Pradesh,Anantapur,confirmed,2020-03-31,2.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-04,1.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-05,3.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-08,7.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-10,2.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-14,5.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-15,1.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-17,5.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-19,3.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-20,4.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-21,3.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-23,6.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-24,4.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-25,5.0
+Andhra Pradesh,Anantapur,confirmed,2020-04-26,2.0
+Andhra Pradesh,Anantapur,recovered,2020-04-22,5.0
+Andhra Pradesh,Anantapur,recovered,2020-04-24,4.0
+Andhra Pradesh,Anantapur,recovered,2020-04-26,1.0
+Andhra Pradesh,Chittoor,confirmed,2020-03-24,1.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-01,5.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-02,3.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-04,1.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-05,7.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-07,1.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-08,2.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-12,1.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-13,2.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-17,5.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-20,25.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-22,6.0
+Andhra Pradesh,Chittoor,confirmed,2020-04-23,14.0
+Andhra Pradesh,Chittoor,recovered,2020-04-26,2.0
+Andhra Pradesh,East Godavari,confirmed,2020-03-21,1.0
+Andhra Pradesh,East Godavari,confirmed,2020-03-30,2.0
+Andhra Pradesh,East Godavari,confirmed,2020-03-31,1.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-01,5.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-03,2.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-09,1.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-10,5.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-18,2.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-19,5.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-20,2.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-23,6.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-24,2.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-25,3.0
+Andhra Pradesh,East Godavari,confirmed,2020-04-26,2.0
+Andhra Pradesh,Guntur,deceased,2020-04-09,1.0
+Andhra Pradesh,Guntur,deceased,2020-04-12,1.0
+Andhra Pradesh,Guntur,deceased,2020-04-14,2.0
+Andhra Pradesh,Guntur,deceased,2020-04-21,2.0
+Andhra Pradesh,Guntur,deceased,2020-04-22,2.0
+Andhra Pradesh,Guntur,confirmed,2020-03-25,1.0
+Andhra Pradesh,Guntur,confirmed,2020-03-27,1.0
+Andhra Pradesh,Guntur,confirmed,2020-03-28,2.0
+Andhra Pradesh,Guntur,confirmed,2020-03-31,5.0
+Andhra Pradesh,Guntur,confirmed,2020-04-01,11.0
+Andhra Pradesh,Guntur,confirmed,2020-04-04,10.0
+Andhra Pradesh,Guntur,confirmed,2020-04-06,2.0
+Andhra Pradesh,Guntur,confirmed,2020-04-07,9.0
+Andhra Pradesh,Guntur,confirmed,2020-04-08,8.0
+Andhra Pradesh,Guntur,confirmed,2020-04-09,2.0
+Andhra Pradesh,Guntur,confirmed,2020-04-10,7.0
+Andhra Pradesh,Guntur,confirmed,2020-04-11,17.0
+Andhra Pradesh,Guntur,confirmed,2020-04-12,7.0
+Andhra Pradesh,Guntur,confirmed,2020-04-13,11.0
+Andhra Pradesh,Guntur,confirmed,2020-04-14,21.0
+Andhra Pradesh,Guntur,confirmed,2020-04-15,8.0
+Andhra Pradesh,Guntur,confirmed,2020-04-17,3.0
+Andhra Pradesh,Guntur,confirmed,2020-04-19,3.0
+Andhra Pradesh,Guntur,confirmed,2020-04-20,20.0
+Andhra Pradesh,Guntur,confirmed,2020-04-21,9.0
+Andhra Pradesh,Guntur,confirmed,2020-04-22,19.0
+Andhra Pradesh,Guntur,confirmed,2020-04-23,18.0
+Andhra Pradesh,Guntur,confirmed,2020-04-24,11.0
+Andhra Pradesh,Guntur,confirmed,2020-04-25,3.0
+Andhra Pradesh,Guntur,confirmed,2020-04-26,6.0
+Andhra Pradesh,Guntur,recovered,2020-04-22,8.0
+Andhra Pradesh,Guntur,recovered,2020-04-26,6.0
+Andhra Pradesh,Krishna,deceased,2020-04-03,1.0
+Andhra Pradesh,Krishna,deceased,2020-04-06,1.0
+Andhra Pradesh,Krishna,deceased,2020-04-14,1.0
+Andhra Pradesh,Krishna,deceased,2020-04-15,1.0
+Andhra Pradesh,Krishna,deceased,2020-04-20,1.0
+Andhra Pradesh,Krishna,deceased,2020-04-23,1.0
+Andhra Pradesh,Krishna,confirmed,2020-03-21,1.0
+Andhra Pradesh,Krishna,confirmed,2020-03-25,1.0
+Andhra Pradesh,Krishna,confirmed,2020-03-26,1.0
+Andhra Pradesh,Krishna,confirmed,2020-03-28,1.0
+Andhra Pradesh,Krishna,confirmed,2020-03-31,1.0
+Andhra Pradesh,Krishna,confirmed,2020-04-01,10.0
+Andhra Pradesh,Krishna,confirmed,2020-04-02,8.0
+Andhra Pradesh,Krishna,confirmed,2020-04-04,5.0
+Andhra Pradesh,Krishna,confirmed,2020-04-06,1.0
+Andhra Pradesh,Krishna,confirmed,2020-04-08,6.0
+Andhra Pradesh,Krishna,confirmed,2020-04-13,1.0
+Andhra Pradesh,Krishna,confirmed,2020-04-14,8.0
+Andhra Pradesh,Krishna,confirmed,2020-04-15,1.0
+Andhra Pradesh,Krishna,confirmed,2020-04-16,3.0
+Andhra Pradesh,Krishna,confirmed,2020-04-17,4.0
+Andhra Pradesh,Krishna,confirmed,2020-04-18,17.0
+Andhra Pradesh,Krishna,confirmed,2020-04-19,6.0
+Andhra Pradesh,Krishna,confirmed,2020-04-20,5.0
+Andhra Pradesh,Krishna,confirmed,2020-04-21,3.0
+Andhra Pradesh,Krishna,confirmed,2020-04-22,3.0
+Andhra Pradesh,Krishna,confirmed,2020-04-23,2.0
+Andhra Pradesh,Krishna,confirmed,2020-04-24,14.0
+Andhra Pradesh,Krishna,confirmed,2020-04-25,25.0
+Andhra Pradesh,Krishna,confirmed,2020-04-26,50.0
+Andhra Pradesh,Krishna,recovered,2020-04-22,2.0
+Andhra Pradesh,Kurnool,deceased,2020-04-15,1.0
+Andhra Pradesh,Kurnool,deceased,2020-04-18,1.0
+Andhra Pradesh,Kurnool,deceased,2020-04-19,1.0
+Andhra Pradesh,Kurnool,deceased,2020-04-20,1.0
+Andhra Pradesh,Kurnool,deceased,2020-04-23,2.0
+Andhra Pradesh,Kurnool,deceased,2020-04-24,1.0
+Andhra Pradesh,Kurnool,confirmed,2020-03-28,1.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-04,3.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-05,49.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-06,20.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-07,1.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-10,2.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-11,5.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-12,2.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-14,7.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-15,19.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-16,3.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-17,14.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-18,6.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-19,26.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-20,16.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-21,10.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-22,19.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-23,31.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-24,27.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-25,14.0
+Andhra Pradesh,Kurnool,confirmed,2020-04-26,4.0
+Andhra Pradesh,Kurnool,recovered,2020-04-26,24.0
+Andhra Pradesh,Prakasam,confirmed,2020-03-19,1.0
+Andhra Pradesh,Prakasam,confirmed,2020-03-28,2.0
+Andhra Pradesh,Prakasam,confirmed,2020-03-31,8.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-01,4.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-02,2.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-04,4.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-05,2.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-06,1.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-08,4.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-09,11.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-10,2.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-11,1.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-18,2.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-22,4.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-23,2.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-24,3.0
+Andhra Pradesh,Prakasam,confirmed,2020-04-26,3.0
+Andhra Pradesh,Prakasam,recovered,2020-04-26,11.0
+Andhra Pradesh,S.P.S. Nellore,deceased,2020-04-14,1.0
+Andhra Pradesh,S.P.S. Nellore,deceased,2020-04-15,1.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-03-12,1.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-01,2.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-02,21.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-03,8.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-05,2.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-06,8.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-08,6.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-12,4.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-13,4.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-14,0.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-15,2.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-17,6.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-18,3.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-24,1.0
+Andhra Pradesh,S.P.S. Nellore,confirmed,2020-04-25,4.0
+Andhra Pradesh,S.P.S. Nellore,recovered,2020-04-01,1.0
+Andhra Pradesh,S.P.S. Nellore,recovered,2020-04-22,4.0
+Andhra Pradesh,S.P.S. Nellore,recovered,2020-04-26,15.0
+Andhra Pradesh,Srikakulam,confirmed,2020-04-25,3.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-03-19,1.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-03-22,1.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-03-23,1.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-03-27,1.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-03-29,2.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-03-31,4.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-04-01,1.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-04-03,4.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-04-06,5.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-04-19,1.0
+Andhra Pradesh,Visakhapatnam,confirmed,2020-04-23,1.0
+Andhra Pradesh,Visakhapatnam,recovered,2020-04-14,2.0
+Andhra Pradesh,Visakhapatnam,recovered,2020-04-15,4.0
+Andhra Pradesh,Visakhapatnam,recovered,2020-04-22,1.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-01,14.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-02,1.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-05,1.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-06,5.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-08,1.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-13,1.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-14,1.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-15,7.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-16,3.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-18,1.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-21,4.0
+Andhra Pradesh,West Godavari,confirmed,2020-04-26,12.0
+Andhra Pradesh,West Godavari,recovered,2020-04-26,1.0
+Andhra Pradesh,Y.S.R. Kadapa,deceased,2020-04-07,1.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-01,15.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-02,3.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-03,1.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-04,4.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-06,5.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-09,1.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-11,1.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-12,1.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-14,2.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-15,3.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-17,1.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-20,3.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-21,6.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-22,5.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-25,4.0
+Andhra Pradesh,Y.S.R. Kadapa,confirmed,2020-04-26,3.0
+Andhra Pradesh,Y.S.R. Kadapa,recovered,2020-04-22,4.0
+Arunachal Pradesh,Lohit,confirmed,2020-04-02,1.0
+Assam,Cachar,confirmed,2020-03-31,1.0
+Assam,Cachar,confirmed,2020-04-04,1.0
+Assam,Cachar,recovered,2020-04-18,1.0
+Assam,Dhubri,confirmed,2020-04-07,1.0
+Assam,Dhubri,confirmed,2020-04-09,1.0
+Assam,Dhubri,confirmed,2020-04-13,1.0
+Assam,Dhubri,confirmed,2020-04-14,1.0
+Assam,Dhubri,recovered,2020-04-26,3.0
+Assam,Goalpara,confirmed,2020-04-01,3.0
+Assam,Goalpara,confirmed,2020-04-13,1.0
+Assam,Golaghat,confirmed,2020-04-04,1.0
+Assam,Golaghat,recovered,2020-04-26,4.0
+Assam,Hailakandi,deceased,2020-04-10,1.0
+Assam,Hailakandi,confirmed,2020-04-07,1.0
+Assam,Jorhat,confirmed,2020-04-01,8.0
+Assam,Kamrup,confirmed,2020-04-03,1.0
+Assam,Kamrup Metropolitan,confirmed,2020-04-01,4.0
+Assam,Kamrup Metropolitan,confirmed,2020-04-03,1.0
+Assam,Kamrup Metropolitan,confirmed,2020-04-12,1.0
+Assam,Kamrup Metropolitan,recovered,2020-04-15,2.0
+Assam,Lakhimpur,confirmed,2020-04-04,1.0
+Assam,Morigaon,confirmed,2020-04-03,1.0
+Assam,Morigaon,confirmed,2020-04-16,2.0
+Assam,Nalbari,confirmed,2020-04-03,3.0
+Assam,Nalbari,recovered,2020-04-26,1.0
+Assam,South Salmara Mankachar,confirmed,2020-04-03,1.0
+Bihar,Arwal,confirmed,2020-04-25,1.0
+Bihar,Arwal,confirmed,2020-04-26,3.0
+Bihar,Aurangabad,confirmed,2020-04-24,2.0
+Bihar,Banka,confirmed,2020-04-22,1.0
+Bihar,Banka,confirmed,2020-04-24,1.0
+Bihar,Begusarai,confirmed,2020-04-01,1.0
+Bihar,Begusarai,confirmed,2020-04-07,2.0
+Bihar,Begusarai,confirmed,2020-04-09,2.0
+Bihar,Begusarai,confirmed,2020-04-11,2.0
+Bihar,Begusarai,confirmed,2020-04-13,1.0
+Bihar,Begusarai,confirmed,2020-04-17,1.0
+Bihar,Begusarai,recovered,2020-04-13,1.0
+Bihar,Bhagalpur,confirmed,2020-04-04,1.0
+Bihar,Bhagalpur,confirmed,2020-04-22,4.0
+Bihar,Bhagalpur,recovered,2020-04-12,1.0
+Bihar,Bhojpur,confirmed,2020-04-19,1.0
+Bihar,Bhojpur,confirmed,2020-04-25,1.0
+Bihar,Bhojpur,recovered,2020-04-26,1.0
+Bihar,Buxar,confirmed,2020-04-16,2.0
+Bihar,Buxar,confirmed,2020-04-19,2.0
+Bihar,Buxar,confirmed,2020-04-21,4.0
+Bihar,Buxar,confirmed,2020-04-24,12.0
+Bihar,Buxar,confirmed,2020-04-25,5.0
+Bihar,Buxar,recovered,2020-04-26,1.0
+Bihar,East Champaran,confirmed,2020-04-22,1.0
+Bihar,East Champaran,confirmed,2020-04-26,4.0
+Bihar,Gaya,confirmed,2020-03-31,1.0
+Bihar,Gaya,confirmed,2020-04-01,1.0
+Bihar,Gaya,confirmed,2020-04-02,2.0
+Bihar,Gaya,confirmed,2020-04-03,1.0
+Bihar,Gaya,confirmed,2020-04-25,1.0
+Bihar,Gaya,recovered,2020-04-12,3.0
+Bihar,Gopalganj,confirmed,2020-03-31,1.0
+Bihar,Gopalganj,confirmed,2020-04-02,2.0
+Bihar,Gopalganj,confirmed,2020-04-26,9.0
+Bihar,Gopalganj,recovered,2020-04-12,2.0
+Bihar,Jehanabad,confirmed,2020-04-26,1.0
+Bihar,Kaimur,confirmed,2020-04-23,8.0
+Bihar,Kaimur,confirmed,2020-04-25,6.0
+Bihar,Lakhisarai,confirmed,2020-03-28,1.0
+Bihar,Lakhisarai,recovered,2020-04-12,1.0
+Bihar,Madhepura,confirmed,2020-04-24,1.0
+Bihar,Munger,deceased,2020-03-29,1.0
+Bihar,Munger,confirmed,2020-03-22,1.0
+Bihar,Munger,confirmed,2020-03-26,2.0
+Bihar,Munger,confirmed,2020-03-29,4.0
+Bihar,Munger,confirmed,2020-04-15,1.0
+Bihar,Munger,confirmed,2020-04-16,9.0
+Bihar,Munger,confirmed,2020-04-19,3.0
+Bihar,Munger,confirmed,2020-04-21,7.0
+Bihar,Munger,confirmed,2020-04-23,4.0
+Bihar,Munger,confirmed,2020-04-24,31.0
+Bihar,Munger,confirmed,2020-04-25,3.0
+Bihar,Munger,confirmed,2020-04-26,3.0
+Bihar,Munger,recovered,2020-04-06,2.0
+Bihar,Munger,recovered,2020-04-07,4.0
+Bihar,Munger,recovered,2020-04-26,5.0
+Bihar,Nalanda,confirmed,2020-03-27,1.0
+Bihar,Nalanda,confirmed,2020-04-01,1.0
+Bihar,Nalanda,confirmed,2020-04-13,1.0
+Bihar,Nalanda,confirmed,2020-04-15,3.0
+Bihar,Nalanda,confirmed,2020-04-17,1.0
+Bihar,Nalanda,confirmed,2020-04-19,4.0
+Bihar,Nalanda,confirmed,2020-04-20,17.0
+Bihar,Nalanda,confirmed,2020-04-22,3.0
+Bihar,Nalanda,confirmed,2020-04-24,3.0
+Bihar,Nalanda,recovered,2020-04-13,1.0
+Bihar,Nalanda,recovered,2020-04-14,1.0
+Bihar,Nalanda,recovered,2020-04-26,3.0
+Bihar,Nawada,confirmed,2020-04-08,1.0
+Bihar,Nawada,confirmed,2020-04-11,2.0
+Bihar,Nawada,recovered,2020-04-12,1.0
+Bihar,Nawada,recovered,2020-04-26,1.0
+Bihar,Patna,confirmed,2020-03-22,1.0
+Bihar,Patna,confirmed,2020-03-23,1.0
+Bihar,Patna,confirmed,2020-03-25,1.0
+Bihar,Patna,confirmed,2020-03-26,1.0
+Bihar,Patna,confirmed,2020-03-28,1.0
+Bihar,Patna,confirmed,2020-04-15,1.0
+Bihar,Patna,confirmed,2020-04-18,1.0
+Bihar,Patna,confirmed,2020-04-21,1.0
+Bihar,Patna,confirmed,2020-04-22,8.0
+Bihar,Patna,confirmed,2020-04-23,8.0
+Bihar,Patna,confirmed,2020-04-24,2.0
+Bihar,Patna,confirmed,2020-04-25,7.0
+Bihar,Patna,recovered,2020-04-02,3.0
+Bihar,Patna,recovered,2020-04-06,2.0
+Bihar,Rohtas,confirmed,2020-04-21,1.0
+Bihar,Rohtas,confirmed,2020-04-23,6.0
+Bihar,Rohtas,confirmed,2020-04-25,2.0
+Bihar,Rohtas,confirmed,2020-04-26,6.0
+Bihar,Saran,confirmed,2020-04-02,1.0
+Bihar,Saran,confirmed,2020-04-24,1.0
+Bihar,Saran,confirmed,2020-04-25,1.0
+Bihar,Saran,recovered,2020-04-12,1.0
+Bihar,Siwan,confirmed,2020-03-27,1.0
+Bihar,Siwan,confirmed,2020-03-31,4.0
+Bihar,Siwan,confirmed,2020-04-03,1.0
+Bihar,Siwan,confirmed,2020-04-07,4.0
+Bihar,Siwan,confirmed,2020-04-09,17.0
+Bihar,Siwan,confirmed,2020-04-10,2.0
+Bihar,Siwan,confirmed,2020-04-23,1.0
+Bihar,Siwan,recovered,2020-04-06,2.0
+Bihar,Siwan,recovered,2020-04-07,2.0
+Bihar,Siwan,recovered,2020-04-12,2.0
+Bihar,Vaishali,deceased,2020-04-18,1.0
+Bihar,Vaishali,confirmed,2020-04-15,1.0
+Bihar,Vaishali,confirmed,2020-04-25,1.0
+Chandigarh,Chandigarh,confirmed,2020-03-19,1.0
+Chandigarh,Chandigarh,confirmed,2020-03-20,4.0
+Chandigarh,Chandigarh,confirmed,2020-03-22,1.0
+Chandigarh,Chandigarh,confirmed,2020-03-23,1.0
+Chandigarh,Chandigarh,confirmed,2020-03-27,1.0
+Chandigarh,Chandigarh,confirmed,2020-03-30,5.0
+Chandigarh,Chandigarh,confirmed,2020-03-31,2.0
+Chandigarh,Chandigarh,confirmed,2020-04-01,2.0
+Chandigarh,Chandigarh,confirmed,2020-04-02,1.0
+Chandigarh,Chandigarh,confirmed,2020-04-10,1.0
+Chandigarh,Chandigarh,confirmed,2020-04-12,2.0
+Chandigarh,Chandigarh,confirmed,2020-04-18,2.0
+Chandigarh,Chandigarh,confirmed,2020-04-19,3.0
+Chandigarh,Chandigarh,confirmed,2020-04-21,1.0
+Chandigarh,Chandigarh,confirmed,2020-04-25,1.0
+Chandigarh,Chandigarh,confirmed,2020-04-26,8.0
+Chandigarh,Chandigarh,recovered,2020-04-15,2.0
+Chandigarh,Chandigarh,recovered,2020-04-26,2.0
+Chhattisgarh,Bilaspur,confirmed,2020-03-26,1.0
+Chhattisgarh,Bilaspur,recovered,2020-04-05,1.0
+Chhattisgarh,Durg,confirmed,2020-03-26,1.0
+Chhattisgarh,Durg,recovered,2020-03-31,1.0
+Chhattisgarh,Korba,confirmed,2020-03-30,1.0
+Chhattisgarh,Korba,confirmed,2020-04-04,1.0
+Chhattisgarh,Korba,confirmed,2020-04-09,8.0
+Chhattisgarh,Korba,confirmed,2020-04-11,7.0
+Chhattisgarh,Korba,confirmed,2020-04-12,6.0
+Chhattisgarh,Korba,confirmed,2020-04-14,2.0
+Chhattisgarh,Korba,confirmed,2020-04-16,3.0
+Chhattisgarh,Korba,recovered,2020-04-07,1.0
+Chhattisgarh,Korba,recovered,2020-04-12,1.0
+Chhattisgarh,Korba,recovered,2020-04-14,3.0
+Chhattisgarh,Raipur,confirmed,2020-03-19,1.0
+Chhattisgarh,Raipur,confirmed,2020-03-25,1.0
+Chhattisgarh,Raipur,confirmed,2020-03-26,1.0
+Chhattisgarh,Raipur,confirmed,2020-03-28,1.0
+Chhattisgarh,Raipur,confirmed,2020-03-31,1.0
+Chhattisgarh,Raipur,confirmed,2020-04-25,1.0
+Chhattisgarh,Raipur,recovered,2020-04-02,1.0
+Chhattisgarh,Raipur,recovered,2020-04-05,4.0
+Chhattisgarh,Raipur,recovered,2020-04-22,2.0
+Chhattisgarh,Rajnandgaon,confirmed,2020-03-25,1.0
+Chhattisgarh,Rajnandgaon,recovered,2020-03-31,1.0
+Delhi,East Delhi,confirmed,2020-03-02,1.0
+Delhi,New Delhi,confirmed,2020-03-13,1.0
+Delhi,New Delhi,confirmed,2020-03-17,2.0
+Delhi,New Delhi,confirmed,2020-04-01,2.0
+Delhi,North Delhi,confirmed,2020-03-09,1.0
+Delhi,North Delhi,confirmed,2020-03-19,1.0
+Delhi,North Delhi,confirmed,2020-03-20,1.0
+Delhi,North East Delhi,confirmed,2020-03-18,1.0
+Delhi,North West Delhi,confirmed,2020-03-19,1.0
+Delhi,North West Delhi,confirmed,2020-03-20,2.0
+Delhi,South Delhi,confirmed,2020-03-17,1.0
+Delhi,South Delhi,confirmed,2020-03-19,1.0
+Delhi,South Delhi,confirmed,2020-03-29,6.0
+Delhi,South Delhi,confirmed,2020-03-30,18.0
+Delhi,South West Delhi,confirmed,2020-03-05,1.0
+Delhi,South West Delhi,confirmed,2020-03-11,1.0
+Delhi,South West Delhi,confirmed,2020-03-12,1.0
+Delhi,West Delhi,confirmed,2020-03-06,1.0
+Delhi,West Delhi,confirmed,2020-03-20,1.0
+Goa,North Goa,confirmed,2020-03-25,3.0
+Goa,North Goa,confirmed,2020-04-04,1.0
+Gujarat,Ahmedabad,deceased,2020-03-29,3.0
+Gujarat,Ahmedabad,deceased,2020-04-03,1.0
+Gujarat,Ahmedabad,deceased,2020-04-04,1.0
+Gujarat,Ahmedabad,deceased,2020-04-09,1.0
+Gujarat,Ahmedabad,deceased,2020-04-11,3.0
+Gujarat,Ahmedabad,deceased,2020-04-12,2.0
+Gujarat,Ahmedabad,deceased,2020-04-13,1.0
+Gujarat,Ahmedabad,deceased,2020-04-15,3.0
+Gujarat,Ahmedabad,deceased,2020-04-16,1.0
+Gujarat,Ahmedabad,deceased,2020-04-17,4.0
+Gujarat,Ahmedabad,deceased,2020-04-18,4.0
+Gujarat,Ahmedabad,deceased,2020-04-19,7.0
+Gujarat,Ahmedabad,deceased,2020-04-20,2.0
+Gujarat,Ahmedabad,deceased,2020-04-21,15.0
+Gujarat,Ahmedabad,deceased,2020-04-22,9.0
+Gujarat,Ahmedabad,deceased,2020-04-23,7.0
+Gujarat,Ahmedabad,deceased,2020-04-24,14.0
+Gujarat,Ahmedabad,deceased,2020-04-25,3.0
+Gujarat,Ahmedabad,confirmed,2020-03-20,3.0
+Gujarat,Ahmedabad,confirmed,2020-03-21,2.0
+Gujarat,Ahmedabad,confirmed,2020-03-22,3.0
+Gujarat,Ahmedabad,confirmed,2020-03-23,6.0
+Gujarat,Ahmedabad,confirmed,2020-03-28,3.0
+Gujarat,Ahmedabad,confirmed,2020-03-29,4.0
+Gujarat,Ahmedabad,confirmed,2020-03-30,1.0
+Gujarat,Ahmedabad,confirmed,2020-03-31,1.0
+Gujarat,Ahmedabad,confirmed,2020-04-01,8.0
+Gujarat,Ahmedabad,confirmed,2020-04-03,7.0
+Gujarat,Ahmedabad,confirmed,2020-04-04,7.0
+Gujarat,Ahmedabad,confirmed,2020-04-05,8.0
+Gujarat,Ahmedabad,confirmed,2020-04-06,11.0
+Gujarat,Ahmedabad,confirmed,2020-04-07,19.0
+Gujarat,Ahmedabad,confirmed,2020-04-09,59.0
+Gujarat,Ahmedabad,confirmed,2020-04-10,55.0
+Gujarat,Ahmedabad,confirmed,2020-04-11,46.0
+Gujarat,Ahmedabad,confirmed,2020-04-12,39.0
+Gujarat,Ahmedabad,confirmed,2020-04-13,38.0
+Gujarat,Ahmedabad,confirmed,2020-04-14,53.0
+Gujarat,Ahmedabad,confirmed,2020-04-15,77.0
+Gujarat,Ahmedabad,confirmed,2020-04-16,95.0
+Gujarat,Ahmedabad,confirmed,2020-04-17,78.0
+Gujarat,Ahmedabad,confirmed,2020-04-18,239.0
+Gujarat,Ahmedabad,confirmed,2020-04-19,239.0
+Gujarat,Ahmedabad,confirmed,2020-04-20,147.0
+Gujarat,Ahmedabad,confirmed,2020-04-21,125.0
+Gujarat,Ahmedabad,confirmed,2020-04-22,128.0
+Gujarat,Ahmedabad,confirmed,2020-04-23,151.0
+Gujarat,Ahmedabad,confirmed,2020-04-24,169.0
+Gujarat,Ahmedabad,confirmed,2020-04-25,182.0
+Gujarat,Ahmedabad,confirmed,2020-04-26,178.0
+Gujarat,Ahmedabad,recovered,2020-03-29,1.0
+Gujarat,Ahmedabad,recovered,2020-04-05,1.0
+Gujarat,Ahmedabad,recovered,2020-04-06,1.0
+Gujarat,Ahmedabad,recovered,2020-04-09,1.0
+Gujarat,Ahmedabad,recovered,2020-04-11,1.0
+Gujarat,Ahmedabad,recovered,2020-04-14,2.0
+Gujarat,Ahmedabad,recovered,2020-04-15,4.0
+Gujarat,Ahmedabad,recovered,2020-04-16,4.0
+Gujarat,Ahmedabad,recovered,2020-04-17,3.0
+Gujarat,Ahmedabad,recovered,2020-04-18,3.0
+Gujarat,Ahmedabad,recovered,2020-04-19,2.0
+Gujarat,Ahmedabad,recovered,2020-04-20,20.0
+Gujarat,Ahmedabad,recovered,2020-04-21,3.0
+Gujarat,Ahmedabad,recovered,2020-04-22,34.0
+Gujarat,Ahmedabad,recovered,2020-04-23,27.0
+Gujarat,Ahmedabad,recovered,2020-04-25,2.0
+Gujarat,Anand,deceased,2020-04-18,1.0
+Gujarat,Anand,deceased,2020-04-19,1.0
+Gujarat,Anand,deceased,2020-04-25,1.0
+Gujarat,Anand,confirmed,2020-04-07,1.0
+Gujarat,Anand,confirmed,2020-04-09,1.0
+Gujarat,Anand,confirmed,2020-04-11,3.0
+Gujarat,Anand,confirmed,2020-04-12,3.0
+Gujarat,Anand,confirmed,2020-04-13,1.0
+Gujarat,Anand,confirmed,2020-04-14,1.0
+Gujarat,Anand,confirmed,2020-04-15,7.0
+Gujarat,Anand,confirmed,2020-04-16,8.0
+Gujarat,Anand,confirmed,2020-04-17,1.0
+Gujarat,Anand,confirmed,2020-04-18,1.0
+Gujarat,Anand,confirmed,2020-04-19,1.0
+Gujarat,Anand,confirmed,2020-04-22,2.0
+Gujarat,Anand,confirmed,2020-04-23,3.0
+Gujarat,Anand,confirmed,2020-04-24,3.0
+Gujarat,Anand,confirmed,2020-04-25,5.0
+Gujarat,Anand,confirmed,2020-04-26,8.0
+Gujarat,Anand,recovered,2020-04-17,3.0
+Gujarat,Anand,recovered,2020-04-21,1.0
+Gujarat,Anand,recovered,2020-04-23,5.0
+Gujarat,Anand,recovered,2020-04-24,4.0
+Gujarat,Anand,recovered,2020-04-25,1.0
+Gujarat,Aravalli,deceased,2020-04-18,1.0
+Gujarat,Aravalli,confirmed,2020-04-16,1.0
+Gujarat,Aravalli,confirmed,2020-04-20,6.0
+Gujarat,Aravalli,confirmed,2020-04-21,5.0
+Gujarat,Aravalli,confirmed,2020-04-22,5.0
+Gujarat,Aravalli,confirmed,2020-04-23,1.0
+Gujarat,Banaskantha,confirmed,2020-04-13,2.0
+Gujarat,Banaskantha,confirmed,2020-04-16,4.0
+Gujarat,Banaskantha,confirmed,2020-04-17,2.0
+Gujarat,Banaskantha,confirmed,2020-04-19,2.0
+Gujarat,Banaskantha,confirmed,2020-04-21,5.0
+Gujarat,Banaskantha,confirmed,2020-04-22,1.0
+Gujarat,Banaskantha,confirmed,2020-04-25,11.0
+Gujarat,Banaskantha,confirmed,2020-04-26,1.0
+Gujarat,Banaskantha,recovered,2020-04-19,1.0
+Gujarat,Bharuch,deceased,2020-04-19,1.0
+Gujarat,Bharuch,deceased,2020-04-21,1.0
+Gujarat,Bharuch,confirmed,2020-04-10,7.0
+Gujarat,Bharuch,confirmed,2020-04-11,1.0
+Gujarat,Bharuch,confirmed,2020-04-13,3.0
+Gujarat,Bharuch,confirmed,2020-04-15,2.0
+Gujarat,Bharuch,confirmed,2020-04-17,8.0
+Gujarat,Bharuch,confirmed,2020-04-18,1.0
+Gujarat,Bharuch,confirmed,2020-04-19,1.0
+Gujarat,Bharuch,confirmed,2020-04-21,1.0
+Gujarat,Bharuch,confirmed,2020-04-23,5.0
+Gujarat,Bharuch,recovered,2020-04-18,2.0
+Gujarat,Bharuch,recovered,2020-04-22,1.0
+Gujarat,Bharuch,recovered,2020-04-25,7.0
+Gujarat,Bhavnagar,deceased,2020-03-29,1.0
+Gujarat,Bhavnagar,deceased,2020-03-30,1.0
+Gujarat,Bhavnagar,deceased,2020-04-14,1.0
+Gujarat,Bhavnagar,deceased,2020-04-18,1.0
+Gujarat,Bhavnagar,deceased,2020-04-21,1.0
+Gujarat,Bhavnagar,confirmed,2020-03-28,1.0
+Gujarat,Bhavnagar,confirmed,2020-03-30,5.0
+Gujarat,Bhavnagar,confirmed,2020-04-02,1.0
+Gujarat,Bhavnagar,confirmed,2020-04-04,2.0
+Gujarat,Bhavnagar,confirmed,2020-04-05,4.0
+Gujarat,Bhavnagar,confirmed,2020-04-07,1.0
+Gujarat,Bhavnagar,confirmed,2020-04-08,4.0
+Gujarat,Bhavnagar,confirmed,2020-04-10,4.0
+Gujarat,Bhavnagar,confirmed,2020-04-11,1.0
+Gujarat,Bhavnagar,confirmed,2020-04-14,3.0
+Gujarat,Bhavnagar,confirmed,2020-04-18,4.0
+Gujarat,Bhavnagar,confirmed,2020-04-19,2.0
+Gujarat,Bhavnagar,confirmed,2020-04-23,1.0
+Gujarat,Bhavnagar,confirmed,2020-04-24,2.0
+Gujarat,Bhavnagar,confirmed,2020-04-25,5.0
+Gujarat,Bhavnagar,recovered,2020-04-07,1.0
+Gujarat,Bhavnagar,recovered,2020-04-11,2.0
+Gujarat,Bhavnagar,recovered,2020-04-13,1.0
+Gujarat,Bhavnagar,recovered,2020-04-14,2.0
+Gujarat,Bhavnagar,recovered,2020-04-16,3.0
+Gujarat,Bhavnagar,recovered,2020-04-19,5.0
+Gujarat,Bhavnagar,recovered,2020-04-20,1.0
+Gujarat,Bhavnagar,recovered,2020-04-22,2.0
+Gujarat,Botad,deceased,2020-04-16,1.0
+Gujarat,Botad,confirmed,2020-04-15,1.0
+Gujarat,Botad,confirmed,2020-04-17,3.0
+Gujarat,Botad,confirmed,2020-04-19,1.0
+Gujarat,Botad,confirmed,2020-04-21,2.0
+Gujarat,Botad,confirmed,2020-04-22,2.0
+Gujarat,Botad,confirmed,2020-04-23,2.0
+Gujarat,Botad,confirmed,2020-04-24,1.0
+Gujarat,Chhota Udaipur,confirmed,2020-04-05,1.0
+Gujarat,Chhota Udaipur,confirmed,2020-04-09,1.0
+Gujarat,Chhota Udaipur,confirmed,2020-04-11,1.0
+Gujarat,Chhota Udaipur,confirmed,2020-04-14,2.0
+Gujarat,Chhota Udaipur,confirmed,2020-04-17,1.0
+Gujarat,Chhota Udaipur,confirmed,2020-04-19,1.0
+Gujarat,Chhota Udaipur,confirmed,2020-04-22,4.0
+Gujarat,Chhota Udaipur,confirmed,2020-04-25,2.0
+Gujarat,Chhota Udaipur,recovered,2020-04-19,1.0
+Gujarat,Chhota Udaipur,recovered,2020-04-22,1.0
+Gujarat,Chhota Udaipur,recovered,2020-04-23,1.0
+Gujarat,Dahod,confirmed,2020-04-09,1.0
+Gujarat,Dahod,confirmed,2020-04-14,1.0
+Gujarat,Dahod,confirmed,2020-04-19,1.0
+Gujarat,Dahod,confirmed,2020-04-21,1.0
+Gujarat,Dahod,recovered,2020-04-24,1.0
+Gujarat,Dang,confirmed,2020-04-23,1.0
+Gujarat,Gandhinagar,deceased,2020-04-18,1.0
+Gujarat,Gandhinagar,confirmed,2020-03-21,1.0
+Gujarat,Gandhinagar,confirmed,2020-03-22,1.0
+Gujarat,Gandhinagar,confirmed,2020-03-23,1.0
+Gujarat,Gandhinagar,confirmed,2020-03-24,3.0
+Gujarat,Gandhinagar,confirmed,2020-03-26,3.0
+Gujarat,Gandhinagar,confirmed,2020-03-28,1.0
+Gujarat,Gandhinagar,confirmed,2020-03-31,1.0
+Gujarat,Gandhinagar,confirmed,2020-04-04,2.0
+Gujarat,Gandhinagar,confirmed,2020-04-10,1.0
+Gujarat,Gandhinagar,confirmed,2020-04-11,1.0
+Gujarat,Gandhinagar,confirmed,2020-04-14,1.0
+Gujarat,Gandhinagar,confirmed,2020-04-16,1.0
+Gujarat,Gandhinagar,confirmed,2020-04-23,1.0
+Gujarat,Gandhinagar,confirmed,2020-04-24,1.0
+Gujarat,Gandhinagar,confirmed,2020-04-25,4.0
+Gujarat,Gandhinagar,confirmed,2020-04-26,2.0
+Gujarat,Gandhinagar,recovered,2020-04-11,2.0
+Gujarat,Gandhinagar,recovered,2020-04-13,1.0
+Gujarat,Gandhinagar,recovered,2020-04-16,1.0
+Gujarat,Gandhinagar,recovered,2020-04-18,1.0
+Gujarat,Gandhinagar,recovered,2020-04-20,1.0
+Gujarat,Gandhinagar,recovered,2020-04-25,1.0
+Gujarat,Gir Somnath,confirmed,2020-03-29,1.0
+Gujarat,Gir Somnath,confirmed,2020-03-30,1.0
+Gujarat,Gir Somnath,confirmed,2020-04-21,1.0
+Gujarat,Gir Somnath,recovered,2020-04-13,1.0
+Gujarat,Gir Somnath,recovered,2020-04-21,1.0
+Gujarat,Jamnagar,deceased,2020-04-08,1.0
+Gujarat,Jamnagar,confirmed,2020-04-05,1.0
+Gujarat,Kheda,confirmed,2020-04-15,1.0
+Gujarat,Kheda,confirmed,2020-04-16,1.0
+Gujarat,Kheda,confirmed,2020-04-21,1.0
+Gujarat,Kheda,confirmed,2020-04-23,2.0
+Gujarat,Kheda,confirmed,2020-04-26,1.0
+Gujarat,Kheda,recovered,2020-04-23,1.0
+Gujarat,Kutch,deceased,2020-04-16,1.0
+Gujarat,Kutch,confirmed,2020-03-21,1.0
+Gujarat,Kutch,confirmed,2020-04-05,1.0
+Gujarat,Kutch,confirmed,2020-04-10,2.0
+Gujarat,Kutch,confirmed,2020-04-20,2.0
+Gujarat,Kutch,recovered,2020-04-21,1.0
+Gujarat,Mahisagar,confirmed,2020-04-17,1.0
+Gujarat,Mahisagar,confirmed,2020-04-18,1.0
+Gujarat,Mahisagar,confirmed,2020-04-20,1.0
+Gujarat,Mahisagar,confirmed,2020-04-22,9.0
+Gujarat,Mahisagar,confirmed,2020-04-25,1.0
+Gujarat,Mehsana,confirmed,2020-03-28,1.0
+Gujarat,Mehsana,confirmed,2020-04-06,1.0
+Gujarat,Mehsana,confirmed,2020-04-14,2.0
+Gujarat,Mehsana,confirmed,2020-04-19,1.0
+Gujarat,Mehsana,confirmed,2020-04-20,1.0
+Gujarat,Mehsana,confirmed,2020-04-21,1.0
+Gujarat,Mehsana,recovered,2020-04-21,2.0
+Gujarat,Morbi,confirmed,2020-04-05,1.0
+Gujarat,Narmada,confirmed,2020-04-15,2.0
+Gujarat,Narmada,confirmed,2020-04-16,4.0
+Gujarat,Narmada,confirmed,2020-04-17,5.0
+Gujarat,Narmada,confirmed,2020-04-19,1.0
+Gujarat,Navsari,confirmed,2020-04-21,1.0
+Gujarat,Navsari,confirmed,2020-04-25,1.0
+Gujarat,Navsari,confirmed,2020-04-26,1.0
+Gujarat,Panchmahal,deceased,2020-04-03,1.0
+Gujarat,Panchmahal,deceased,2020-04-18,1.0
+Gujarat,Panchmahal,confirmed,2020-04-01,1.0
+Gujarat,Panchmahal,confirmed,2020-04-13,1.0
+Gujarat,Panchmahal,confirmed,2020-04-15,3.0
+Gujarat,Panchmahal,confirmed,2020-04-16,1.0
+Gujarat,Panchmahal,confirmed,2020-04-17,2.0
+Gujarat,Panchmahal,confirmed,2020-04-18,1.0
+Gujarat,Panchmahal,confirmed,2020-04-20,2.0
+Gujarat,Panchmahal,confirmed,2020-04-23,1.0
+Gujarat,Panchmahal,confirmed,2020-04-24,3.0
+Gujarat,Panchmahal,confirmed,2020-04-25,2.0
+Gujarat,Patan,deceased,2020-04-07,1.0
+Gujarat,Patan,confirmed,2020-04-04,1.0
+Gujarat,Patan,confirmed,2020-04-06,1.0
+Gujarat,Patan,confirmed,2020-04-07,3.0
+Gujarat,Patan,confirmed,2020-04-09,7.0
+Gujarat,Patan,confirmed,2020-04-10,2.0
+Gujarat,Patan,confirmed,2020-04-17,1.0
+Gujarat,Patan,confirmed,2020-04-25,1.0
+Gujarat,Patan,confirmed,2020-04-26,1.0
+Gujarat,Patan,recovered,2020-04-13,4.0
+Gujarat,Patan,recovered,2020-04-17,7.0
+Gujarat,Porbandar,confirmed,2020-03-29,1.0
+Gujarat,Porbandar,confirmed,2020-04-01,2.0
+Gujarat,Porbandar,recovered,2020-04-11,2.0
+Gujarat,Rajkot,confirmed,2020-03-19,1.0
+Gujarat,Rajkot,confirmed,2020-03-24,2.0
+Gujarat,Rajkot,confirmed,2020-03-26,2.0
+Gujarat,Rajkot,confirmed,2020-03-27,3.0
+Gujarat,Rajkot,confirmed,2020-03-29,1.0
+Gujarat,Rajkot,confirmed,2020-03-31,1.0
+Gujarat,Rajkot,confirmed,2020-04-07,1.0
+Gujarat,Rajkot,confirmed,2020-04-09,2.0
+Gujarat,Rajkot,confirmed,2020-04-10,5.0
+Gujarat,Rajkot,confirmed,2020-04-15,6.0
+Gujarat,Rajkot,confirmed,2020-04-16,4.0
+Gujarat,Rajkot,confirmed,2020-04-18,2.0
+Gujarat,Rajkot,confirmed,2020-04-19,6.0
+Gujarat,Rajkot,confirmed,2020-04-20,2.0
+Gujarat,Rajkot,confirmed,2020-04-21,2.0
+Gujarat,Rajkot,confirmed,2020-04-22,1.0
+Gujarat,Rajkot,confirmed,2020-04-26,4.0
+Gujarat,Rajkot,recovered,2020-04-05,2.0
+Gujarat,Rajkot,recovered,2020-04-11,1.0
+Gujarat,Rajkot,recovered,2020-04-13,3.0
+Gujarat,Rajkot,recovered,2020-04-18,1.0
+Gujarat,Rajkot,recovered,2020-04-20,3.0
+Gujarat,Rajkot,recovered,2020-04-25,2.0
+Gujarat,Sabarkantha,confirmed,2020-04-07,1.0
+Gujarat,Sabarkantha,confirmed,2020-04-18,1.0
+Gujarat,Sabarkantha,confirmed,2020-04-21,1.0
+Gujarat,Sabarkantha,recovered,2020-04-19,1.0
+Gujarat,Sabarkantha,recovered,2020-04-20,1.0
+Gujarat,Surat,deceased,2020-03-29,1.0
+Gujarat,Surat,deceased,2020-04-05,1.0
+Gujarat,Surat,deceased,2020-04-07,1.0
+Gujarat,Surat,deceased,2020-04-08,1.0
+Gujarat,Surat,deceased,2020-04-15,1.0
+Gujarat,Surat,deceased,2020-04-18,2.0
+Gujarat,Surat,deceased,2020-04-19,1.0
+Gujarat,Surat,deceased,2020-04-20,2.0
+Gujarat,Surat,deceased,2020-04-21,2.0
+Gujarat,Surat,deceased,2020-04-23,1.0
+Gujarat,Surat,deceased,2020-04-24,1.0
+Gujarat,Surat,deceased,2020-04-25,1.0
+Gujarat,Surat,confirmed,2020-03-19,1.0
+Gujarat,Surat,confirmed,2020-03-21,2.0
+Gujarat,Surat,confirmed,2020-03-23,1.0
+Gujarat,Surat,confirmed,2020-03-24,1.0
+Gujarat,Surat,confirmed,2020-03-25,2.0
+Gujarat,Surat,confirmed,2020-03-26,1.0
+Gujarat,Surat,confirmed,2020-03-29,1.0
+Gujarat,Surat,confirmed,2020-03-31,1.0
+Gujarat,Surat,confirmed,2020-04-01,2.0
+Gujarat,Surat,confirmed,2020-04-04,1.0
+Gujarat,Surat,confirmed,2020-04-05,3.0
+Gujarat,Surat,confirmed,2020-04-06,3.0
+Gujarat,Surat,confirmed,2020-04-07,3.0
+Gujarat,Surat,confirmed,2020-04-08,1.0
+Gujarat,Surat,confirmed,2020-04-09,1.0
+Gujarat,Surat,confirmed,2020-04-10,3.0
+Gujarat,Surat,confirmed,2020-04-11,1.0
+Gujarat,Surat,confirmed,2020-04-13,5.0
+Gujarat,Surat,confirmed,2020-04-14,9.0
+Gujarat,Surat,confirmed,2020-04-15,9.0
+Gujarat,Surat,confirmed,2020-04-16,37.0
+Gujarat,Surat,confirmed,2020-04-17,52.0
+Gujarat,Surat,confirmed,2020-04-18,13.0
+Gujarat,Surat,confirmed,2020-04-19,89.0
+Gujarat,Surat,confirmed,2020-04-20,27.0
+Gujarat,Surat,confirmed,2020-04-21,78.0
+Gujarat,Surat,confirmed,2020-04-22,68.0
+Gujarat,Surat,confirmed,2020-04-23,41.0
+Gujarat,Surat,confirmed,2020-04-24,6.0
+Gujarat,Surat,confirmed,2020-04-25,34.0
+Gujarat,Surat,confirmed,2020-04-26,30.0
+Gujarat,Surat,recovered,2020-04-05,2.0
+Gujarat,Surat,recovered,2020-04-11,2.0
+Gujarat,Surat,recovered,2020-04-14,1.0
+Gujarat,Surat,recovered,2020-04-15,1.0
+Gujarat,Surat,recovered,2020-04-16,1.0
+Gujarat,Surat,recovered,2020-04-19,1.0
+Gujarat,Surat,recovered,2020-04-22,2.0
+Gujarat,Surat,recovered,2020-04-24,2.0
+Gujarat,Surat,recovered,2020-04-25,1.0
+Gujarat,Surendranagar,confirmed,2020-04-25,1.0
+Gujarat,Tapi,confirmed,2020-04-21,1.0
+Gujarat,Vadodara,deceased,2020-04-02,1.0
+Gujarat,Vadodara,deceased,2020-04-06,1.0
+Gujarat,Vadodara,deceased,2020-04-13,1.0
+Gujarat,Vadodara,deceased,2020-04-14,1.0
+Gujarat,Vadodara,deceased,2020-04-15,1.0
+Gujarat,Vadodara,deceased,2020-04-17,1.0
+Gujarat,Vadodara,deceased,2020-04-18,1.0
+Gujarat,Vadodara,deceased,2020-04-22,3.0
+Gujarat,Vadodara,deceased,2020-04-23,1.0
+Gujarat,Vadodara,deceased,2020-04-25,1.0
+Gujarat,Vadodara,confirmed,2020-03-20,2.0
+Gujarat,Vadodara,confirmed,2020-03-21,1.0
+Gujarat,Vadodara,confirmed,2020-03-23,4.0
+Gujarat,Vadodara,confirmed,2020-03-28,2.0
+Gujarat,Vadodara,confirmed,2020-04-05,1.0
+Gujarat,Vadodara,confirmed,2020-04-06,2.0
+Gujarat,Vadodara,confirmed,2020-04-08,6.0
+Gujarat,Vadodara,confirmed,2020-04-09,4.0
+Gujarat,Vadodara,confirmed,2020-04-10,37.0
+Gujarat,Vadodara,confirmed,2020-04-11,36.0
+Gujarat,Vadodara,confirmed,2020-04-12,6.0
+Gujarat,Vadodara,confirmed,2020-04-13,6.0
+Gujarat,Vadodara,confirmed,2020-04-14,6.0
+Gujarat,Vadodara,confirmed,2020-04-15,8.0
+Gujarat,Vadodara,confirmed,2020-04-16,7.0
+Gujarat,Vadodara,confirmed,2020-04-17,16.0
+Gujarat,Vadodara,confirmed,2020-04-18,14.0
+Gujarat,Vadodara,confirmed,2020-04-19,22.0
+Gujarat,Vadodara,confirmed,2020-04-20,8.0
+Gujarat,Vadodara,confirmed,2020-04-21,11.0
+Gujarat,Vadodara,confirmed,2020-04-22,9.0
+Gujarat,Vadodara,confirmed,2020-04-23,7.0
+Gujarat,Vadodara,confirmed,2020-04-24,5.0
+Gujarat,Vadodara,confirmed,2020-04-25,7.0
+Gujarat,Vadodara,confirmed,2020-04-26,4.0
+Gujarat,Vadodara,recovered,2020-04-05,3.0
+Gujarat,Vadodara,recovered,2020-04-07,1.0
+Gujarat,Vadodara,recovered,2020-04-19,1.0
+Gujarat,Vadodara,recovered,2020-04-23,45.0
+Gujarat,Vadodara,recovered,2020-04-25,3.0
+Gujarat,Valsad,deceased,2020-04-22,1.0
+Gujarat,Valsad,confirmed,2020-04-21,3.0
+Gujarat,Valsad,confirmed,2020-04-23,1.0
+Gujarat,Valsad,confirmed,2020-04-24,1.0
+Haryana,Ambala,confirmed,2020-03-28,1.0
+Haryana,Ambala,confirmed,2020-04-02,2.0
+Haryana,Ambala,confirmed,2020-04-10,4.0
+Haryana,Ambala,confirmed,2020-04-19,4.0
+Haryana,Ambala,confirmed,2020-04-22,1.0
+Haryana,Ambala,confirmed,2020-04-25,1.0
+Haryana,Ambala,recovered,2020-04-12,1.0
+Haryana,Ambala,recovered,2020-04-13,1.0
+Haryana,Ambala,recovered,2020-04-18,1.0
+Haryana,Ambala,recovered,2020-04-20,3.0
+Haryana,Ambala,recovered,2020-04-21,1.0
+Haryana,Ambala,recovered,2020-04-22,3.0
+Haryana,Bhiwani,confirmed,2020-04-04,2.0
+Haryana,Bhiwani,confirmed,2020-04-19,1.0
+Haryana,Bhiwani,recovered,2020-04-12,1.0
+Haryana,Bhiwani,recovered,2020-04-16,1.0
+Haryana,Charkhi Dadri,confirmed,2020-04-06,1.0
+Haryana,Charkhi Dadri,recovered,2020-04-17,1.0
+Haryana,Faridabad,confirmed,2020-03-20,1.0
+Haryana,Faridabad,confirmed,2020-03-24,1.0
+Haryana,Faridabad,confirmed,2020-03-28,1.0
+Haryana,Faridabad,confirmed,2020-03-30,1.0
+Haryana,Faridabad,confirmed,2020-03-31,2.0
+Haryana,Faridabad,confirmed,2020-04-04,8.0
+Haryana,Faridabad,confirmed,2020-04-07,7.0
+Haryana,Faridabad,confirmed,2020-04-08,7.0
+Haryana,Faridabad,confirmed,2020-04-11,1.0
+Haryana,Faridabad,confirmed,2020-04-12,2.0
+Haryana,Faridabad,confirmed,2020-04-14,2.0
+Haryana,Faridabad,confirmed,2020-04-19,9.0
+Haryana,Faridabad,confirmed,2020-04-21,1.0
+Haryana,Faridabad,confirmed,2020-04-26,2.0
+Haryana,Faridabad,recovered,2020-03-31,1.0
+Haryana,Faridabad,recovered,2020-04-10,1.0
+Haryana,Faridabad,recovered,2020-04-12,2.0
+Haryana,Faridabad,recovered,2020-04-13,3.0
+Haryana,Faridabad,recovered,2020-04-16,3.0
+Haryana,Faridabad,recovered,2020-04-17,2.0
+Haryana,Faridabad,recovered,2020-04-18,3.0
+Haryana,Faridabad,recovered,2020-04-19,4.0
+Haryana,Faridabad,recovered,2020-04-20,2.0
+Haryana,Faridabad,recovered,2020-04-22,4.0
+Haryana,Faridabad,recovered,2020-04-23,2.0
+Haryana,Faridabad,recovered,2020-04-24,1.0
+Haryana,Fatehabad,confirmed,2020-04-08,1.0
+Haryana,Fatehabad,recovered,2020-04-15,1.0
+Haryana,Gurugram,confirmed,2020-03-17,1.0
+Haryana,Gurugram,confirmed,2020-03-18,2.0
+Haryana,Gurugram,confirmed,2020-03-23,6.0
+Haryana,Gurugram,confirmed,2020-03-25,1.0
+Haryana,Gurugram,confirmed,2020-04-03,5.0
+Haryana,Gurugram,confirmed,2020-04-04,2.0
+Haryana,Gurugram,confirmed,2020-04-05,1.0
+Haryana,Gurugram,confirmed,2020-04-07,2.0
+Haryana,Gurugram,confirmed,2020-04-08,12.0
+Haryana,Gurugram,confirmed,2020-04-19,4.0
+Haryana,Gurugram,confirmed,2020-04-21,1.0
+Haryana,Gurugram,confirmed,2020-04-22,4.0
+Haryana,Gurugram,confirmed,2020-04-23,4.0
+Haryana,Gurugram,confirmed,2020-04-24,2.0
+Haryana,Gurugram,confirmed,2020-04-25,4.0
+Haryana,Gurugram,recovered,2020-03-30,6.0
+Haryana,Gurugram,recovered,2020-04-01,3.0
+Haryana,Gurugram,recovered,2020-04-10,3.0
+Haryana,Gurugram,recovered,2020-04-12,2.0
+Haryana,Gurugram,recovered,2020-04-14,2.0
+Haryana,Gurugram,recovered,2020-04-15,1.0
+Haryana,Gurugram,recovered,2020-04-20,9.0
+Haryana,Gurugram,recovered,2020-04-24,9.0
+Haryana,Hisar,confirmed,2020-03-31,1.0
+Haryana,Hisar,confirmed,2020-04-11,1.0
+Haryana,Hisar,confirmed,2020-04-26,2.0
+Haryana,Hisar,recovered,2020-04-24,1.0
+Haryana,Italians,confirmed,2020-03-04,14.0
+Haryana,Italians,recovered,2020-03-29,14.0
+Haryana,Jind,confirmed,2020-04-07,1.0
+Haryana,Jind,confirmed,2020-04-12,1.0
+Haryana,Jind,recovered,2020-04-17,1.0
+Haryana,Jind,recovered,2020-04-20,1.0
+Haryana,Kaithal,confirmed,2020-04-04,1.0
+Haryana,Kaithal,confirmed,2020-04-09,1.0
+Haryana,Kaithal,recovered,2020-04-24,2.0
+Haryana,Karnal,deceased,2020-04-06,1.0
+Haryana,Karnal,confirmed,2020-04-03,1.0
+Haryana,Karnal,confirmed,2020-04-06,4.0
+Haryana,Karnal,confirmed,2020-04-12,1.0
+Haryana,Karnal,recovered,2020-04-13,3.0
+Haryana,Karnal,recovered,2020-04-17,2.0
+Haryana,Kurukshetra,confirmed,2020-04-12,2.0
+Haryana,Kurukshetra,recovered,2020-04-23,1.0
+Haryana,Kurukshetra,recovered,2020-04-24,1.0
+Haryana,Nuh,confirmed,2020-04-03,3.0
+Haryana,Nuh,confirmed,2020-04-05,5.0
+Haryana,Nuh,confirmed,2020-04-06,6.0
+Haryana,Nuh,confirmed,2020-04-07,23.0
+Haryana,Nuh,confirmed,2020-04-08,1.0
+Haryana,Nuh,confirmed,2020-04-12,7.0
+Haryana,Nuh,confirmed,2020-04-15,3.0
+Haryana,Nuh,confirmed,2020-04-16,2.0
+Haryana,Nuh,confirmed,2020-04-17,6.0
+Haryana,Nuh,confirmed,2020-04-18,1.0
+Haryana,Nuh,recovered,2020-04-16,1.0
+Haryana,Nuh,recovered,2020-04-17,3.0
+Haryana,Nuh,recovered,2020-04-18,4.0
+Haryana,Nuh,recovered,2020-04-20,15.0
+Haryana,Nuh,recovered,2020-04-21,3.0
+Haryana,Nuh,recovered,2020-04-22,2.0
+Haryana,Nuh,recovered,2020-04-23,7.0
+Haryana,Nuh,recovered,2020-04-25,3.0
+Haryana,Nuh,recovered,2020-04-26,1.0
+Haryana,Palwal,confirmed,2020-03-23,1.0
+Haryana,Palwal,confirmed,2020-04-02,3.0
+Haryana,Palwal,confirmed,2020-04-04,13.0
+Haryana,Palwal,confirmed,2020-04-06,9.0
+Haryana,Palwal,confirmed,2020-04-08,2.0
+Haryana,Palwal,confirmed,2020-04-11,1.0
+Haryana,Palwal,confirmed,2020-04-16,1.0
+Haryana,Palwal,confirmed,2020-04-18,4.0
+Haryana,Palwal,recovered,2020-03-31,1.0
+Haryana,Palwal,recovered,2020-04-16,3.0
+Haryana,Palwal,recovered,2020-04-17,7.0
+Haryana,Palwal,recovered,2020-04-18,6.0
+Haryana,Palwal,recovered,2020-04-20,6.0
+Haryana,Palwal,recovered,2020-04-21,2.0
+Haryana,Palwal,recovered,2020-04-22,1.0
+Haryana,Palwal,recovered,2020-04-23,1.0
+Haryana,Palwal,recovered,2020-04-25,2.0
+Haryana,Panchkula,confirmed,2020-03-21,1.0
+Haryana,Panchkula,confirmed,2020-03-31,1.0
+Haryana,Panchkula,confirmed,2020-04-09,2.0
+Haryana,Panchkula,confirmed,2020-04-10,1.0
+Haryana,Panchkula,confirmed,2020-04-15,1.0
+Haryana,Panchkula,confirmed,2020-04-16,8.0
+Haryana,Panchkula,confirmed,2020-04-17,2.0
+Haryana,Panchkula,confirmed,2020-04-18,1.0
+Haryana,Panchkula,confirmed,2020-04-20,1.0
+Haryana,Panchkula,recovered,2020-04-12,2.0
+Haryana,Panchkula,recovered,2020-04-22,1.0
+Haryana,Panchkula,recovered,2020-04-26,7.0
+Haryana,Panipat,confirmed,2020-03-20,1.0
+Haryana,Panipat,confirmed,2020-03-24,1.0
+Haryana,Panipat,confirmed,2020-03-26,1.0
+Haryana,Panipat,confirmed,2020-03-27,1.0
+Haryana,Panipat,confirmed,2020-04-15,1.0
+Haryana,Panipat,confirmed,2020-04-24,2.0
+Haryana,Panipat,confirmed,2020-04-25,1.0
+Haryana,Panipat,confirmed,2020-04-26,4.0
+Haryana,Panipat,recovered,2020-03-31,2.0
+Haryana,Panipat,recovered,2020-04-08,1.0
+Haryana,Panipat,recovered,2020-04-23,1.0
+Haryana,Rohtak,confirmed,2020-04-02,1.0
+Haryana,Rohtak,confirmed,2020-04-23,2.0
+Haryana,Rohtak,confirmed,2020-04-24,1.0
+Haryana,Sirsa,confirmed,2020-03-31,3.0
+Haryana,Sirsa,confirmed,2020-04-13,1.0
+Haryana,Sirsa,recovered,2020-04-14,2.0
+Haryana,Sirsa,recovered,2020-04-17,2.0
+Haryana,Sonipat,confirmed,2020-03-21,1.0
+Haryana,Sonipat,confirmed,2020-04-08,1.0
+Haryana,Sonipat,confirmed,2020-04-10,1.0
+Haryana,Sonipat,confirmed,2020-04-15,1.0
+Haryana,Sonipat,confirmed,2020-04-18,3.0
+Haryana,Sonipat,confirmed,2020-04-21,2.0
+Haryana,Sonipat,confirmed,2020-04-22,4.0
+Haryana,Sonipat,confirmed,2020-04-25,6.0
+Haryana,Sonipat,confirmed,2020-04-26,1.0
+Haryana,Sonipat,recovered,2020-04-20,1.0
+Haryana,Sonipat,recovered,2020-04-24,2.0
+Haryana,Yamunanagar,confirmed,2020-04-12,3.0
+Haryana,Yamunanagar,recovered,2020-04-17,3.0
+Himachal Pradesh,Chamba,confirmed,2020-04-06,4.0
+Himachal Pradesh,Chamba,confirmed,2020-04-15,2.0
+Himachal Pradesh,Chamba,recovered,2020-04-12,3.0
+Himachal Pradesh,Kangra,confirmed,2020-03-20,2.0
+Himachal Pradesh,Kangra,confirmed,2020-03-23,1.0
+Himachal Pradesh,Kangra,confirmed,2020-04-04,1.0
+Himachal Pradesh,Kangra,confirmed,2020-04-17,1.0
+Himachal Pradesh,Sirmaur,confirmed,2020-04-09,1.0
+Himachal Pradesh,Solan,deceased,2020-04-03,1.0
+Himachal Pradesh,Solan,confirmed,2020-04-04,6.0
+Himachal Pradesh,Solan,confirmed,2020-04-05,1.0
+Himachal Pradesh,Solan,confirmed,2020-04-11,2.0
+Himachal Pradesh,Una,confirmed,2020-04-02,3.0
+Himachal Pradesh,Una,confirmed,2020-04-07,9.0
+Himachal Pradesh,Una,confirmed,2020-04-11,2.0
+Himachal Pradesh,Una,confirmed,2020-04-14,1.0
+Jammu and Kashmir,Anantnag,confirmed,2020-04-18,2.0
+Jammu and Kashmir,Anantnag,confirmed,2020-04-20,5.0
+Jammu and Kashmir,Anantnag,confirmed,2020-04-22,1.0
+Jammu and Kashmir,Anantnag,confirmed,2020-04-23,7.0
+Jammu and Kashmir,Anantnag,confirmed,2020-04-25,21.0
+Jammu and Kashmir,Anantnag,confirmed,2020-04-26,12.0
+Jammu and Kashmir,Bandipora,deceased,2020-04-07,1.0
+Jammu and Kashmir,Bandipora,confirmed,2020-03-24,1.0
+Jammu and Kashmir,Bandipora,confirmed,2020-03-25,4.0
+Jammu and Kashmir,Bandipora,confirmed,2020-03-28,4.0
+Jammu and Kashmir,Bandipora,confirmed,2020-03-30,3.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-01,7.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-02,8.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-03,3.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-04,9.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-11,3.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-13,9.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-14,2.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-15,3.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-16,10.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-17,9.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-18,5.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-19,4.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-20,7.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-22,6.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-23,2.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-24,9.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-25,8.0
+Jammu and Kashmir,Bandipora,confirmed,2020-04-26,8.0
+Jammu and Kashmir,Bandipora,recovered,2020-04-20,5.0
+Jammu and Kashmir,Bandipora,recovered,2020-04-22,2.0
+Jammu and Kashmir,Bandipora,recovered,2020-04-24,4.0
+Jammu and Kashmir,Bandipora,recovered,2020-04-26,1.0
+Jammu and Kashmir,Baramulla,deceased,2020-04-17,1.0
+Jammu and Kashmir,Baramulla,deceased,2020-04-25,1.0
+Jammu and Kashmir,Baramulla,confirmed,2020-03-29,1.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-04,5.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-05,14.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-06,3.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-07,1.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-08,5.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-11,4.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-12,4.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-13,3.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-15,2.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-19,2.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-21,1.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-22,2.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-23,3.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-24,2.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-25,3.0
+Jammu and Kashmir,Baramulla,confirmed,2020-04-26,7.0
+Jammu and Kashmir,Baramulla,recovered,2020-04-20,1.0
+Jammu and Kashmir,Baramulla,recovered,2020-04-21,3.0
+Jammu and Kashmir,Baramulla,recovered,2020-04-24,8.0
+Jammu and Kashmir,Baramulla,recovered,2020-04-26,5.0
+Jammu and Kashmir,Budgam,confirmed,2020-03-29,2.0
+Jammu and Kashmir,Budgam,confirmed,2020-04-08,9.0
+Jammu and Kashmir,Budgam,confirmed,2020-04-11,1.0
+Jammu and Kashmir,Budgam,confirmed,2020-04-16,1.0
+Jammu and Kashmir,Budgam,confirmed,2020-04-18,1.0
+Jammu and Kashmir,Budgam,confirmed,2020-04-23,1.0
+Jammu and Kashmir,Budgam,confirmed,2020-04-26,-1.0
+Jammu and Kashmir,Budgam,recovered,2020-04-18,4.0
+Jammu and Kashmir,Budgam,recovered,2020-04-20,1.0
+Jammu and Kashmir,Budgam,recovered,2020-04-21,1.0
+Jammu and Kashmir,Ganderbal,confirmed,2020-04-09,1.0
+Jammu and Kashmir,Ganderbal,confirmed,2020-04-10,1.0
+Jammu and Kashmir,Ganderbal,confirmed,2020-04-12,3.0
+Jammu and Kashmir,Ganderbal,confirmed,2020-04-15,8.0
+Jammu and Kashmir,Ganderbal,confirmed,2020-04-16,1.0
+Jammu and Kashmir,Ganderbal,recovered,2020-04-21,2.0
+Jammu and Kashmir,Jammu,confirmed,2020-03-09,1.0
+Jammu and Kashmir,Jammu,confirmed,2020-03-13,1.0
+Jammu and Kashmir,Jammu,confirmed,2020-03-16,1.0
+Jammu and Kashmir,Jammu,confirmed,2020-03-28,3.0
+Jammu and Kashmir,Jammu,confirmed,2020-03-30,3.0
+Jammu and Kashmir,Jammu,confirmed,2020-04-03,1.0
+Jammu and Kashmir,Jammu,confirmed,2020-04-07,6.0
+Jammu and Kashmir,Jammu,confirmed,2020-04-08,3.0
+Jammu and Kashmir,Jammu,confirmed,2020-04-12,2.0
+Jammu and Kashmir,Jammu,confirmed,2020-04-14,2.0
+Jammu and Kashmir,Jammu,confirmed,2020-04-15,3.0
+Jammu and Kashmir,Jammu,recovered,2020-04-21,1.0
+Jammu and Kashmir,Jammu,recovered,2020-04-25,2.0
+Jammu and Kashmir,Jammu,recovered,2020-04-26,7.0
+Jammu and Kashmir,Kathua,confirmed,2020-04-21,1.0
+Jammu and Kashmir,Kishtwar,confirmed,2020-04-10,1.0
+Jammu and Kashmir,Kulgam,confirmed,2020-04-10,3.0
+Jammu and Kashmir,Kulgam,confirmed,2020-04-12,1.0
+Jammu and Kashmir,Kulgam,confirmed,2020-04-13,1.0
+Jammu and Kashmir,Kulgam,confirmed,2020-04-19,1.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-09,15.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-12,8.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-15,2.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-17,2.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-19,4.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-20,2.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-22,4.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-23,4.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-24,4.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-25,1.0
+Jammu and Kashmir,Kupwara,confirmed,2020-04-26,1.0
+Jammu and Kashmir,Kupwara,recovered,2020-04-20,6.0
+Jammu and Kashmir,Kupwara,recovered,2020-04-26,2.0
+Jammu and Kashmir,Pulwama,confirmed,2020-04-08,3.0
+Jammu and Kashmir,Pulwama,recovered,2020-04-22,2.0
+Jammu and Kashmir,Rajouri,confirmed,2020-03-26,1.0
+Jammu and Kashmir,Rajouri,confirmed,2020-03-27,2.0
+Jammu and Kashmir,Rajouri,confirmed,2020-04-19,1.0
+Jammu and Kashmir,Ramban,confirmed,2020-04-23,1.0
+Jammu and Kashmir,Samba,confirmed,2020-04-10,3.0
+Jammu and Kashmir,Samba,confirmed,2020-04-12,1.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-03-30,2.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-04-08,2.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-04-09,10.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-04-17,3.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-04-18,5.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-04-21,10.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-04-22,14.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-04-23,9.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-04-24,5.0
+Jammu and Kashmir,Shopiyan,confirmed,2020-04-25,3.0
+Jammu and Kashmir,Shopiyan,recovered,2020-04-22,4.0
+Jammu and Kashmir,Shopiyan,recovered,2020-04-24,5.0
+Jammu and Kashmir,Srinagar,confirmed,2020-03-18,1.0
+Jammu and Kashmir,Srinagar,confirmed,2020-03-24,1.0
+Jammu and Kashmir,Srinagar,confirmed,2020-03-25,1.0
+Jammu and Kashmir,Srinagar,confirmed,2020-03-26,2.0
+Jammu and Kashmir,Srinagar,confirmed,2020-03-27,4.0
+Jammu and Kashmir,Srinagar,confirmed,2020-03-28,6.0
+Jammu and Kashmir,Srinagar,confirmed,2020-03-29,2.0
+Jammu and Kashmir,Srinagar,confirmed,2020-03-30,3.0
+Jammu and Kashmir,Srinagar,confirmed,2020-03-31,6.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-07,9.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-08,11.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-11,9.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-12,2.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-13,12.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-14,4.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-15,3.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-16,2.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-19,1.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-25,4.0
+Jammu and Kashmir,Srinagar,confirmed,2020-04-26,2.0
+Jammu and Kashmir,Srinagar,recovered,2020-04-18,5.0
+Jammu and Kashmir,Srinagar,recovered,2020-04-20,2.0
+Jammu and Kashmir,Srinagar,recovered,2020-04-22,3.0
+Jammu and Kashmir,Srinagar,recovered,2020-04-25,1.0
+Jammu and Kashmir,Srinagar,recovered,2020-04-26,9.0
+Jammu and Kashmir,Udhampur,deceased,2020-04-09,1.0
+Jammu and Kashmir,Udhampur,confirmed,2020-04-03,1.0
+Jammu and Kashmir,Udhampur,confirmed,2020-04-04,3.0
+Jammu and Kashmir,Udhampur,confirmed,2020-04-10,15.0
+Jammu and Kashmir,Udhampur,confirmed,2020-04-15,1.0
+Jammu and Kashmir,Udhampur,recovered,2020-04-21,3.0
+Jammu and Kashmir,Udhampur,recovered,2020-04-26,1.0
+Jharkhand,Bokaro,deceased,2020-04-09,1.0
+Jharkhand,Bokaro,confirmed,2020-04-05,1.0
+Jharkhand,Bokaro,confirmed,2020-04-09,4.0
+Jharkhand,Bokaro,confirmed,2020-04-10,1.0
+Jharkhand,Bokaro,confirmed,2020-04-12,2.0
+Jharkhand,Bokaro,confirmed,2020-04-13,1.0
+Jharkhand,Bokaro,confirmed,2020-04-20,1.0
+Jharkhand,Bokaro,recovered,2020-04-26,4.0
+Jharkhand,Deoghar,confirmed,2020-04-20,2.0
+Jharkhand,Dhanbad,confirmed,2020-04-16,1.0
+Jharkhand,Dhanbad,confirmed,2020-04-19,1.0
+Jharkhand,Garhwa,confirmed,2020-04-23,1.0
+Jharkhand,Garhwa,confirmed,2020-04-26,2.0
+Jharkhand,Giridih,confirmed,2020-04-13,1.0
+Jharkhand,Hazaribagh,confirmed,2020-04-02,1.0
+Jharkhand,Hazaribagh,confirmed,2020-04-11,1.0
+Jharkhand,Hazaribagh,confirmed,2020-04-20,1.0
+Jharkhand,Koderma,confirmed,2020-04-11,1.0
+Jharkhand,Palamu,confirmed,2020-04-25,3.0
+Jharkhand,Ranchi,deceased,2020-04-12,1.0
+Jharkhand,Ranchi,confirmed,2020-03-31,1.0
+Jharkhand,Ranchi,confirmed,2020-04-06,1.0
+Jharkhand,Ranchi,confirmed,2020-04-09,5.0
+Jharkhand,Ranchi,confirmed,2020-04-11,1.0
+Jharkhand,Ranchi,confirmed,2020-04-13,3.0
+Jharkhand,Ranchi,confirmed,2020-04-14,2.0
+Jharkhand,Ranchi,confirmed,2020-04-15,1.0
+Jharkhand,Ranchi,confirmed,2020-04-17,3.0
+Jharkhand,Ranchi,confirmed,2020-04-18,1.0
+Jharkhand,Ranchi,confirmed,2020-04-19,6.0
+Jharkhand,Ranchi,confirmed,2020-04-20,1.0
+Jharkhand,Ranchi,confirmed,2020-04-23,6.0
+Jharkhand,Ranchi,confirmed,2020-04-24,6.0
+Jharkhand,Ranchi,confirmed,2020-04-25,5.0
+Jharkhand,Ranchi,confirmed,2020-04-26,13.0
+Jharkhand,Ranchi,recovered,2020-04-26,1.0
+Jharkhand,Simdega,confirmed,2020-04-14,1.0
+Jharkhand,Simdega,confirmed,2020-04-19,1.0
+Karnataka,Bagalkote,deceased,2020-04-03,1.0
+Karnataka,Bagalkote,confirmed,2020-04-03,1.0
+Karnataka,Bagalkote,confirmed,2020-04-06,2.0
+Karnataka,Bagalkote,confirmed,2020-04-07,2.0
+Karnataka,Bagalkote,confirmed,2020-04-09,3.0
+Karnataka,Bagalkote,confirmed,2020-04-13,1.0
+Karnataka,Bagalkote,confirmed,2020-04-14,3.0
+Karnataka,Bagalkote,confirmed,2020-04-15,2.0
+Karnataka,Bagalkote,confirmed,2020-04-18,7.0
+Karnataka,Bagalkote,confirmed,2020-04-24,3.0
+Karnataka,Bagalkote,recovered,2020-04-26,4.0
+Karnataka,Ballari,confirmed,2020-03-31,3.0
+Karnataka,Ballari,confirmed,2020-04-02,1.0
+Karnataka,Ballari,confirmed,2020-04-04,1.0
+Karnataka,Ballari,confirmed,2020-04-05,1.0
+Karnataka,Ballari,confirmed,2020-04-17,7.0
+Karnataka,Ballari,recovered,2020-04-26,2.0
+Karnataka,Belagavi,deceased,2020-04-15,1.0
+Karnataka,Belagavi,confirmed,2020-04-03,3.0
+Karnataka,Belagavi,confirmed,2020-04-05,4.0
+Karnataka,Belagavi,confirmed,2020-04-09,3.0
+Karnataka,Belagavi,confirmed,2020-04-12,4.0
+Karnataka,Belagavi,confirmed,2020-04-13,3.0
+Karnataka,Belagavi,confirmed,2020-04-14,1.0
+Karnataka,Belagavi,confirmed,2020-04-15,1.0
+Karnataka,Belagavi,confirmed,2020-04-16,15.0
+Karnataka,Belagavi,confirmed,2020-04-17,5.0
+Karnataka,Belagavi,confirmed,2020-04-18,1.0
+Karnataka,Belagavi,confirmed,2020-04-21,1.0
+Karnataka,Belagavi,confirmed,2020-04-24,2.0
+Karnataka,Belagavi,confirmed,2020-04-25,9.0
+Karnataka,Belagavi,recovered,2020-04-26,2.0
+Karnataka,Bengaluru Rural,confirmed,2020-04-05,2.0
+Karnataka,Bengaluru Rural,confirmed,2020-04-06,1.0
+Karnataka,Bengaluru Rural,confirmed,2020-04-10,2.0
+Karnataka,Bengaluru Rural,confirmed,2020-04-13,1.0
+Karnataka,Bengaluru Urban,deceased,2020-04-13,1.0
+Karnataka,Bengaluru Urban,deceased,2020-04-14,1.0
+Karnataka,Bengaluru Urban,deceased,2020-04-16,1.0
+Karnataka,Bengaluru Urban,deceased,2020-04-19,1.0
+Karnataka,Bengaluru Urban,deceased,2020-04-26,1.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-09,1.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-10,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-12,1.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-17,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-18,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-21,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-22,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-23,5.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-24,1.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-25,8.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-26,1.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-27,4.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-28,2.0
+Karnataka,Bengaluru Urban,confirmed,2020-03-31,4.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-01,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-04,4.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-06,1.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-07,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-09,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-10,2.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-11,2.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-12,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-13,1.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-14,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-15,1.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-16,4.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-17,10.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-18,3.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-22,2.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-23,10.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-24,19.0
+Karnataka,Bengaluru Urban,confirmed,2020-04-25,13.0
+Karnataka,Bengaluru Urban,recovered,2020-04-06,4.0
+Karnataka,Bengaluru Urban,recovered,2020-04-11,2.0
+Karnataka,Bengaluru Urban,recovered,2020-04-26,8.0
+Karnataka,Bidar,confirmed,2020-04-02,9.0
+Karnataka,Bidar,confirmed,2020-04-11,1.0
+Karnataka,Bidar,confirmed,2020-04-13,2.0
+Karnataka,Bidar,confirmed,2020-04-17,1.0
+Karnataka,Bidar,confirmed,2020-04-20,1.0
+Karnataka,Chikkaballapura,deceased,2020-04-15,1.0
+Karnataka,Chikkaballapura,confirmed,2020-03-21,1.0
+Karnataka,Chikkaballapura,confirmed,2020-03-22,1.0
+Karnataka,Chikkaballapura,confirmed,2020-03-24,1.0
+Karnataka,Chikkaballapura,confirmed,2020-03-26,1.0
+Karnataka,Chikkaballapura,confirmed,2020-03-28,3.0
+Karnataka,Chikkaballapura,confirmed,2020-03-31,1.0
+Karnataka,Chikkaballapura,confirmed,2020-04-08,1.0
+Karnataka,Chikkaballapura,confirmed,2020-04-09,3.0
+Karnataka,Chikkaballapura,confirmed,2020-04-14,1.0
+Karnataka,Chikkaballapura,confirmed,2020-04-17,3.0
+Karnataka,Chikkaballapura,confirmed,2020-04-24,1.0
+Karnataka,Chikkaballapura,confirmed,2020-04-25,1.0
+Karnataka,Chitradurga,confirmed,2020-03-25,1.0
+Karnataka,Chitradurga,recovered,2020-04-06,1.0
+Karnataka,Dakshina Kannada,deceased,2020-04-19,1.0
+Karnataka,Dakshina Kannada,deceased,2020-04-24,1.0
+Karnataka,Dakshina Kannada,confirmed,2020-03-27,2.0
+Karnataka,Dakshina Kannada,confirmed,2020-03-31,1.0
+Karnataka,Dakshina Kannada,confirmed,2020-04-04,3.0
+Karnataka,Dakshina Kannada,confirmed,2020-04-17,1.0
+Karnataka,Dakshina Kannada,confirmed,2020-04-19,2.0
+Karnataka,Dakshina Kannada,confirmed,2020-04-21,1.0
+Karnataka,Dakshina Kannada,confirmed,2020-04-23,1.0
+Karnataka,Dakshina Kannada,confirmed,2020-04-25,1.0
+Karnataka,Dakshina Kannada,confirmed,2020-04-26,1.0
+Karnataka,Davanagere,confirmed,2020-03-27,1.0
+Karnataka,Davanagere,confirmed,2020-03-28,1.0
+Karnataka,Davanagere,recovered,2020-04-06,1.0
+Karnataka,Dharwad,confirmed,2020-03-22,1.0
+Karnataka,Dharwad,confirmed,2020-04-09,1.0
+Karnataka,Dharwad,confirmed,2020-04-13,4.0
+Karnataka,Dharwad,confirmed,2020-04-18,1.0
+Karnataka,Dharwad,confirmed,2020-04-23,2.0
+Karnataka,Gadag,deceased,2020-04-09,1.0
+Karnataka,Gadag,confirmed,2020-04-07,1.0
+Karnataka,Gadag,confirmed,2020-04-16,1.0
+Karnataka,Gadag,confirmed,2020-04-18,1.0
+Karnataka,Gadag,confirmed,2020-04-20,1.0
+Karnataka,Kalaburagi,deceased,2020-04-08,1.0
+Karnataka,Kalaburagi,deceased,2020-04-13,1.0
+Karnataka,Kalaburagi,deceased,2020-04-21,1.0
+Karnataka,Kalaburagi,confirmed,2020-03-13,1.0
+Karnataka,Kalaburagi,confirmed,2020-03-16,1.0
+Karnataka,Kalaburagi,confirmed,2020-03-17,1.0
+Karnataka,Kalaburagi,confirmed,2020-03-31,1.0
+Karnataka,Kalaburagi,confirmed,2020-04-02,1.0
+Karnataka,Kalaburagi,confirmed,2020-04-07,2.0
+Karnataka,Kalaburagi,confirmed,2020-04-08,2.0
+Karnataka,Kalaburagi,confirmed,2020-04-10,1.0
+Karnataka,Kalaburagi,confirmed,2020-04-12,3.0
+Karnataka,Kalaburagi,confirmed,2020-04-14,3.0
+Karnataka,Kalaburagi,confirmed,2020-04-15,1.0
+Karnataka,Kalaburagi,confirmed,2020-04-16,3.0
+Karnataka,Kalaburagi,confirmed,2020-04-18,2.0
+Karnataka,Kalaburagi,confirmed,2020-04-20,5.0
+Karnataka,Kalaburagi,confirmed,2020-04-21,3.0
+Karnataka,Kalaburagi,confirmed,2020-04-22,5.0
+Karnataka,Kalaburagi,confirmed,2020-04-23,1.0
+Karnataka,Kalaburagi,confirmed,2020-04-26,2.0
+Karnataka,Kodagu,confirmed,2020-03-19,1.0
+Karnataka,Mandya,confirmed,2020-04-07,3.0
+Karnataka,Mandya,confirmed,2020-04-08,1.0
+Karnataka,Mandya,confirmed,2020-04-09,1.0
+Karnataka,Mandya,confirmed,2020-04-13,3.0
+Karnataka,Mandya,confirmed,2020-04-17,3.0
+Karnataka,Mandya,confirmed,2020-04-18,1.0
+Karnataka,Mandya,confirmed,2020-04-23,2.0
+Karnataka,Mandya,confirmed,2020-04-24,1.0
+Karnataka,Mandya,confirmed,2020-04-25,1.0
+Karnataka,Mandya,recovered,2020-04-26,4.0
+Karnataka,Mysuru,confirmed,2020-03-21,1.0
+Karnataka,Mysuru,confirmed,2020-03-26,1.0
+Karnataka,Mysuru,confirmed,2020-03-29,5.0
+Karnataka,Mysuru,confirmed,2020-03-30,4.0
+Karnataka,Mysuru,confirmed,2020-03-31,2.0
+Karnataka,Mysuru,confirmed,2020-04-01,4.0
+Karnataka,Mysuru,confirmed,2020-04-02,2.0
+Karnataka,Mysuru,confirmed,2020-04-04,7.0
+Karnataka,Mysuru,confirmed,2020-04-06,7.0
+Karnataka,Mysuru,confirmed,2020-04-09,2.0
+Karnataka,Mysuru,confirmed,2020-04-10,5.0
+Karnataka,Mysuru,confirmed,2020-04-11,5.0
+Karnataka,Mysuru,confirmed,2020-04-12,1.0
+Karnataka,Mysuru,confirmed,2020-04-15,10.0
+Karnataka,Mysuru,confirmed,2020-04-16,3.0
+Karnataka,Mysuru,confirmed,2020-04-17,12.0
+Karnataka,Mysuru,confirmed,2020-04-18,7.0
+Karnataka,Mysuru,confirmed,2020-04-19,4.0
+Karnataka,Mysuru,confirmed,2020-04-21,2.0
+Karnataka,Mysuru,confirmed,2020-04-22,2.0
+Karnataka,Mysuru,confirmed,2020-04-25,1.0
+Karnataka,Mysuru,recovered,2020-04-26,4.0
+Karnataka,Other State,confirmed,2020-03-23,2.0
+Karnataka,Other State,confirmed,2020-03-24,4.0
+Karnataka,Other State,confirmed,2020-03-26,1.0
+Karnataka,Other State,confirmed,2020-03-28,2.0
+Karnataka,Other State,confirmed,2020-04-01,2.0
+Karnataka,Other State,confirmed,2020-04-02,1.0
+Karnataka,Other State,confirmed,2020-04-04,1.0
+Karnataka,Other State,confirmed,2020-04-06,1.0
+Karnataka,Other State,confirmed,2020-04-07,1.0
+Karnataka,Other State,confirmed,2020-04-08,1.0
+Karnataka,Other State,confirmed,2020-04-15,1.0
+Karnataka,Other State,confirmed,2020-04-16,3.0
+Karnataka,Tumakuru,confirmed,2020-03-27,1.0
+Karnataka,Tumakuru,confirmed,2020-03-30,1.0
+Karnataka,Tumakuru,confirmed,2020-04-24,1.0
+Karnataka,Udupi,confirmed,2020-03-25,1.0
+Karnataka,Udupi,confirmed,2020-03-29,2.0
+Karnataka,Uttara Kannada,confirmed,2020-03-22,1.0
+Karnataka,Uttara Kannada,confirmed,2020-03-24,2.0
+Karnataka,Uttara Kannada,confirmed,2020-03-27,1.0
+Karnataka,Uttara Kannada,confirmed,2020-03-28,4.0
+Karnataka,Uttara Kannada,confirmed,2020-03-31,1.0
+Karnataka,Uttara Kannada,confirmed,2020-04-08,1.0
+Karnataka,Uttara Kannada,confirmed,2020-04-14,1.0
+Karnataka,Uttara Kannada,recovered,2020-04-06,1.0
+Karnataka,Vijayapura,deceased,2020-04-14,1.0
+Karnataka,Vijayapura,confirmed,2020-04-12,6.0
+Karnataka,Vijayapura,confirmed,2020-04-14,1.0
+Karnataka,Vijayapura,confirmed,2020-04-15,3.0
+Karnataka,Vijayapura,confirmed,2020-04-16,7.0
+Karnataka,Vijayapura,confirmed,2020-04-17,2.0
+Karnataka,Vijayapura,confirmed,2020-04-18,2.0
+Karnataka,Vijayapura,confirmed,2020-04-20,11.0
+Karnataka,Vijayapura,confirmed,2020-04-21,3.0
+Karnataka,Vijayapura,confirmed,2020-04-23,2.0
+Karnataka,Vijayapura,confirmed,2020-04-24,2.0
+Kerala,Alappuzha,confirmed,2020-02-02,1.0
+Kerala,Alappuzha,confirmed,2020-03-24,1.0
+Kerala,Alappuzha,confirmed,2020-04-04,1.0
+Kerala,Alappuzha,confirmed,2020-04-08,2.0
+Kerala,Alappuzha,recovered,2020-04-07,1.0
+Kerala,Alappuzha,recovered,2020-04-17,1.0
+Kerala,Alappuzha,recovered,2020-04-20,2.0
+Kerala,Ernakulam,confirmed,2020-03-10,2.0
+Kerala,Ernakulam,confirmed,2020-03-20,6.0
+Kerala,Ernakulam,confirmed,2020-03-21,3.0
+Kerala,Ernakulam,confirmed,2020-03-22,2.0
+Kerala,Ernakulam,confirmed,2020-03-23,2.0
+Kerala,Ernakulam,confirmed,2020-03-24,1.0
+Kerala,Ernakulam,confirmed,2020-03-25,3.0
+Kerala,Ernakulam,confirmed,2020-03-29,1.0
+Kerala,Ernakulam,confirmed,2020-04-01,3.0
+Kerala,Ernakulam,confirmed,2020-04-04,1.0
+Kerala,Ernakulam,recovered,2020-04-07,4.0
+Kerala,Ernakulam,recovered,2020-04-09,6.0
+Kerala,Ernakulam,recovered,2020-04-10,1.0
+Kerala,Ernakulam,recovered,2020-04-14,2.0
+Kerala,Ernakulam,recovered,2020-04-16,1.0
+Kerala,Ernakulam,recovered,2020-04-17,2.0
+Kerala,Idukki,confirmed,2020-03-15,1.0
+Kerala,Idukki,confirmed,2020-03-25,1.0
+Kerala,Idukki,confirmed,2020-03-26,1.0
+Kerala,Idukki,confirmed,2020-03-30,2.0
+Kerala,Idukki,confirmed,2020-04-02,5.0
+Kerala,Idukki,confirmed,2020-04-23,4.0
+Kerala,Idukki,confirmed,2020-04-26,6.0
+Kerala,Idukki,recovered,2020-04-03,2.0
+Kerala,Idukki,recovered,2020-04-08,2.0
+Kerala,Idukki,recovered,2020-04-09,2.0
+Kerala,Idukki,recovered,2020-04-12,1.0
+Kerala,Kannur,confirmed,2020-03-09,1.0
+Kerala,Kannur,confirmed,2020-03-10,0.0
+Kerala,Kannur,confirmed,2020-03-12,1.0
+Kerala,Kannur,confirmed,2020-03-21,3.0
+Kerala,Kannur,confirmed,2020-03-22,4.0
+Kerala,Kannur,confirmed,2020-03-23,5.0
+Kerala,Kannur,confirmed,2020-03-26,9.0
+Kerala,Kannur,confirmed,2020-03-27,2.0
+Kerala,Kannur,confirmed,2020-03-29,8.0
+Kerala,Kannur,confirmed,2020-03-30,11.0
+Kerala,Kannur,confirmed,2020-03-31,1.0
+Kerala,Kannur,confirmed,2020-04-01,2.0
+Kerala,Kannur,confirmed,2020-04-02,1.0
+Kerala,Kannur,confirmed,2020-04-03,1.0
+Kerala,Kannur,confirmed,2020-04-04,1.0
+Kerala,Kannur,confirmed,2020-04-05,1.0
+Kerala,Kannur,confirmed,2020-04-07,3.0
+Kerala,Kannur,confirmed,2020-04-08,4.0
+Kerala,Kannur,confirmed,2020-04-09,4.0
+Kerala,Kannur,confirmed,2020-04-10,2.0
+Kerala,Kannur,confirmed,2020-04-11,7.0
+Kerala,Kannur,confirmed,2020-04-12,1.0
+Kerala,Kannur,confirmed,2020-04-13,2.0
+Kerala,Kannur,confirmed,2020-04-14,4.0
+Kerala,Kannur,confirmed,2020-04-15,1.0
+Kerala,Kannur,confirmed,2020-04-16,4.0
+Kerala,Kannur,confirmed,2020-04-18,3.0
+Kerala,Kannur,confirmed,2020-04-19,1.0
+Kerala,Kannur,confirmed,2020-04-20,6.0
+Kerala,Kannur,confirmed,2020-04-21,10.0
+Kerala,Kannur,confirmed,2020-04-22,7.0
+Kerala,Kannur,confirmed,2020-04-25,1.0
+Kerala,Kannur,recovered,2020-03-31,2.0
+Kerala,Kannur,recovered,2020-04-03,5.0
+Kerala,Kannur,recovered,2020-04-04,7.0
+Kerala,Kannur,recovered,2020-04-05,4.0
+Kerala,Kannur,recovered,2020-04-06,1.0
+Kerala,Kannur,recovered,2020-04-07,5.0
+Kerala,Kannur,recovered,2020-04-08,1.0
+Kerala,Kannur,recovered,2020-04-09,3.0
+Kerala,Kannur,recovered,2020-04-10,6.0
+Kerala,Kannur,recovered,2020-04-13,1.0
+Kerala,Kannur,recovered,2020-04-16,1.0
+Kerala,Kannur,recovered,2020-04-19,3.0
+Kerala,Kannur,recovered,2020-04-21,7.0
+Kerala,Kannur,recovered,2020-04-23,1.0
+Kerala,Kannur,recovered,2020-04-24,3.0
+Kerala,Kannur,recovered,2020-04-25,2.0
+Kerala,Kannur,recovered,2020-04-26,1.0
+Kerala,Kasaragod,confirmed,2020-02-03,1.0
+Kerala,Kasaragod,confirmed,2020-03-16,1.0
+Kerala,Kasaragod,confirmed,2020-03-19,1.0
+Kerala,Kasaragod,confirmed,2020-03-20,6.0
+Kerala,Kasaragod,confirmed,2020-03-21,6.0
+Kerala,Kasaragod,confirmed,2020-03-22,5.0
+Kerala,Kasaragod,confirmed,2020-03-23,19.0
+Kerala,Kasaragod,confirmed,2020-03-24,6.0
+Kerala,Kasaragod,confirmed,2020-03-26,3.0
+Kerala,Kasaragod,confirmed,2020-03-27,34.0
+Kerala,Kasaragod,confirmed,2020-03-28,1.0
+Kerala,Kasaragod,confirmed,2020-03-29,7.0
+Kerala,Kasaragod,confirmed,2020-03-30,17.0
+Kerala,Kasaragod,confirmed,2020-03-31,2.0
+Kerala,Kasaragod,confirmed,2020-04-01,12.0
+Kerala,Kasaragod,confirmed,2020-04-02,8.0
+Kerala,Kasaragod,confirmed,2020-04-03,7.0
+Kerala,Kasaragod,confirmed,2020-04-04,6.0
+Kerala,Kasaragod,confirmed,2020-04-05,1.0
+Kerala,Kasaragod,confirmed,2020-04-06,9.0
+Kerala,Kasaragod,confirmed,2020-04-07,4.0
+Kerala,Kasaragod,confirmed,2020-04-08,1.0
+Kerala,Kasaragod,confirmed,2020-04-09,4.0
+Kerala,Kasaragod,confirmed,2020-04-10,3.0
+Kerala,Kasaragod,confirmed,2020-04-11,2.0
+Kerala,Kasaragod,confirmed,2020-04-14,1.0
+Kerala,Kasaragod,confirmed,2020-04-16,1.0
+Kerala,Kasaragod,confirmed,2020-04-19,1.0
+Kerala,Kasaragod,confirmed,2020-04-21,3.0
+Kerala,Kasaragod,confirmed,2020-04-24,3.0
+Kerala,Kasaragod,recovered,2020-04-03,4.0
+Kerala,Kasaragod,recovered,2020-04-07,1.0
+Kerala,Kasaragod,recovered,2020-04-10,17.0
+Kerala,Kasaragod,recovered,2020-04-12,28.0
+Kerala,Kasaragod,recovered,2020-04-13,12.0
+Kerala,Kasaragod,recovered,2020-04-14,6.0
+Kerala,Kasaragod,recovered,2020-04-15,4.0
+Kerala,Kasaragod,recovered,2020-04-16,24.0
+Kerala,Kasaragod,recovered,2020-04-17,6.0
+Kerala,Kasaragod,recovered,2020-04-18,2.0
+Kerala,Kasaragod,recovered,2020-04-19,8.0
+Kerala,Kasaragod,recovered,2020-04-20,19.0
+Kerala,Kasaragod,recovered,2020-04-21,4.0
+Kerala,Kasaragod,recovered,2020-04-23,6.0
+Kerala,Kasaragod,recovered,2020-04-24,5.0
+Kerala,Kasaragod,recovered,2020-04-25,2.0
+Kerala,Kasaragod,recovered,2020-04-26,1.0
+Kerala,Kollam,confirmed,2020-03-27,1.0
+Kerala,Kollam,confirmed,2020-03-28,1.0
+Kerala,Kollam,confirmed,2020-03-31,1.0
+Kerala,Kollam,confirmed,2020-04-02,2.0
+Kerala,Kollam,confirmed,2020-04-04,1.0
+Kerala,Kollam,confirmed,2020-04-06,1.0
+Kerala,Kollam,confirmed,2020-04-07,1.0
+Kerala,Kollam,confirmed,2020-04-09,1.0
+Kerala,Kollam,confirmed,2020-04-21,1.0
+Kerala,Kollam,confirmed,2020-04-23,1.0
+Kerala,Kollam,confirmed,2020-04-25,3.0
+Kerala,Kollam,recovered,2020-04-06,1.0
+Kerala,Kollam,recovered,2020-04-14,1.0
+Kerala,Kollam,recovered,2020-04-15,1.0
+Kerala,Kollam,recovered,2020-04-24,1.0
+Kerala,Kottayam,confirmed,2020-03-10,2.0
+Kerala,Kottayam,confirmed,2020-03-24,1.0
+Kerala,Kottayam,confirmed,2020-04-22,1.0
+Kerala,Kottayam,confirmed,2020-04-23,2.0
+Kerala,Kottayam,confirmed,2020-04-25,3.0
+Kerala,Kottayam,confirmed,2020-04-26,5.0
+Kerala,Kottayam,recovered,2020-04-03,1.0
+Kerala,Kozhikode,confirmed,2020-03-22,2.0
+Kerala,Kozhikode,confirmed,2020-03-24,2.0
+Kerala,Kozhikode,confirmed,2020-03-25,1.0
+Kerala,Kozhikode,confirmed,2020-03-27,1.0
+Kerala,Kozhikode,confirmed,2020-04-02,1.0
+Kerala,Kozhikode,confirmed,2020-04-05,5.0
+Kerala,Kozhikode,confirmed,2020-04-11,1.0
+Kerala,Kozhikode,confirmed,2020-04-14,3.0
+Kerala,Kozhikode,confirmed,2020-04-16,2.0
+Kerala,Kozhikode,confirmed,2020-04-17,1.0
+Kerala,Kozhikode,confirmed,2020-04-18,1.0
+Kerala,Kozhikode,confirmed,2020-04-22,2.0
+Kerala,Kozhikode,confirmed,2020-04-23,2.0
+Kerala,Kozhikode,recovered,2020-04-01,1.0
+Kerala,Kozhikode,recovered,2020-04-03,1.0
+Kerala,Kozhikode,recovered,2020-04-05,1.0
+Kerala,Kozhikode,recovered,2020-04-08,2.0
+Kerala,Kozhikode,recovered,2020-04-10,2.0
+Kerala,Kozhikode,recovered,2020-04-12,1.0
+Kerala,Kozhikode,recovered,2020-04-15,2.0
+Kerala,Kozhikode,recovered,2020-04-21,4.0
+Kerala,Kozhikode,recovered,2020-04-25,2.0
+Kerala,Malappuram,deceased,2020-04-24,1.0
+Kerala,Malappuram,confirmed,2020-03-16,2.0
+Kerala,Malappuram,confirmed,2020-03-22,2.0
+Kerala,Malappuram,confirmed,2020-03-24,1.0
+Kerala,Malappuram,confirmed,2020-03-26,3.0
+Kerala,Malappuram,confirmed,2020-03-28,1.0
+Kerala,Malappuram,confirmed,2020-03-29,1.0
+Kerala,Malappuram,confirmed,2020-04-01,2.0
+Kerala,Malappuram,confirmed,2020-04-02,1.0
+Kerala,Malappuram,confirmed,2020-04-06,2.0
+Kerala,Malappuram,confirmed,2020-04-07,1.0
+Kerala,Malappuram,confirmed,2020-04-09,2.0
+Kerala,Malappuram,confirmed,2020-04-10,2.0
+Kerala,Malappuram,confirmed,2020-04-21,1.0
+Kerala,Malappuram,confirmed,2020-04-22,1.0
+Kerala,Malappuram,recovered,2020-04-02,1.0
+Kerala,Malappuram,recovered,2020-04-09,2.0
+Kerala,Malappuram,recovered,2020-04-12,6.0
+Kerala,Malappuram,recovered,2020-04-14,1.0
+Kerala,Malappuram,recovered,2020-04-16,1.0
+Kerala,Malappuram,recovered,2020-04-17,1.0
+Kerala,Malappuram,recovered,2020-04-19,1.0
+Kerala,Malappuram,recovered,2020-04-23,1.0
+Kerala,Malappuram,recovered,2020-04-24,3.0
+Kerala,Malappuram,recovered,2020-04-26,1.0
+Kerala,Palakkad,confirmed,2020-03-24,1.0
+Kerala,Palakkad,confirmed,2020-03-25,2.0
+Kerala,Palakkad,confirmed,2020-03-28,1.0
+Kerala,Palakkad,confirmed,2020-03-29,1.0
+Kerala,Palakkad,confirmed,2020-04-01,1.0
+Kerala,Palakkad,confirmed,2020-04-04,1.0
+Kerala,Palakkad,confirmed,2020-04-13,1.0
+Kerala,Palakkad,confirmed,2020-04-21,4.0
+Kerala,Palakkad,recovered,2020-04-14,2.0
+Kerala,Palakkad,recovered,2020-04-22,1.0
+Kerala,Pathanamthitta,confirmed,2020-03-08,5.0
+Kerala,Pathanamthitta,confirmed,2020-03-10,4.0
+Kerala,Pathanamthitta,confirmed,2020-03-23,1.0
+Kerala,Pathanamthitta,confirmed,2020-03-25,2.0
+Kerala,Pathanamthitta,confirmed,2020-04-02,1.0
+Kerala,Pathanamthitta,confirmed,2020-04-05,1.0
+Kerala,Pathanamthitta,confirmed,2020-04-06,1.0
+Kerala,Pathanamthitta,confirmed,2020-04-08,1.0
+Kerala,Pathanamthitta,confirmed,2020-04-12,1.0
+Kerala,Pathanamthitta,recovered,2020-03-31,2.0
+Kerala,Pathanamthitta,recovered,2020-04-03,1.0
+Kerala,Pathanamthitta,recovered,2020-04-13,3.0
+Kerala,Pathanamthitta,recovered,2020-04-24,3.0
+Kerala,Thiruvananthapuram,deceased,2020-03-31,1.0
+Kerala,Thiruvananthapuram,confirmed,2020-03-13,3.0
+Kerala,Thiruvananthapuram,confirmed,2020-03-15,1.0
+Kerala,Thiruvananthapuram,confirmed,2020-03-24,1.0
+Kerala,Thiruvananthapuram,confirmed,2020-03-28,2.0
+Kerala,Thiruvananthapuram,confirmed,2020-03-29,1.0
+Kerala,Thiruvananthapuram,confirmed,2020-03-31,2.0
+Kerala,Thiruvananthapuram,confirmed,2020-04-01,2.0
+Kerala,Thiruvananthapuram,confirmed,2020-04-02,1.0
+Kerala,Thiruvananthapuram,confirmed,2020-04-09,1.0
+Kerala,Thiruvananthapuram,confirmed,2020-04-23,1.0
+Kerala,Thiruvananthapuram,recovered,2020-04-01,1.0
+Kerala,Thiruvananthapuram,recovered,2020-04-02,1.0
+Kerala,Thiruvananthapuram,recovered,2020-04-04,1.0
+Kerala,Thiruvananthapuram,recovered,2020-04-05,1.0
+Kerala,Thiruvananthapuram,recovered,2020-04-07,1.0
+Kerala,Thiruvananthapuram,recovered,2020-04-21,1.0
+Kerala,Thiruvananthapuram,recovered,2020-04-26,1.0
+Kerala,Thrissur,confirmed,2020-01-30,1.0
+Kerala,Thrissur,confirmed,2020-03-12,1.0
+Kerala,Thrissur,confirmed,2020-03-23,1.0
+Kerala,Thrissur,confirmed,2020-03-26,2.0
+Kerala,Thrissur,confirmed,2020-03-27,1.0
+Kerala,Thrissur,confirmed,2020-03-29,1.0
+Kerala,Thrissur,confirmed,2020-03-31,1.0
+Kerala,Thrissur,confirmed,2020-04-01,2.0
+Kerala,Thrissur,confirmed,2020-04-02,1.0
+Kerala,Thrissur,confirmed,2020-04-03,1.0
+Kerala,Thrissur,confirmed,2020-04-08,1.0
+Kerala,Thrissur,recovered,2020-04-06,1.0
+Kerala,Thrissur,recovered,2020-04-08,6.0
+Kerala,Thrissur,recovered,2020-04-10,1.0
+Kerala,Thrissur,recovered,2020-04-13,3.0
+Kerala,Thrissur,recovered,2020-04-14,1.0
+Kerala,Thrissur,recovered,2020-04-19,1.0
+Kerala,Wayanad,confirmed,2020-03-26,1.0
+Kerala,Wayanad,confirmed,2020-03-30,2.0
+Kerala,Wayanad,recovered,2020-04-08,2.0
+Kerala,Wayanad,recovered,2020-04-25,1.0
+Ladakh,Kargil,confirmed,2020-03-17,1.0
+Ladakh,Kargil,confirmed,2020-03-21,1.0
+Ladakh,Kargil,confirmed,2020-04-03,1.0
+Ladakh,Kargil,confirmed,2020-04-13,1.0
+Ladakh,Kargil,confirmed,2020-04-25,1.0
+Ladakh,Kargil,recovered,2020-04-16,1.0
+Ladakh,Kargil,recovered,2020-04-23,1.0
+Ladakh,Leh,confirmed,2020-03-07,2.0
+Ladakh,Leh,confirmed,2020-03-11,1.0
+Ladakh,Leh,confirmed,2020-03-17,4.0
+Ladakh,Leh,confirmed,2020-03-20,2.0
+Ladakh,Leh,confirmed,2020-03-21,2.0
+Ladakh,Leh,confirmed,2020-04-10,1.0
+Ladakh,Leh,confirmed,2020-04-13,1.0
+Ladakh,Leh,confirmed,2020-04-15,1.0
+Ladakh,Leh,confirmed,2020-04-25,1.0
+Ladakh,Leh,recovered,2020-04-16,1.0
+Ladakh,Leh,recovered,2020-04-23,1.0
+Madhya Pradesh,Agar Malwa,confirmed,2020-04-15,3.0
+Madhya Pradesh,Agar Malwa,confirmed,2020-04-16,1.0
+Madhya Pradesh,Agar Malwa,confirmed,2020-04-21,7.0
+Madhya Pradesh,Alirajpur,confirmed,2020-04-15,1.0
+Madhya Pradesh,Alirajpur,confirmed,2020-04-18,2.0
+Madhya Pradesh,Barwani,confirmed,2020-04-05,3.0
+Madhya Pradesh,Barwani,confirmed,2020-04-08,9.0
+Madhya Pradesh,Barwani,confirmed,2020-04-10,2.0
+Madhya Pradesh,Barwani,confirmed,2020-04-14,3.0
+Madhya Pradesh,Barwani,confirmed,2020-04-15,5.0
+Madhya Pradesh,Barwani,confirmed,2020-04-18,2.0
+Madhya Pradesh,Barwani,recovered,2020-04-26,7.0
+Madhya Pradesh,Betul,confirmed,2020-04-06,1.0
+Madhya Pradesh,Bhopal,deceased,2020-04-06,1.0
+Madhya Pradesh,Bhopal,deceased,2020-04-12,1.0
+Madhya Pradesh,Bhopal,deceased,2020-04-14,1.0
+Madhya Pradesh,Bhopal,deceased,2020-04-17,1.0
+Madhya Pradesh,Bhopal,deceased,2020-04-24,2.0
+Madhya Pradesh,Bhopal,confirmed,2020-03-22,1.0
+Madhya Pradesh,Bhopal,confirmed,2020-03-25,1.0
+Madhya Pradesh,Bhopal,confirmed,2020-03-27,1.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-02,5.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-04,7.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-05,3.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-06,43.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-07,24.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-08,9.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-09,4.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-10,18.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-11,15.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-12,3.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-13,8.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-14,16.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-15,9.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-16,29.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-17,1.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-18,16.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-19,1.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-20,40.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-21,31.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-22,18.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-23,20.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-24,37.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-25,28.0
+Madhya Pradesh,Bhopal,confirmed,2020-04-26,27.0
+Madhya Pradesh,Chhindwara,deceased,2020-04-04,1.0
+Madhya Pradesh,Chhindwara,confirmed,2020-04-02,1.0
+Madhya Pradesh,Chhindwara,confirmed,2020-04-04,1.0
+Madhya Pradesh,Chhindwara,confirmed,2020-04-13,2.0
+Madhya Pradesh,Chhindwara,confirmed,2020-04-25,1.0
+Madhya Pradesh,Dewas,deceased,2020-04-09,1.0
+Madhya Pradesh,Dewas,deceased,2020-04-17,4.0
+Madhya Pradesh,Dewas,confirmed,2020-04-09,3.0
+Madhya Pradesh,Dewas,confirmed,2020-04-13,1.0
+Madhya Pradesh,Dewas,confirmed,2020-04-14,3.0
+Madhya Pradesh,Dewas,confirmed,2020-04-15,8.0
+Madhya Pradesh,Dewas,confirmed,2020-04-16,2.0
+Madhya Pradesh,Dewas,confirmed,2020-04-17,1.0
+Madhya Pradesh,Dewas,confirmed,2020-04-21,1.0
+Madhya Pradesh,Dewas,confirmed,2020-04-23,2.0
+Madhya Pradesh,Dewas,confirmed,2020-04-26,2.0
+Madhya Pradesh,Dhar,confirmed,2020-04-09,1.0
+Madhya Pradesh,Dhar,confirmed,2020-04-13,1.0
+Madhya Pradesh,Dhar,confirmed,2020-04-14,1.0
+Madhya Pradesh,Dhar,confirmed,2020-04-16,3.0
+Madhya Pradesh,Dhar,confirmed,2020-04-17,4.0
+Madhya Pradesh,Dhar,confirmed,2020-04-18,14.0
+Madhya Pradesh,Dhar,confirmed,2020-04-20,12.0
+Madhya Pradesh,Dindori,confirmed,2020-04-26,1.0
+Madhya Pradesh,Gwalior,confirmed,2020-03-25,1.0
+Madhya Pradesh,Gwalior,confirmed,2020-03-28,1.0
+Madhya Pradesh,Gwalior,confirmed,2020-04-07,4.0
+Madhya Pradesh,Gwalior,confirmed,2020-04-22,-2.0
+Madhya Pradesh,Hoshangabad,deceased,2020-04-25,1.0
+Madhya Pradesh,Hoshangabad,deceased,2020-04-26,1.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-09,6.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-11,4.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-13,5.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-15,1.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-17,3.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-18,4.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-20,1.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-23,1.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-24,1.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-25,4.0
+Madhya Pradesh,Hoshangabad,confirmed,2020-04-26,2.0
+Madhya Pradesh,Hoshangabad,recovered,2020-04-22,1.0
+Madhya Pradesh,Hoshangabad,recovered,2020-04-26,8.0
+Madhya Pradesh,Indore,deceased,2020-03-29,1.0
+Madhya Pradesh,Indore,deceased,2020-03-30,1.0
+Madhya Pradesh,Indore,deceased,2020-03-31,1.0
+Madhya Pradesh,Indore,deceased,2020-04-01,1.0
+Madhya Pradesh,Indore,deceased,2020-04-02,2.0
+Madhya Pradesh,Indore,deceased,2020-04-04,2.0
+Madhya Pradesh,Indore,deceased,2020-04-05,2.0
+Madhya Pradesh,Indore,deceased,2020-04-06,1.0
+Madhya Pradesh,Indore,deceased,2020-04-07,3.0
+Madhya Pradesh,Indore,deceased,2020-04-09,1.0
+Madhya Pradesh,Indore,deceased,2020-04-11,4.0
+Madhya Pradesh,Indore,deceased,2020-04-12,2.0
+Madhya Pradesh,Indore,deceased,2020-04-13,1.0
+Madhya Pradesh,Indore,deceased,2020-04-14,2.0
+Madhya Pradesh,Indore,deceased,2020-04-16,2.0
+Madhya Pradesh,Indore,deceased,2020-04-17,8.0
+Madhya Pradesh,Indore,deceased,2020-04-19,2.0
+Madhya Pradesh,Indore,deceased,2020-04-23,1.0
+Madhya Pradesh,Indore,deceased,2020-04-24,2.0
+Madhya Pradesh,Indore,deceased,2020-04-25,2.0
+Madhya Pradesh,Indore,confirmed,2020-03-25,4.0
+Madhya Pradesh,Indore,confirmed,2020-03-26,5.0
+Madhya Pradesh,Indore,confirmed,2020-03-27,5.0
+Madhya Pradesh,Indore,confirmed,2020-03-28,6.0
+Madhya Pradesh,Indore,confirmed,2020-03-30,7.0
+Madhya Pradesh,Indore,confirmed,2020-03-31,18.0
+Madhya Pradesh,Indore,confirmed,2020-04-01,32.0
+Madhya Pradesh,Indore,confirmed,2020-04-02,2.0
+Madhya Pradesh,Indore,confirmed,2020-04-03,35.0
+Madhya Pradesh,Indore,confirmed,2020-04-04,14.0
+Madhya Pradesh,Indore,confirmed,2020-04-05,7.0
+Madhya Pradesh,Indore,confirmed,2020-04-06,16.0
+Madhya Pradesh,Indore,confirmed,2020-04-08,22.0
+Madhya Pradesh,Indore,confirmed,2020-04-09,48.0
+Madhya Pradesh,Indore,confirmed,2020-04-10,14.0
+Madhya Pradesh,Indore,confirmed,2020-04-11,46.0
+Madhya Pradesh,Indore,confirmed,2020-04-12,30.0
+Madhya Pradesh,Indore,confirmed,2020-04-13,17.0
+Madhya Pradesh,Indore,confirmed,2020-04-14,83.0
+Madhya Pradesh,Indore,confirmed,2020-04-15,133.0
+Madhya Pradesh,Indore,confirmed,2020-04-16,163.0
+Madhya Pradesh,Indore,confirmed,2020-04-17,134.0
+Madhya Pradesh,Indore,confirmed,2020-04-18,50.0
+Madhya Pradesh,Indore,confirmed,2020-04-20,7.0
+Madhya Pradesh,Indore,confirmed,2020-04-21,17.0
+Madhya Pradesh,Indore,confirmed,2020-04-22,8.0
+Madhya Pradesh,Indore,confirmed,2020-04-23,22.0
+Madhya Pradesh,Indore,confirmed,2020-04-24,84.0
+Madhya Pradesh,Indore,confirmed,2020-04-25,56.0
+Madhya Pradesh,Indore,confirmed,2020-04-26,91.0
+Madhya Pradesh,Indore,recovered,2020-04-22,3.0
+Madhya Pradesh,Jabalpur,confirmed,2020-03-20,4.0
+Madhya Pradesh,Jabalpur,confirmed,2020-03-22,1.0
+Madhya Pradesh,Jabalpur,confirmed,2020-03-24,1.0
+Madhya Pradesh,Jabalpur,confirmed,2020-03-27,2.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-09,1.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-13,1.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-14,2.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-16,1.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-18,3.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-19,4.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-20,1.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-21,4.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-23,4.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-24,2.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-25,12.0
+Madhya Pradesh,Jabalpur,confirmed,2020-04-26,16.0
+Madhya Pradesh,Jabalpur,recovered,2020-04-05,3.0
+Madhya Pradesh,Jabalpur,recovered,2020-04-11,1.0
+Madhya Pradesh,Khandwa,deceased,2020-04-26,1.0
+Madhya Pradesh,Khandwa,confirmed,2020-04-09,5.0
+Madhya Pradesh,Khandwa,confirmed,2020-04-14,10.0
+Madhya Pradesh,Khandwa,confirmed,2020-04-15,1.0
+Madhya Pradesh,Khandwa,confirmed,2020-04-16,17.0
+Madhya Pradesh,Khandwa,confirmed,2020-04-23,2.0
+Madhya Pradesh,Khandwa,confirmed,2020-04-25,1.0
+Madhya Pradesh,Khargone,deceased,2020-04-17,1.0
+Madhya Pradesh,Khargone,deceased,2020-04-23,2.0
+Madhya Pradesh,Khargone,deceased,2020-04-24,1.0
+Madhya Pradesh,Khargone,confirmed,2020-04-04,3.0
+Madhya Pradesh,Khargone,confirmed,2020-04-05,1.0
+Madhya Pradesh,Khargone,confirmed,2020-04-08,8.0
+Madhya Pradesh,Khargone,confirmed,2020-04-10,2.0
+Madhya Pradesh,Khargone,confirmed,2020-04-13,3.0
+Madhya Pradesh,Khargone,confirmed,2020-04-15,22.0
+Madhya Pradesh,Khargone,confirmed,2020-04-20,2.0
+Madhya Pradesh,Khargone,confirmed,2020-04-23,10.0
+Madhya Pradesh,Khargone,confirmed,2020-04-24,10.0
+Madhya Pradesh,Khargone,confirmed,2020-04-25,-1.0
+Madhya Pradesh,Khargone,confirmed,2020-04-26,1.0
+Madhya Pradesh,Khargone,recovered,2020-04-26,5.0
+Madhya Pradesh,Mandsaur,confirmed,2020-04-11,1.0
+Madhya Pradesh,Mandsaur,confirmed,2020-04-14,1.0
+Madhya Pradesh,Mandsaur,confirmed,2020-04-16,5.0
+Madhya Pradesh,Mandsaur,confirmed,2020-04-17,1.0
+Madhya Pradesh,Mandsaur,confirmed,2020-04-26,1.0
+Madhya Pradesh,Morena,confirmed,2020-04-03,12.0
+Madhya Pradesh,Morena,confirmed,2020-04-08,1.0
+Madhya Pradesh,Other Region,confirmed,2020-04-06,1.0
+Madhya Pradesh,Raisen,confirmed,2020-04-09,1.0
+Madhya Pradesh,Raisen,confirmed,2020-04-13,3.0
+Madhya Pradesh,Raisen,confirmed,2020-04-16,4.0
+Madhya Pradesh,Raisen,confirmed,2020-04-20,15.0
+Madhya Pradesh,Raisen,confirmed,2020-04-22,1.0
+Madhya Pradesh,Raisen,confirmed,2020-04-24,2.0
+Madhya Pradesh,Raisen,confirmed,2020-04-26,2.0
+Madhya Pradesh,Ratlam,confirmed,2020-04-11,1.0
+Madhya Pradesh,Ratlam,confirmed,2020-04-14,1.0
+Madhya Pradesh,Ratlam,confirmed,2020-04-15,10.0
+Madhya Pradesh,Ratlam,confirmed,2020-04-18,1.0
+Madhya Pradesh,Ratlam,confirmed,2020-04-26,0.0
+Madhya Pradesh,Sagar,confirmed,2020-04-10,1.0
+Madhya Pradesh,Sagar,confirmed,2020-04-23,4.0
+Madhya Pradesh,Sagar,recovered,2020-04-26,1.0
+Madhya Pradesh,Shajapur,confirmed,2020-04-10,1.0
+Madhya Pradesh,Shajapur,confirmed,2020-04-14,3.0
+Madhya Pradesh,Shajapur,confirmed,2020-04-16,1.0
+Madhya Pradesh,Shajapur,confirmed,2020-04-18,1.0
+Madhya Pradesh,Sheopur,confirmed,2020-04-07,1.0
+Madhya Pradesh,Sheopur,confirmed,2020-04-11,1.0
+Madhya Pradesh,Sheopur,confirmed,2020-04-14,1.0
+Madhya Pradesh,Sheopur,confirmed,2020-04-17,1.0
+Madhya Pradesh,Shivpuri,confirmed,2020-03-25,1.0
+Madhya Pradesh,Shivpuri,confirmed,2020-03-28,1.0
+Madhya Pradesh,Tikamgarh,confirmed,2020-04-14,1.0
+Madhya Pradesh,Tikamgarh,confirmed,2020-04-23,1.0
+Madhya Pradesh,Ujjain,deceased,2020-03-29,1.0
+Madhya Pradesh,Ujjain,deceased,2020-03-30,1.0
+Madhya Pradesh,Ujjain,deceased,2020-04-24,4.0
+Madhya Pradesh,Ujjain,deceased,2020-04-25,4.0
+Madhya Pradesh,Ujjain,deceased,2020-04-26,2.0
+Madhya Pradesh,Ujjain,confirmed,2020-03-25,1.0
+Madhya Pradesh,Ujjain,confirmed,2020-03-27,1.0
+Madhya Pradesh,Ujjain,confirmed,2020-03-28,2.0
+Madhya Pradesh,Ujjain,confirmed,2020-03-30,1.0
+Madhya Pradesh,Ujjain,confirmed,2020-03-31,1.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-02,1.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-06,1.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-07,5.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-08,2.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-13,9.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-14,2.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-15,4.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-17,1.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-21,6.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-22,8.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-23,35.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-24,22.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-25,1.0
+Madhya Pradesh,Ujjain,confirmed,2020-04-26,3.0
+Madhya Pradesh,Vidisha,confirmed,2020-04-06,1.0
+Madhya Pradesh,Vidisha,confirmed,2020-04-09,1.0
+Madhya Pradesh,Vidisha,confirmed,2020-04-10,2.0
+Madhya Pradesh,Vidisha,confirmed,2020-04-11,9.0
+Maharashtra,Ahmednagar,deceased,2020-04-14,1.0
+Maharashtra,Ahmednagar,deceased,2020-04-19,1.0
+Maharashtra,Ahmednagar,confirmed,2020-03-14,1.0
+Maharashtra,Ahmednagar,confirmed,2020-03-19,1.0
+Maharashtra,Ahmednagar,confirmed,2020-03-24,1.0
+Maharashtra,Ahmednagar,confirmed,2020-03-29,2.0
+Maharashtra,Ahmednagar,confirmed,2020-03-31,3.0
+Maharashtra,Ahmednagar,confirmed,2020-04-02,9.0
+Maharashtra,Ahmednagar,confirmed,2020-04-05,4.0
+Maharashtra,Ahmednagar,confirmed,2020-04-06,2.0
+Maharashtra,Ahmednagar,confirmed,2020-04-07,2.0
+Maharashtra,Ahmednagar,confirmed,2020-04-11,1.0
+Maharashtra,Ahmednagar,confirmed,2020-04-13,1.0
+Maharashtra,Ahmednagar,confirmed,2020-04-16,1.0
+Maharashtra,Ahmednagar,confirmed,2020-04-18,0.0
+Maharashtra,Ahmednagar,confirmed,2020-04-19,1.0
+Maharashtra,Ahmednagar,confirmed,2020-04-23,3.0
+Maharashtra,Ahmednagar,confirmed,2020-04-24,1.0
+Maharashtra,Ahmednagar,confirmed,2020-04-25,2.0
+Maharashtra,Ahmednagar,confirmed,2020-04-26,1.0
+Maharashtra,Ahmednagar,recovered,2020-03-30,1.0
+Maharashtra,Akola,deceased,2020-04-15,1.0
+Maharashtra,Akola,confirmed,2020-04-08,1.0
+Maharashtra,Akola,confirmed,2020-04-09,8.0
+Maharashtra,Akola,confirmed,2020-04-10,3.0
+Maharashtra,Akola,confirmed,2020-04-12,1.0
+Maharashtra,Akola,confirmed,2020-04-15,1.0
+Maharashtra,Akola,confirmed,2020-04-18,1.0
+Maharashtra,Akola,confirmed,2020-04-19,1.0
+Maharashtra,Akola,confirmed,2020-04-22,5.0
+Maharashtra,Akola,confirmed,2020-04-23,-1.0
+Maharashtra,Akola,confirmed,2020-04-24,3.0
+Maharashtra,Akola,confirmed,2020-04-26,6.0
+Maharashtra,Amravati,deceased,2020-04-04,1.0
+Maharashtra,Amravati,confirmed,2020-04-04,1.0
+Maharashtra,Amravati,confirmed,2020-04-09,3.0
+Maharashtra,Amravati,confirmed,2020-04-14,1.0
+Maharashtra,Amravati,confirmed,2020-04-18,1.0
+Maharashtra,Amravati,confirmed,2020-04-22,1.0
+Maharashtra,Amravati,confirmed,2020-04-24,6.0
+Maharashtra,Amravati,confirmed,2020-04-25,6.0
+Maharashtra,Amravati,confirmed,2020-04-26,1.0
+Maharashtra,Aurangabad,deceased,2020-04-05,1.0
+Maharashtra,Aurangabad,deceased,2020-04-14,1.0
+Maharashtra,Aurangabad,deceased,2020-04-18,1.0
+Maharashtra,Aurangabad,deceased,2020-04-22,2.0
+Maharashtra,Aurangabad,confirmed,2020-03-15,1.0
+Maharashtra,Aurangabad,confirmed,2020-04-02,2.0
+Maharashtra,Aurangabad,confirmed,2020-04-05,4.0
+Maharashtra,Aurangabad,confirmed,2020-04-06,3.0
+Maharashtra,Aurangabad,confirmed,2020-04-07,3.0
+Maharashtra,Aurangabad,confirmed,2020-04-09,4.0
+Maharashtra,Aurangabad,confirmed,2020-04-11,2.0
+Maharashtra,Aurangabad,confirmed,2020-04-13,4.0
+Maharashtra,Aurangabad,confirmed,2020-04-16,5.0
+Maharashtra,Aurangabad,confirmed,2020-04-18,1.0
+Maharashtra,Aurangabad,confirmed,2020-04-19,1.0
+Maharashtra,Aurangabad,confirmed,2020-04-21,5.0
+Maharashtra,Aurangabad,confirmed,2020-04-22,3.0
+Maharashtra,Aurangabad,confirmed,2020-04-23,2.0
+Maharashtra,Aurangabad,confirmed,2020-04-24,2.0
+Maharashtra,Aurangabad,confirmed,2020-04-25,8.0
+Maharashtra,Aurangabad,recovered,2020-03-30,1.0
+Maharashtra,Beed,confirmed,2020-04-09,1.0
+Maharashtra,Buldhana,deceased,2020-03-29,1.0
+Maharashtra,Buldhana,confirmed,2020-03-29,1.0
+Maharashtra,Buldhana,confirmed,2020-03-31,2.0
+Maharashtra,Buldhana,confirmed,2020-04-01,1.0
+Maharashtra,Buldhana,confirmed,2020-04-02,1.0
+Maharashtra,Buldhana,confirmed,2020-04-07,2.0
+Maharashtra,Buldhana,confirmed,2020-04-08,1.0
+Maharashtra,Buldhana,confirmed,2020-04-09,3.0
+Maharashtra,Buldhana,confirmed,2020-04-10,2.0
+Maharashtra,Buldhana,confirmed,2020-04-13,4.0
+Maharashtra,Buldhana,confirmed,2020-04-15,4.0
+Maharashtra,Buldhana,confirmed,2020-04-22,3.0
+Maharashtra,Buldhana,confirmed,2020-04-24,-3.0
+Maharashtra,Chandrapur,confirmed,2020-04-16,2.0
+Maharashtra,Dhule,deceased,2020-04-11,1.0
+Maharashtra,Dhule,deceased,2020-04-25,1.0
+Maharashtra,Dhule,confirmed,2020-04-13,1.0
+Maharashtra,Dhule,confirmed,2020-04-21,3.0
+Maharashtra,Dhule,confirmed,2020-04-22,5.0
+Maharashtra,Dhule,confirmed,2020-04-23,8.0
+Maharashtra,Dhule,confirmed,2020-04-24,5.0
+Maharashtra,Dhule,confirmed,2020-04-25,3.0
+Maharashtra,Gondia,confirmed,2020-03-27,1.0
+Maharashtra,Hingoli,confirmed,2020-04-04,1.0
+Maharashtra,Hingoli,confirmed,2020-04-22,6.0
+Maharashtra,Hingoli,confirmed,2020-04-25,1.0
+Maharashtra,Jalgaon,deceased,2020-04-22,1.0
+Maharashtra,Jalgaon,confirmed,2020-03-29,1.0
+Maharashtra,Jalgaon,confirmed,2020-04-04,1.0
+Maharashtra,Jalgaon,confirmed,2020-04-21,1.0
+Maharashtra,Jalgaon,confirmed,2020-04-22,3.0
+Maharashtra,Jalgaon,confirmed,2020-04-23,2.0
+Maharashtra,Jalgaon,confirmed,2020-04-25,5.0
+Maharashtra,Jalgaon,confirmed,2020-04-26,6.0
+Maharashtra,Jalna,confirmed,2020-04-06,1.0
+Maharashtra,Jalna,confirmed,2020-04-16,1.0
+Maharashtra,Jalna,confirmed,2020-04-19,-1.0
+Maharashtra,Jalna,confirmed,2020-04-22,1.0
+Maharashtra,Kolhapur,confirmed,2020-03-27,1.0
+Maharashtra,Kolhapur,confirmed,2020-03-30,1.0
+Maharashtra,Kolhapur,confirmed,2020-04-09,2.0
+Maharashtra,Kolhapur,confirmed,2020-04-11,1.0
+Maharashtra,Kolhapur,confirmed,2020-04-19,1.0
+Maharashtra,Kolhapur,confirmed,2020-04-20,2.0
+Maharashtra,Kolhapur,confirmed,2020-04-21,1.0
+Maharashtra,Kolhapur,confirmed,2020-04-24,1.0
+Maharashtra,Latur,confirmed,2020-04-04,8.0
+Maharashtra,Latur,confirmed,2020-04-24,1.0
+Maharashtra,Mumbai,deceased,2020-03-29,5.0
+Maharashtra,Mumbai,deceased,2020-03-30,1.0
+Maharashtra,Mumbai,deceased,2020-04-01,5.0
+Maharashtra,Mumbai,deceased,2020-04-04,4.0
+Maharashtra,Mumbai,deceased,2020-04-05,8.0
+Maharashtra,Mumbai,deceased,2020-04-06,4.0
+Maharashtra,Mumbai,deceased,2020-04-07,4.0
+Maharashtra,Mumbai,deceased,2020-04-08,5.0
+Maharashtra,Mumbai,deceased,2020-04-09,9.0
+Maharashtra,Mumbai,deceased,2020-04-10,10.0
+Maharashtra,Mumbai,deceased,2020-04-11,12.0
+Maharashtra,Mumbai,deceased,2020-04-12,16.0
+Maharashtra,Mumbai,deceased,2020-04-13,9.0
+Maharashtra,Mumbai,deceased,2020-04-14,11.0
+Maharashtra,Mumbai,deceased,2020-04-15,2.0
+Maharashtra,Mumbai,deceased,2020-04-16,3.0
+Maharashtra,Mumbai,deceased,2020-04-17,5.0
+Maharashtra,Mumbai,deceased,2020-04-18,5.0
+Maharashtra,Mumbai,deceased,2020-04-19,6.0
+Maharashtra,Mumbai,deceased,2020-04-20,7.0
+Maharashtra,Mumbai,deceased,2020-04-21,12.0
+Maharashtra,Mumbai,deceased,2020-04-22,10.0
+Maharashtra,Mumbai,deceased,2020-04-24,11.0
+Maharashtra,Mumbai,deceased,2020-04-25,13.0
+Maharashtra,Mumbai,deceased,2020-04-26,1.0
+Maharashtra,Mumbai,confirmed,2020-03-11,2.0
+Maharashtra,Mumbai,confirmed,2020-03-12,2.0
+Maharashtra,Mumbai,confirmed,2020-03-14,1.0
+Maharashtra,Mumbai,confirmed,2020-03-16,1.0
+Maharashtra,Mumbai,confirmed,2020-03-17,1.0
+Maharashtra,Mumbai,confirmed,2020-03-18,1.0
+Maharashtra,Mumbai,confirmed,2020-03-19,1.0
+Maharashtra,Mumbai,confirmed,2020-03-20,2.0
+Maharashtra,Mumbai,confirmed,2020-03-21,8.0
+Maharashtra,Mumbai,confirmed,2020-03-22,5.0
+Maharashtra,Mumbai,confirmed,2020-03-23,11.0
+Maharashtra,Mumbai,confirmed,2020-03-24,6.0
+Maharashtra,Mumbai,confirmed,2020-03-25,7.0
+Maharashtra,Mumbai,confirmed,2020-03-26,1.0
+Maharashtra,Mumbai,confirmed,2020-03-27,2.0
+Maharashtra,Mumbai,confirmed,2020-03-28,22.0
+Maharashtra,Mumbai,confirmed,2020-03-29,5.0
+Maharashtra,Mumbai,confirmed,2020-03-30,7.0
+Maharashtra,Mumbai,confirmed,2020-03-31,59.0
+Maharashtra,Mumbai,confirmed,2020-04-01,30.0
+Maharashtra,Mumbai,confirmed,2020-04-02,54.0
+Maharashtra,Mumbai,confirmed,2020-04-03,43.0
+Maharashtra,Mumbai,confirmed,2020-04-04,99.0
+Maharashtra,Mumbai,confirmed,2020-04-05,81.0
+Maharashtra,Mumbai,confirmed,2020-04-06,67.0
+Maharashtra,Mumbai,confirmed,2020-04-07,124.0
+Maharashtra,Mumbai,confirmed,2020-04-08,72.0
+Maharashtra,Mumbai,confirmed,2020-04-09,162.0
+Maharashtra,Mumbai,confirmed,2020-04-10,132.0
+Maharashtra,Mumbai,confirmed,2020-04-11,138.0
+Maharashtra,Mumbai,confirmed,2020-04-12,152.0
+Maharashtra,Mumbai,confirmed,2020-04-13,242.0
+Maharashtra,Mumbai,confirmed,2020-04-14,216.0
+Maharashtra,Mumbai,confirmed,2020-04-15,140.0
+Maharashtra,Mumbai,confirmed,2020-04-16,177.0
+Maharashtra,Mumbai,confirmed,2020-04-17,12.0
+Maharashtra,Mumbai,confirmed,2020-04-18,183.0
+Maharashtra,Mumbai,confirmed,2020-04-19,456.0
+Maharashtra,Mumbai,confirmed,2020-04-20,308.0
+Maharashtra,Mumbai,confirmed,2020-04-21,419.0
+Maharashtra,Mumbai,confirmed,2020-04-22,232.0
+Maharashtra,Mumbai,confirmed,2020-04-23,522.0
+Maharashtra,Mumbai,confirmed,2020-04-24,242.0
+Maharashtra,Mumbai,confirmed,2020-04-25,602.0
+Maharashtra,Mumbai,confirmed,2020-04-26,358.0
+Maharashtra,Mumbai,recovered,2020-03-29,14.0
+Maharashtra,Mumbai Suburban,deceased,2020-03-29,1.0
+Maharashtra,Nagpur,deceased,2020-04-07,1.0
+Maharashtra,Nagpur,confirmed,2020-03-11,1.0
+Maharashtra,Nagpur,confirmed,2020-03-13,2.0
+Maharashtra,Nagpur,confirmed,2020-03-14,1.0
+Maharashtra,Nagpur,confirmed,2020-03-26,1.0
+Maharashtra,Nagpur,confirmed,2020-03-27,4.0
+Maharashtra,Nagpur,confirmed,2020-03-28,2.0
+Maharashtra,Nagpur,confirmed,2020-03-29,3.0
+Maharashtra,Nagpur,confirmed,2020-03-30,2.0
+Maharashtra,Nagpur,confirmed,2020-04-04,1.0
+Maharashtra,Nagpur,confirmed,2020-04-07,2.0
+Maharashtra,Nagpur,confirmed,2020-04-10,6.0
+Maharashtra,Nagpur,confirmed,2020-04-12,17.0
+Maharashtra,Nagpur,confirmed,2020-04-13,3.0
+Maharashtra,Nagpur,confirmed,2020-04-14,9.0
+Maharashtra,Nagpur,confirmed,2020-04-15,1.0
+Maharashtra,Nagpur,confirmed,2020-04-16,3.0
+Maharashtra,Nagpur,confirmed,2020-04-17,1.0
+Maharashtra,Nagpur,confirmed,2020-04-18,4.0
+Maharashtra,Nagpur,confirmed,2020-04-19,10.0
+Maharashtra,Nagpur,confirmed,2020-04-20,7.0
+Maharashtra,Nagpur,confirmed,2020-04-21,10.0
+Maharashtra,Nagpur,confirmed,2020-04-22,10.0
+Maharashtra,Nagpur,confirmed,2020-04-24,1.0
+Maharashtra,Nagpur,confirmed,2020-04-25,6.0
+Maharashtra,Nagpur,recovered,2020-03-30,4.0
+Maharashtra,Nanded,confirmed,2020-04-22,1.0
+Maharashtra,Nandurbar,confirmed,2020-04-18,1.0
+Maharashtra,Nandurbar,confirmed,2020-04-21,3.0
+Maharashtra,Nandurbar,confirmed,2020-04-22,3.0
+Maharashtra,Nandurbar,confirmed,2020-04-25,4.0
+Maharashtra,Nashik,deceased,2020-04-11,1.0
+Maharashtra,Nashik,deceased,2020-04-19,4.0
+Maharashtra,Nashik,deceased,2020-04-20,2.0
+Maharashtra,Nashik,deceased,2020-04-22,1.0
+Maharashtra,Nashik,deceased,2020-04-24,2.0
+Maharashtra,Nashik,deceased,2020-04-25,1.0
+Maharashtra,Nashik,confirmed,2020-03-30,1.0
+Maharashtra,Nashik,confirmed,2020-04-06,1.0
+Maharashtra,Nashik,confirmed,2020-04-09,5.0
+Maharashtra,Nashik,confirmed,2020-04-11,8.0
+Maharashtra,Nashik,confirmed,2020-04-12,4.0
+Maharashtra,Nashik,confirmed,2020-04-13,15.0
+Maharashtra,Nashik,confirmed,2020-04-14,11.0
+Maharashtra,Nashik,confirmed,2020-04-16,2.0
+Maharashtra,Nashik,confirmed,2020-04-17,6.0
+Maharashtra,Nashik,confirmed,2020-04-19,34.0
+Maharashtra,Nashik,confirmed,2020-04-20,8.0
+Maharashtra,Nashik,confirmed,2020-04-22,10.0
+Maharashtra,Nashik,confirmed,2020-04-23,15.0
+Maharashtra,Nashik,confirmed,2020-04-24,7.0
+Maharashtra,Nashik,confirmed,2020-04-25,4.0
+Maharashtra,Osmanabad,confirmed,2020-04-02,1.0
+Maharashtra,Osmanabad,confirmed,2020-04-04,2.0
+Maharashtra,Palghar,deceased,2020-03-31,1.0
+Maharashtra,Palghar,deceased,2020-04-02,1.0
+Maharashtra,Palghar,deceased,2020-04-06,1.0
+Maharashtra,Palghar,confirmed,2020-03-23,1.0
+Maharashtra,Palghar,confirmed,2020-03-27,1.0
+Maharashtra,Palghar,confirmed,2020-03-28,3.0
+Maharashtra,Palghar,confirmed,2020-04-05,1.0
+Maharashtra,Palghar,confirmed,2020-04-06,4.0
+Maharashtra,Palghar,confirmed,2020-04-07,3.0
+Maharashtra,Palghar,confirmed,2020-04-09,1.0
+Maharashtra,Palghar,confirmed,2020-04-10,1.0
+Maharashtra,Palghar,confirmed,2020-04-11,3.0
+Maharashtra,Palghar,confirmed,2020-04-12,7.0
+Maharashtra,Palghar,confirmed,2020-04-13,5.0
+Maharashtra,Palghar,confirmed,2020-04-14,4.0
+Maharashtra,Palghar,confirmed,2020-04-15,3.0
+Maharashtra,Palghar,confirmed,2020-04-16,4.0
+Maharashtra,Palghar,confirmed,2020-04-17,34.0
+Maharashtra,Palghar,confirmed,2020-04-18,8.0
+Maharashtra,Palghar,confirmed,2020-04-19,19.0
+Maharashtra,Palghar,confirmed,2020-04-20,22.0
+Maharashtra,Palghar,confirmed,2020-04-22,10.0
+Maharashtra,Palghar,confirmed,2020-04-23,-4.0
+Maharashtra,Palghar,confirmed,2020-04-24,5.0
+Maharashtra,Palghar,confirmed,2020-04-25,4.0
+Maharashtra,Palghar,confirmed,2020-04-26,2.0
+Maharashtra,Parbhani,confirmed,2020-04-07,1.0
+Maharashtra,Pune,deceased,2020-03-30,1.0
+Maharashtra,Pune,deceased,2020-04-05,3.0
+Maharashtra,Pune,deceased,2020-04-07,7.0
+Maharashtra,Pune,deceased,2020-04-08,2.0
+Maharashtra,Pune,deceased,2020-04-10,1.0
+Maharashtra,Pune,deceased,2020-04-11,2.0
+Maharashtra,Pune,deceased,2020-04-12,3.0
+Maharashtra,Pune,deceased,2020-04-13,1.0
+Maharashtra,Pune,deceased,2020-04-14,4.0
+Maharashtra,Pune,deceased,2020-04-15,6.0
+Maharashtra,Pune,deceased,2020-04-16,4.0
+Maharashtra,Pune,deceased,2020-04-17,2.0
+Maharashtra,Pune,deceased,2020-04-18,4.0
+Maharashtra,Pune,deceased,2020-04-21,4.0
+Maharashtra,Pune,deceased,2020-04-22,2.0
+Maharashtra,Pune,deceased,2020-04-24,5.0
+Maharashtra,Pune,deceased,2020-04-25,6.0
+Maharashtra,Pune,confirmed,2020-03-09,2.0
+Maharashtra,Pune,confirmed,2020-03-10,3.0
+Maharashtra,Pune,confirmed,2020-03-11,3.0
+Maharashtra,Pune,confirmed,2020-03-12,1.0
+Maharashtra,Pune,confirmed,2020-03-13,1.0
+Maharashtra,Pune,confirmed,2020-03-15,5.0
+Maharashtra,Pune,confirmed,2020-03-16,1.0
+Maharashtra,Pune,confirmed,2020-03-17,1.0
+Maharashtra,Pune,confirmed,2020-03-18,2.0
+Maharashtra,Pune,confirmed,2020-03-20,2.0
+Maharashtra,Pune,confirmed,2020-03-21,2.0
+Maharashtra,Pune,confirmed,2020-03-22,4.0
+Maharashtra,Pune,confirmed,2020-03-23,1.0
+Maharashtra,Pune,confirmed,2020-03-24,3.0
+Maharashtra,Pune,confirmed,2020-03-27,1.0
+Maharashtra,Pune,confirmed,2020-03-29,5.0
+Maharashtra,Pune,confirmed,2020-03-30,6.0
+Maharashtra,Pune,confirmed,2020-03-31,5.0
+Maharashtra,Pune,confirmed,2020-04-01,2.0
+Maharashtra,Pune,confirmed,2020-04-02,11.0
+Maharashtra,Pune,confirmed,2020-04-03,9.0
+Maharashtra,Pune,confirmed,2020-04-04,12.0
+Maharashtra,Pune,confirmed,2020-04-05,18.0
+Maharashtra,Pune,confirmed,2020-04-06,41.0
+Maharashtra,Pune,confirmed,2020-04-07,10.0
+Maharashtra,Pune,confirmed,2020-04-08,38.0
+Maharashtra,Pune,confirmed,2020-04-09,17.0
+Maharashtra,Pune,confirmed,2020-04-10,42.0
+Maharashtra,Pune,confirmed,2020-04-11,9.0
+Maharashtra,Pune,confirmed,2020-04-12,6.0
+Maharashtra,Pune,confirmed,2020-04-13,45.0
+Maharashtra,Pune,confirmed,2020-04-14,43.0
+Maharashtra,Pune,confirmed,2020-04-15,56.0
+Maharashtra,Pune,confirmed,2020-04-16,66.0
+Maharashtra,Pune,confirmed,2020-04-17,31.0
+Maharashtra,Pune,confirmed,2020-04-18,87.0
+Maharashtra,Pune,confirmed,2020-04-19,20.0
+Maharashtra,Pune,confirmed,2020-04-20,52.0
+Maharashtra,Pune,confirmed,2020-04-21,53.0
+Maharashtra,Pune,confirmed,2020-04-22,89.0
+Maharashtra,Pune,confirmed,2020-04-23,105.0
+Maharashtra,Pune,confirmed,2020-04-24,51.0
+Maharashtra,Pune,confirmed,2020-04-25,69.0
+Maharashtra,Pune,confirmed,2020-04-26,22.0
+Maharashtra,Pune,recovered,2020-03-29,11.0
+Maharashtra,Pune,recovered,2020-03-30,5.0
+Maharashtra,Raigad,confirmed,2020-03-14,1.0
+Maharashtra,Raigad,confirmed,2020-03-25,1.0
+Maharashtra,Raigad,confirmed,2020-04-04,1.0
+Maharashtra,Raigad,confirmed,2020-04-05,3.0
+Maharashtra,Raigad,confirmed,2020-04-11,1.0
+Maharashtra,Raigad,confirmed,2020-04-12,5.0
+Maharashtra,Raigad,confirmed,2020-04-13,2.0
+Maharashtra,Raigad,confirmed,2020-04-14,1.0
+Maharashtra,Raigad,confirmed,2020-04-16,3.0
+Maharashtra,Raigad,confirmed,2020-04-17,18.0
+Maharashtra,Raigad,confirmed,2020-04-18,6.0
+Maharashtra,Raigad,confirmed,2020-04-19,-2.0
+Maharashtra,Raigad,confirmed,2020-04-20,8.0
+Maharashtra,Raigad,confirmed,2020-04-21,2.0
+Maharashtra,Raigad,confirmed,2020-04-22,1.0
+Maharashtra,Raigad,confirmed,2020-04-23,-1.0
+Maharashtra,Raigad,confirmed,2020-04-24,4.0
+Maharashtra,Raigad,confirmed,2020-04-25,2.0
+Maharashtra,Raigad,confirmed,2020-04-26,1.0
+Maharashtra,Ratnagiri,confirmed,2020-03-18,1.0
+Maharashtra,Ratnagiri,confirmed,2020-04-03,1.0
+Maharashtra,Ratnagiri,confirmed,2020-04-07,1.0
+Maharashtra,Ratnagiri,confirmed,2020-04-09,1.0
+Maharashtra,Ratnagiri,confirmed,2020-04-10,1.0
+Maharashtra,Ratnagiri,confirmed,2020-04-14,1.0
+Maharashtra,Ratnagiri,confirmed,2020-04-20,1.0
+Maharashtra,Ratnagiri,confirmed,2020-04-21,1.0
+Maharashtra,Sangli,deceased,2020-04-21,1.0
+Maharashtra,Sangli,confirmed,2020-03-24,4.0
+Maharashtra,Sangli,confirmed,2020-03-25,5.0
+Maharashtra,Sangli,confirmed,2020-03-27,15.0
+Maharashtra,Sangli,confirmed,2020-03-29,1.0
+Maharashtra,Sangli,confirmed,2020-04-07,1.0
+Maharashtra,Sangli,confirmed,2020-04-22,1.0
+Maharashtra,Sangli,confirmed,2020-04-23,-1.0
+Maharashtra,Sangli,confirmed,2020-04-26,1.0
+Maharashtra,Satara,deceased,2020-04-11,1.0
+Maharashtra,Satara,confirmed,2020-03-24,2.0
+Maharashtra,Satara,confirmed,2020-04-02,1.0
+Maharashtra,Satara,confirmed,2020-04-06,2.0
+Maharashtra,Satara,confirmed,2020-04-07,1.0
+Maharashtra,Satara,confirmed,2020-04-09,1.0
+Maharashtra,Satara,confirmed,2020-04-18,4.0
+Maharashtra,Satara,confirmed,2020-04-20,2.0
+Maharashtra,Satara,confirmed,2020-04-22,3.0
+Maharashtra,Satara,confirmed,2020-04-23,4.0
+Maharashtra,Satara,confirmed,2020-04-25,9.0
+Maharashtra,Sindhudurg,confirmed,2020-03-26,1.0
+Maharashtra,Solapur,deceased,2020-04-12,1.0
+Maharashtra,Solapur,deceased,2020-04-19,1.0
+Maharashtra,Solapur,deceased,2020-04-22,1.0
+Maharashtra,Solapur,deceased,2020-04-25,1.0
+Maharashtra,Solapur,confirmed,2020-04-12,1.0
+Maharashtra,Solapur,confirmed,2020-04-14,2.0
+Maharashtra,Solapur,confirmed,2020-04-15,7.0
+Maharashtra,Solapur,confirmed,2020-04-16,2.0
+Maharashtra,Solapur,confirmed,2020-04-18,2.0
+Maharashtra,Solapur,confirmed,2020-04-19,1.0
+Maharashtra,Solapur,confirmed,2020-04-20,6.0
+Maharashtra,Solapur,confirmed,2020-04-21,4.0
+Maharashtra,Solapur,confirmed,2020-04-22,5.0
+Maharashtra,Solapur,confirmed,2020-04-23,3.0
+Maharashtra,Solapur,confirmed,2020-04-24,6.0
+Maharashtra,Solapur,confirmed,2020-04-25,7.0
+Maharashtra,Solapur,confirmed,2020-04-26,1.0
+Maharashtra,Thane,deceased,2020-03-29,1.0
+Maharashtra,Thane,deceased,2020-04-04,1.0
+Maharashtra,Thane,deceased,2020-04-05,1.0
+Maharashtra,Thane,deceased,2020-04-06,2.0
+Maharashtra,Thane,deceased,2020-04-08,1.0
+Maharashtra,Thane,deceased,2020-04-12,2.0
+Maharashtra,Thane,deceased,2020-04-13,1.0
+Maharashtra,Thane,deceased,2020-04-21,2.0
+Maharashtra,Thane,deceased,2020-04-22,1.0
+Maharashtra,Thane,confirmed,2020-03-14,3.0
+Maharashtra,Thane,confirmed,2020-03-16,4.0
+Maharashtra,Thane,confirmed,2020-03-19,1.0
+Maharashtra,Thane,confirmed,2020-03-21,1.0
+Maharashtra,Thane,confirmed,2020-03-22,1.0
+Maharashtra,Thane,confirmed,2020-03-23,2.0
+Maharashtra,Thane,confirmed,2020-03-24,2.0
+Maharashtra,Thane,confirmed,2020-03-25,2.0
+Maharashtra,Thane,confirmed,2020-03-27,2.0
+Maharashtra,Thane,confirmed,2020-03-28,1.0
+Maharashtra,Thane,confirmed,2020-03-29,4.0
+Maharashtra,Thane,confirmed,2020-03-31,13.0
+Maharashtra,Thane,confirmed,2020-04-02,9.0
+Maharashtra,Thane,confirmed,2020-04-03,10.0
+Maharashtra,Thane,confirmed,2020-04-04,21.0
+Maharashtra,Thane,confirmed,2020-04-05,1.0
+Maharashtra,Thane,confirmed,2020-04-08,5.0
+Maharashtra,Thane,confirmed,2020-04-09,15.0
+Maharashtra,Thane,confirmed,2020-04-10,22.0
+Maharashtra,Thane,confirmed,2020-04-11,24.0
+Maharashtra,Thane,confirmed,2020-04-12,42.0
+Maharashtra,Thane,confirmed,2020-04-13,21.0
+Maharashtra,Thane,confirmed,2020-04-14,60.0
+Maharashtra,Thane,confirmed,2020-04-15,14.0
+Maharashtra,Thane,confirmed,2020-04-16,13.0
+Maharashtra,Thane,confirmed,2020-04-17,18.0
+Maharashtra,Thane,confirmed,2020-04-18,30.0
+Maharashtra,Thane,confirmed,2020-04-19,7.0
+Maharashtra,Thane,confirmed,2020-04-20,55.0
+Maharashtra,Thane,confirmed,2020-04-21,44.0
+Maharashtra,Thane,confirmed,2020-04-22,30.0
+Maharashtra,Thane,confirmed,2020-04-23,117.0
+Maharashtra,Thane,confirmed,2020-04-24,48.0
+Maharashtra,Thane,confirmed,2020-04-25,74.0
+Maharashtra,Thane,confirmed,2020-04-26,21.0
+Maharashtra,Thane,recovered,2020-04-18,1.0
+Maharashtra,Washim,confirmed,2020-04-03,1.0
+Maharashtra,Yavatmal,confirmed,2020-03-14,2.0
+Maharashtra,Yavatmal,confirmed,2020-03-16,1.0
+Maharashtra,Yavatmal,confirmed,2020-03-21,1.0
+Maharashtra,Yavatmal,confirmed,2020-04-13,1.0
+Maharashtra,Yavatmal,confirmed,2020-04-16,8.0
+Maharashtra,Yavatmal,confirmed,2020-04-19,1.0
+Maharashtra,Yavatmal,confirmed,2020-04-20,1.0
+Maharashtra,Yavatmal,confirmed,2020-04-21,1.0
+Maharashtra,Yavatmal,confirmed,2020-04-22,2.0
+Maharashtra,Yavatmal,confirmed,2020-04-23,-1.0
+Maharashtra,Yavatmal,confirmed,2020-04-24,6.0
+Maharashtra,Yavatmal,confirmed,2020-04-25,5.0
+Maharashtra,Yavatmal,confirmed,2020-04-26,20.0
+Maharashtra,Yavatmal,recovered,2020-03-30,3.0
+Manipur,Imphal East,confirmed,2020-04-02,1.0
+Manipur,Imphal West,confirmed,2020-03-24,1.0
+Meghalaya,East Khasi Hills,confirmed,2020-04-13,1.0
+Meghalaya,East Khasi Hills,confirmed,2020-04-15,6.0
+Meghalaya,East Khasi Hills,confirmed,2020-04-16,2.0
+Meghalaya,East Khasi Hills,confirmed,2020-04-18,2.0
+Meghalaya,East Khasi Hills,confirmed,2020-04-21,1.0
+Mizoram,Aizawl,confirmed,2020-03-25,1.0
+Odisha,Balasore,confirmed,2020-04-18,1.0
+Odisha,Balasore,confirmed,2020-04-20,2.0
+Odisha,Balasore,confirmed,2020-04-21,5.0
+Odisha,Balasore,confirmed,2020-04-23,2.0
+Odisha,Bhadrak,confirmed,2020-03-31,1.0
+Odisha,Bhadrak,confirmed,2020-04-03,2.0
+Odisha,Bhadrak,confirmed,2020-04-20,5.0
+Odisha,Bhadrak,confirmed,2020-04-22,3.0
+Odisha,Bhadrak,confirmed,2020-04-24,5.0
+Odisha,Cuttack,confirmed,2020-04-03,1.0
+Odisha,Dhenkanal,confirmed,2020-04-09,1.0
+Odisha,Dhenkanal,recovered,2020-04-21,1.0
+Odisha,Jajpur,confirmed,2020-04-03,1.0
+Odisha,Jajpur,confirmed,2020-04-14,1.0
+Odisha,Jajpur,confirmed,2020-04-20,5.0
+Odisha,Jajpur,confirmed,2020-04-22,1.0
+Odisha,Jajpur,confirmed,2020-04-23,4.0
+Odisha,Jajpur,confirmed,2020-04-25,6.0
+Odisha,Kalahandi,confirmed,2020-04-04,1.0
+Odisha,Kalahandi,confirmed,2020-04-09,1.0
+Odisha,Kalahandi,recovered,2020-04-21,1.0
+Odisha,Kendrapara,confirmed,2020-04-06,1.0
+Odisha,Kendrapara,confirmed,2020-04-11,1.0
+Odisha,Kendrapara,recovered,2020-04-21,1.0
+Odisha,Khordha,deceased,2020-04-07,1.0
+Odisha,Khordha,confirmed,2020-03-16,1.0
+Odisha,Khordha,confirmed,2020-03-19,1.0
+Odisha,Khordha,confirmed,2020-03-26,1.0
+Odisha,Khordha,confirmed,2020-04-01,1.0
+Odisha,Khordha,confirmed,2020-04-03,10.0
+Odisha,Khordha,confirmed,2020-04-05,18.0
+Odisha,Khordha,confirmed,2020-04-07,2.0
+Odisha,Khordha,confirmed,2020-04-09,4.0
+Odisha,Khordha,confirmed,2020-04-10,2.0
+Odisha,Khordha,confirmed,2020-04-11,1.0
+Odisha,Khordha,confirmed,2020-04-13,1.0
+Odisha,Khordha,confirmed,2020-04-14,4.0
+Odisha,Khordha,recovered,2020-04-01,1.0
+Odisha,Khordha,recovered,2020-04-03,1.0
+Odisha,Khordha,recovered,2020-04-17,2.0
+Odisha,Khordha,recovered,2020-04-18,3.0
+Odisha,Khordha,recovered,2020-04-21,1.0
+Odisha,Khordha,recovered,2020-04-22,2.0
+Odisha,Khordha,recovered,2020-04-23,1.0
+Odisha,Khordha,recovered,2020-04-26,1.0
+Odisha,Puri,confirmed,2020-04-03,1.0
+Odisha,Sundargarh,confirmed,2020-04-11,2.0
+Odisha,Sundargarh,confirmed,2020-04-20,1.0
+Odisha,Sundargarh,confirmed,2020-04-26,3.0
+Odisha,Sundargarh,recovered,2020-04-21,1.0
+Odisha,Sundargarh,recovered,2020-04-25,1.0
+Puducherry,Mahe,confirmed,2020-03-17,1.0
+Puducherry,Mahe,recovered,2020-04-07,1.0
+Puducherry,Puducherry,confirmed,2020-04-01,2.0
+Puducherry,Puducherry,confirmed,2020-04-02,2.0
+Puducherry,Puducherry,confirmed,2020-04-10,2.0
+Puducherry,Puducherry,confirmed,2020-04-25,1.0
+Puducherry,Puducherry,recovered,2020-04-18,1.0
+Punjab,Amritsar,deceased,2020-04-05,1.0
+Punjab,Amritsar,deceased,2020-04-16,1.0
+Punjab,Amritsar,confirmed,2020-03-09,1.0
+Punjab,Amritsar,confirmed,2020-03-22,1.0
+Punjab,Amritsar,confirmed,2020-03-31,1.0
+Punjab,Amritsar,confirmed,2020-04-03,2.0
+Punjab,Amritsar,confirmed,2020-04-04,3.0
+Punjab,Amritsar,confirmed,2020-04-06,1.0
+Punjab,Amritsar,confirmed,2020-04-07,1.0
+Punjab,Amritsar,confirmed,2020-04-09,1.0
+Punjab,Amritsar,confirmed,2020-04-22,2.0
+Punjab,Amritsar,confirmed,2020-04-24,1.0
+Punjab,Amritsar,recovered,2020-04-19,1.0
+Punjab,Barnala,confirmed,2020-04-05,1.0
+Punjab,Barnala,confirmed,2020-04-09,1.0
+Punjab,Barnala,recovered,2020-04-19,1.0
+Punjab,Faridkot,confirmed,2020-04-04,1.0
+Punjab,Faridkot,confirmed,2020-04-08,1.0
+Punjab,Faridkot,confirmed,2020-04-12,1.0
+Punjab,Faridkot,recovered,2020-04-19,1.0
+Punjab,Fatehgarh Sahib,confirmed,2020-04-06,2.0
+Punjab,Fatehgarh Sahib,recovered,2020-04-21,1.0
+Punjab,Fatehgarh Sahib,recovered,2020-04-23,1.0
+Punjab,Ferozepur,confirmed,2020-04-17,1.0
+Punjab,Gurdaspur,confirmed,2020-04-14,1.0
+Punjab,Gurdaspur,confirmed,2020-04-18,1.0
+Punjab,Gurdaspur,confirmed,2020-04-19,-1.0
+Punjab,Hoshiarpur,deceased,2020-03-30,1.0
+Punjab,Hoshiarpur,confirmed,2020-03-21,1.0
+Punjab,Hoshiarpur,confirmed,2020-03-24,2.0
+Punjab,Hoshiarpur,confirmed,2020-03-25,1.0
+Punjab,Hoshiarpur,confirmed,2020-03-30,2.0
+Punjab,Hoshiarpur,confirmed,2020-04-02,1.0
+Punjab,Hoshiarpur,recovered,2020-04-17,1.0
+Punjab,Hoshiarpur,recovered,2020-04-19,1.0
+Punjab,Hoshiarpur,recovered,2020-04-24,1.0
+Punjab,Jalandhar,deceased,2020-04-09,1.0
+Punjab,Jalandhar,deceased,2020-04-14,1.0
+Punjab,Jalandhar,deceased,2020-04-26,1.0
+Punjab,Jalandhar,confirmed,2020-03-24,3.0
+Punjab,Jalandhar,confirmed,2020-03-26,1.0
+Punjab,Jalandhar,confirmed,2020-03-27,1.0
+Punjab,Jalandhar,confirmed,2020-04-04,1.0
+Punjab,Jalandhar,confirmed,2020-04-08,2.0
+Punjab,Jalandhar,confirmed,2020-04-09,3.0
+Punjab,Jalandhar,confirmed,2020-04-10,1.0
+Punjab,Jalandhar,confirmed,2020-04-11,3.0
+Punjab,Jalandhar,confirmed,2020-04-12,7.0
+Punjab,Jalandhar,confirmed,2020-04-13,2.0
+Punjab,Jalandhar,confirmed,2020-04-14,1.0
+Punjab,Jalandhar,confirmed,2020-04-16,6.0
+Punjab,Jalandhar,confirmed,2020-04-17,4.0
+Punjab,Jalandhar,confirmed,2020-04-18,6.0
+Punjab,Jalandhar,confirmed,2020-04-19,6.0
+Punjab,Jalandhar,confirmed,2020-04-20,1.0
+Punjab,Jalandhar,confirmed,2020-04-22,6.0
+Punjab,Jalandhar,confirmed,2020-04-23,5.0
+Punjab,Jalandhar,confirmed,2020-04-24,4.0
+Punjab,Jalandhar,confirmed,2020-04-25,3.0
+Punjab,Jalandhar,confirmed,2020-04-26,3.0
+Punjab,Jalandhar,recovered,2020-04-21,2.0
+Punjab,Jalandhar,recovered,2020-04-24,2.0
+Punjab,Kapurthala,deceased,2020-04-23,1.0
+Punjab,Kapurthala,confirmed,2020-04-06,1.0
+Punjab,Kapurthala,confirmed,2020-04-12,1.0
+Punjab,Kapurthala,confirmed,2020-04-22,1.0
+Punjab,Kapurthala,recovered,2020-04-21,1.0
+Punjab,Kapurthala,recovered,2020-04-25,1.0
+Punjab,Ludhiana,deceased,2020-03-30,1.0
+Punjab,Ludhiana,deceased,2020-04-05,1.0
+Punjab,Ludhiana,deceased,2020-04-11,1.0
+Punjab,Ludhiana,deceased,2020-04-18,2.0
+Punjab,Ludhiana,confirmed,2020-03-25,1.0
+Punjab,Ludhiana,confirmed,2020-03-30,1.0
+Punjab,Ludhiana,confirmed,2020-04-01,1.0
+Punjab,Ludhiana,confirmed,2020-04-03,1.0
+Punjab,Ludhiana,confirmed,2020-04-05,1.0
+Punjab,Ludhiana,confirmed,2020-04-06,1.0
+Punjab,Ludhiana,confirmed,2020-04-09,4.0
+Punjab,Ludhiana,confirmed,2020-04-13,1.0
+Punjab,Ludhiana,confirmed,2020-04-17,4.0
+Punjab,Ludhiana,confirmed,2020-04-24,1.0
+Punjab,Ludhiana,confirmed,2020-04-26,1.0
+Punjab,Ludhiana,recovered,2020-04-21,1.0
+Punjab,Mansa,confirmed,2020-04-04,3.0
+Punjab,Mansa,confirmed,2020-04-07,2.0
+Punjab,Mansa,confirmed,2020-04-09,6.0
+Punjab,Mansa,confirmed,2020-04-24,2.0
+Punjab,Mansa,recovered,2020-04-23,1.0
+Punjab,Mansa,recovered,2020-04-25,1.0
+Punjab,Moga,confirmed,2020-04-07,4.0
+Punjab,Moga,recovered,2020-04-23,4.0
+Punjab,Pathankot,confirmed,2020-04-04,1.0
+Punjab,Pathankot,confirmed,2020-04-07,6.0
+Punjab,Pathankot,confirmed,2020-04-10,8.0
+Punjab,Pathankot,confirmed,2020-04-11,1.0
+Punjab,Pathankot,confirmed,2020-04-13,2.0
+Punjab,Pathankot,confirmed,2020-04-14,4.0
+Punjab,Pathankot,confirmed,2020-04-16,2.0
+Punjab,Pathankot,confirmed,2020-04-25,1.0
+Punjab,Pathankot,recovered,2020-04-23,5.0
+Punjab,Pathankot,recovered,2020-04-26,4.0
+Punjab,Patiala,confirmed,2020-04-03,1.0
+Punjab,Patiala,confirmed,2020-04-11,1.0
+Punjab,Patiala,confirmed,2020-04-15,1.0
+Punjab,Patiala,confirmed,2020-04-16,3.0
+Punjab,Patiala,confirmed,2020-04-17,5.0
+Punjab,Patiala,confirmed,2020-04-18,15.0
+Punjab,Patiala,confirmed,2020-04-21,5.0
+Punjab,Patiala,confirmed,2020-04-22,18.0
+Punjab,Patiala,confirmed,2020-04-24,6.0
+Punjab,Patiala,confirmed,2020-04-25,6.0
+Punjab,Patiala,recovered,2020-04-16,1.0
+Punjab,Rupnagar,deceased,2020-04-08,1.0
+Punjab,Rupnagar,confirmed,2020-04-04,1.0
+Punjab,Rupnagar,confirmed,2020-04-06,2.0
+Punjab,Rupnagar,recovered,2020-04-23,1.0
+Punjab,S.A.S. Nagar,deceased,2020-03-31,1.0
+Punjab,S.A.S. Nagar,deceased,2020-04-10,1.0
+Punjab,S.A.S. Nagar,confirmed,2020-03-20,1.0
+Punjab,S.A.S. Nagar,confirmed,2020-03-21,3.0
+Punjab,S.A.S. Nagar,confirmed,2020-03-23,1.0
+Punjab,S.A.S. Nagar,confirmed,2020-03-24,1.0
+Punjab,S.A.S. Nagar,confirmed,2020-03-27,1.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-01,3.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-03,2.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-04,2.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-05,1.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-06,4.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-07,7.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-08,4.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-09,7.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-10,11.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-11,2.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-12,3.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-13,1.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-14,2.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-18,1.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-19,4.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-21,1.0
+Punjab,S.A.S. Nagar,confirmed,2020-04-24,1.0
+Punjab,S.A.S. Nagar,recovered,2020-04-16,1.0
+Punjab,S.A.S. Nagar,recovered,2020-04-19,2.0
+Punjab,S.A.S. Nagar,recovered,2020-04-21,6.0
+Punjab,S.A.S. Nagar,recovered,2020-04-26,8.0
+Punjab,Sangrur,confirmed,2020-04-09,1.0
+Punjab,Sangrur,confirmed,2020-04-10,1.0
+Punjab,Sangrur,confirmed,2020-04-15,1.0
+Punjab,Sangrur,recovered,2020-04-23,1.0
+Punjab,Sangrur,recovered,2020-04-24,1.0
+Punjab,Shahid Bhagat Singh Nagar,confirmed,2020-03-19,1.0
+Punjab,Shahid Bhagat Singh Nagar,confirmed,2020-03-21,6.0
+Punjab,Shahid Bhagat Singh Nagar,confirmed,2020-03-22,7.0
+Punjab,Shahid Bhagat Singh Nagar,confirmed,2020-03-23,1.0
+Punjab,Shahid Bhagat Singh Nagar,confirmed,2020-03-26,1.0
+Punjab,Shahid Bhagat Singh Nagar,confirmed,2020-03-27,3.0
+Punjab,Shahid Bhagat Singh Nagar,confirmed,2020-04-26,1.0
+Punjab,Shahid Bhagat Singh Nagar,recovered,2020-04-18,1.0
+Punjab,Sri Muktsar Sahib,confirmed,2020-04-09,1.0
+Rajasthan,Ajmer,confirmed,2020-03-28,1.0
+Rajasthan,Ajmer,confirmed,2020-03-29,3.0
+Rajasthan,Ajmer,confirmed,2020-03-31,1.0
+Rajasthan,Ajmer,confirmed,2020-04-16,1.0
+Rajasthan,Ajmer,confirmed,2020-04-17,9.0
+Rajasthan,Ajmer,confirmed,2020-04-18,3.0
+Rajasthan,Ajmer,confirmed,2020-04-19,5.0
+Rajasthan,Ajmer,confirmed,2020-04-20,1.0
+Rajasthan,Ajmer,confirmed,2020-04-21,35.0
+Rajasthan,Ajmer,confirmed,2020-04-22,44.0
+Rajasthan,Ajmer,confirmed,2020-04-23,3.0
+Rajasthan,Ajmer,confirmed,2020-04-25,6.0
+Rajasthan,Ajmer,confirmed,2020-04-26,11.0
+Rajasthan,Alwar,confirmed,2020-03-30,1.0
+Rajasthan,Alwar,confirmed,2020-04-01,1.0
+Rajasthan,Alwar,confirmed,2020-04-03,3.0
+Rajasthan,Alwar,confirmed,2020-04-10,1.0
+Rajasthan,Alwar,confirmed,2020-04-11,1.0
+Rajasthan,Banswara,confirmed,2020-04-04,2.0
+Rajasthan,Banswara,confirmed,2020-04-07,7.0
+Rajasthan,Banswara,confirmed,2020-04-08,1.0
+Rajasthan,Banswara,confirmed,2020-04-09,2.0
+Rajasthan,Banswara,confirmed,2020-04-10,12.0
+Rajasthan,Banswara,confirmed,2020-04-11,13.0
+Rajasthan,Banswara,confirmed,2020-04-12,15.0
+Rajasthan,Banswara,confirmed,2020-04-13,7.0
+Rajasthan,Banswara,confirmed,2020-04-18,1.0
+Rajasthan,Banswara,confirmed,2020-04-20,1.0
+Rajasthan,Banswara,confirmed,2020-04-26,1.0
+Rajasthan,Banswara,recovered,2020-04-24,16.0
+Rajasthan,Barmer,confirmed,2020-04-09,1.0
+Rajasthan,Barmer,confirmed,2020-04-23,1.0
+Rajasthan,Bharatpur,confirmed,2020-04-02,1.0
+Rajasthan,Bharatpur,confirmed,2020-04-03,2.0
+Rajasthan,Bharatpur,confirmed,2020-04-04,2.0
+Rajasthan,Bharatpur,confirmed,2020-04-07,3.0
+Rajasthan,Bharatpur,confirmed,2020-04-10,1.0
+Rajasthan,Bharatpur,confirmed,2020-04-13,11.0
+Rajasthan,Bharatpur,confirmed,2020-04-16,23.0
+Rajasthan,Bharatpur,confirmed,2020-04-18,42.0
+Rajasthan,Bharatpur,confirmed,2020-04-19,17.0
+Rajasthan,Bharatpur,confirmed,2020-04-22,1.0
+Rajasthan,Bharatpur,confirmed,2020-04-23,3.0
+Rajasthan,Bharatpur,confirmed,2020-04-24,1.0
+Rajasthan,Bharatpur,confirmed,2020-04-25,2.0
+Rajasthan,Bharatpur,confirmed,2020-04-26,1.0
+Rajasthan,Bhilwara,confirmed,2020-03-20,6.0
+Rajasthan,Bhilwara,confirmed,2020-03-21,7.0
+Rajasthan,Bhilwara,confirmed,2020-03-25,4.0
+Rajasthan,Bhilwara,confirmed,2020-03-26,2.0
+Rajasthan,Bhilwara,confirmed,2020-03-27,2.0
+Rajasthan,Bhilwara,confirmed,2020-03-28,3.0
+Rajasthan,Bhilwara,confirmed,2020-03-29,1.0
+Rajasthan,Bhilwara,confirmed,2020-03-30,1.0
+Rajasthan,Bhilwara,confirmed,2020-04-04,1.0
+Rajasthan,Bhilwara,confirmed,2020-04-09,1.0
+Rajasthan,Bhilwara,confirmed,2020-04-19,1.0
+Rajasthan,Bhilwara,confirmed,2020-04-20,-1.0
+Rajasthan,Bhilwara,confirmed,2020-04-21,5.0
+Rajasthan,Bikaner,deceased,2020-04-04,1.0
+Rajasthan,Bikaner,confirmed,2020-04-03,2.0
+Rajasthan,Bikaner,confirmed,2020-04-04,2.0
+Rajasthan,Bikaner,confirmed,2020-04-05,6.0
+Rajasthan,Bikaner,confirmed,2020-04-06,1.0
+Rajasthan,Bikaner,confirmed,2020-04-07,3.0
+Rajasthan,Bikaner,confirmed,2020-04-08,6.0
+Rajasthan,Bikaner,confirmed,2020-04-11,6.0
+Rajasthan,Bikaner,confirmed,2020-04-12,8.0
+Rajasthan,Bikaner,confirmed,2020-04-16,1.0
+Rajasthan,Bikaner,confirmed,2020-04-19,2.0
+Rajasthan,Bikaner,recovered,2020-04-24,1.0
+Rajasthan,Chittorgarh,confirmed,2020-04-25,1.0
+Rajasthan,Churu,confirmed,2020-03-27,1.0
+Rajasthan,Churu,confirmed,2020-04-01,7.0
+Rajasthan,Churu,confirmed,2020-04-04,2.0
+Rajasthan,Churu,confirmed,2020-04-07,1.0
+Rajasthan,Churu,confirmed,2020-04-12,3.0
+Rajasthan,Dausa,confirmed,2020-04-03,1.0
+Rajasthan,Dausa,confirmed,2020-04-05,2.0
+Rajasthan,Dausa,confirmed,2020-04-06,3.0
+Rajasthan,Dausa,confirmed,2020-04-10,1.0
+Rajasthan,Dausa,confirmed,2020-04-11,1.0
+Rajasthan,Dausa,confirmed,2020-04-13,3.0
+Rajasthan,Dausa,confirmed,2020-04-15,1.0
+Rajasthan,Dausa,confirmed,2020-04-17,1.0
+Rajasthan,Dausa,confirmed,2020-04-21,7.0
+Rajasthan,Dausa,confirmed,2020-04-22,1.0
+Rajasthan,Dholpur,confirmed,2020-04-02,1.0
+Rajasthan,Dholpur,confirmed,2020-04-25,2.0
+Rajasthan,Dholpur,confirmed,2020-04-26,2.0
+Rajasthan,Dungarpur,confirmed,2020-03-27,2.0
+Rajasthan,Dungarpur,confirmed,2020-03-31,1.0
+Rajasthan,Dungarpur,confirmed,2020-04-06,2.0
+Rajasthan,Dungarpur,confirmed,2020-04-25,1.0
+Rajasthan,Evacuees,confirmed,2020-03-30,7.0
+Rajasthan,Evacuees,confirmed,2020-03-31,10.0
+Rajasthan,Evacuees,confirmed,2020-04-01,1.0
+Rajasthan,Evacuees,confirmed,2020-04-03,9.0
+Rajasthan,Evacuees,confirmed,2020-04-04,1.0
+Rajasthan,Evacuees,confirmed,2020-04-05,5.0
+Rajasthan,Evacuees,confirmed,2020-04-06,3.0
+Rajasthan,Evacuees,confirmed,2020-04-09,6.0
+Rajasthan,Evacuees,confirmed,2020-04-10,8.0
+Rajasthan,Evacuees,confirmed,2020-04-12,2.0
+Rajasthan,Evacuees,confirmed,2020-04-13,2.0
+Rajasthan,Evacuees,confirmed,2020-04-17,6.0
+Rajasthan,Evacuees,confirmed,2020-04-20,1.0
+Rajasthan,Hanumangarh,confirmed,2020-04-12,2.0
+Rajasthan,Hanumangarh,confirmed,2020-04-19,1.0
+Rajasthan,Hanumangarh,confirmed,2020-04-21,5.0
+Rajasthan,Hanumangarh,confirmed,2020-04-23,2.0
+Rajasthan,Hanumangarh,confirmed,2020-04-26,1.0
+Rajasthan,Hanumangarh,recovered,2020-04-24,2.0
+Rajasthan,Italians,confirmed,2020-03-03,1.0
+Rajasthan,Italians,confirmed,2020-03-04,1.0
+Rajasthan,Jaipur,deceased,2020-04-12,1.0
+Rajasthan,Jaipur,deceased,2020-04-18,4.0
+Rajasthan,Jaipur,deceased,2020-04-21,1.0
+Rajasthan,Jaipur,deceased,2020-04-24,4.0
+Rajasthan,Jaipur,deceased,2020-04-25,1.0
+Rajasthan,Jaipur,deceased,2020-04-26,2.0
+Rajasthan,Jaipur,confirmed,2020-03-10,1.0
+Rajasthan,Jaipur,confirmed,2020-03-14,1.0
+Rajasthan,Jaipur,confirmed,2020-03-19,2.0
+Rajasthan,Jaipur,confirmed,2020-03-20,2.0
+Rajasthan,Jaipur,confirmed,2020-03-26,1.0
+Rajasthan,Jaipur,confirmed,2020-03-27,1.0
+Rajasthan,Jaipur,confirmed,2020-03-30,10.0
+Rajasthan,Jaipur,confirmed,2020-03-31,1.0
+Rajasthan,Jaipur,confirmed,2020-04-01,13.0
+Rajasthan,Jaipur,confirmed,2020-04-02,7.0
+Rajasthan,Jaipur,confirmed,2020-04-03,14.0
+Rajasthan,Jaipur,confirmed,2020-04-05,39.0
+Rajasthan,Jaipur,confirmed,2020-04-06,8.0
+Rajasthan,Jaipur,confirmed,2020-04-07,6.0
+Rajasthan,Jaipur,confirmed,2020-04-08,23.0
+Rajasthan,Jaipur,confirmed,2020-04-09,39.0
+Rajasthan,Jaipur,confirmed,2020-04-10,53.0
+Rajasthan,Jaipur,confirmed,2020-04-11,80.0
+Rajasthan,Jaipur,confirmed,2020-04-12,40.0
+Rajasthan,Jaipur,confirmed,2020-04-13,29.0
+Rajasthan,Jaipur,confirmed,2020-04-14,83.0
+Rajasthan,Jaipur,confirmed,2020-04-15,30.0
+Rajasthan,Jaipur,confirmed,2020-04-16,3.0
+Rajasthan,Jaipur,confirmed,2020-04-17,8.0
+Rajasthan,Jaipur,confirmed,2020-04-18,25.0
+Rajasthan,Jaipur,confirmed,2020-04-19,16.0
+Rajasthan,Jaipur,confirmed,2020-04-20,50.0
+Rajasthan,Jaipur,confirmed,2020-04-21,72.0
+Rajasthan,Jaipur,confirmed,2020-04-22,68.0
+Rajasthan,Jaipur,confirmed,2020-04-23,15.0
+Rajasthan,Jaipur,confirmed,2020-04-24,36.0
+Rajasthan,Jaipur,confirmed,2020-04-25,15.0
+Rajasthan,Jaipur,confirmed,2020-04-26,17.0
+Rajasthan,Jaisalmer,confirmed,2020-04-05,1.0
+Rajasthan,Jaisalmer,confirmed,2020-04-07,13.0
+Rajasthan,Jaisalmer,confirmed,2020-04-09,5.0
+Rajasthan,Jaisalmer,confirmed,2020-04-10,8.0
+Rajasthan,Jaisalmer,confirmed,2020-04-11,1.0
+Rajasthan,Jaisalmer,confirmed,2020-04-12,1.0
+Rajasthan,Jaisalmer,confirmed,2020-04-14,1.0
+Rajasthan,Jaisalmer,confirmed,2020-04-18,1.0
+Rajasthan,Jaisalmer,confirmed,2020-04-19,1.0
+Rajasthan,Jaisalmer,confirmed,2020-04-21,2.0
+Rajasthan,Jhalawar,confirmed,2020-04-08,2.0
+Rajasthan,Jhalawar,confirmed,2020-04-09,7.0
+Rajasthan,Jhalawar,confirmed,2020-04-10,3.0
+Rajasthan,Jhalawar,confirmed,2020-04-11,2.0
+Rajasthan,Jhalawar,confirmed,2020-04-13,1.0
+Rajasthan,Jhalawar,confirmed,2020-04-14,2.0
+Rajasthan,Jhalawar,confirmed,2020-04-17,1.0
+Rajasthan,Jhalawar,confirmed,2020-04-19,2.0
+Rajasthan,Jhalawar,confirmed,2020-04-24,4.0
+Rajasthan,Jhalawar,confirmed,2020-04-25,5.0
+Rajasthan,Jhalawar,confirmed,2020-04-26,1.0
+Rajasthan,Jhalawar,recovered,2020-04-24,4.0
+Rajasthan,Jhunjhunu,confirmed,2020-03-18,3.0
+Rajasthan,Jhunjhunu,confirmed,2020-03-22,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-03-25,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-03-26,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-03-29,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-03-31,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-02,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-04,8.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-05,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-06,5.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-08,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-09,7.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-14,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-15,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-16,2.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-17,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-19,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-20,2.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-21,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-23,1.0
+Rajasthan,Jhunjhunu,confirmed,2020-04-25,1.0
+Rajasthan,Jodhpur,deceased,2020-04-26,3.0
+Rajasthan,Jodhpur,confirmed,2020-03-22,2.0
+Rajasthan,Jodhpur,confirmed,2020-03-23,1.0
+Rajasthan,Jodhpur,confirmed,2020-03-25,1.0
+Rajasthan,Jodhpur,confirmed,2020-03-26,1.0
+Rajasthan,Jodhpur,confirmed,2020-03-27,1.0
+Rajasthan,Jodhpur,confirmed,2020-03-30,1.0
+Rajasthan,Jodhpur,confirmed,2020-04-01,1.0
+Rajasthan,Jodhpur,confirmed,2020-04-02,2.0
+Rajasthan,Jodhpur,confirmed,2020-04-04,7.0
+Rajasthan,Jodhpur,confirmed,2020-04-05,3.0
+Rajasthan,Jodhpur,confirmed,2020-04-06,1.0
+Rajasthan,Jodhpur,confirmed,2020-04-07,9.0
+Rajasthan,Jodhpur,confirmed,2020-04-08,1.0
+Rajasthan,Jodhpur,confirmed,2020-04-09,3.0
+Rajasthan,Jodhpur,confirmed,2020-04-10,9.0
+Rajasthan,Jodhpur,confirmed,2020-04-12,8.0
+Rajasthan,Jodhpur,confirmed,2020-04-13,31.0
+Rajasthan,Jodhpur,confirmed,2020-04-14,13.0
+Rajasthan,Jodhpur,confirmed,2020-04-15,10.0
+Rajasthan,Jodhpur,confirmed,2020-04-16,11.0
+Rajasthan,Jodhpur,confirmed,2020-04-17,38.0
+Rajasthan,Jodhpur,confirmed,2020-04-18,26.0
+Rajasthan,Jodhpur,confirmed,2020-04-19,48.0
+Rajasthan,Jodhpur,confirmed,2020-04-20,32.0
+Rajasthan,Jodhpur,confirmed,2020-04-21,16.0
+Rajasthan,Jodhpur,confirmed,2020-04-22,11.0
+Rajasthan,Jodhpur,confirmed,2020-04-23,23.0
+Rajasthan,Jodhpur,confirmed,2020-04-24,6.0
+Rajasthan,Jodhpur,confirmed,2020-04-25,10.0
+Rajasthan,Jodhpur,confirmed,2020-04-26,38.0
+Rajasthan,Karauli,confirmed,2020-04-04,1.0
+Rajasthan,Karauli,confirmed,2020-04-08,1.0
+Rajasthan,Karauli,confirmed,2020-04-11,1.0
+Rajasthan,Kota,deceased,2020-04-06,1.0
+Rajasthan,Kota,deceased,2020-04-20,1.0
+Rajasthan,Kota,deceased,2020-04-25,1.0
+Rajasthan,Kota,confirmed,2020-04-06,10.0
+Rajasthan,Kota,confirmed,2020-04-08,5.0
+Rajasthan,Kota,confirmed,2020-04-09,2.0
+Rajasthan,Kota,confirmed,2020-04-10,2.0
+Rajasthan,Kota,confirmed,2020-04-11,14.0
+Rajasthan,Kota,confirmed,2020-04-12,7.0
+Rajasthan,Kota,confirmed,2020-04-13,9.0
+Rajasthan,Kota,confirmed,2020-04-14,8.0
+Rajasthan,Kota,confirmed,2020-04-15,27.0
+Rajasthan,Kota,confirmed,2020-04-16,2.0
+Rajasthan,Kota,confirmed,2020-04-17,6.0
+Rajasthan,Kota,confirmed,2020-04-18,5.0
+Rajasthan,Kota,confirmed,2020-04-19,2.0
+Rajasthan,Kota,confirmed,2020-04-20,7.0
+Rajasthan,Kota,confirmed,2020-04-21,2.0
+Rajasthan,Kota,confirmed,2020-04-22,6.0
+Rajasthan,Kota,confirmed,2020-04-23,8.0
+Rajasthan,Kota,confirmed,2020-04-24,22.0
+Rajasthan,Kota,confirmed,2020-04-25,5.0
+Rajasthan,Kota,confirmed,2020-04-26,9.0
+Rajasthan,Kota,recovered,2020-04-24,18.0
+Rajasthan,Nagaur,deceased,2020-04-20,1.0
+Rajasthan,Nagaur,confirmed,2020-04-05,1.0
+Rajasthan,Nagaur,confirmed,2020-04-12,5.0
+Rajasthan,Nagaur,confirmed,2020-04-15,1.0
+Rajasthan,Nagaur,confirmed,2020-04-16,1.0
+Rajasthan,Nagaur,confirmed,2020-04-17,6.0
+Rajasthan,Nagaur,confirmed,2020-04-18,17.0
+Rajasthan,Nagaur,confirmed,2020-04-19,27.0
+Rajasthan,Nagaur,confirmed,2020-04-20,3.0
+Rajasthan,Nagaur,confirmed,2020-04-21,10.0
+Rajasthan,Nagaur,confirmed,2020-04-22,4.0
+Rajasthan,Nagaur,confirmed,2020-04-23,18.0
+Rajasthan,Nagaur,confirmed,2020-04-26,20.0
+Rajasthan,Other State,deceased,2020-04-26,1.0
+Rajasthan,Pali,confirmed,2020-03-22,1.0
+Rajasthan,Pali,confirmed,2020-04-05,1.0
+Rajasthan,Pali,confirmed,2020-04-24,1.0
+Rajasthan,Pali,confirmed,2020-04-25,-1.0
+Rajasthan,Pali,recovered,2020-04-24,1.0
+Rajasthan,Pratapgarh,confirmed,2020-03-23,2.0
+Rajasthan,Rajsamand,confirmed,2020-04-25,1.0
+Rajasthan,Sawai Madhopur,confirmed,2020-04-19,4.0
+Rajasthan,Sawai Madhopur,confirmed,2020-04-21,3.0
+Rajasthan,Sawai Madhopur,confirmed,2020-04-22,1.0
+Rajasthan,Sikar,deceased,2020-04-26,1.0
+Rajasthan,Sikar,confirmed,2020-03-22,1.0
+Rajasthan,Sikar,confirmed,2020-04-12,1.0
+Rajasthan,Sikar,confirmed,2020-04-23,2.0
+Rajasthan,Sikar,confirmed,2020-04-26,1.0
+Rajasthan,Tonk,deceased,2020-04-12,1.0
+Rajasthan,Tonk,confirmed,2020-04-01,4.0
+Rajasthan,Tonk,confirmed,2020-04-03,12.0
+Rajasthan,Tonk,confirmed,2020-04-04,1.0
+Rajasthan,Tonk,confirmed,2020-04-05,1.0
+Rajasthan,Tonk,confirmed,2020-04-06,2.0
+Rajasthan,Tonk,confirmed,2020-04-09,7.0
+Rajasthan,Tonk,confirmed,2020-04-11,20.0
+Rajasthan,Tonk,confirmed,2020-04-12,12.0
+Rajasthan,Tonk,confirmed,2020-04-15,1.0
+Rajasthan,Tonk,confirmed,2020-04-16,11.0
+Rajasthan,Tonk,confirmed,2020-04-17,22.0
+Rajasthan,Tonk,confirmed,2020-04-18,2.0
+Rajasthan,Tonk,confirmed,2020-04-20,1.0
+Rajasthan,Tonk,confirmed,2020-04-21,2.0
+Rajasthan,Tonk,confirmed,2020-04-22,17.0
+Rajasthan,Udaipur,confirmed,2020-04-02,1.0
+Rajasthan,Udaipur,confirmed,2020-04-03,3.0
+Rajasthan,Udaipur,confirmed,2020-04-26,1.0
+Tamil Nadu,Ariyalur,confirmed,2020-04-06,1.0
+Tamil Nadu,Ariyalur,confirmed,2020-04-20,2.0
+Tamil Nadu,Ariyalur,confirmed,2020-04-22,2.0
+Tamil Nadu,Chengalpattu,confirmed,2020-03-24,1.0
+Tamil Nadu,Chengalpattu,confirmed,2020-03-27,2.0
+Tamil Nadu,Chengalpattu,confirmed,2020-03-31,1.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-01,7.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-02,7.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-05,3.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-06,2.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-09,4.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-10,12.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-11,1.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-12,2.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-13,2.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-15,3.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-19,3.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-21,3.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-23,1.0
+Tamil Nadu,Chengalpattu,confirmed,2020-04-25,1.0
+Tamil Nadu,Chennai,deceased,2020-04-05,2.0
+Tamil Nadu,Chennai,deceased,2020-04-06,1.0
+Tamil Nadu,Chennai,deceased,2020-04-07,1.0
+Tamil Nadu,Chennai,deceased,2020-04-12,1.0
+Tamil Nadu,Chennai,deceased,2020-04-15,2.0
+Tamil Nadu,Chennai,deceased,2020-04-20,1.0
+Tamil Nadu,Chennai,deceased,2020-04-24,1.0
+Tamil Nadu,Chennai,deceased,2020-04-25,1.0
+Tamil Nadu,Chennai,deceased,2020-04-26,1.0
+Tamil Nadu,Chennai,confirmed,2020-03-18,1.0
+Tamil Nadu,Chennai,confirmed,2020-03-19,1.0
+Tamil Nadu,Chennai,confirmed,2020-03-21,1.0
+Tamil Nadu,Chennai,confirmed,2020-03-22,1.0
+Tamil Nadu,Chennai,confirmed,2020-03-23,1.0
+Tamil Nadu,Chennai,confirmed,2020-03-24,5.0
+Tamil Nadu,Chennai,confirmed,2020-03-25,1.0
+Tamil Nadu,Chennai,confirmed,2020-03-26,2.0
+Tamil Nadu,Chennai,confirmed,2020-03-27,2.0
+Tamil Nadu,Chennai,confirmed,2020-03-28,1.0
+Tamil Nadu,Chennai,confirmed,2020-03-30,5.0
+Tamil Nadu,Chennai,confirmed,2020-03-31,4.0
+Tamil Nadu,Chennai,confirmed,2020-04-01,1.0
+Tamil Nadu,Chennai,confirmed,2020-04-02,20.0
+Tamil Nadu,Chennai,confirmed,2020-04-03,35.0
+Tamil Nadu,Chennai,confirmed,2020-04-04,7.0
+Tamil Nadu,Chennai,confirmed,2020-04-05,7.0
+Tamil Nadu,Chennai,confirmed,2020-04-06,15.0
+Tamil Nadu,Chennai,confirmed,2020-04-07,39.0
+Tamil Nadu,Chennai,confirmed,2020-04-08,7.0
+Tamil Nadu,Chennai,confirmed,2020-04-09,7.0
+Tamil Nadu,Chennai,confirmed,2020-04-10,9.0
+Tamil Nadu,Chennai,confirmed,2020-04-11,10.0
+Tamil Nadu,Chennai,confirmed,2020-04-12,18.0
+Tamil Nadu,Chennai,confirmed,2020-04-13,9.0
+Tamil Nadu,Chennai,confirmed,2020-04-14,5.0
+Tamil Nadu,Chennai,confirmed,2020-04-15,5.0
+Tamil Nadu,Chennai,confirmed,2020-04-16,3.0
+Tamil Nadu,Chennai,confirmed,2020-04-17,11.0
+Tamil Nadu,Chennai,confirmed,2020-04-18,7.0
+Tamil Nadu,Chennai,confirmed,2020-04-19,50.0
+Tamil Nadu,Chennai,confirmed,2020-04-20,18.0
+Tamil Nadu,Chennai,confirmed,2020-04-21,55.0
+Tamil Nadu,Chennai,confirmed,2020-04-22,15.0
+Tamil Nadu,Chennai,confirmed,2020-04-23,27.0
+Tamil Nadu,Chennai,confirmed,2020-04-24,52.0
+Tamil Nadu,Chennai,confirmed,2020-04-25,43.0
+Tamil Nadu,Chennai,confirmed,2020-04-26,28.0
+Tamil Nadu,Coimbatore,confirmed,2020-03-22,1.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-01,28.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-05,29.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-06,1.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-07,1.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-10,26.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-11,11.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-12,22.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-13,7.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-16,1.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-18,1.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-19,5.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-21,1.0
+Tamil Nadu,Coimbatore,confirmed,2020-04-24,7.0
+Tamil Nadu,Coimbatore,recovered,2020-04-06,5.0
+Tamil Nadu,Cuddalore,confirmed,2020-04-04,3.0
+Tamil Nadu,Cuddalore,confirmed,2020-04-05,7.0
+Tamil Nadu,Cuddalore,confirmed,2020-04-06,3.0
+Tamil Nadu,Cuddalore,confirmed,2020-04-10,1.0
+Tamil Nadu,Cuddalore,confirmed,2020-04-11,1.0
+Tamil Nadu,Cuddalore,confirmed,2020-04-12,4.0
+Tamil Nadu,Cuddalore,confirmed,2020-04-14,1.0
+Tamil Nadu,Cuddalore,confirmed,2020-04-19,6.0
+Tamil Nadu,Dharmapuri,confirmed,2020-04-23,1.0
+Tamil Nadu,Dindigul,confirmed,2020-04-01,17.0
+Tamil Nadu,Dindigul,confirmed,2020-04-03,26.0
+Tamil Nadu,Dindigul,confirmed,2020-04-05,2.0
+Tamil Nadu,Dindigul,confirmed,2020-04-08,1.0
+Tamil Nadu,Dindigul,confirmed,2020-04-10,8.0
+Tamil Nadu,Dindigul,confirmed,2020-04-11,1.0
+Tamil Nadu,Dindigul,confirmed,2020-04-12,1.0
+Tamil Nadu,Dindigul,confirmed,2020-04-14,9.0
+Tamil Nadu,Dindigul,confirmed,2020-04-17,1.0
+Tamil Nadu,Dindigul,confirmed,2020-04-18,3.0
+Tamil Nadu,Dindigul,confirmed,2020-04-19,5.0
+Tamil Nadu,Dindigul,confirmed,2020-04-20,2.0
+Tamil Nadu,Dindigul,confirmed,2020-04-23,3.0
+Tamil Nadu,Erode,deceased,2020-04-11,1.0
+Tamil Nadu,Erode,confirmed,2020-03-21,2.0
+Tamil Nadu,Erode,confirmed,2020-03-25,1.0
+Tamil Nadu,Erode,confirmed,2020-03-26,1.0
+Tamil Nadu,Erode,confirmed,2020-03-27,2.0
+Tamil Nadu,Erode,confirmed,2020-03-29,8.0
+Tamil Nadu,Erode,confirmed,2020-03-30,10.0
+Tamil Nadu,Erode,confirmed,2020-04-01,2.0
+Tamil Nadu,Erode,confirmed,2020-04-02,6.0
+Tamil Nadu,Erode,confirmed,2020-04-09,26.0
+Tamil Nadu,Erode,confirmed,2020-04-10,2.0
+Tamil Nadu,Erode,confirmed,2020-04-12,4.0
+Tamil Nadu,Erode,confirmed,2020-04-15,6.0
+Tamil Nadu,Kallakurichi,confirmed,2020-04-04,2.0
+Tamil Nadu,Kallakurichi,confirmed,2020-04-09,1.0
+Tamil Nadu,Kallakurichi,confirmed,2020-04-21,2.0
+Tamil Nadu,Kallakurichi,confirmed,2020-04-26,1.0
+Tamil Nadu,Kancheepuram,confirmed,2020-03-07,1.0
+Tamil Nadu,Kancheepuram,confirmed,2020-04-01,2.0
+Tamil Nadu,Kancheepuram,confirmed,2020-04-03,1.0
+Tamil Nadu,Kancheepuram,confirmed,2020-04-05,1.0
+Tamil Nadu,Kancheepuram,confirmed,2020-04-06,2.0
+Tamil Nadu,Kancheepuram,confirmed,2020-04-19,1.0
+Tamil Nadu,Kancheepuram,confirmed,2020-04-21,1.0
+Tamil Nadu,Kancheepuram,confirmed,2020-04-22,1.0
+Tamil Nadu,Kancheepuram,confirmed,2020-04-24,1.0
+Tamil Nadu,Kancheepuram,confirmed,2020-04-25,7.0
+Tamil Nadu,Kanyakumari,confirmed,2020-03-31,5.0
+Tamil Nadu,Kanyakumari,confirmed,2020-04-05,1.0
+Tamil Nadu,Kanyakumari,confirmed,2020-04-09,8.0
+Tamil Nadu,Kanyakumari,confirmed,2020-04-10,1.0
+Tamil Nadu,Kanyakumari,confirmed,2020-04-14,1.0
+Tamil Nadu,Karur,confirmed,2020-03-30,1.0
+Tamil Nadu,Karur,confirmed,2020-04-01,1.0
+Tamil Nadu,Karur,confirmed,2020-04-02,15.0
+Tamil Nadu,Karur,confirmed,2020-04-03,3.0
+Tamil Nadu,Karur,confirmed,2020-04-04,2.0
+Tamil Nadu,Karur,confirmed,2020-04-12,3.0
+Tamil Nadu,Karur,confirmed,2020-04-13,15.0
+Tamil Nadu,Karur,confirmed,2020-04-17,1.0
+Tamil Nadu,Madurai,deceased,2020-04-24,1.0
+Tamil Nadu,Madurai,confirmed,2020-03-23,1.0
+Tamil Nadu,Madurai,confirmed,2020-03-27,2.0
+Tamil Nadu,Madurai,confirmed,2020-03-30,1.0
+Tamil Nadu,Madurai,confirmed,2020-03-31,2.0
+Tamil Nadu,Madurai,confirmed,2020-04-01,9.0
+Tamil Nadu,Madurai,confirmed,2020-04-04,2.0
+Tamil Nadu,Madurai,confirmed,2020-04-05,2.0
+Tamil Nadu,Madurai,confirmed,2020-04-07,5.0
+Tamil Nadu,Madurai,confirmed,2020-04-09,1.0
+Tamil Nadu,Madurai,confirmed,2020-04-13,14.0
+Tamil Nadu,Madurai,confirmed,2020-04-14,2.0
+Tamil Nadu,Madurai,confirmed,2020-04-16,3.0
+Tamil Nadu,Madurai,confirmed,2020-04-19,2.0
+Tamil Nadu,Madurai,confirmed,2020-04-22,4.0
+Tamil Nadu,Madurai,confirmed,2020-04-23,2.0
+Tamil Nadu,Madurai,confirmed,2020-04-24,4.0
+Tamil Nadu,Madurai,confirmed,2020-04-25,4.0
+Tamil Nadu,Madurai,confirmed,2020-04-26,15.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-03,5.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-05,6.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-09,1.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-11,12.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-13,5.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-14,2.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-15,7.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-17,2.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-19,3.0
+Tamil Nadu,Nagapattinam,confirmed,2020-04-20,1.0
+Tamil Nadu,Namakkal,confirmed,2020-03-31,18.0
+Tamil Nadu,Namakkal,confirmed,2020-04-03,3.0
+Tamil Nadu,Namakkal,confirmed,2020-04-04,3.0
+Tamil Nadu,Namakkal,confirmed,2020-04-05,1.0
+Tamil Nadu,Namakkal,confirmed,2020-04-06,3.0
+Tamil Nadu,Namakkal,confirmed,2020-04-08,5.0
+Tamil Nadu,Namakkal,confirmed,2020-04-09,8.0
+Tamil Nadu,Namakkal,confirmed,2020-04-12,4.0
+Tamil Nadu,Namakkal,confirmed,2020-04-16,5.0
+Tamil Nadu,Namakkal,confirmed,2020-04-21,1.0
+Tamil Nadu,Namakkal,confirmed,2020-04-23,4.0
+Tamil Nadu,Namakkal,confirmed,2020-04-26,4.0
+Tamil Nadu,Nilgiris,confirmed,2020-04-05,4.0
+Tamil Nadu,Nilgiris,confirmed,2020-04-10,3.0
+Tamil Nadu,Nilgiris,confirmed,2020-04-11,2.0
+Tamil Nadu,Perambalur,confirmed,2020-04-04,1.0
+Tamil Nadu,Perambalur,confirmed,2020-04-18,3.0
+Tamil Nadu,Perambalur,confirmed,2020-04-20,1.0
+Tamil Nadu,Perambalur,confirmed,2020-04-25,2.0
+Tamil Nadu,Pudukkottai,confirmed,2020-04-20,1.0
+Tamil Nadu,Ramanathapuram,confirmed,2020-04-02,2.0
+Tamil Nadu,Ramanathapuram,confirmed,2020-04-13,3.0
+Tamil Nadu,Ramanathapuram,confirmed,2020-04-14,2.0
+Tamil Nadu,Ramanathapuram,confirmed,2020-04-16,3.0
+Tamil Nadu,Ramanathapuram,confirmed,2020-04-20,1.0
+Tamil Nadu,Ramanathapuram,confirmed,2020-04-23,1.0
+Tamil Nadu,Ramanathapuram,confirmed,2020-04-24,2.0
+Tamil Nadu,Ramanathapuram,confirmed,2020-04-26,1.0
+Tamil Nadu,Ranipet,confirmed,2020-03-25,1.0
+Tamil Nadu,Ranipet,confirmed,2020-04-02,4.0
+Tamil Nadu,Ranipet,confirmed,2020-04-04,18.0
+Tamil Nadu,Ranipet,confirmed,2020-04-05,2.0
+Tamil Nadu,Ranipet,confirmed,2020-04-07,2.0
+Tamil Nadu,Ranipet,confirmed,2020-04-10,9.0
+Tamil Nadu,Ranipet,confirmed,2020-04-12,2.0
+Tamil Nadu,Salem,confirmed,2020-03-25,5.0
+Tamil Nadu,Salem,confirmed,2020-03-27,1.0
+Tamil Nadu,Salem,confirmed,2020-04-03,2.0
+Tamil Nadu,Salem,confirmed,2020-04-04,1.0
+Tamil Nadu,Salem,confirmed,2020-04-05,3.0
+Tamil Nadu,Salem,confirmed,2020-04-08,1.0
+Tamil Nadu,Salem,confirmed,2020-04-09,1.0
+Tamil Nadu,Salem,confirmed,2020-04-12,4.0
+Tamil Nadu,Salem,confirmed,2020-04-14,1.0
+Tamil Nadu,Salem,confirmed,2020-04-15,3.0
+Tamil Nadu,Salem,confirmed,2020-04-16,2.0
+Tamil Nadu,Salem,confirmed,2020-04-23,5.0
+Tamil Nadu,Salem,confirmed,2020-04-24,1.0
+Tamil Nadu,Salem,confirmed,2020-04-26,1.0
+Tamil Nadu,Sivaganga,confirmed,2020-04-01,5.0
+Tamil Nadu,Sivaganga,confirmed,2020-04-09,1.0
+Tamil Nadu,Sivaganga,confirmed,2020-04-13,4.0
+Tamil Nadu,Sivaganga,confirmed,2020-04-14,1.0
+Tamil Nadu,Sivaganga,confirmed,2020-04-20,1.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-09,1.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-12,1.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-14,3.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-15,1.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-17,5.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-18,4.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-19,4.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-20,4.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-21,5.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-23,1.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-24,1.0
+Tamil Nadu,Tenkasi,confirmed,2020-04-25,5.0
+Tamil Nadu,Thanjavur,confirmed,2020-03-28,1.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-05,4.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-06,3.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-07,3.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-14,4.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-15,1.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-16,1.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-17,17.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-18,1.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-19,10.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-21,3.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-22,6.0
+Tamil Nadu,Thanjavur,confirmed,2020-04-23,1.0
+Tamil Nadu,Theni,deceased,2020-04-04,1.0
+Tamil Nadu,Theni,confirmed,2020-04-01,20.0
+Tamil Nadu,Theni,confirmed,2020-04-03,1.0
+Tamil Nadu,Theni,confirmed,2020-04-04,2.0
+Tamil Nadu,Theni,confirmed,2020-04-05,1.0
+Tamil Nadu,Theni,confirmed,2020-04-08,16.0
+Tamil Nadu,Theni,confirmed,2020-04-09,1.0
+Tamil Nadu,Theni,confirmed,2020-04-15,1.0
+Tamil Nadu,Theni,confirmed,2020-04-17,2.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-02,1.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-04,10.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-05,1.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-08,1.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-11,16.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-12,1.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-13,4.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-15,7.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-16,1.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-17,5.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-20,2.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-22,2.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-24,2.0
+Tamil Nadu,Thiruvallur,confirmed,2020-04-26,1.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-01,2.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-02,5.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-03,5.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-09,1.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-13,3.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-15,2.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-17,4.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-19,5.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-20,1.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-21,1.0
+Tamil Nadu,Thiruvarur,confirmed,2020-04-23,1.0
+Tamil Nadu,Thoothukkudi,deceased,2020-04-10,1.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-03-31,1.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-04-01,2.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-04-02,2.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-04-03,4.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-04-05,2.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-04-07,6.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-04-09,5.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-04-10,2.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-04-13,2.0
+Tamil Nadu,Thoothukkudi,confirmed,2020-04-20,1.0
+Tamil Nadu,Tiruchirappalli,confirmed,2020-04-04,17.0
+Tamil Nadu,Tiruchirappalli,confirmed,2020-04-06,13.0
+Tamil Nadu,Tiruchirappalli,confirmed,2020-04-08,6.0
+Tamil Nadu,Tiruchirappalli,confirmed,2020-04-11,3.0
+Tamil Nadu,Tiruchirappalli,confirmed,2020-04-12,4.0
+Tamil Nadu,Tiruchirappalli,confirmed,2020-04-17,3.0
+Tamil Nadu,Tiruchirappalli,confirmed,2020-04-20,4.0
+Tamil Nadu,Tiruchirappalli,confirmed,2020-04-22,1.0
+Tamil Nadu,Tirunelveli,confirmed,2020-03-22,1.0
+Tamil Nadu,Tirunelveli,confirmed,2020-03-31,22.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-01,6.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-02,1.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-03,6.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-04,1.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-05,1.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-08,4.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-09,16.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-15,1.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-16,1.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-18,2.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-19,2.0
+Tamil Nadu,Tirunelveli,confirmed,2020-04-23,1.0
+Tamil Nadu,Tirupathur,confirmed,2020-04-01,7.0
+Tamil Nadu,Tirupathur,confirmed,2020-04-02,3.0
+Tamil Nadu,Tirupathur,confirmed,2020-04-06,1.0
+Tamil Nadu,Tirupathur,confirmed,2020-04-09,5.0
+Tamil Nadu,Tirupathur,confirmed,2020-04-13,1.0
+Tamil Nadu,Tirupathur,confirmed,2020-04-23,1.0
+Tamil Nadu,Tiruppur,confirmed,2020-03-23,1.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-04,2.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-06,4.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-07,13.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-08,2.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-09,4.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-12,35.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-13,18.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-16,1.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-18,28.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-20,1.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-23,1.0
+Tamil Nadu,Tiruppur,confirmed,2020-04-26,2.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-03-31,1.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-04-01,1.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-04-05,2.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-04-06,1.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-04-10,1.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-04-11,1.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-04-13,1.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-04-22,1.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-04-24,1.0
+Tamil Nadu,Tiruvannamalai,confirmed,2020-04-25,1.0
+Tamil Nadu,Vellore,deceased,2020-04-08,1.0
+Tamil Nadu,Vellore,confirmed,2020-03-28,1.0
+Tamil Nadu,Vellore,confirmed,2020-04-04,2.0
+Tamil Nadu,Vellore,confirmed,2020-04-05,2.0
+Tamil Nadu,Vellore,confirmed,2020-04-08,1.0
+Tamil Nadu,Vellore,confirmed,2020-04-09,5.0
+Tamil Nadu,Vellore,confirmed,2020-04-12,1.0
+Tamil Nadu,Vellore,confirmed,2020-04-13,4.0
+Tamil Nadu,Vellore,confirmed,2020-04-15,1.0
+Tamil Nadu,Vellore,confirmed,2020-04-16,3.0
+Tamil Nadu,Vellore,confirmed,2020-04-17,3.0
+Tamil Nadu,Viluppuram,deceased,2020-04-04,1.0
+Tamil Nadu,Viluppuram,confirmed,2020-03-31,3.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-03,10.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-04,1.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-05,5.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-06,1.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-08,4.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-10,3.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-16,1.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-17,2.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-19,7.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-20,3.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-21,4.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-22,1.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-23,1.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-25,1.0
+Tamil Nadu,Viluppuram,confirmed,2020-04-26,4.0
+Tamil Nadu,Virudhunagar,confirmed,2020-03-28,1.0
+Tamil Nadu,Virudhunagar,confirmed,2020-04-02,9.0
+Tamil Nadu,Virudhunagar,confirmed,2020-04-03,1.0
+Tamil Nadu,Virudhunagar,confirmed,2020-04-13,6.0
+Tamil Nadu,Virudhunagar,confirmed,2020-04-19,2.0
+Tamil Nadu,Virudhunagar,confirmed,2020-04-23,3.0
+Tamil Nadu,Virudhunagar,confirmed,2020-04-24,1.0
+Tamil Nadu,Virudhunagar,confirmed,2020-04-25,2.0
+Tamil Nadu,Virudhunagar,confirmed,2020-04-26,7.0
+Telangana,Adilabad,confirmed,2020-04-05,1.0
+Telangana,Adilabad,confirmed,2020-04-07,1.0
+Telangana,Adilabad,confirmed,2020-04-10,8.0
+Telangana,Adilabad,confirmed,2020-04-11,1.0
+Telangana,Adilabad,confirmed,2020-04-19,5.0
+Telangana,Adilabad,confirmed,2020-04-21,2.0
+Telangana,Bhadradri Kothagudem,confirmed,2020-03-22,1.0
+Telangana,Bhadradri Kothagudem,confirmed,2020-03-24,2.0
+Telangana,Bhadradri Kothagudem,confirmed,2020-04-10,1.0
+Telangana,Hyderabad,deceased,2020-03-29,1.0
+Telangana,Hyderabad,deceased,2020-03-30,2.0
+Telangana,Hyderabad,deceased,2020-04-01,3.0
+Telangana,Hyderabad,deceased,2020-04-11,2.0
+Telangana,Hyderabad,deceased,2020-04-12,2.0
+Telangana,Hyderabad,confirmed,2020-03-02,1.0
+Telangana,Hyderabad,confirmed,2020-03-14,1.0
+Telangana,Hyderabad,confirmed,2020-03-15,1.0
+Telangana,Hyderabad,confirmed,2020-03-16,1.0
+Telangana,Hyderabad,confirmed,2020-03-17,1.0
+Telangana,Hyderabad,confirmed,2020-03-18,8.0
+Telangana,Hyderabad,confirmed,2020-03-19,3.0
+Telangana,Hyderabad,confirmed,2020-03-20,1.0
+Telangana,Hyderabad,confirmed,2020-03-21,2.0
+Telangana,Hyderabad,confirmed,2020-03-22,5.0
+Telangana,Hyderabad,confirmed,2020-03-23,5.0
+Telangana,Hyderabad,confirmed,2020-03-24,2.0
+Telangana,Hyderabad,confirmed,2020-03-25,2.0
+Telangana,Hyderabad,confirmed,2020-03-26,3.0
+Telangana,Hyderabad,confirmed,2020-03-27,14.0
+Telangana,Hyderabad,confirmed,2020-03-28,8.0
+Telangana,Hyderabad,confirmed,2020-03-29,3.0
+Telangana,Hyderabad,confirmed,2020-03-30,7.0
+Telangana,Hyderabad,confirmed,2020-03-31,20.0
+Telangana,Hyderabad,confirmed,2020-04-01,30.0
+Telangana,Hyderabad,confirmed,2020-04-02,27.0
+Telangana,Hyderabad,confirmed,2020-04-03,6.0
+Telangana,Hyderabad,confirmed,2020-04-05,51.0
+Telangana,Hyderabad,confirmed,2020-04-07,17.0
+Telangana,Hyderabad,confirmed,2020-04-08,3.0
+Telangana,Hyderabad,confirmed,2020-04-09,3.0
+Telangana,Hyderabad,confirmed,2020-04-11,9.0
+Telangana,Hyderabad,confirmed,2020-04-12,10.0
+Telangana,Hyderabad,confirmed,2020-04-13,45.0
+Telangana,Hyderabad,confirmed,2020-04-14,40.0
+Telangana,Hyderabad,confirmed,2020-04-15,5.0
+Telangana,Hyderabad,confirmed,2020-04-16,33.0
+Telangana,Hyderabad,confirmed,2020-04-17,50.0
+Telangana,Hyderabad,confirmed,2020-04-18,31.0
+Telangana,Hyderabad,confirmed,2020-04-19,38.0
+Telangana,Hyderabad,confirmed,2020-04-20,12.0
+Telangana,Hyderabad,confirmed,2020-04-21,19.0
+Telangana,Hyderabad,confirmed,2020-04-22,10.0
+Telangana,Hyderabad,confirmed,2020-04-23,13.0
+Telangana,Hyderabad,confirmed,2020-04-25,6.0
+Telangana,Hyderabad,confirmed,2020-04-26,11.0
+Telangana,Hyderabad,recovered,2020-03-30,1.0
+Telangana,Jagtial,confirmed,2020-04-06,1.0
+Telangana,Jagtial,confirmed,2020-04-10,1.0
+Telangana,Jagtial,confirmed,2020-04-17,1.0
+Telangana,Jangaon,confirmed,2020-04-10,2.0
+Telangana,Jangaon,confirmed,2020-04-23,1.0
+Telangana,Jayashankar Bhupalapally,confirmed,2020-04-10,2.0
+Telangana,Jayashankar Bhupalapally,confirmed,2020-04-11,1.0
+Telangana,Jogulamba Gadwal,confirmed,2020-04-06,8.0
+Telangana,Jogulamba Gadwal,confirmed,2020-04-07,9.0
+Telangana,Jogulamba Gadwal,confirmed,2020-04-10,2.0
+Telangana,Jogulamba Gadwal,confirmed,2020-04-18,7.0
+Telangana,Jogulamba Gadwal,confirmed,2020-04-21,2.0
+Telangana,Jogulamba Gadwal,confirmed,2020-04-22,2.0
+Telangana,Jogulamba Gadwal,confirmed,2020-04-23,10.0
+Telangana,Kamareddy,confirmed,2020-04-09,10.0
+Telangana,Kamareddy,confirmed,2020-04-11,1.0
+Telangana,Karimnagar,confirmed,2020-03-20,2.0
+Telangana,Karimnagar,confirmed,2020-03-23,1.0
+Telangana,Karimnagar,confirmed,2020-04-04,14.0
+Telangana,Karimnagar,confirmed,2020-04-06,1.0
+Telangana,Karimnagar,confirmed,2020-04-17,1.0
+Telangana,Khammam,confirmed,2020-04-03,2.0
+Telangana,Khammam,confirmed,2020-04-11,1.0
+Telangana,Khammam,confirmed,2020-04-12,1.0
+Telangana,Khammam,confirmed,2020-04-13,1.0
+Telangana,Khammam,confirmed,2020-04-14,2.0
+Telangana,Khammam,confirmed,2020-04-21,1.0
+Telangana,Komaram Bheem,confirmed,2020-04-11,1.0
+Telangana,Komaram Bheem,confirmed,2020-04-12,1.0
+Telangana,Komaram Bheem,confirmed,2020-04-13,1.0
+Telangana,Komaram Bheem,confirmed,2020-04-23,1.0
+Telangana,Mahabubabad,confirmed,2020-04-04,1.0
+Telangana,Mahabubnagar,confirmed,2020-04-04,4.0
+Telangana,Mahabubnagar,confirmed,2020-04-06,3.0
+Telangana,Mahabubnagar,confirmed,2020-04-07,3.0
+Telangana,Mahabubnagar,confirmed,2020-04-11,1.0
+Telangana,Medak,confirmed,2020-04-04,5.0
+Telangana,Medchal Malkajgiri,confirmed,2020-03-26,1.0
+Telangana,Medchal Malkajgiri,confirmed,2020-04-06,3.0
+Telangana,Medchal Malkajgiri,confirmed,2020-04-08,2.0
+Telangana,Medchal Malkajgiri,confirmed,2020-04-20,1.0
+Telangana,Medchal Malkajgiri,confirmed,2020-04-21,1.0
+Telangana,Medchal Malkajgiri,confirmed,2020-04-23,1.0
+Telangana,Mulugu,confirmed,2020-04-08,2.0
+Telangana,Nagarkurnool,confirmed,2020-04-08,2.0
+Telangana,Nalgonda,confirmed,2020-04-08,12.0
+Telangana,Nalgonda,confirmed,2020-04-18,1.0
+Telangana,Nalgonda,confirmed,2020-04-19,2.0
+Telangana,Nirmal,confirmed,2020-04-05,1.0
+Telangana,Nirmal,confirmed,2020-04-06,3.0
+Telangana,Nirmal,confirmed,2020-04-08,11.0
+Telangana,Nirmal,confirmed,2020-04-12,2.0
+Telangana,Nizamabad,confirmed,2020-04-03,1.0
+Telangana,Nizamabad,confirmed,2020-04-04,19.0
+Telangana,Nizamabad,confirmed,2020-04-05,1.0
+Telangana,Nizamabad,confirmed,2020-04-06,7.0
+Telangana,Nizamabad,confirmed,2020-04-07,10.0
+Telangana,Nizamabad,confirmed,2020-04-08,11.0
+Telangana,Nizamabad,confirmed,2020-04-12,2.0
+Telangana,Nizamabad,confirmed,2020-04-16,3.0
+Telangana,Nizamabad,confirmed,2020-04-17,4.0
+Telangana,Nizamabad,confirmed,2020-04-20,1.0
+Telangana,Nizamabad,confirmed,2020-04-21,3.0
+Telangana,Peddapalli,confirmed,2020-04-05,1.0
+Telangana,Peddapalli,confirmed,2020-04-06,1.0
+Telangana,Rajanna Sircilla,confirmed,2020-04-03,1.0
+Telangana,Rajanna Sircilla,confirmed,2020-04-18,2.0
+Telangana,Ranga Reddy,confirmed,2020-03-24,2.0
+Telangana,Ranga Reddy,confirmed,2020-04-03,21.0
+Telangana,Ranga Reddy,confirmed,2020-04-18,2.0
+Telangana,Ranga Reddy,confirmed,2020-04-21,1.0
+Telangana,Ranga Reddy,confirmed,2020-04-23,1.0
+Telangana,Sangareddy,confirmed,2020-04-03,6.0
+Telangana,Sangareddy,confirmed,2020-04-05,1.0
+Telangana,Siddipet,confirmed,2020-04-03,1.0
+Telangana,Suryapet,confirmed,2020-04-03,6.0
+Telangana,Suryapet,confirmed,2020-04-06,3.0
+Telangana,Suryapet,confirmed,2020-04-12,7.0
+Telangana,Suryapet,confirmed,2020-04-13,7.0
+Telangana,Suryapet,confirmed,2020-04-16,10.0
+Telangana,Suryapet,confirmed,2020-04-17,10.0
+Telangana,Suryapet,confirmed,2020-04-21,26.0
+Telangana,Suryapet,confirmed,2020-04-22,3.0
+Telangana,Vikarabad,confirmed,2020-04-03,6.0
+Telangana,Vikarabad,confirmed,2020-04-05,2.0
+Telangana,Vikarabad,confirmed,2020-04-12,4.0
+Telangana,Vikarabad,confirmed,2020-04-13,7.0
+Telangana,Vikarabad,confirmed,2020-04-14,10.0
+Telangana,Vikarabad,confirmed,2020-04-16,4.0
+Telangana,Vikarabad,confirmed,2020-04-19,4.0
+Telangana,Warangal Urban,confirmed,2020-04-03,20.0
+Telangana,Warangal Urban,confirmed,2020-04-12,1.0
+Telangana,Warangal Urban,confirmed,2020-04-21,1.0
+Telangana,Warangal Urban,confirmed,2020-04-25,1.0
+Tripura,Gomati,confirmed,2020-04-06,1.0
+Tripura,North Tripura,confirmed,2020-04-10,1.0
+Uttar Pradesh,Agra,deceased,2020-04-08,1.0
+Uttar Pradesh,Agra,deceased,2020-04-14,2.0
+Uttar Pradesh,Agra,deceased,2020-04-15,1.0
+Uttar Pradesh,Agra,deceased,2020-04-16,1.0
+Uttar Pradesh,Agra,deceased,2020-04-26,2.0
+Uttar Pradesh,Agra,confirmed,2020-03-04,7.0
+Uttar Pradesh,Agra,confirmed,2020-03-09,2.0
+Uttar Pradesh,Agra,confirmed,2020-03-13,1.0
+Uttar Pradesh,Agra,confirmed,2020-03-30,1.0
+Uttar Pradesh,Agra,confirmed,2020-04-01,1.0
+Uttar Pradesh,Agra,confirmed,2020-04-02,5.0
+Uttar Pradesh,Agra,confirmed,2020-04-03,3.0
+Uttar Pradesh,Agra,confirmed,2020-04-04,24.0
+Uttar Pradesh,Agra,confirmed,2020-04-05,3.0
+Uttar Pradesh,Agra,confirmed,2020-04-06,2.0
+Uttar Pradesh,Agra,confirmed,2020-04-07,13.0
+Uttar Pradesh,Agra,confirmed,2020-04-08,2.0
+Uttar Pradesh,Agra,confirmed,2020-04-09,19.0
+Uttar Pradesh,Agra,confirmed,2020-04-10,5.0
+Uttar Pradesh,Agra,confirmed,2020-04-11,4.0
+Uttar Pradesh,Agra,confirmed,2020-04-12,12.0
+Uttar Pradesh,Agra,confirmed,2020-04-13,35.0
+Uttar Pradesh,Agra,confirmed,2020-04-14,4.0
+Uttar Pradesh,Agra,confirmed,2020-04-15,15.0
+Uttar Pradesh,Agra,confirmed,2020-04-16,9.0
+Uttar Pradesh,Agra,confirmed,2020-04-17,5.0
+Uttar Pradesh,Agra,confirmed,2020-04-18,27.0
+Uttar Pradesh,Agra,confirmed,2020-04-19,41.0
+Uttar Pradesh,Agra,confirmed,2020-04-20,1.0
+Uttar Pradesh,Agra,confirmed,2020-04-21,65.0
+Uttar Pradesh,Agra,confirmed,2020-04-22,18.0
+Uttar Pradesh,Agra,confirmed,2020-04-23,12.0
+Uttar Pradesh,Agra,confirmed,2020-04-24,10.0
+Uttar Pradesh,Agra,confirmed,2020-04-25,25.0
+Uttar Pradesh,Agra,confirmed,2020-04-26,1.0
+Uttar Pradesh,Agra,recovered,2020-03-29,8.0
+Uttar Pradesh,Aligarh,deceased,2020-04-21,1.0
+Uttar Pradesh,Aligarh,confirmed,2020-04-21,2.0
+Uttar Pradesh,Aligarh,confirmed,2020-04-22,3.0
+Uttar Pradesh,Aligarh,confirmed,2020-04-23,3.0
+Uttar Pradesh,Aligarh,confirmed,2020-04-25,3.0
+Uttar Pradesh,Aligarh,confirmed,2020-04-26,2.0
+Uttar Pradesh,Amroha,confirmed,2020-04-08,1.0
+Uttar Pradesh,Amroha,confirmed,2020-04-09,1.0
+Uttar Pradesh,Amroha,confirmed,2020-04-10,5.0
+Uttar Pradesh,Amroha,confirmed,2020-04-14,2.0
+Uttar Pradesh,Amroha,confirmed,2020-04-16,1.0
+Uttar Pradesh,Amroha,confirmed,2020-04-20,7.0
+Uttar Pradesh,Amroha,confirmed,2020-04-21,1.0
+Uttar Pradesh,Amroha,confirmed,2020-04-22,5.0
+Uttar Pradesh,Amroha,confirmed,2020-04-25,2.0
+Uttar Pradesh,Auraiya,confirmed,2020-04-05,1.0
+Uttar Pradesh,Auraiya,confirmed,2020-04-08,1.0
+Uttar Pradesh,Auraiya,confirmed,2020-04-10,1.0
+Uttar Pradesh,Auraiya,confirmed,2020-04-14,2.0
+Uttar Pradesh,Auraiya,confirmed,2020-04-17,1.0
+Uttar Pradesh,Auraiya,confirmed,2020-04-20,1.0
+Uttar Pradesh,Auraiya,confirmed,2020-04-21,2.0
+Uttar Pradesh,Auraiya,confirmed,2020-04-23,1.0
+Uttar Pradesh,Ayodhya,confirmed,2020-04-24,1.0
+Uttar Pradesh,Azamgarh,confirmed,2020-04-03,3.0
+Uttar Pradesh,Azamgarh,confirmed,2020-04-07,1.0
+Uttar Pradesh,Azamgarh,confirmed,2020-04-13,2.0
+Uttar Pradesh,Azamgarh,confirmed,2020-04-19,1.0
+Uttar Pradesh,Azamgarh,confirmed,2020-04-24,1.0
+Uttar Pradesh,Baghpat,confirmed,2020-03-26,1.0
+Uttar Pradesh,Baghpat,confirmed,2020-04-04,1.0
+Uttar Pradesh,Baghpat,confirmed,2020-04-08,1.0
+Uttar Pradesh,Baghpat,confirmed,2020-04-09,2.0
+Uttar Pradesh,Baghpat,confirmed,2020-04-12,2.0
+Uttar Pradesh,Baghpat,confirmed,2020-04-14,7.0
+Uttar Pradesh,Baghpat,confirmed,2020-04-16,1.0
+Uttar Pradesh,Bahraich,confirmed,2020-04-23,8.0
+Uttar Pradesh,Bahraich,confirmed,2020-04-26,1.0
+Uttar Pradesh,Balrampur,confirmed,2020-04-23,1.0
+Uttar Pradesh,Banda,confirmed,2020-04-04,1.0
+Uttar Pradesh,Banda,confirmed,2020-04-05,1.0
+Uttar Pradesh,Banda,confirmed,2020-04-14,1.0
+Uttar Pradesh,Banda,confirmed,2020-04-16,-1.0
+Uttar Pradesh,Banda,confirmed,2020-04-21,1.0
+Uttar Pradesh,Barabanki,confirmed,2020-04-05,1.0
+Uttar Pradesh,Bareilly,confirmed,2020-03-29,1.0
+Uttar Pradesh,Bareilly,confirmed,2020-03-31,5.0
+Uttar Pradesh,Basti,deceased,2020-04-01,1.0
+Uttar Pradesh,Basti,confirmed,2020-04-01,1.0
+Uttar Pradesh,Basti,confirmed,2020-04-02,2.0
+Uttar Pradesh,Basti,confirmed,2020-04-03,2.0
+Uttar Pradesh,Basti,confirmed,2020-04-07,3.0
+Uttar Pradesh,Basti,confirmed,2020-04-10,1.0
+Uttar Pradesh,Basti,confirmed,2020-04-13,5.0
+Uttar Pradesh,Basti,confirmed,2020-04-15,2.0
+Uttar Pradesh,Basti,confirmed,2020-04-19,3.0
+Uttar Pradesh,Basti,confirmed,2020-04-21,1.0
+Uttar Pradesh,Basti,confirmed,2020-04-24,3.0
+Uttar Pradesh,Bhadohi,confirmed,2020-04-11,1.0
+Uttar Pradesh,Bijnor,confirmed,2020-04-06,1.0
+Uttar Pradesh,Bijnor,confirmed,2020-04-14,8.0
+Uttar Pradesh,Bijnor,confirmed,2020-04-16,4.0
+Uttar Pradesh,Bijnor,confirmed,2020-04-18,9.0
+Uttar Pradesh,Bijnor,confirmed,2020-04-20,4.0
+Uttar Pradesh,Bijnor,confirmed,2020-04-21,2.0
+Uttar Pradesh,Bijnor,confirmed,2020-04-23,1.0
+Uttar Pradesh,Budaun,confirmed,2020-04-06,1.0
+Uttar Pradesh,Budaun,confirmed,2020-04-11,1.0
+Uttar Pradesh,Budaun,confirmed,2020-04-16,2.0
+Uttar Pradesh,Budaun,confirmed,2020-04-17,1.0
+Uttar Pradesh,Budaun,confirmed,2020-04-19,3.0
+Uttar Pradesh,Budaun,confirmed,2020-04-20,5.0
+Uttar Pradesh,Budaun,confirmed,2020-04-26,1.0
+Uttar Pradesh,Bulandshahr,deceased,2020-04-11,1.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-03-30,1.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-01,2.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-07,2.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-08,3.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-11,3.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-15,1.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-17,2.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-18,1.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-20,3.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-21,3.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-22,1.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-24,5.0
+Uttar Pradesh,Bulandshahr,confirmed,2020-04-25,11.0
+Uttar Pradesh,Etah,confirmed,2020-04-20,3.0
+Uttar Pradesh,Etawah,confirmed,2020-04-13,1.0
+Uttar Pradesh,Etawah,confirmed,2020-04-17,1.0
+Uttar Pradesh,Etawah,confirmed,2020-04-19,1.0
+Uttar Pradesh,Etawah,confirmed,2020-04-21,-1.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-03,4.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-07,3.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-09,4.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-12,4.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-13,4.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-15,6.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-16,2.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-18,11.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-19,10.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-20,10.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-21,1.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-22,6.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-23,1.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-24,9.0
+Uttar Pradesh,Firozabad,confirmed,2020-04-25,8.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-17,2.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-18,1.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-19,1.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-21,2.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-22,2.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-24,1.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-25,2.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-26,3.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-27,3.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-28,10.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-29,4.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-30,7.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-03-31,2.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-01,8.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-03,2.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-04,8.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-09,3.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-10,1.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-13,4.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-14,16.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-16,10.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-18,3.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-20,5.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-21,2.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-22,1.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-24,9.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-25,1.0
+Uttar Pradesh,Gautam Buddha Nagar,confirmed,2020-04-26,4.0
+Uttar Pradesh,Gautam Buddha Nagar,recovered,2020-03-29,3.0
+Uttar Pradesh,Gautam Buddha Nagar,recovered,2020-03-30,3.0
+Uttar Pradesh,Gautam Buddha Nagar,recovered,2020-04-04,3.0
+Uttar Pradesh,Gautam Buddha Nagar,recovered,2020-04-11,1.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-03-05,1.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-03-12,1.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-03-23,1.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-03-27,2.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-03-29,2.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-03-31,1.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-02,1.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-03,1.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-04,4.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-05,9.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-09,2.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-11,2.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-16,1.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-18,2.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-19,11.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-20,5.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-22,2.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-23,4.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-25,1.0
+Uttar Pradesh,Ghaziabad,confirmed,2020-04-26,5.0
+Uttar Pradesh,Ghaziabad,recovered,2020-03-30,2.0
+Uttar Pradesh,Ghaziabad,recovered,2020-04-04,1.0
+Uttar Pradesh,Ghazipur,confirmed,2020-04-03,1.0
+Uttar Pradesh,Ghazipur,confirmed,2020-04-04,2.0
+Uttar Pradesh,Ghazipur,confirmed,2020-04-05,2.0
+Uttar Pradesh,Ghazipur,confirmed,2020-04-20,1.0
+Uttar Pradesh,Ghazipur,confirmed,2020-04-25,0.0
+Uttar Pradesh,Gonda,confirmed,2020-04-17,1.0
+Uttar Pradesh,Hapur,confirmed,2020-04-03,1.0
+Uttar Pradesh,Hapur,confirmed,2020-04-05,2.0
+Uttar Pradesh,Hapur,confirmed,2020-04-10,3.0
+Uttar Pradesh,Hapur,confirmed,2020-04-14,3.0
+Uttar Pradesh,Hapur,confirmed,2020-04-15,6.0
+Uttar Pradesh,Hapur,confirmed,2020-04-17,1.0
+Uttar Pradesh,Hapur,confirmed,2020-04-20,1.0
+Uttar Pradesh,Hapur,confirmed,2020-04-22,1.0
+Uttar Pradesh,Hapur,confirmed,2020-04-26,7.0
+Uttar Pradesh,Hardoi,confirmed,2020-04-03,1.0
+Uttar Pradesh,Hardoi,confirmed,2020-04-09,1.0
+Uttar Pradesh,Hathras,confirmed,2020-04-04,4.0
+Uttar Pradesh,Jalaun,confirmed,2020-04-26,1.0
+Uttar Pradesh,Jaunpur,confirmed,2020-03-23,1.0
+Uttar Pradesh,Jaunpur,confirmed,2020-04-02,2.0
+Uttar Pradesh,Jaunpur,confirmed,2020-04-08,1.0
+Uttar Pradesh,Jaunpur,confirmed,2020-04-16,1.0
+Uttar Pradesh,Kannauj,confirmed,2020-04-16,4.0
+Uttar Pradesh,Kannauj,confirmed,2020-04-19,1.0
+Uttar Pradesh,Kannauj,confirmed,2020-04-20,1.0
+Uttar Pradesh,Kannauj,confirmed,2020-04-24,1.0
+Uttar Pradesh,Kanpur Nagar,deceased,2020-04-15,1.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-03-23,1.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-03,6.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-06,1.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-09,1.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-14,1.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-15,8.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-16,4.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-17,7.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-18,1.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-20,30.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-21,15.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-22,6.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-23,15.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-24,29.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-25,24.0
+Uttar Pradesh,Kanpur Nagar,confirmed,2020-04-26,21.0
+Uttar Pradesh,Kasganj,confirmed,2020-04-13,3.0
+Uttar Pradesh,Kaushambi,confirmed,2020-04-06,1.0
+Uttar Pradesh,Kaushambi,confirmed,2020-04-08,1.0
+Uttar Pradesh,Lakhimpur Kheri,confirmed,2020-03-19,1.0
+Uttar Pradesh,Lakhimpur Kheri,confirmed,2020-04-05,3.0
+Uttar Pradesh,Lakhimpur Kheri,recovered,2020-04-11,1.0
+Uttar Pradesh,Lucknow,deceased,2020-04-16,1.0
+Uttar Pradesh,Lucknow,confirmed,2020-03-12,1.0
+Uttar Pradesh,Lucknow,confirmed,2020-03-18,1.0
+Uttar Pradesh,Lucknow,confirmed,2020-03-19,1.0
+Uttar Pradesh,Lucknow,confirmed,2020-03-20,4.0
+Uttar Pradesh,Lucknow,confirmed,2020-03-27,1.0
+Uttar Pradesh,Lucknow,confirmed,2020-03-30,1.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-01,1.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-05,7.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-06,5.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-07,2.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-08,5.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-11,3.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-13,4.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-14,8.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-15,31.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-16,22.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-17,7.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-18,59.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-19,2.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-20,2.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-21,2.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-22,1.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-23,4.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-25,19.0
+Uttar Pradesh,Lucknow,confirmed,2020-04-26,1.0
+Uttar Pradesh,Lucknow,recovered,2020-03-30,1.0
+Uttar Pradesh,Maharajganj,confirmed,2020-04-04,6.0
+Uttar Pradesh,Mainpuri,confirmed,2020-04-16,2.0
+Uttar Pradesh,Mainpuri,confirmed,2020-04-17,2.0
+Uttar Pradesh,Mainpuri,confirmed,2020-04-24,1.0
+Uttar Pradesh,Mathura,confirmed,2020-04-06,2.0
+Uttar Pradesh,Mathura,confirmed,2020-04-12,1.0
+Uttar Pradesh,Mathura,confirmed,2020-04-13,1.0
+Uttar Pradesh,Mathura,confirmed,2020-04-19,1.0
+Uttar Pradesh,Mathura,confirmed,2020-04-20,1.0
+Uttar Pradesh,Mathura,confirmed,2020-04-22,1.0
+Uttar Pradesh,Mathura,confirmed,2020-04-24,1.0
+Uttar Pradesh,Mathura,confirmed,2020-04-25,1.0
+Uttar Pradesh,Mathura,confirmed,2020-04-26,1.0
+Uttar Pradesh,Mau,confirmed,2020-04-19,1.0
+Uttar Pradesh,Meerut,deceased,2020-04-01,1.0
+Uttar Pradesh,Meerut,deceased,2020-04-17,1.0
+Uttar Pradesh,Meerut,deceased,2020-04-26,1.0
+Uttar Pradesh,Meerut,confirmed,2020-03-28,5.0
+Uttar Pradesh,Meerut,confirmed,2020-03-30,14.0
+Uttar Pradesh,Meerut,confirmed,2020-04-02,1.0
+Uttar Pradesh,Meerut,confirmed,2020-04-03,5.0
+Uttar Pradesh,Meerut,confirmed,2020-04-05,8.0
+Uttar Pradesh,Meerut,confirmed,2020-04-08,2.0
+Uttar Pradesh,Meerut,confirmed,2020-04-09,3.0
+Uttar Pradesh,Meerut,confirmed,2020-04-10,6.0
+Uttar Pradesh,Meerut,confirmed,2020-04-11,4.0
+Uttar Pradesh,Meerut,confirmed,2020-04-12,3.0
+Uttar Pradesh,Meerut,confirmed,2020-04-13,5.0
+Uttar Pradesh,Meerut,confirmed,2020-04-14,5.0
+Uttar Pradesh,Meerut,confirmed,2020-04-15,4.0
+Uttar Pradesh,Meerut,confirmed,2020-04-16,4.0
+Uttar Pradesh,Meerut,confirmed,2020-04-18,1.0
+Uttar Pradesh,Meerut,confirmed,2020-04-19,4.0
+Uttar Pradesh,Meerut,confirmed,2020-04-20,1.0
+Uttar Pradesh,Meerut,confirmed,2020-04-21,6.0
+Uttar Pradesh,Meerut,confirmed,2020-04-22,1.0
+Uttar Pradesh,Meerut,confirmed,2020-04-23,3.0
+Uttar Pradesh,Meerut,confirmed,2020-04-24,1.0
+Uttar Pradesh,Meerut,confirmed,2020-04-25,3.0
+Uttar Pradesh,Meerut,recovered,2020-04-11,9.0
+Uttar Pradesh,Mirzapur,confirmed,2020-04-04,2.0
+Uttar Pradesh,Mirzapur,confirmed,2020-04-17,1.0
+Uttar Pradesh,Mirzapur,confirmed,2020-04-18,1.0
+Uttar Pradesh,Mirzapur,confirmed,2020-04-19,-1.0
+Uttar Pradesh,Moradabad,deceased,2020-04-14,1.0
+Uttar Pradesh,Moradabad,deceased,2020-04-15,1.0
+Uttar Pradesh,Moradabad,deceased,2020-04-21,2.0
+Uttar Pradesh,Moradabad,confirmed,2020-03-21,1.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-12,1.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-14,17.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-15,2.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-17,12.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-18,6.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-19,18.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-20,1.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-21,15.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-22,21.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-23,3.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-24,7.0
+Uttar Pradesh,Moradabad,confirmed,2020-04-26,-3.0
+Uttar Pradesh,Muzaffarnagar,confirmed,2020-04-08,2.0
+Uttar Pradesh,Muzaffarnagar,confirmed,2020-04-09,4.0
+Uttar Pradesh,Muzaffarnagar,confirmed,2020-04-12,1.0
+Uttar Pradesh,Muzaffarnagar,confirmed,2020-04-22,5.0
+Uttar Pradesh,Muzaffarnagar,confirmed,2020-04-25,5.0
+Uttar Pradesh,Muzaffarnagar,confirmed,2020-04-26,1.0
+Uttar Pradesh,Pilibhit,confirmed,2020-03-23,1.0
+Uttar Pradesh,Pilibhit,confirmed,2020-03-25,1.0
+Uttar Pradesh,Pilibhit,recovered,2020-04-11,1.0
+Uttar Pradesh,Pratapgarh,confirmed,2020-04-03,2.0
+Uttar Pradesh,Pratapgarh,confirmed,2020-04-04,1.0
+Uttar Pradesh,Pratapgarh,confirmed,2020-04-09,3.0
+Uttar Pradesh,Prayagraj,confirmed,2020-04-06,1.0
+Uttar Pradesh,Prayagraj,confirmed,2020-04-25,3.0
+Uttar Pradesh,Rae Bareli,confirmed,2020-04-05,2.0
+Uttar Pradesh,Rae Bareli,confirmed,2020-04-21,33.0
+Uttar Pradesh,Rae Bareli,confirmed,2020-04-22,8.0
+Uttar Pradesh,Rampur,confirmed,2020-04-08,5.0
+Uttar Pradesh,Rampur,confirmed,2020-04-10,1.0
+Uttar Pradesh,Rampur,confirmed,2020-04-19,8.0
+Uttar Pradesh,Rampur,confirmed,2020-04-20,1.0
+Uttar Pradesh,Rampur,confirmed,2020-04-21,1.0
+Uttar Pradesh,Rampur,confirmed,2020-04-25,4.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-03,12.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-04,1.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-08,1.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-09,6.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-11,1.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-12,7.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-13,11.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-14,14.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-19,19.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-22,26.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-24,25.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-25,37.0
+Uttar Pradesh,Saharanpur,confirmed,2020-04-26,21.0
+Uttar Pradesh,Sambhal,confirmed,2020-04-14,6.0
+Uttar Pradesh,Sambhal,confirmed,2020-04-17,1.0
+Uttar Pradesh,Sambhal,confirmed,2020-04-23,1.0
+Uttar Pradesh,Sambhal,confirmed,2020-04-25,4.0
+Uttar Pradesh,Sambhal,confirmed,2020-04-26,1.0
+Uttar Pradesh,Sant Kabir Nagar,confirmed,2020-04-16,1.0
+Uttar Pradesh,Sant Kabir Nagar,confirmed,2020-04-23,1.0
+Uttar Pradesh,Sant Kabir Nagar,confirmed,2020-04-25,19.0
+Uttar Pradesh,Shahjahanpur,confirmed,2020-04-03,1.0
+Uttar Pradesh,Shamli,confirmed,2020-03-27,1.0
+Uttar Pradesh,Shamli,confirmed,2020-04-03,2.0
+Uttar Pradesh,Shamli,confirmed,2020-04-04,3.0
+Uttar Pradesh,Shamli,confirmed,2020-04-05,3.0
+Uttar Pradesh,Shamli,confirmed,2020-04-06,5.0
+Uttar Pradesh,Shamli,confirmed,2020-04-07,3.0
+Uttar Pradesh,Shamli,confirmed,2020-04-14,5.0
+Uttar Pradesh,Shamli,confirmed,2020-04-18,1.0
+Uttar Pradesh,Shamli,confirmed,2020-04-19,3.0
+Uttar Pradesh,Shamli,confirmed,2020-04-24,1.0
+Uttar Pradesh,Shamli,recovered,2020-04-11,1.0
+Uttar Pradesh,Shrawasti,confirmed,2020-04-23,3.0
+Uttar Pradesh,Shrawasti,confirmed,2020-04-25,1.0
+Uttar Pradesh,Shrawasti,confirmed,2020-04-26,1.0
+Uttar Pradesh,Sitapur,confirmed,2020-04-06,8.0
+Uttar Pradesh,Sitapur,confirmed,2020-04-08,2.0
+Uttar Pradesh,Sitapur,confirmed,2020-04-14,3.0
+Uttar Pradesh,Sitapur,confirmed,2020-04-16,1.0
+Uttar Pradesh,Sitapur,confirmed,2020-04-18,3.0
+Uttar Pradesh,Sitapur,confirmed,2020-04-25,3.0
+Uttar Pradesh,Sultanpur,confirmed,2020-04-20,1.0
+Uttar Pradesh,Sultanpur,confirmed,2020-04-22,1.0
+Uttar Pradesh,Sultanpur,confirmed,2020-04-25,1.0
+Uttar Pradesh,Unnao,confirmed,2020-04-16,1.0
+Uttar Pradesh,Varanasi,deceased,2020-04-05,1.0
+Uttar Pradesh,Varanasi,confirmed,2020-03-21,1.0
+Uttar Pradesh,Varanasi,confirmed,2020-03-28,1.0
+Uttar Pradesh,Varanasi,confirmed,2020-04-04,3.0
+Uttar Pradesh,Varanasi,confirmed,2020-04-05,2.0
+Uttar Pradesh,Varanasi,confirmed,2020-04-08,2.0
+Uttar Pradesh,Varanasi,confirmed,2020-04-17,2.0
+Uttar Pradesh,Varanasi,confirmed,2020-04-18,3.0
+Uttar Pradesh,Varanasi,confirmed,2020-04-21,2.0
+Uttar Pradesh,Varanasi,confirmed,2020-04-22,3.0
+Uttar Pradesh,Varanasi,confirmed,2020-04-24,7.0
+Uttar Pradesh,Varanasi,confirmed,2020-04-26,11.0
+Uttarakhand,Almora,confirmed,2020-04-06,1.0
+Uttarakhand,Dehradun,confirmed,2020-03-15,1.0
+Uttarakhand,Dehradun,confirmed,2020-03-19,2.0
+Uttarakhand,Dehradun,confirmed,2020-03-23,1.0
+Uttarakhand,Dehradun,confirmed,2020-03-28,1.0
+Uttarakhand,Dehradun,confirmed,2020-03-29,1.0
+Uttarakhand,Dehradun,confirmed,2020-04-03,6.0
+Uttarakhand,Dehradun,confirmed,2020-04-05,3.0
+Uttarakhand,Dehradun,confirmed,2020-04-06,2.0
+Uttarakhand,Dehradun,confirmed,2020-04-08,1.0
+Uttarakhand,Dehradun,confirmed,2020-04-17,2.0
+Uttarakhand,Dehradun,confirmed,2020-04-19,2.0
+Uttarakhand,Dehradun,confirmed,2020-04-20,2.0
+Uttarakhand,Dehradun,confirmed,2020-04-23,1.0
+Uttarakhand,Haridwar,confirmed,2020-04-04,1.0
+Uttarakhand,Haridwar,confirmed,2020-04-08,2.0
+Uttarakhand,Haridwar,confirmed,2020-04-14,2.0
+Uttarakhand,Haridwar,confirmed,2020-04-18,2.0
+Uttarakhand,Nainital,confirmed,2020-04-04,5.0
+Uttarakhand,Nainital,confirmed,2020-04-05,1.0
+Uttarakhand,Nainital,confirmed,2020-04-06,2.0
+Uttarakhand,Nainital,confirmed,2020-04-17,1.0
+Uttarakhand,Nainital,confirmed,2020-04-24,1.0
+Uttarakhand,Pauri Garhwal,confirmed,2020-03-25,1.0
+Uttarakhand,Udham Singh Nagar,confirmed,2020-04-02,3.0
+Uttarakhand,Udham Singh Nagar,confirmed,2020-04-08,1.0
+West Bengal,Hooghly,confirmed,2020-03-29,1.0
+West Bengal,Howrah,deceased,2020-03-31,1.0
+West Bengal,Howrah,confirmed,2020-03-31,1.0
+West Bengal,Kalimpong,deceased,2020-03-30,1.0
+West Bengal,Kalimpong,confirmed,2020-03-28,1.0
+West Bengal,Kolkata,deceased,2020-04-26,2.0
+West Bengal,Kolkata,confirmed,2020-03-17,1.0
+West Bengal,Kolkata,confirmed,2020-03-20,1.0
+West Bengal,Kolkata,confirmed,2020-03-21,1.0
+West Bengal,Kolkata,confirmed,2020-03-22,3.0
+West Bengal,Kolkata,confirmed,2020-03-24,2.0
+West Bengal,Kolkata,confirmed,2020-03-26,1.0
+West Bengal,Kolkata,confirmed,2020-03-29,1.0
+West Bengal,Kolkata,confirmed,2020-03-30,1.0
+West Bengal,Nadia,confirmed,2020-03-27,5.0
+West Bengal,North 24 Parganas,deceased,2020-03-29,1.0
+West Bengal,North 24 Parganas,confirmed,2020-03-21,1.0
+West Bengal,North 24 Parganas,confirmed,2020-03-29,1.0
+West Bengal,North 24 Parganas,confirmed,2020-03-31,2.0
+West Bengal,Purba Medinipur,confirmed,2020-03-28,2.0
+West Bengal,Purba Medinipur,confirmed,2020-03-31,1.0
+West Bengal,South 24 Parganas,confirmed,2020-03-31,1.0

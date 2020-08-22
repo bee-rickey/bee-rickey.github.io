@@ -1,0 +1,447 @@
+#2,AN,Andaman and Nicobar Islands,AN_North and Middle Andaman,North and Middle Andaman,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+#3,AN,Andaman and Nicobar Islands,AN_South Andaman,South Andaman,32.0,22.0,10.0,0.0,0.0,32.0,0.0,0.0,10.0,0.0
+#4,AP,Andhra Pradesh,AP_Anantapur,Anantapur,53.0,35.0,14.0,4.0,4.0,53.0,10.0,0.0,4.0,0.0
+#5,AP,Andhra Pradesh,AP_Chittoor,Chittoor,73.0,60.0,13.0,0.0,0.0,73.0,2.0,0.0,11.0,0.0
+#6,AP,Andhra Pradesh,AP_East Godavari,East Godavari,39.0,27.0,12.0,0.0,0.0,39.0,0.0,0.0,12.0,0.0
+#7,AP,Andhra Pradesh,AP_Guntur,Guntur,214.0,177.0,29.0,8.0,8.0,214.0,14.0,0.0,15.0,0.0
+#8,AP,Andhra Pradesh,AP_Krishna,Krishna,177.0,140.0,29.0,8.0,6.0,177.0,2.0,0.0,27.0,2.0
+#9,AP,Andhra Pradesh,AP_Kurnool,Kurnool,279.0,239.0,31.0,9.0,7.0,279.0,24.0,0.0,7.0,2.0
+#10,AP,Andhra Pradesh,AP_Prakasam,Prakasam,56.0,33.0,23.0,0.0,0.0,56.0,11.0,0.0,12.0,0.0
+#11,AP,Andhra Pradesh,AP_S.P.S. Nellore,S.P.S. Nellore,72.0,47.0,23.0,2.0,2.0,72.0,20.0,0.0,3.0,0.0
+#12,AP,Andhra Pradesh,AP_Srikakulam,Srikakulam,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+#13,AP,Andhra Pradesh,AP_Visakhapatnam,Visakhapatnam,22.0,3.0,19.0,0.0,0.0,22.0,7.0,0.0,12.0,0.0
+#15,AP,Andhra Pradesh,AP_West Godavari,West Godavari,51.0,41.0,10.0,0.0,0.0,51.0,1.0,0.0,9.0,0.0
+#16,AP,Andhra Pradesh,AP_Y.S.R. Kadapa,Y.S.R. Kadapa,58.0,30.0,28.0,0.0,1.0,58.0,4.0,0.0,24.0,-1.0
+#25,AR,Arunachal Pradesh,AR_Lohit,Lohit,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+###46,AS,Assam,AS_Cachar,Cachar,1.0,0.0,1.0,0.0,0.0,2.0,1.0,-1.0,0.0,0.0
+###51,AS,Assam,AS_Dhubri,Dhubri,5.0,2.0,3.0,0.0,0.0,4.0,3.0,1.0,0.0,0.0
+#54,AS,Assam,AS_Goalpara,Goalpara,4.0,1.0,3.0,0.0,0.0,4.0,0.0,0.0,3.0,0.0
+###55,AS,Assam,AS_Golaghat,Golaghat,9.0,1.0,8.0,0.0,0.0,1.0,4.0,8.0,4.0,0.0
+#56,AS,Assam,AS_Hailakandi,Hailakandi,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+###58,AS,Assam,AS_Jorhat,Jorhat,0.0,0.0,0.0,0.0,0.0,8.0,0.0,-8.0,0.0,0.0
+#59,AS,Assam,AS_Kamrup,Kamrup,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+###60,AS,Assam,AS_Kamrup Metropolitan,Kamrup Metropolitan,1.0,0.0,1.0,0.0,0.0,6.0,2.0,-5.0,-1.0,0.0
+###64,AS,Assam,AS_Lakhimpur,Lakhimpur,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+###66,AS,Assam,AS_Morigaon,Morigaon,6.0,2.0,4.0,0.0,0.0,3.0,0.0,3.0,4.0,0.0
+###68,AS,Assam,AS_Nalbari,Nalbari,4.0,0.0,4.0,0.0,0.0,3.0,1.0,1.0,3.0,0.0
+###71,AS,Assam,AS_South Salmara Mankachar,South Salmara Mankachar,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+#76,BR,Bihar,BR_Arwal,Arwal,4.0,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+#77,BR,Bihar,BR_Aurangabad,Aurangabad,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+#78,BR,Bihar,BR_Banka,Banka,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+#79,BR,Bihar,BR_Begusarai,Begusarai,9.0,8.0,1.0,0.0,0.0,9.0,1.0,0.0,0.0,0.0
+#80,BR,Bihar,BR_Bhagalpur,Bhagalpur,5.0,4.0,1.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0
+#81,BR,Bihar,BR_Bhojpur,Bhojpur,2.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0
+#82,BR,Bihar,BR_Buxar,Buxar,25.0,24.0,1.0,0.0,0.0,25.0,1.0,0.0,0.0,0.0
+#101,BR,Bihar,BR_East Champaran,East Champaran,5.0,5.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+#84,BR,Bihar,BR_Gaya,Gaya,6.0,1.0,5.0,0.0,0.0,6.0,3.0,0.0,2.0,0.0
+#85,BR,Bihar,BR_Gopalganj,Gopalganj,12.0,9.0,3.0,0.0,0.0,12.0,2.0,0.0,1.0,0.0
+#87,BR,Bihar,BR_Jehanabad,Jehanabad,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+#88,BR,Bihar,BR_Kaimur,Kaimur,14.0,14.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0
+#92,BR,Bihar,BR_Lakhisarai,Lakhisarai,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+#93,BR,Bihar,BR_Madhepura,Madhepura,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+#95,BR,Bihar,BR_Munger,Munger,68.0,56.0,11.0,1.0,1.0,68.0,11.0,0.0,0.0,0.0
+#97,BR,Bihar,BR_Nalanda,Nalanda,34.0,28.0,6.0,0.0,0.0,34.0,5.0,0.0,1.0,0.0
+#98,BR,Bihar,BR_Nawada,Nawada,3.0,1.0,2.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0
+#100,BR,Bihar,BR_Patna,Patna,33.0,28.0,5.0,0.0,0.0,33.0,5.0,0.0,0.0,0.0
+103,BR,Bihar,BR_Rohtas,Rohtas,15.0,15.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+#106,BR,Bihar,BR_Saran,Saran,3.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0
+#110,BR,Bihar,BR_Siwan,Siwan,30.0,12.0,18.0,0.0,0.0,30.0,6.0,0.0,12.0,0.0
+#112,BR,Bihar,BR_Vaishali,Vaishali,2.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0
+#113,CH,Chandigarh,CH_Chandigarh,Chandigarh,36.0,19.0,17.0,0.0,0.0,36.0,4.0,0.0,13.0,0.0
+#120,CT,Chhattisgarh,CT_Bilaspur,Bilaspur,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+#123,CT,Chhattisgarh,CT_Durg,Durg,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+#129,CT,Chhattisgarh,CT_Korba,Korba,28.0,4.0,24.0,0.0,0.0,28.0,5.0,0.0,19.0,0.0
+#135,CT,Chhattisgarh,CT_Raipur,Raipur,6.0,1.0,5.0,0.0,0.0,6.0,7.0,0.0,-2.0,0.0
+#136,CT,Chhattisgarh,CT_Rajnandgaon,Rajnandgaon,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+#145,DL,Delhi,DL_East Delhi,East Delhi,38.0,38.0,0.0,0.0,0.0,1.0,0.0,37.0,0.0,0.0
+#146,DL,Delhi,DL_New Delhi,New Delhi,37.0,37.0,0.0,0.0,0.0,5.0,0.0,32.0,0.0,0.0
+#147,DL,Delhi,DL_North Delhi,North Delhi,60.0,60.0,0.0,0.0,0.0,3.0,0.0,57.0,0.0,0.0
+#148,DL,Delhi,DL_North East Delhi,North East Delhi,25.0,25.0,0.0,0.0,0.0,1.0,0.0,24.0,0.0,0.0
+#149,DL,Delhi,DL_North West Delhi,North West Delhi,32.0,32.0,0.0,0.0,0.0,3.0,0.0,29.0,0.0,0.0
+#151,DL,Delhi,DL_South Delhi,South Delhi,70.0,70.0,0.0,0.0,0.0,26.0,0.0,44.0,0.0,0.0
+#153,DL,Delhi,DL_South West Delhi,South West Delhi,42.0,42.0,0.0,0.0,0.0,3.0,0.0,39.0,0.0,0.0
+#154,DL,Delhi,DL_West Delhi,West Delhi,122.0,122.0,0.0,0.0,0.0,2.0,0.0,120.0,0.0,0.0
+#155,GA,Goa,GA_North Goa,North Goa,6.0,0.0,6.0,0.0,0.0,4.0,0.0,2.0,6.0,0.0
+#157,GJ,Gujarat,GJ_Ahmedabad,Ahmedabad,2181.0,1937.0,140.0,104.0,81.0,2181.0,109.0,0.0,31.0,23.0
+#159,GJ,Gujarat,GJ_Anand,Anand,49.0,32.0,14.0,3.0,3.0,49.0,14.0,0.0,0.0,0.0
+#160,GJ,Gujarat,GJ_Aravalli,Aravalli,18.0,17.0,0.0,1.0,1.0,18.0,0.0,0.0,0.0,0.0
+#161,GJ,Gujarat,GJ_Banaskantha,Banaskantha,28.0,27.0,1.0,0.0,0.0,28.0,1.0,0.0,0.0,0.0
+#162,GJ,Gujarat,GJ_Bharuch,Bharuch,29.0,13.0,14.0,2.0,2.0,29.0,10.0,0.0,4.0,0.0
+#163,GJ,Gujarat,GJ_Bhavnagar,Bhavnagar,40.0,17.0,18.0,5.0,5.0,40.0,17.0,0.0,1.0,0.0
+#164,GJ,Gujarat,GJ_Botad,Botad,12.0,11.0,0.0,1.0,1.0,12.0,0.0,0.0,0.0,0.0
+#165,GJ,Gujarat,GJ_Chhota Udaipur,Chhota Udaipur,13.0,10.0,3.0,0.0,0.0,13.0,3.0,0.0,0.0,0.0
+#167,GJ,Gujarat,GJ_Dahod,Dahod,4.0,3.0,1.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0
+#168,GJ,Gujarat,GJ_Gandhinagar,Gandhinagar,25.0,11.0,12.0,2.0,1.0,25.0,7.0,0.0,5.0,1.0
+#169,GJ,Gujarat,GJ_Gir Somnath,Gir Somnath,3.0,1.0,2.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0
+#170,GJ,Gujarat,GJ_Jamnagar,Jamnagar,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+###172,GJ,Gujarat,GJ_Kutch,Kutch,6.0,2.0,3.0,1.0,1.0,6.0,1.0,0.0,2.0,0.0
+#173,GJ,Gujarat,GJ_Kheda,Kheda,6.0,5.0,1.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0
+#174,GJ,Gujarat,GJ_Mehsana,Mehsana,7.0,5.0,2.0,0.0,0.0,7.0,2.0,0.0,0.0,0.0
+#175,GJ,Gujarat,GJ_Mahisagar,Mahisagar,10.0,10.0,0.0,0.0,0.0,13.0,0.0,-3.0,0.0,0.0
+#176,GJ,Gujarat,GJ_Morbi,Morbi,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+#177,GJ,Gujarat,GJ_Narmada,Narmada,12.0,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0
+#178,GJ,Gujarat,GJ_Navsari,Navsari,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+#179,GJ,Gujarat,GJ_Panchmahal,Panchmahal,17.0,15.0,0.0,2.0,2.0,17.0,0.0,0.0,0.0,0.0
+#180,GJ,Gujarat,GJ_Patan,Patan,17.0,5.0,11.0,1.0,1.0,17.0,11.0,0.0,0.0,0.0
+#181,GJ,Gujarat,GJ_Porbandar,Porbandar,3.0,0.0,3.0,0.0,0.0,3.0,2.0,0.0,1.0,0.0
+#182,GJ,Gujarat,GJ_Rajkot,Rajkot,45.0,31.0,14.0,0.0,0.0,45.0,12.0,0.0,2.0,0.0
+#183,GJ,Gujarat,GJ_Sabarkantha,Sabarkantha,3.0,1.0,2.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0
+#184,GJ,Gujarat,GJ_Surat,Surat,526.0,495.0,16.0,15.0,15.0,526.0,13.0,0.0,3.0,0.0
+#185,GJ,Gujarat,GJ_Surendranagar,Surendranagar,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+#186,GJ,Gujarat,GJ_Tapi,Tapi,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+#187,GJ,Gujarat,GJ_Dang,Dang,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+###188,GJ,Gujarat,GJ_Vadodara,Vadodara,234.0,166.0,56.0,12.0,12.0,231.0,53.0,3.0,3.0,0.0
+#189,GJ,Gujarat,GJ_Valsad,Valsad,5.0,4.0,0.0,1.0,1.0,5.0,0.0,0.0,0.0,0.0
+190,HR,Haryana,HR_Ambala,Ambala,13.0,2.0,10.0,1.0,0.0,13.0,10.0,0.0,0.0,1.0
+191,HR,Haryana,HR_Bhiwani,Bhiwani,3.0,1.0,2.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0
+192,HR,Haryana,HR_Charkhi Dadri,Charkhi Dadri,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+193,HR,Haryana,HR_Faridabad,Faridabad,45.0,16.0,29.0,0.0,0.0,45.0,28.0,0.0,1.0,0.0
+194,HR,Haryana,HR_Fatehabad,Fatehabad,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+195,HR,Haryana,HR_Gurugram,Gurugram,51.0,16.0,35.0,0.0,0.0,51.0,35.0,0.0,0.0,0.0
+196,HR,Haryana,HR_Hisar,Hisar,4.0,2.0,2.0,0.0,0.0,4.0,1.0,0.0,1.0,0.0
+198,HR,Haryana,HR_Jind,Jind,2.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0
+199,HR,Haryana,HR_Kaithal,Kaithal,2.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0
+200,HR,Haryana,HR_Karnal,Karnal,6.0,0.0,5.0,1.0,1.0,6.0,5.0,0.0,0.0,0.0
+201,HR,Haryana,HR_Kurukshetra,Kurukshetra,2.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0
+203,HR,Haryana,HR_Nuh,Nuh,57.0,18.0,39.0,0.0,0.0,57.0,39.0,0.0,0.0,0.0
+204,HR,Haryana,HR_Palwal,Palwal,34.0,5.0,29.0,0.0,0.0,34.0,29.0,0.0,0.0,0.0
+205,HR,Haryana,HR_Panchkula,Panchkula,18.0,8.0,10.0,0.0,0.0,18.0,10.0,0.0,0.0,0.0
+206,HR,Haryana,HR_Panipat,Panipat,12.0,7.0,5.0,0.0,0.0,12.0,4.0,0.0,1.0,0.0
+208,HR,Haryana,HR_Rohtak,Rohtak,4.0,3.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,1.0
+209,HR,Haryana,HR_Sirsa,Sirsa,4.0,0.0,4.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0
+210,HR,Haryana,HR_Sonipat,Sonipat,20.0,16.0,4.0,0.0,0.0,20.0,3.0,0.0,1.0,0.0
+211,HR,Haryana,HR_Yamunanagar,Yamunanagar,3.0,0.0,3.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0
+0,HR,Haryana,HR_Italians,Italians,14.0,0.0,14.0,0.0,0.0,14.0,14.0,0.0,0.0,0.0
+213,HP,Himachal Pradesh,HP_Chamba,Chamba,6.0,2.0,4.0,0.0,0.0,6.0,3.0,0.0,1.0,0.0
+215,HP,Himachal Pradesh,HP_Kangra,Kangra,5.0,1.0,3.0,1.0,0.0,5.0,0.0,0.0,3.0,1.0
+221,HP,Himachal Pradesh,HP_Sirmaur,Sirmaur,2.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0
+222,HP,Himachal Pradesh,HP_Solan,Solan,9.0,5.0,3.0,1.0,1.0,9.0,0.0,0.0,3.0,0.0
+223,HP,Himachal Pradesh,HP_Una,Una,16.0,5.0,11.0,0.0,0.0,15.0,0.0,1.0,11.0,0.0
+224,JK,Jammu and Kashmir,JK_Anantnag,Anantnag,48.0,48.0,0.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0
+225,JK,Jammu and Kashmir,JK_Budgam,Budgam,14.0,5.0,9.0,0.0,0.0,14.0,6.0,0.0,3.0,0.0
+226,JK,Jammu and Kashmir,JK_Bandipora,Bandipora,124.0,100.0,23.0,1.0,1.0,124.0,12.0,0.0,11.0,0.0
+227,JK,Jammu and Kashmir,JK_Baramulla,Baramulla,62.0,42.0,17.0,3.0,2.0,62.0,17.0,0.0,0.0,1.0
+229,JK,Jammu and Kashmir,JK_Ganderbal,Ganderbal,14.0,12.0,2.0,0.0,0.0,14.0,2.0,0.0,0.0,0.0
+230,JK,Jammu and Kashmir,JK_Jammu,Jammu,26.0,12.0,14.0,0.0,0.0,26.0,10.0,0.0,4.0,0.0
+231,JK,Jammu and Kashmir,JK_Kathua,Kathua,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+232,JK,Jammu and Kashmir,JK_Kishtwar,Kishtwar,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+233,JK,Jammu and Kashmir,JK_Kulgam,Kulgam,6.0,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+234,JK,Jammu and Kashmir,JK_Kupwara,Kupwara,47.0,39.0,8.0,0.0,0.0,47.0,8.0,0.0,0.0,0.0
+237,JK,Jammu and Kashmir,JK_Pulwama,Pulwama,3.0,0.0,3.0,0.0,0.0,3.0,2.0,0.0,1.0,0.0
+239,JK,Jammu and Kashmir,JK_Rajouri,Rajouri,4.0,1.0,3.0,0.0,0.0,4.0,0.0,0.0,3.0,0.0
+240,JK,Jammu and Kashmir,JK_Ramban,Ramban,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+242,JK,Jammu and Kashmir,JK_Samba,Samba,4.0,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+243,JK,Jammu and Kashmir,JK_Shopiyan,Shopiyan,63.0,52.0,11.0,0.0,0.0,63.0,9.0,0.0,2.0,0.0
+244,JK,Jammu and Kashmir,JK_Srinagar,Srinagar,85.0,47.0,37.0,1.0,0.0,85.0,20.0,0.0,17.0,1.0
+245,JK,Jammu and Kashmir,JK_Udhampur,Udhampur,20.0,10.0,9.0,1.0,1.0,20.0,4.0,0.0,5.0,0.0
+246,JH,Jharkhand,JH_Bokaro,Bokaro,10.0,5.0,4.0,1.0,1.0,10.0,4.0,0.0,0.0,0.0
+248,JH,Jharkhand,JH_Deoghar,Deoghar,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+249,JH,Jharkhand,JH_Dhanbad,Dhanbad,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+251,JH,Jharkhand,JH_Garhwa,Garhwa,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+252,JH,Jharkhand,JH_Giridih,Giridih,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+255,JH,Jharkhand,JH_Hazaribagh,Hazaribagh,3.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,2.0,0.0
+258,JH,Jharkhand,JH_Koderma,Koderma,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+262,JH,Jharkhand,JH_Palamu,Palamu,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+266,JH,Jharkhand,JH_Ranchi,Ranchi,55.0,47.0,6.0,2.0,1.0,55.0,1.0,0.0,5.0,1.0
+269,JH,Jharkhand,JH_Simdega,Simdega,2.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
+270,KA,Karnataka,KA_Bagalkote,Bagalkote,24.0,18.0,6.0,1.0,1.0,24.0,4.0,0.0,2.0,0.0
+271,KA,Karnataka,KA_Ballari,Ballari,13.0,8.0,5.0,0.0,0.0,13.0,2.0,0.0,3.0,0.0
+272,KA,Karnataka,KA_Belagavi,Belagavi,52.0,44.0,6.0,1.0,1.0,52.0,2.0,0.0,4.0,0.0
+273,KA,Karnataka,KA_Bengaluru Urban,Bengaluru Urban,129.0,68.0,53.0,5.0,5.0,129.0,14.0,0.0,39.0,0.0
+274,KA,Karnataka,KA_Bengaluru Rural,Bengaluru Rural,6.0,1.0,5.0,0.0,0.0,6.0,0.0,0.0,5.0,0.0
+275,KA,Karnataka,KA_Bidar,Bidar,14.0,6.0,8.0,0.0,0.0,14.0,0.0,0.0,8.0,0.0
+277,KA,Karnataka,KA_Chikkaballapura,Chikkaballapura,18.0,5.0,11.0,2.0,1.0,18.0,0.0,0.0,11.0,1.0
+279,KA,Karnataka,KA_Chitradurga,Chitradurga,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+280,KA,Karnataka,KA_Dakshina Kannada,Dakshina Kannada,13.0,5.0,6.0,2.0,2.0,13.0,0.0,0.0,6.0,0.0
+281,KA,Karnataka,KA_Davanagere,Davanagere,2.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0
+282,KA,Karnataka,KA_Dharwad,Dharwad,9.0,7.0,2.0,0.0,0.0,9.0,0.0,0.0,2.0,0.0
+283,KA,Karnataka,KA_Gadag,Gadag,4.0,3.0,0.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0
+286,KA,Karnataka,KA_Kalaburagi,Kalaburagi,38.0,27.0,7.0,4.0,3.0,38.0,0.0,0.0,7.0,1.0
+287,KA,Karnataka,KA_Kodagu,Kodagu,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+290,KA,Karnataka,KA_Mandya,Mandya,16.0,12.0,4.0,0.0,0.0,16.0,4.0,0.0,0.0,0.0
+291,KA,Karnataka,KA_Mysuru,Mysuru,87.0,51.0,36.0,0.0,0.0,87.0,4.0,0.0,32.0,0.0
+295,KA,Karnataka,KA_Tumakuru,Tumakuru,3.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,1.0,1.0
+296,KA,Karnataka,KA_Udupi,Udupi,3.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0
+297,KA,Karnataka,KA_Uttara Kannada,Uttara Kannada,11.0,1.0,10.0,0.0,0.0,11.0,1.0,0.0,9.0,0.0
+298,KA,Karnataka,KA_Vijayapura,Vijayapura,39.0,37.0,0.0,2.0,1.0,39.0,0.0,0.0,0.0,1.0
+0,KA,Karnataka,KA_Other State,Other State,20.0,5.0,15.0,0.0,0.0,20.0,0.0,0.0,15.0,0.0
+300,KL,Kerala,KL_Alappuzha,Alappuzha,5.0,0.0,5.0,0.0,0.0,5.0,4.0,0.0,1.0,0.0
+301,KL,Kerala,KL_Ernakulam,Ernakulam,24.0,2.0,21.0,1.0,0.0,24.0,16.0,0.0,5.0,1.0
+302,KL,Kerala,KL_Idukki,Idukki,20.0,10.0,10.0,0.0,0.0,20.0,7.0,0.0,3.0,0.0
+303,KL,Kerala,KL_Kannur,Kannur,111.0,55.0,55.0,1.0,0.0,111.0,53.0,0.0,2.0,1.0
+304,KL,Kerala,KL_Kasaragod,Kasaragod,175.0,14.0,161.0,0.0,0.0,175.0,149.0,0.0,12.0,0.0
+305,KL,Kerala,KL_Kollam,Kollam,14.0,9.0,5.0,0.0,0.0,14.0,4.0,0.0,1.0,0.0
+306,KL,Kerala,KL_Kottayam,Kottayam,14.0,11.0,3.0,0.0,0.0,14.0,1.0,0.0,2.0,0.0
+307,KL,Kerala,KL_Kozhikode,Kozhikode,24.0,11.0,13.0,0.0,0.0,24.0,16.0,0.0,-3.0,0.0
+308,KL,Kerala,KL_Malappuram,Malappuram,22.0,2.0,19.0,1.0,1.0,22.0,18.0,0.0,1.0,0.0
+309,KL,Kerala,KL_Palakkad,Palakkad,12.0,5.0,7.0,0.0,0.0,12.0,3.0,0.0,4.0,0.0
+310,KL,Kerala,KL_Pathanamthitta,Pathanamthitta,17.0,3.0,14.0,0.0,0.0,17.0,9.0,0.0,5.0,0.0
+311,KL,Kerala,KL_Thiruvananthapuram,Thiruvananthapuram,15.0,1.0,13.0,1.0,1.0,15.0,7.0,0.0,6.0,0.0
+312,KL,Kerala,KL_Thrissur,Thrissur,13.0,0.0,13.0,0.0,0.0,13.0,13.0,0.0,0.0,0.0
+313,KL,Kerala,KL_Wayanad,Wayanad,3.0,0.0,3.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0
+314,LA,Ladakh,LA_Kargil,Kargil,5.0,1.0,4.0,0.0,0.0,5.0,2.0,0.0,2.0,0.0
+315,LA,Ladakh,LA_Leh,Leh,15.0,3.0,12.0,0.0,0.0,15.0,2.0,0.0,10.0,0.0
+317,MP,Madhya Pradesh,MP_Agar Malwa,Agar Malwa,11.0,10.0,0.0,1.0,0.0,11.0,0.0,0.0,0.0,1.0
+318,MP,Madhya Pradesh,MP_Alirajpur,Alirajpur,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+322,MP,Madhya Pradesh,MP_Barwani,Barwani,24.0,17.0,7.0,0.0,0.0,24.0,7.0,0.0,0.0,0.0
+323,MP,Madhya Pradesh,MP_Betul,Betul,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+325,MP,Madhya Pradesh,MP_Bhopal,Bhopal,415.0,302.0,104.0,9.0,6.0,415.0,0.0,0.0,104.0,3.0
+328,MP,Madhya Pradesh,MP_Chhindwara,Chhindwara,5.0,4.0,0.0,1.0,1.0,5.0,0.0,0.0,0.0,0.0
+331,MP,Madhya Pradesh,MP_Dewas,Dewas,23.0,13.0,4.0,6.0,5.0,23.0,0.0,0.0,4.0,1.0
+332,MP,Madhya Pradesh,MP_Dhar,Dhar,36.0,35.0,0.0,1.0,0.0,36.0,0.0,0.0,0.0,1.0
+333,MP,Madhya Pradesh,MP_Dindori,Dindori,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+336,MP,Madhya Pradesh,MP_Gwalior,Gwalior,4.0,2.0,2.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0
+338,MP,Madhya Pradesh,MP_Hoshangabad,Hoshangabad,32.0,21.0,9.0,2.0,2.0,32.0,9.0,0.0,0.0,0.0
+339,MP,Madhya Pradesh,MP_Indore,Indore,1176.0,1012.0,107.0,57.0,41.0,1176.0,3.0,0.0,104.0,16.0
+340,MP,Madhya Pradesh,MP_Jabalpur,Jabalpur,59.0,51.0,7.0,1.0,0.0,59.0,4.0,0.0,3.0,1.0
+334,MP,Madhya Pradesh,MP_Khandwa,Khandwa,36.0,23.0,12.0,1.0,1.0,36.0,0.0,0.0,12.0,0.0
+368,MP,Madhya Pradesh,MP_Khargone,Khargone,61.0,43.0,12.0,6.0,4.0,61.0,5.0,0.0,7.0,2.0
+344,MP,Madhya Pradesh,MP_Mandsaur,Mandsaur,9.0,8.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0,1.0
+345,MP,Madhya Pradesh,MP_Morena,Morena,13.0,0.0,13.0,0.0,0.0,13.0,0.0,0.0,13.0,0.0
+350,MP,Madhya Pradesh,MP_Raisen,Raisen,28.0,27.0,1.0,0.0,0.0,28.0,0.0,0.0,1.0,0.0
+352,MP,Madhya Pradesh,MP_Ratlam,Ratlam,13.0,13.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0
+354,MP,Madhya Pradesh,MP_Sagar,Sagar,5.0,4.0,1.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0
+359,MP,Madhya Pradesh,MP_Shajapur,Shajapur,6.0,5.0,1.0,0.0,0.0,6.0,0.0,0.0,1.0,0.0
+360,MP,Madhya Pradesh,MP_Sheopur,Sheopur,4.0,2.0,2.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0
+361,MP,Madhya Pradesh,MP_Shivpuri,Shivpuri,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+364,MP,Madhya Pradesh,MP_Tikamgarh,Tikamgarh,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+365,MP,Madhya Pradesh,MP_Ujjain,Ujjain,106.0,84.0,5.0,17.0,12.0,106.0,0.0,0.0,5.0,5.0
+367,MP,Madhya Pradesh,MP_Vidisha,Vidisha,13.0,0.0,13.0,0.0,0.0,13.0,0.0,0.0,13.0,0.0
+0,MP,Madhya Pradesh,MP_Other Region,Other Region,2.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+369,MH,Maharashtra,MH_Ahmednagar,Ahmednagar,36.0,12.0,22.0,2.0,2.0,36.0,1.0,0.0,21.0,0.0
+370,MH,Maharashtra,MH_Akola,Akola,29.0,21.0,7.0,1.0,1.0,29.0,0.0,0.0,7.0,0.0
+371,MH,Maharashtra,MH_Amravati,Amravati,20.0,15.0,4.0,1.0,1.0,20.0,0.0,0.0,4.0,0.0
+372,MH,Maharashtra,MH_Aurangabad,Aurangabad,50.0,23.0,22.0,5.0,5.0,50.0,1.0,0.0,21.0,0.0
+374,MH,Maharashtra,MH_Beed,Beed,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+375,MH,Maharashtra,MH_Buldhana,Buldhana,21.0,6.0,14.0,1.0,1.0,21.0,0.0,0.0,14.0,0.0
+376,MH,Maharashtra,MH_Chandrapur,Chandrapur,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+377,MH,Maharashtra,MH_Dhule,Dhule,25.0,22.0,0.0,3.0,2.0,25.0,0.0,0.0,0.0,1.0
+379,MH,Maharashtra,MH_Gondia,Gondia,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+380,MH,Maharashtra,MH_Hingoli,Hingoli,8.0,7.0,1.0,0.0,0.0,8.0,0.0,0.0,1.0,0.0
+381,MH,Maharashtra,MH_Jalgaon,Jalgaon,19.0,14.0,1.0,4.0,1.0,19.0,0.0,0.0,1.0,3.0
+382,MH,Maharashtra,MH_Jalna,Jalna,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+383,MH,Maharashtra,MH_Kolhapur,Kolhapur,10.0,6.0,4.0,0.0,0.0,10.0,0.0,0.0,4.0,0.0
+384,MH,Maharashtra,MH_Latur,Latur,9.0,0.0,8.0,1.0,0.0,9.0,0.0,0.0,8.0,1.0
+385,MH,Maharashtra,MH_Mumbai,Mumbai,5407.0,4562.0,641.0,204.0,178.0,5407.0,14.0,0.0,627.0,26.0
+386,MH,Maharashtra,MH_Mumbai Suburban,Mumbai Suburban,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-1.0
+387,MH,Maharashtra,MH_Nagpur,Nagpur,107.0,86.0,20.0,1.0,1.0,107.0,4.0,0.0,16.0,0.0
+388,MH,Maharashtra,MH_Nanded,Nanded,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+389,MH,Maharashtra,MH_Nandurbar,Nandurbar,11.0,10.0,0.0,1.0,0.0,11.0,0.0,0.0,0.0,1.0
+390,MH,Maharashtra,MH_Nashik,Nashik,131.0,117.0,2.0,12.0,11.0,131.0,0.0,0.0,2.0,1.0
+391,MH,Maharashtra,MH_Osmanabad,Osmanabad,3.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0
+392,MH,Maharashtra,MH_Palghar,Palghar,141.0,102.0,35.0,4.0,3.0,141.0,0.0,0.0,35.0,1.0
+393,MH,Maharashtra,MH_Parbhani,Parbhani,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+394,MH,Maharashtra,MH_Pune,Pune,1052.0,766.0,210.0,76.0,57.0,1052.0,16.0,0.0,194.0,19.0
+395,MH,Maharashtra,MH_Raigad,Raigad,57.0,36.0,20.0,1.0,0.0,57.0,0.0,0.0,20.0,1.0
+396,MH,Maharashtra,MH_Ratnagiri,Ratnagiri,8.0,2.0,5.0,1.0,0.0,8.0,0.0,0.0,5.0,1.0
+397,MH,Maharashtra,MH_Sangli,Sangli,27.0,1.0,25.0,1.0,1.0,27.0,0.0,0.0,25.0,0.0
+398,MH,Maharashtra,MH_Satara,Satara,29.0,24.0,3.0,2.0,1.0,29.0,0.0,0.0,3.0,1.0
+399,MH,Maharashtra,MH_Sindhudurg,Sindhudurg,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+400,MH,Maharashtra,MH_Solapur,Solapur,47.0,42.0,0.0,5.0,4.0,47.0,0.0,0.0,0.0,1.0
+401,MH,Maharashtra,MH_Thane,Thane,738.0,599.0,125.0,14.0,12.0,737.0,1.0,1.0,124.0,2.0
+403,MH,Maharashtra,MH_Washim,Washim,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+404,MH,Maharashtra,MH_Yavatmal,Yavatmal,48.0,38.0,10.0,0.0,0.0,48.0,3.0,0.0,7.0,0.0
+408,MN,Manipur,MN_Imphal East,Imphal East,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+409,MN,Manipur,MN_Imphal West,Imphal West,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+423,ML,Meghalaya,ML_East Khasi Hills,East Khasi Hills,12.0,11.0,0.0,1.0,0.0,12.0,0.0,0.0,0.0,1.0
+432,MZ,Mizoram,MZ_Aizawl,Aizawl,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+453,OR,Odisha,OR_Balasore,Balasore,10.0,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+456,OR,Odisha,OR_Bhadrak,Bhadrak,16.0,14.0,2.0,0.0,0.0,16.0,0.0,0.0,2.0,0.0
+457,OR,Odisha,OR_Cuttack,Cuttack,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+459,OR,Odisha,OR_Dhenkanal,Dhenkanal,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+463,OR,Odisha,OR_Jajpur,Jajpur,18.0,17.0,1.0,0.0,0.0,18.0,0.0,0.0,1.0,0.0
+465,OR,Odisha,OR_Kalahandi,Kalahandi,2.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0
+467,OR,Odisha,OR_Kendrapara,Kendrapara,2.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0
+469,OR,Odisha,OR_Khordha,Khordha,46.0,22.0,23.0,1.0,1.0,46.0,12.0,0.0,11.0,0.0
+476,OR,Odisha,OR_Puri,Puri,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+480,OR,Odisha,OR_Sundargarh,Sundargarh,6.0,3.0,3.0,0.0,0.0,6.0,2.0,0.0,1.0,0.0
+482,PY,Puducherry,PY_Mahe,Mahe,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+483,PY,Puducherry,PY_Puducherry,Puducherry,7.0,4.0,3.0,0.0,0.0,7.0,1.0,0.0,2.0,0.0
+485,PB,Punjab,PB_Amritsar,Amritsar,14.0,11.0,1.0,2.0,2.0,14.0,1.0,0.0,0.0,0.0
+486,PB,Punjab,PB_Barnala,Barnala,2.0,0.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0
+488,PB,Punjab,PB_Faridkot,Faridkot,3.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0
+489,PB,Punjab,PB_Fatehgarh Sahib,Fatehgarh Sahib,2.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0
+491,PB,Punjab,PB_Ferozepur,Ferozepur,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+492,PB,Punjab,PB_Gurdaspur,Gurdaspur,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+493,PB,Punjab,PB_Hoshiarpur,Hoshiarpur,7.0,1.0,5.0,1.0,1.0,7.0,3.0,0.0,2.0,0.0
+494,PB,Punjab,PB_Jalandhar,Jalandhar,78.0,68.0,7.0,3.0,3.0,69.0,4.0,9.0,3.0,0.0
+495,PB,Punjab,PB_Kapurthala,Kapurthala,3.0,0.0,2.0,1.0,1.0,3.0,2.0,0.0,0.0,0.0
+496,PB,Punjab,PB_Ludhiana,Ludhiana,18.0,8.0,4.0,4.0,5.0,17.0,1.0,1.0,3.0,-1.0
+497,PB,Punjab,PB_Mansa,Mansa,13.0,10.0,3.0,0.0,0.0,13.0,2.0,0.0,1.0,0.0
+498,PB,Punjab,PB_Moga,Moga,4.0,0.0,4.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0
+499,PB,Punjab,PB_Pathankot,Pathankot,25.0,15.0,9.0,1.0,0.0,25.0,9.0,0.0,0.0,1.0
+500,PB,Punjab,PB_Patiala,Patiala,61.0,60.0,1.0,0.0,0.0,61.0,1.0,0.0,0.0,0.0
+501,PB,Punjab,PB_Rupnagar,Rupnagar,3.0,0.0,2.0,1.0,1.0,3.0,1.0,0.0,1.0,0.0
+502,PB,Punjab,PB_S.A.S. Nagar,S.A.S. Nagar,63.0,39.0,22.0,2.0,2.0,63.0,17.0,0.0,5.0,0.0
+503,PB,Punjab,PB_Sangrur,Sangrur,3.0,1.0,2.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0
+504,PB,Punjab,PB_Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar,20.0,1.0,18.0,1.0,0.0,20.0,1.0,0.0,17.0,1.0
+505,PB,Punjab,PB_Sri Muktsar Sahib,Sri Muktsar Sahib,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+507,RJ,Rajasthan,RJ_Ajmer,Ajmer,123.0,118.0,5.0,0.0,0.0,123.0,0.0,0.0,5.0,0.0
+508,RJ,Rajasthan,RJ_Alwar,Alwar,7.0,2.0,4.0,1.0,0.0,7.0,0.0,0.0,4.0,1.0
+509,RJ,Rajasthan,RJ_Banswara,Banswara,62.0,41.0,21.0,0.0,0.0,62.0,16.0,0.0,5.0,0.0
+511,RJ,Rajasthan,RJ_Barmer,Barmer,2.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
+512,RJ,Rajasthan,RJ_Bharatpur,Bharatpur,110.0,104.0,5.0,1.0,0.0,110.0,0.0,0.0,5.0,1.0
+513,RJ,Rajasthan,RJ_Bhilwara,Bhilwara,33.0,1.0,30.0,2.0,0.0,33.0,0.0,0.0,30.0,2.0
+514,RJ,Rajasthan,RJ_Bikaner,Bikaner,37.0,4.0,32.0,1.0,1.0,37.0,1.0,0.0,31.0,0.0
+516,RJ,Rajasthan,RJ_Chittorgarh,Chittorgarh,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+517,RJ,Rajasthan,RJ_Churu,Churu,14.0,3.0,11.0,0.0,0.0,14.0,0.0,0.0,11.0,0.0
+518,RJ,Rajasthan,RJ_Dausa,Dausa,21.0,14.0,7.0,0.0,0.0,21.0,0.0,0.0,7.0,0.0
+519,RJ,Rajasthan,RJ_Dholpur,Dholpur,5.0,4.0,1.0,0.0,0.0,5.0,0.0,0.0,1.0,0.0
+520,RJ,Rajasthan,RJ_Dungarpur,Dungarpur,6.0,1.0,5.0,0.0,0.0,6.0,0.0,0.0,5.0,0.0
+522,RJ,Rajasthan,RJ_Hanumangarh,Hanumangarh,11.0,9.0,2.0,0.0,0.0,11.0,2.0,0.0,0.0,0.0
+523,RJ,Rajasthan,RJ_Jaipur,Jaipur,808.0,565.0,222.0,21.0,13.0,808.0,0.0,0.0,222.0,8.0
+524,RJ,Rajasthan,RJ_Jaisalmer,Jaisalmer,34.0,8.0,26.0,0.0,0.0,34.0,0.0,0.0,26.0,0.0
+526,RJ,Rajasthan,RJ_Jhalawar,Jhalawar,30.0,14.0,16.0,0.0,0.0,30.0,4.0,0.0,12.0,0.0
+527,RJ,Rajasthan,RJ_Jhunjhunu,Jhunjhunu,42.0,10.0,32.0,0.0,0.0,42.0,0.0,0.0,32.0,0.0
+528,RJ,Rajasthan,RJ_Jodhpur,Jodhpur,364.0,309.0,50.0,5.0,3.0,364.0,0.0,0.0,50.0,2.0
+529,RJ,Rajasthan,RJ_Karauli,Karauli,3.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,2.0,0.0
+530,RJ,Rajasthan,RJ_Kota,Kota,158.0,74.0,80.0,4.0,3.0,158.0,18.0,0.0,62.0,1.0
+531,RJ,Rajasthan,RJ_Nagaur,Nagaur,113.0,105.0,7.0,1.0,1.0,113.0,0.0,0.0,7.0,0.0
+532,RJ,Rajasthan,RJ_Pali,Pali,2.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0
+533,RJ,Rajasthan,RJ_Pratapgarh,Pratapgarh,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+534,RJ,Rajasthan,RJ_Rajsamand,Rajsamand,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+535,RJ,Rajasthan,RJ_Sawai Madhopur,Sawai Madhopur,8.0,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+536,RJ,Rajasthan,RJ_Sikar,Sikar,5.0,2.0,1.0,2.0,1.0,5.0,0.0,0.0,1.0,1.0
+538,RJ,Rajasthan,RJ_Tonk,Tonk,115.0,82.0,32.0,1.0,1.0,115.0,0.0,0.0,32.0,0.0
+539,RJ,Rajasthan,RJ_Udaipur,Udaipur,5.0,1.0,4.0,0.0,0.0,5.0,0.0,0.0,4.0,0.0
+0,RJ,Rajasthan,RJ_Italians,Italians,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+0,RJ,Rajasthan,RJ_Evacuees,Evacuees,61.0,36.0,25.0,0.0,0.0,61.0,0.0,0.0,25.0,0.0
+0,RJ,Rajasthan,RJ_Other State,Other State,0.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0
+544,TN,Tamil Nadu,TN_Ariyalur,Ariyalur,5.0,3.0,2.0,0.0,0.0,5.0,0.0,0.0,2.0,0.0
+732,TN,Tamil Nadu,TN_Chengalpattu,Chengalpattu,55.0,14.0,40.0,2.0,0.0,55.0,0.0,0.0,40.0,2.0
+545,TN,Tamil Nadu,TN_Chennai,Chennai,528.0,356.0,161.0,12.0,11.0,528.0,0.0,0.0,161.0,1.0
+546,TN,Tamil Nadu,TN_Coimbatore,Coimbatore,141.0,47.0,94.0,0.0,0.0,141.0,5.0,0.0,89.0,0.0
+547,TN,Tamil Nadu,TN_Cuddalore,Cuddalore,26.0,8.0,18.0,0.0,0.0,26.0,0.0,0.0,18.0,0.0
+548,TN,Tamil Nadu,TN_Dharmapuri,Dharmapuri,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+549,TN,Tamil Nadu,TN_Dindigul,Dindigul,80.0,17.0,62.0,1.0,0.0,79.0,0.0,1.0,62.0,1.0
+550,TN,Tamil Nadu,TN_Erode,Erode,70.0,5.0,64.0,1.0,1.0,70.0,0.0,0.0,64.0,0.0
+734,TN,Tamil Nadu,TN_Kallakurichi,Kallakurichi,6.0,3.0,3.0,0.0,0.0,6.0,0.0,0.0,3.0,0.0
+551,TN,Tamil Nadu,TN_Kancheepuram,Kancheepuram,18.0,11.0,7.0,1.0,0.0,18.0,0.0,0.0,7.0,1.0
+552,TN,Tamil Nadu,TN_Kanyakumari,Kanyakumari,16.0,10.0,6.0,0.0,0.0,16.0,0.0,0.0,6.0,0.0
+553,TN,Tamil Nadu,TN_Karur,Karur,41.0,0.0,41.0,0.0,0.0,41.0,0.0,0.0,41.0,0.0
+555,TN,Tamil Nadu,TN_Madurai,Madurai,75.0,66.0,8.0,2.0,1.0,75.0,0.0,0.0,8.0,1.0
+556,TN,Tamil Nadu,TN_Nagapattinam,Nagapattinam,44.0,16.0,28.0,0.0,0.0,44.0,0.0,0.0,28.0,0.0
+557,TN,Tamil Nadu,TN_Namakkal,Namakkal,59.0,14.0,45.0,0.0,0.0,59.0,0.0,0.0,45.0,0.0
+558,TN,Tamil Nadu,TN_Perambalur,Perambalur,7.0,6.0,1.0,0.0,0.0,7.0,0.0,0.0,1.0,0.0
+559,TN,Tamil Nadu,TN_Pudukkottai,Pudukkottai,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+560,TN,Tamil Nadu,TN_Ramanathapuram,Ramanathapuram,15.0,8.0,7.0,0.0,0.0,15.0,0.0,0.0,7.0,0.0
+733,TN,Tamil Nadu,TN_Ranipet,Ranipet,38.0,6.0,32.0,0.0,0.0,38.0,0.0,0.0,32.0,0.0
+561,TN,Tamil Nadu,TN_Salem,Salem,31.0,25.0,6.0,0.0,0.0,31.0,0.0,0.0,6.0,0.0
+562,TN,Tamil Nadu,TN_Sivaganga,Sivaganga,12.0,12.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0
+731,TN,Tamil Nadu,TN_Tenkasi,Tenkasi,35.0,33.0,2.0,0.0,0.0,35.0,0.0,0.0,2.0,0.0
+563,TN,Tamil Nadu,TN_Thanjavur,Thanjavur,54.0,31.0,23.0,0.0,0.0,55.0,0.0,-1.0,23.0,0.0
+564,TN,Tamil Nadu,TN_Nilgiris,Nilgiris,9.0,0.0,9.0,0.0,0.0,9.0,0.0,0.0,9.0,0.0
+565,TN,Tamil Nadu,TN_Theni,Theni,44.0,8.0,35.0,1.0,1.0,44.0,0.0,0.0,35.0,0.0
+566,TN,Tamil Nadu,TN_Thiruvallur,Thiruvallur,54.0,40.0,14.0,0.0,0.0,54.0,0.0,0.0,14.0,0.0
+567,TN,Tamil Nadu,TN_Thiruvarur,Thiruvarur,30.0,22.0,8.0,0.0,0.0,30.0,0.0,0.0,8.0,0.0
+568,TN,Tamil Nadu,TN_Thoothukkudi,Thoothukkudi,27.0,2.0,23.0,2.0,1.0,27.0,0.0,0.0,23.0,1.0
+569,TN,Tamil Nadu,TN_Tiruchirappalli,Tiruchirappalli,51.0,9.0,42.0,0.0,0.0,51.0,0.0,0.0,42.0,0.0
+570,TN,Tamil Nadu,TN_Tirunelveli,Tirunelveli,65.0,12.0,53.0,0.0,0.0,65.0,0.0,0.0,53.0,0.0
+735,TN,Tamil Nadu,TN_Tirupathur,Tirupathur,18.0,1.0,17.0,0.0,0.0,18.0,0.0,0.0,17.0,0.0
+571,TN,Tamil Nadu,TN_Tiruppur,Tiruppur,112.0,29.0,83.0,0.0,0.0,112.0,0.0,0.0,83.0,0.0
+572,TN,Tamil Nadu,TN_Tiruvannamalai,Tiruvannamalai,11.0,1.0,10.0,0.0,0.0,11.0,0.0,0.0,10.0,0.0
+573,TN,Tamil Nadu,TN_Vellore,Vellore,23.0,9.0,13.0,1.0,1.0,23.0,0.0,0.0,13.0,0.0
+574,TN,Tamil Nadu,TN_Viluppuram,Viluppuram,51.0,27.0,22.0,2.0,1.0,51.0,0.0,0.0,22.0,1.0
+575,TN,Tamil Nadu,TN_Virudhunagar,Virudhunagar,32.0,16.0,16.0,0.0,0.0,32.0,0.0,0.0,16.0,0.0
+576,TG,Telangana,TG_Adilabad,Adilabad,21.0,13.0,8.0,0.0,0.0,18.0,0.0,3.0,8.0,0.0
+577,TG,Telangana,TG_Bhadradri Kothagudem,Bhadradri Kothagudem,4.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,4.0,0.0
+578,TG,Telangana,TG_Hyderabad,Hyderabad,540.0,371.0,151.0,18.0,10.0,557.0,1.0,-17.0,150.0,8.0
+579,TG,Telangana,TG_Jagtial,Jagtial,3.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,2.0,0.0
+580,TG,Telangana,TG_Jangaon,Jangaon,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+581,TG,Telangana,TG_Jayashankar Bhupalapally,Jayashankar Bhupalapally,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+582,TG,Telangana,TG_Jogulamba Gadwal,Jogulamba Gadwal,45.0,35.0,9.0,1.0,0.0,40.0,0.0,5.0,9.0,1.0
+583,TG,Telangana,TG_Kamareddy,Kamareddy,12.0,4.0,8.0,0.0,0.0,11.0,0.0,1.0,8.0,0.0
+584,TG,Telangana,TG_Karimnagar,Karimnagar,19.0,4.0,15.0,0.0,0.0,19.0,0.0,0.0,15.0,0.0
+585,TG,Telangana,TG_Khammam,Khammam,8.0,7.0,1.0,0.0,0.0,8.0,0.0,0.0,1.0,0.0
+586,TG,Telangana,TG_Komaram Bheem,Komaram Bheem,7.0,7.0,0.0,0.0,0.0,4.0,0.0,3.0,0.0,0.0
+587,TG,Telangana,TG_Mahabubabad,Mahabubabad,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+588,TG,Telangana,TG_Mahabubnagar,Mahabubnagar,11.0,3.0,8.0,0.0,0.0,11.0,0.0,0.0,8.0,0.0
+590,TG,Telangana,TG_Medak,Medak,5.0,2.0,3.0,0.0,0.0,5.0,0.0,0.0,3.0,0.0
+591,TG,Telangana,TG_Medchal Malkajgiri,Medchal Malkajgiri,22.0,18.0,3.0,1.0,0.0,9.0,0.0,13.0,3.0,1.0
+592,TG,Telangana,TG_Mulugu,Mulugu,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+593,TG,Telangana,TG_Nagarkurnool,Nagarkurnool,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+594,TG,Telangana,TG_Nalgonda,Nalgonda,17.0,6.0,11.0,0.0,0.0,15.0,0.0,2.0,11.0,0.0
+596,TG,Telangana,TG_Nirmal,Nirmal,20.0,9.0,11.0,0.0,0.0,17.0,0.0,3.0,11.0,0.0
+597,TG,Telangana,TG_Nizamabad,Nizamabad,61.0,34.0,27.0,0.0,0.0,62.0,0.0,-1.0,27.0,0.0
+598,TG,Telangana,TG_Peddapalli,Peddapalli,2.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
+599,TG,Telangana,TG_Rajanna Sircilla,Rajanna Sircilla,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+600,TG,Telangana,TG_Ranga Reddy,Ranga Reddy,33.0,21.0,10.0,2.0,0.0,27.0,0.0,6.0,10.0,2.0
+601,TG,Telangana,TG_Sangareddy,Sangareddy,7.0,2.0,5.0,0.0,0.0,7.0,0.0,0.0,5.0,0.0
+602,TG,Telangana,TG_Siddipet,Siddipet,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+603,TG,Telangana,TG_Suryapet,Suryapet,83.0,79.0,4.0,0.0,0.0,72.0,0.0,11.0,4.0,0.0
+604,TG,Telangana,TG_Vikarabad,Vikarabad,37.0,30.0,6.0,1.0,0.0,37.0,0.0,0.0,6.0,1.0
+607,TG,Telangana,TG_Warangal Urban,Warangal Urban,27.0,5.0,22.0,0.0,0.0,23.0,0.0,4.0,22.0,0.0
+610,TR,Tripura,TR_Gomati,Gomati,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+612,TR,Tripura,TR_North Tripura,North Tripura,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+617,UP,Uttar Pradesh,UP_Agra,Agra,372.0,313.0,49.0,10.0,7.0,372.0,8.0,0.0,41.0,3.0
+618,UP,Uttar Pradesh,UP_Aligarh,Aligarh,13.0,12.0,0.0,1.0,1.0,13.0,0.0,0.0,0.0,0.0
+621,UP,Uttar Pradesh,UP_Amroha,Amroha,25.0,25.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0
+622,UP,Uttar Pradesh,UP_Auraiya,Auraiya,10.0,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+623,UP,Uttar Pradesh,UP_Azamgarh,Azamgarh,8.0,5.0,3.0,0.0,0.0,8.0,0.0,0.0,3.0,0.0
+624,UP,Uttar Pradesh,UP_Baghpat,Baghpat,15.0,14.0,1.0,0.0,0.0,15.0,0.0,0.0,1.0,0.0
+625,UP,Uttar Pradesh,UP_Bahraich,Bahraich,9.0,9.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0
+627,UP,Uttar Pradesh,UP_Balrampur,Balrampur,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+628,UP,Uttar Pradesh,UP_Banda,Banda,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+629,UP,Uttar Pradesh,UP_Barabanki,Barabanki,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+630,UP,Uttar Pradesh,UP_Bareilly,Bareilly,6.0,0.0,6.0,0.0,0.0,6.0,0.0,0.0,6.0,0.0
+631,UP,Uttar Pradesh,UP_Basti,Basti,23.0,17.0,5.0,1.0,1.0,23.0,0.0,0.0,5.0,0.0
+632,UP,Uttar Pradesh,UP_Bhadohi,Bhadohi,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+633,UP,Uttar Pradesh,UP_Bijnor,Bijnor,29.0,29.0,0.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0
+634,UP,Uttar Pradesh,UP_Budaun,Budaun,14.0,13.0,1.0,0.0,0.0,14.0,0.0,0.0,1.0,0.0
+635,UP,Uttar Pradesh,UP_Bulandshahr,Bulandshahr,38.0,32.0,5.0,1.0,1.0,38.0,0.0,0.0,5.0,0.0
+639,UP,Uttar Pradesh,UP_Etah,Etah,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+640,UP,Uttar Pradesh,UP_Etawah,Etawah,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+644,UP,Uttar Pradesh,UP_Firozabad,Firozabad,83.0,79.0,3.0,1.0,0.0,83.0,0.0,0.0,3.0,1.0
+645,UP,Uttar Pradesh,UP_Gautam Buddha Nagar,Gautam Buddha Nagar,117.0,46.0,71.0,0.0,0.0,117.0,10.0,0.0,61.0,0.0
+646,UP,Uttar Pradesh,UP_Ghaziabad,Ghaziabad,58.0,42.0,16.0,0.0,0.0,58.0,3.0,0.0,13.0,0.0
+647,UP,Uttar Pradesh,UP_Ghazipur,Ghazipur,6.0,1.0,5.0,0.0,0.0,6.0,0.0,0.0,5.0,0.0
+648,UP,Uttar Pradesh,UP_Gonda,Gonda,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+651,UP,Uttar Pradesh,UP_Hapur,Hapur,25.0,25.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0
+652,UP,Uttar Pradesh,UP_Hardoi,Hardoi,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+653,UP,Uttar Pradesh,UP_Hathras,Hathras,4.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,4.0,0.0
+654,UP,Uttar Pradesh,UP_Jalaun,Jalaun,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+655,UP,Uttar Pradesh,UP_Jaunpur,Jaunpur,5.0,1.0,4.0,0.0,0.0,5.0,0.0,0.0,4.0,0.0
+657,UP,Uttar Pradesh,UP_Kannauj,Kannauj,7.0,7.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0
+659,UP,Uttar Pradesh,UP_Kanpur Nagar,Kanpur Nagar,170.0,160.0,7.0,3.0,1.0,170.0,0.0,0.0,7.0,2.0
+660,UP,Uttar Pradesh,UP_Kasganj,Kasganj,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+661,UP,Uttar Pradesh,UP_Kaushambi,Kaushambi,2.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+662,UP,Uttar Pradesh,UP_Lakhimpur Kheri,Lakhimpur Kheri,4.0,0.0,4.0,0.0,0.0,4.0,1.0,0.0,3.0,0.0
+665,UP,Uttar Pradesh,UP_Lucknow,Lucknow,194.0,163.0,30.0,1.0,1.0,194.0,1.0,0.0,29.0,0.0
+667,UP,Uttar Pradesh,UP_Maharajganj,Maharajganj,6.0,0.0,6.0,0.0,0.0,6.0,0.0,0.0,6.0,0.0
+668,UP,Uttar Pradesh,UP_Mainpuri,Mainpuri,5.0,5.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+669,UP,Uttar Pradesh,UP_Mathura,Mathura,10.0,10.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+670,UP,Uttar Pradesh,UP_Mau,Mau,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+671,UP,Uttar Pradesh,UP_Meerut,Meerut,89.0,48.0,36.0,5.0,3.0,89.0,9.0,0.0,27.0,2.0
+672,UP,Uttar Pradesh,UP_Mirzapur,Mirzapur,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+673,UP,Uttar Pradesh,UP_Moradabad,Moradabad,101.0,94.0,1.0,6.0,4.0,101.0,0.0,0.0,1.0,2.0
+674,UP,Uttar Pradesh,UP_Muzaffarnagar,Muzaffarnagar,18.0,15.0,3.0,0.0,0.0,18.0,0.0,0.0,3.0,0.0
+675,UP,Uttar Pradesh,UP_Pilibhit,Pilibhit,2.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0
+676,UP,Uttar Pradesh,UP_Pratapgarh,Pratapgarh,6.0,0.0,6.0,0.0,0.0,6.0,0.0,0.0,6.0,0.0
+677,UP,Uttar Pradesh,UP_Prayagraj,Prayagraj,4.0,3.0,1.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0
+678,UP,Uttar Pradesh,UP_Rae Bareli,Rae Bareli,43.0,43.0,0.0,0.0,0.0,43.0,0.0,0.0,0.0,0.0
+679,UP,Uttar Pradesh,UP_Rampur,Rampur,20.0,16.0,4.0,0.0,0.0,20.0,0.0,0.0,4.0,0.0
+680,UP,Uttar Pradesh,UP_Saharanpur,Saharanpur,181.0,171.0,10.0,0.0,0.0,181.0,0.0,0.0,10.0,0.0
+681,UP,Uttar Pradesh,UP_Sambhal,Sambhal,13.0,13.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0
+682,UP,Uttar Pradesh,UP_Sant Kabir Nagar,Sant Kabir Nagar,21.0,21.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0
+683,UP,Uttar Pradesh,UP_Shahjahanpur,Shahjahanpur,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+684,UP,Uttar Pradesh,UP_Shamli,Shamli,27.0,9.0,18.0,0.0,0.0,27.0,1.0,0.0,17.0,0.0
+685,UP,Uttar Pradesh,UP_Shrawasti,Shrawasti,5.0,5.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+687,UP,Uttar Pradesh,UP_Sitapur,Sitapur,20.0,8.0,12.0,0.0,0.0,20.0,0.0,0.0,12.0,0.0
+689,UP,Uttar Pradesh,UP_Sultanpur,Sultanpur,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+690,UP,Uttar Pradesh,UP_Unnao,Unnao,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+691,UP,Uttar Pradesh,UP_Varanasi,Varanasi,37.0,28.0,8.0,1.0,1.0,37.0,0.0,0.0,8.0,0.0
+765,UP,Uttar Pradesh,UP_Ayodhya,Ayodhya,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+692,UT,Uttarakhand,UT_Almora,Almora,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+696,UT,Uttarakhand,UT_Dehradun,Dehradun,28.0,16.0,14.0,0.0,0.0,25.0,0.0,3.0,14.0,0.0
+697,UT,Uttarakhand,UT_Haridwar,Haridwar,7.0,7.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0
+698,UT,Uttarakhand,UT_Nainital,Nainital,10.0,4.0,6.0,0.0,0.0,10.0,0.0,0.0,6.0,0.0
+699,UT,Uttarakhand,UT_Pauri Garhwal,Pauri Garhwal,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+703,UT,Uttarakhand,UT_Udham Singh Nagar,Udham Singh Nagar,4.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,4.0,0.0
+711,WB,West Bengal,WB_Hooghly,Hooghly,12.0,12.0,0.0,0.0,0.0,1.0,0.0,11.0,0.0,0.0
+712,WB,West Bengal,WB_Howrah,Howrah,79.0,79.0,0.0,0.0,1.0,1.0,0.0,78.0,0.0,-1.0
+715,WB,West Bengal,WB_Kalimpong,Kalimpong,7.0,7.0,0.0,0.0,1.0,1.0,0.0,6.0,0.0,-1.0
+716,WB,West Bengal,WB_Kolkata,Kolkata,184.0,184.0,0.0,0.0,2.0,11.0,0.0,173.0,0.0,-2.0
+724,WB,West Bengal,WB_Purba Medinipur,Purba Medinipur,22.0,22.0,0.0,0.0,0.0,3.0,0.0,19.0,0.0,0.0
+720,WB,West Bengal,WB_Nadia,Nadia,6.0,6.0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0
+721,WB,West Bengal,WB_North 24 Parganas,North 24 Parganas,47.0,47.0,0.0,0.0,1.0,4.0,0.0,43.0,0.0,-1.0
+726,WB,West Bengal,WB_South 24 Parganas,South 24 Parganas,12.0,12.0,0.0,0.0,0.0,1.0,0.0,11.0,0.0,0.0

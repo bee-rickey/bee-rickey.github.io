@@ -1,0 +1,206 @@
+Date, District, State, Status, Count
+21/04/2020, Andaman and Nicobar Islands, North and Middle Andaman, Recovered, 1
+21/04/2020, Andaman and Nicobar Islands, South Andaman, Recovered, 10
+21/04/2020, Andaman and Nicobar Islands, , -11
+
+23/04/2020, Andhra Pradesh, Anantapur, Recovered, 2
+23/04/2020, Andhra Pradesh, , Recovered, -2
+
+25/04/2020, Andhra Pradesh, Anantapur, Recovered, 2
+25/04/2020, Andhra Pradesh, , Recovered, -2
+
+21/04/2020, Andhra Pradesh, Chittoor, Recovered, 4
+21/04/2020, Andhra Pradesh, , Recovered, -4
+
+23/04/2020, Andhra Pradesh, Chittoor, Recovered, 7
+23/04/2020, Andhra Pradesh, , Recovered, -7
+
+21/04/2020, Andhra Pradesh, East Godavari, Recovered, 8
+21/04/2020, Andhra Pradesh, , Recovered, -8
+
+25/04/2020, Andhra Pradesh, East Godavari, Recovered, 4
+25/04/2020, Andhra Pradesh, , Recovered, -4
+
+21/04/2020, Andhra Pradesh, Guntur, Recovered, 15
+21/04/2020, Andhra Pradesh, , Recovered, -15
+
+21/04/2020, Andhra Pradesh, Krishna, Recovered, 12
+21/04/2020, Andhra Pradesh, , Recovered, -12
+
+23/04/2020, Andhra Pradesh, Krishna, Recovered, 11
+23/04/2020, Andhra Pradesh, , Recovered, -11
+
+26/04/2020, Andhra Pradesh, Krishna, Recovered, 4
+26/04/2020, Andhra Pradesh, , Recovered, -4
+
+21/04/2020, Andhra Pradesh, Krishna, Deceased, 1
+21/04/2020, Andhra Pradesh, , Deceased, -1
+
+23/04/2020, Andhra Pradesh, Krishna, Deceased, 1
+23/04/2020, Andhra Pradesh, , Deceased, -1
+
+21/04/2020, Andhra Pradesh, Kurnool, Recovered, 4
+21/04/2020, Andhra Pradesh, , Recovered, -4
+
+25/04/2020, Andhra Pradesh, Kurnool, Recovered, 3
+25/04/2020, Andhra Pradesh, , Recovered, -3
+
+21/04/2020, Andhra Pradesh, Kurnool, Deceased, 1
+21/04/2020, Andhra Pradesh, , Deceased, -1
+
+23/04/2020, Andhra Pradesh, Kurnool, Deceased, 1
+23/04/2020, Andhra Pradesh, , Deceased, -1
+
+21/04/2020, Andhra Pradesh, Prakasam, Recovered, 1
+21/04/2020, Andhra Pradesh, , Recovered, -1
+
+25/04/2020, Andhra Pradesh, Prakasam, Recovered, 11
+25/04/2020, Andhra Pradesh, , Recovered, -11
+
+21/04/2020, Andhra Pradesh, S.P.S. Nellore, Recovered, 1
+21/04/2020, Andhra Pradesh, , Recovered, -1
+
+25/04/2020, Andhra Pradesh, S.P.S. Nellore, Recovered, 2 
+25/04/2020, Andhra Pradesh, , Recovered, -2
+
+21/04/2020, Andhra Pradesh, Visakhapatnam, Recovered, 12
+21/04/2020, Andhra Pradesh, , Recovered, -12
+
+21/04/2020, Andhra Pradesh, West Godavari, Recovered, 9
+21/04/2020, Andhra Pradesh, , Recovered, -9
+
+07/04/2020, Andhra Pradesh, Y.S.R. Kadapa, Deceased, -1
+07/04/2020, Andhra Pradesh, , Deceased, 1
+
+21/04/2020, Andhra Pradesh, Y.S.R. Kadapa, Recovered, 19
+21/04/2020, Andhra Pradesh, , Recovered, -19
+
+23/04/2020, Andhra Pradesh, Y.S.R. Kadapa, Recovered, 5
+23/04/2020, Andhra Pradesh, , Recovered, -5
+
+22/04/2020, Arunachal Pradesh, Lohit, Recovered, 1
+22/04/2020, Arunachal Pradesh, , Recovered, -1
+
+22/04/2020, Assam, Goalpara, Recovered, 3
+22/04/2020, Assam, , Recovered, -3
+
+22/04/2020, Assam, Kamrup, Recovered, 1
+22/04/2020, Assam, , Recovered, -1
+
+22/04/2020, Assam, Lakhimpur, Recovered, 1
+22/04/2020, Assam, , Recovered, -1
+
+21/04/2020, Bihar, Gaya, Recovered, 1
+21/04/2020, Bihar, , Recovered, -1
+
+26/04/2020, Bihar, Gaya, Recovered, 1
+26/04/2020, Bihar, , Recovered, -1
+
+21/04/2020, Bihar, Gopalganj, Recovered, 1
+21/04/2020, Bihar, , Recovered, -1
+
+26/04/2020, Bihar, Nalanda, Recovered, 1
+26/04/2020, Bihar, , Recovered, -1
+
+21/04/2020, Bihar, Siwan, Recovered, 11
+21/04/2020, Bihar, , Recovered, -11
+
+26/04/2020, Bihar, Siwan, Recovered, 1
+26/04/2020, Bihar, , Recovered, -1
+
+21/04/2020, Chandigarh, Chandigarh, Recovered, 12
+21/04/2020, Chandigarh, , Recovered, -12
+
+25/04/2020, Chandigarh, Chandigarh, Recovered, 1
+25/04/2020, Chandigarh, , Recovered, -1
+
+22/04/2020, Chhattisgarh, Korba, Recovered, 12
+22/04/2020, Chhattisgarh, , Recovered, -12
+
+26/04/2020, Chhattisgarh, Korba, Recovered, 7
+26/04/2020, Chhattisgarh, , Recovered, -7
+
+22/04/2020, Chhattisgarh, Raipur, Recovered, -2
+22/04/2020, Chhattisgarh, , Recovered, 2
+
+23/04/2020, Delhi, New Delhi, Hospitalized, 32
+23/04/2020, Delhi, , Hospitalised, -32
+
+23/04/2020, Delhi, East Delhi, Hospitalized, 38
+23/04/2020, Delhi, , Hospitalised, -38
+
+23/04/2020, Delhi, North Delhi, Hospitalized, 57
+23/04/2020, Delhi, , Hospitalised, -57
+
+23/04/2020, Delhi, North East Delhi, Hospitalized, 24
+23/04/2020, Delhi, , Hospitalised, -24
+
+23/04/2020, Delhi, North West Delhi, Hospitalized, 29
+23/04/2020, Delhi, , Hospitalised, -29
+
+23/04/2020, Delhi, South Delhi, Hospitalized, 44
+23/04/2020, Delhi, , Hospitalised, -44
+
+23/04/2020, Delhi, South West Delhi, Hospitalized, 39
+23/04/2020, Delhi, , Hospitalised, -39
+
+23/04/2020, Delhi, West Delhi, Hospitalized, 120
+23/04/2020, Delhi, , Hospitalised, -120
+
+22/04/2020, Goa, North Goa, Hospitalized, 2
+22/04/2020, Goa, , Hospitalized, -2
+
+22/04/2020, Goa, North Goa, Recovered, 6
+22/04/2020, Goa, , Recovered, -6
+
+23/04/2020, Gujarat, Ahmedabad, Recovered, 6
+23/04/2020, Gujarat, , Recovered, -6
+
+26/04/2020, Gujarat, Ahmedabad, Recovered, 25
+26/04/2020, Gujarat, , Recovered, -25
+
+22/04/2020, Gujarat, Ahmedabad, Deceased, 5
+22/04/2020, Gujarat, , Deceased, -5
+
+26/04/2020, Gujarat, Ahmedabad, Deceased, 18
+26/04/2020, Gujarat, , Deceased, -18
+
+26/04/2020, Gujarat, Bharuch, Recovered, 4
+26/04/2020, Gujarat, , Recovered, -4
+
+22/04/2020, Gujarat, Bhavnagar, Recovered, 1
+22/04/2020, Gujarat, , Recovered, -1
+
+22/04/2020, Gujarat, Gandhinagar, Recovered, 5
+22/04/2020, Gujarat, , Recovered, -5
+
+22/04/2020, Gujarat, Gandhinagar, Deceased, 1
+22/04/2020, Gujarat, , Deceased, -1
+
+23/04/2020, Gujarat, Mahisagar, Hospitalized, -3
+23/04/2020, Gujarat, , Hospitalized, 3
+
+22/04/2020, Gujarat, Porbandar, Recovered, 1
+22/04/2020, Gujarat, , Recovered, -1
+
+22/04/2020, Gujarat, Rajkot, Recovered, 2
+22/04/2020, Gujarat, , Recovered, -2
+
+22/04/2020, Gujarat, Surat, Recovered, 3
+22/04/2020, Gujarat, , Recovered, -3
+
+25/04/2020, Gujarat, Vadodara, Recovered, 3
+25/04/2020, Gujarat, , Recovered, -3
+
+
+
+
+
+
+
+
+
+
+
+
+
