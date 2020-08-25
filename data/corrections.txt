@@ -192,8 +192,50 @@ Date, District, State, Status, Count
 25/04/2020, Gujarat, Vadodara, Recovered, 3
 25/04/2020, Gujarat, , Recovered, -3
 
+22/04/2020, Haryana, Faridabad, Recovered, 1
+22/04/2020, Haryana, , Recovered, -1
 
+22/04/2020, Haryana, Hisar, Recovered, 1
+22/04/2020, Haryana, , Recovered, -1
 
+22/04/2020, Haryana, Panipat, Recovered, 1
+22/04/2020, Haryana, , Recovered, -1
+
+22/04/2020, Haryana, Rohtak, Deceased, 1
+22/04/2020, Haryana, , Deceased, -1
+
+22/04/2020, Haryana, Sonipat, Recovered, 1
+22/04/2020, Haryana, , Recovered, -1
+
+26/04/2020, Himachal Pradesh, Chamba, Recovered, 1
+26/04/2020, Himachal Pradesh, , Recovered, -1
+
+21/04/2020, Himachal Pradesh, Kangra, Recovered, 3
+21/04/2020, Himachal Pradesh, , Recovered, -3
+
+21/04/2020, Himachal Pradesh, Kangra, Deceased, 1
+21/04/2020, Himachal Pradesh, , Deceased, -1
+
+24/04/2020, Himachal Pradesh, Sirmaur, Recovered, 1
+24/04/2020, Himachal Pradesh, , Recovered, -1
+
+26/04/2020, Himachal Pradesh, Sirmaur, Hospitalized, 1
+26/04/2020, Himachal Pradesh, , Hospitalized, -1
+
+24/04/2020, Himachal Pradesh, Solan, Recovered, 3
+24/04/2020, Himachal Pradesh, , Recovered, -3
+
+21/04/2020, Himachal Pradesh, Una, Hospitalized, 1
+21/04/2020, Himachal Pradesh, , Hospitalized, -1
+
+21/04/2020, Himachal Pradesh, Una, Recovered, 2
+21/04/2020, Himachal Pradesh, , Recovered, -2
+
+24/04/2020, Himachal Pradesh, Una, Recovered, 6
+24/04/2020, Himachal Pradesh, , Recovered, -6
+
+26/04/2020, Himachal Pradesh, Una, Recovered, 3
+26/04/2020, Himachal Pradesh, , Recovered, -3
 
 
 

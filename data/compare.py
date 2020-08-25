@@ -179,6 +179,14 @@ with open("tmp/csv/compare_gospel_v1v2.csv") as gospel:
           if "Ahmedabad" in lineArray[4]:
             districtName = "Ahmadabad"
 
+          if "Budgaum" in lineArray[4]:
+            districtName = "Badgam"
+
+          if "Bandipora" in lineArray[4]:
+            districtName = "Bandipore"
+
+            
+
           try:
             confirmed = data[lineArray[2]]["districtData"][districtName]["confirmed"]
           except KeyError:
