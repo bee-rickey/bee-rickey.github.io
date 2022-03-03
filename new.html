@@ -210,7 +210,13 @@
   				}
 			});
 
-		});
+	$('a').each(function(){
+    let caption = $(this).attr('title');
+    let figCaption = "<figcaption style=\"color:white;text-align:center\">" + caption + "</figcaption> ";
+    $(this).append(figCaption);
+	})
+
+});
 	
 	</script>
 <style type="text/css">
@@ -224,7 +230,7 @@
     font-size: 20;
 }
 body {
-	background: linear-gradient(45deg, #190f2c, #200b30);
+	background: linear-gradient(15deg, #190f2c, #200b30);
 	padding: 15px;
 }
 img {
@@ -232,6 +238,10 @@ img {
 	height: auto;
 	vertical-align: middle;
 	display: inline-block;
+}
+
+a{
+	text-decoration:none;
 }
 
 /* Main CSS */
@@ -249,8 +259,9 @@ img {
 
 .grid-wrapper {
 	display: grid;
-	grid-gap: 10px;
-	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-row-gap: 19px;
+	grid-column-gap: 5px;
+	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 	grid-auto-rows: 200px;
 	grid-auto-flow: dense;
 }
@@ -259,8 +270,8 @@ img {
 <body class="" style="margin-right: 8px;">
 
 <div class="grid-wrapper">
-<a class="fancybox" href="data/16.02.2022.png" data-fancybox="gallery" title="Angry, frustrated"><img src="data/16.02.2022.png" alt="test"> </a>
-<a class="fancybox" href="data/Picture 1.png" data-fancybox="gallery" title="Delighted, joyful"><img src="data/Picture 1.png" alt=""></a>
+<a class="fancybox" href="data/16.02.2022.png" data-fancybox="gallery" title="Angry, frustrated"><img src="data/16.02.2022.png" alt="test"></a>
+<a class="fancybox" href="data/Picture 1.png" data-fancybox="gallery" title="Delighted, joyful"><img src="data/Picture 1.png" alt=""> </a>
 <a class="fancybox" href="data/Picture 2.png" data-fancybox="gallery" title="Comfortable, safe"><img src="data/Picture 2.png" alt=""></a>
 <a class="fancybox" href="data/banyan.png" data-fancybox="gallery" title="Distressed, overwhelmed"><img src="data/banyan.png" alt=""></a>
 <a class="fancybox" href="data/birds of paradise.png" data-fancybox="gallery" title="Wildcard"><img src="data/birds of paradise.png" alt=""></a>
