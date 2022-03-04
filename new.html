@@ -1,296 +1,279 @@
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
-<!-- Add jQuery library -->
-
-
-<!-- Add mousewheel plugin (this is optional) -->
-
-
-<!-- Add fancyBox main JS and CSS files -->
-<!--
-<script type="text/javascript" src="../source/jquery.fancybox.js?v=2.1.4"></script>
-
-<link rel="stylesheet" type="text/css" href="../source/jquery.fancybox.css?v=2.1.4" media="screen"> -->
-
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.0/dist/jquery.min.js"></script>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<!-- Add Button helper (this is optional) 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        /*
+         *  Simple image gallery. Uses default settings
+         */
+
+        $('.fancybox').fancybox();
+
+        /*
+         *  Different effects
+         */
+
+        // Change title type, overlay closing speed
+        $(".fancybox-effects-a").fancybox({
+          helpers: {
+            title : {
+              type : 'outside'
+            },
+            overlay : {
+              speedOut : 0
+            }
+          }
+        });
+
+        // Disable opening and closing animations, change title type
+        $(".fancybox-effects-b").fancybox({
+          openEffect  : 'none',
+          closeEffect : 'none',
+
+          helpers : {
+            title : {
+              type : 'over'
+            }
+          }
+        });
+
+        // Set custom style, close if clicked, change title type and overlay color
+        $(".fancybox-effects-c").fancybox({
+          wrapCSS    : 'fancybox-custom',
+          closeClick : true,
+
+          openEffect : 'none',
+
+          helpers : {
+            title : {
+              type : 'inside'
+            },
+            overlay : {
+              css : {
+                'background' : 'rgba(238,238,238,0.85)'
+              }
+            }
+          }
+        });
+
+        // Remove padding, set opening and closing animations, close if clicked and disable overlay
+        $(".fancybox-effects-d").fancybox({
+          padding: 0,
+
+          openEffect : 'elastic',
+          openSpeed  : 150,
+
+          closeEffect : 'elastic',
+          closeSpeed  : 150,
+
+          closeClick : true,
+
+          helpers : {
+            overlay : null
+          }
+        });
+
+        /*
+         *  Button helper. Disable animations, hide close button, change title type and content
+         */
+
+        $('.fancybox-buttons').fancybox({
+          openEffect  : 'none',
+          closeEffect : 'none',
+
+          prevEffect : 'none',
+          nextEffect : 'none',
+
+          closeBtn  : false,
+
+          helpers : {
+            title : {
+              type : 'inside'
+            },
+            buttons : {}
+          },
+
+          afterLoad : function() {
+            this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
+          }
+        });
 
 
+        /*
+         *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
+         */
 
+        $('.fancybox-thumbs').fancybox({
+          prevEffect : 'none',
+          nextEffect : 'none',
 
-<link rel="stylesheet" type="text/css" href="../source/helpers/jquery.fancybox-buttons.css?v=1.0.5">
-<script type="text/javascript" src="../source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+          closeBtn  : true,
+          arrows    : false,
+          nextClick : true,
 
- Add Thumbnail helper (this is optional) 
-<link rel="stylesheet" type="text/css" href="../source/helpers/jquery.fancybox-thumbs.css?v=1.0.7">
-<script type="text/javascript" src="../source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+          helpers : {
+            thumbs : {
+              width  : 50,
+              height : 50
+            }
+          }
+        });
 
- Add Media helper (this is optional) 
-<script type="text/javascript" src="../source/helpers/jquery.fancybox-media.js?v=1.0.5"></script> -->
-<script type="text/javascript">
-		$(document).ready(function() {
-			/*
-			 *  Simple image gallery. Uses default settings
-			 */
+        /*
+         *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+        */
+        $('.fancybox-media')
+          .attr('rel', 'media-gallery')
+          .fancybox({
+            openEffect : 'none',
+            closeEffect : 'none',
+            prevEffect : 'none',
+            nextEffect : 'none',
 
-			$('.fancybox').fancybox();
+            arrows : false,
+            helpers : {
+              media : {},
+              buttons : {}
+            }
+          });
 
-			/*
-			 *  Different effects
-			 */
+        /*
+         *  Open manually
+         */
 
-			// Change title type, overlay closing speed
-			$(".fancybox-effects-a").fancybox({
-				helpers: {
-					title : {
-						type : 'outside'
-					},
-					overlay : {
-						speedOut : 0
-					}
-				}
-			});
+        $("#fancybox-manual-a").click(function() {
+          $.fancybox.open('1_b.jpg');
+        });
 
-			// Disable opening and closing animations, change title type
-			$(".fancybox-effects-b").fancybox({
-				openEffect  : 'none',
-				closeEffect	: 'none',
+        $("#fancybox-manual-b").click(function() {
+          $.fancybox.open({
+            href : 'iframe.html',
+            type : 'iframe',
+            padding : 5
+          });
+        });
 
-				helpers : {
-					title : {
-						type : 'over'
-					}
-				}
-			});
+        $("#fancybox-manual-c").click(function() {
+          $.fancybox.open([
+            {
+              href : '1_b.jpg',
+              title : 'My title'
+            }, {
+              href : '2_b.jpg',
+              title : '2nd title'
+            }, {
+              href : '3_b.jpg'
+            }
+          ], {
+            helpers : {
+              thumbs : {
+                width: 75,
+                height: 50
+              }
+            }
+          });
+        });
 
-			// Set custom style, close if clicked, change title type and overlay color
-			$(".fancybox-effects-c").fancybox({
-				wrapCSS    : 'fancybox-custom',
-				closeClick : true,
+        $( '[data-fancybox="gallery"]' ).fancybox({
+            caption : function( instance, item ) {
+              let title = $(this).attr('title');
+              let firstLine = title.split('\.')[0];
+              let secondLine = title.split('\.')[1];
+              return "<b>" + firstLine + "</b><br/>" + secondLine;
+              //return $(this).attr('title');
+            }
+        });
 
-				openEffect : 'none',
+        $('a').each(function(){
+          let caption = $(this).attr('title');
+          let firstLine = caption.split('\.')[0];
+          let secondLine = caption.split('\.')[1];
+          let figCaption = "<br/><figcaption style=\"color:white;text-align:center\"> <b>" + firstLine + "</b><br/>" + secondLine + "</figcaption> ";
+          $(this).append(figCaption);
+        })
 
-				helpers : {
-					title : {
-						type : 'inside'
-					},
-					overlay : {
-						css : {
-							'background' : 'rgba(238,238,238,0.85)'
-						}
-					}
-				}
-			});
+      });
+    
+    </script>
+    <style type="text/css">
+      .fancybox-custom .fancybox-skin {
+        box-shadow: 0 0 50px #222;
+      }
+      .fancybox-caption__body {
+        max-height: 50vh;
+        overflow: auto; 
+        pointer-events: all;
+        font-size: 20;
+      }
+      body {
+        background: linear-gradient(15deg, #190f2c, #200b30);
+        padding: 15px;
+      }
+      img {
+        max-width: 100%;
+        height: auto;
+        vertical-align: middle;
+        display: inline-block;
+      }
 
-			// Remove padding, set opening and closing animations, close if clicked and disable overlay
-			$(".fancybox-effects-d").fancybox({
-				padding: 0,
+      a{
+        text-decoration:none;
+      }
 
-				openEffect : 'elastic',
-				openSpeed  : 150,
+      /* Main CSS */
+      .grid-wrapper > div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .grid-wrapper > a > img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 5px;
+      }
 
-				closeEffect : 'elastic',
-				closeSpeed  : 150,
+      .grid-wrapper {
+        display: grid;
+        grid-row-gap: 50px;
+        grid-column-gap: 5px;
+        grid-template-columns: auto auto auto auto auto auto auto ;/*repeat(auto-fit, minmax(220px, 1fr));*/
+        grid-auto-rows: 200px;
+        grid-auto-flow: dense;
+      }
+    </style>
+  </head>
+  <body class="" style="margin-right: 8px;">
 
-				closeClick : true,
+    <div class="grid-wrapper">
+      <a class="fancybox" href="images/16.02.2022.png" data-fancybox="gallery" title="Cactus. Angry, frustrated"><img src="images/16.02.2022.png" alt="test"></a>
+      <a class="fancybox" href="images/Picture 1.png" data-fancybox="gallery" title="Daisies. Delighted, joyful"><img src="images/Picture 1.png" alt=""> </a>
+      <a class="fancybox" href="images/Picture 2.png" data-fancybox="gallery" title="Garden Cosmos. Comfortable, safe"><img src="images/Picture 2.png" alt=""></a>
+      <a class="fancybox" href="images/banyan.png" data-fancybox="gallery" title="Banyan. Distressed, overwhelmed"><img src="images/banyan.png" alt=""></a>
+      <a class="fancybox" href="images/birds of paradise.png" data-fancybox="gallery" title="Birds Of Paradise. Wildcard"><img src="images/birds of paradise.png" alt=""></a>
+      <a class="fancybox" href="images/blue trumpet vine.png" data-fancybox="gallery" title="Blue Trumpet Vine. Lazy"><img src="images/blue trumpet vine.png" alt=""></a>
+      <a class="fancybox" href="images/brahm kamal.png" data-fancybox="gallery" title="Brahm Kamal. Sad, gloomy"><img src="images/brahm kamal.png" alt=""></a>
+      <a class="fancybox" href="images/croton.png" data-fancybox="gallery" title="Croton. Happy, content"><img src="images/croton.png" alt=""></a>
+      <a class="fancybox" href="images/dandelions.png" data-fancybox="gallery" title="Dandelions. Lonely, vulnerable"><img src="images/dandelions.png" alt=""></a>
+      <a class="fancybox" href="images/dewey grass.png" data-fancybox="gallery" title="Dewey Grass. Fresh, energised"><img src="images/dewey grass.png" alt=""></a>
+      <a class="fancybox" href="images/droopy tree.png" data-fancybox="gallery" title="Droopy Tree. Tired, drained"><img src="images/droopy tree.png" alt=""></a>
+      <a class="fancybox" href="images/dry grass.png" data-fancybox="gallery" title="Dry Grass. Despondent"><img src="images/dry grass.png" alt=""></a>
+      <a class="fancybox" href="images/electric rose.png" data-fancybox="gallery" title="Elecric Rose. Energetic, excited"><img src="images/electric rose.png" alt=""></a>
+      <a class="fancybox" href="images/lotus seeds.png" data-fancybox="gallery" title="Lotus Seeds. Uncomfortable"><img src="images/lotus seeds.png" alt=""></a>
+      <a class="fancybox" href="images/monkey orchid.png" data-fancybox="gallery" title="Monkey Orchid. Playful and fun"><img src="images/monkey orchid.png" alt=""></a>
+      <a class="fancybox" href="images/moss.png" data-fancybox="gallery" title="Moss. Anxious, scared"><img src="images/moss.png" alt=""></a>
+      <a class="fancybox" href="images/pampas.png" data-fancybox="gallery" title="Pampas. Light, peaceful"><img src="images/pampas.png" alt=""></a>
+      <a class="fancybox" href="images/poppies.png" data-fancybox="gallery" title="Poppies. Hopeful, optimistic"><img src="images/poppies.png" alt=""></a>
+      <a class="fancybox" href="images/rhoeo.png" data-fancybox="gallery" title="Rhoeo. In pain, unwell"><img src="images/rhoeo.png" alt=""></a>
+      <a class="fancybox" href="images/saplings.png" data-fancybox="gallery" title="Saplings. Hungry, thirsty"><img src="images/saplings.png" alt=""></a>
+      <a class="fancybox" href="images/tree tumbo.png" data-fancybox="gallery" title="Tree Tumbo. Confused, scattered, disoriented"><img src="images/tree tumbo.png" alt=""></a>
+    </div>
 
-				helpers : {
-					overlay : null
-				}
-			});
-
-			/*
-			 *  Button helper. Disable animations, hide close button, change title type and content
-			 */
-
-			$('.fancybox-buttons').fancybox({
-				openEffect  : 'none',
-				closeEffect : 'none',
-
-				prevEffect : 'none',
-				nextEffect : 'none',
-
-				closeBtn  : false,
-
-				helpers : {
-					title : {
-						type : 'inside'
-					},
-					buttons	: {}
-				},
-
-				afterLoad : function() {
-					this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
-				}
-			});
-
-
-			/*
-			 *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
-			 */
-
-			$('.fancybox-thumbs').fancybox({
-				prevEffect : 'none',
-				nextEffect : 'none',
-
-				closeBtn  : true,
-				arrows    : false,
-				nextClick : true,
-
-				helpers : {
-					thumbs : {
-						width  : 50,
-						height : 50
-					}
-				}
-			});
-
-			/*
-			 *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
-			*/
-			$('.fancybox-media')
-				.attr('rel', 'media-gallery')
-				.fancybox({
-					openEffect : 'none',
-					closeEffect : 'none',
-					prevEffect : 'none',
-					nextEffect : 'none',
-
-					arrows : false,
-					helpers : {
-						media : {},
-						buttons : {}
-					}
-				});
-
-			/*
-			 *  Open manually
-			 */
-
-			$("#fancybox-manual-a").click(function() {
-				$.fancybox.open('1_b.jpg');
-			});
-
-			$("#fancybox-manual-b").click(function() {
-				$.fancybox.open({
-					href : 'iframe.html',
-					type : 'iframe',
-					padding : 5
-				});
-			});
-
-			$("#fancybox-manual-c").click(function() {
-				$.fancybox.open([
-					{
-						href : '1_b.jpg',
-						title : 'My title'
-					}, {
-						href : '2_b.jpg',
-						title : '2nd title'
-					}, {
-						href : '3_b.jpg'
-					}
-				], {
-					helpers : {
-						thumbs : {
-							width: 75,
-							height: 50
-						}
-					}
-				});
-			});
-
-				$( '[data-fancybox="gallery"]' ).fancybox({
-  				caption : function( instance, item ) {
-    				return $(this).attr('title');
-  				}
-			});
-
-	$('a').each(function(){
-    let caption = $(this).attr('title');
-    let figCaption = "<figcaption style=\"color:white;text-align:center\">" + caption + "</figcaption> ";
-    $(this).append(figCaption);
-	})
-
-});
-	
-	</script>
-<style type="text/css">
-.fancybox-custom .fancybox-skin {
-    box-shadow: 0 0 50px #222;
-}
-.fancybox-caption__body {
-    max-height: 50vh;
-    overflow: auto; 
-    pointer-events: all;
-    font-size: 20;
-}
-body {
-	background: linear-gradient(15deg, #190f2c, #200b30);
-	padding: 15px;
-}
-img {
-	max-width: 100%;
-	height: auto;
-	vertical-align: middle;
-	display: inline-block;
-}
-
-a{
-	text-decoration:none;
-}
-
-/* Main CSS */
-.grid-wrapper > div {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-.grid-wrapper > a > img {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-	border-radius: 5px;
-}
-
-.grid-wrapper {
-	display: grid;
-	grid-row-gap: 19px;
-	grid-column-gap: 5px;
-	grid-template-columns: auto auto auto auto auto auto auto ;/*repeat(auto-fit, minmax(220px, 1fr));*/
-	grid-auto-rows: 200px;
-	grid-auto-flow: dense;
-}
-</style>
-</head>
-<body class="" style="margin-right: 8px;">
-
-<div class="grid-wrapper">
-<a class="fancybox" href="data/16.02.2022.png" data-fancybox="gallery" title="Angry, frustrated"><img src="data/16.02.2022.png" alt="test"></a>
-<a class="fancybox" href="data/Picture 1.png" data-fancybox="gallery" title="Delighted, joyful"><img src="data/Picture 1.png" alt=""> </a>
-<a class="fancybox" href="data/Picture 2.png" data-fancybox="gallery" title="Comfortable, safe"><img src="data/Picture 2.png" alt=""></a>
-<a class="fancybox" href="data/banyan.png" data-fancybox="gallery" title="Distressed, overwhelmed"><img src="data/banyan.png" alt=""></a>
-<a class="fancybox" href="data/birds of paradise.png" data-fancybox="gallery" title="Wildcard"><img src="data/birds of paradise.png" alt=""></a>
-<a class="fancybox" href="data/blue trumpet vine.png" data-fancybox="gallery" title="Lazy"><img src="data/blue trumpet vine.png" alt=""></a>
-<a class="fancybox" href="data/brahm kamal.png" data-fancybox="gallery" title="Sad, gloomy"><img src="data/brahm kamal.png" alt=""></a>
-<a class="fancybox" href="data/croton.png" data-fancybox="gallery" title="Happy, content"><img src="data/croton.png" alt=""></a>
-<a class="fancybox" href="data/dandelions.png" data-fancybox="gallery" title="Lonely, vulnerable"><img src="data/dandelions.png" alt=""></a>
-<a class="fancybox" href="data/dewey grass.png" data-fancybox="gallery" title="Fresh, energised"><img src="data/dewey grass.png" alt=""></a>
-<a class="fancybox" href="data/droopy tree.png" data-fancybox="gallery" title="Tired, drained"><img src="data/droopy tree.png" alt=""></a>
-<a class="fancybox" href="data/dry grass.png" data-fancybox="gallery" title="Despondent"><img src="data/dry grass.png" alt=""></a>
-<a class="fancybox" href="data/electric rose.png" data-fancybox="gallery" title="Energetic, excited"><img src="data/electric rose.png" alt=""></a>
-<a class="fancybox" href="data/lotus seeds.png" data-fancybox="gallery" title="Uncomfortable"><img src="data/lotus seeds.png" alt=""></a>
-<a class="fancybox" href="data/monkey orchid.png" data-fancybox="gallery" title="Playful and fun"><img src="data/monkey orchid.png" alt=""></a>
-<a class="fancybox" href="data/moss.png" data-fancybox="gallery" title="Anxious, scared"><img src="data/moss.png" alt=""></a>
-<a class="fancybox" href="data/pampas.png" data-fancybox="gallery" title="Light, peaceful"><img src="data/pampas.png" alt=""></a>
-<a class="fancybox" href="data/poppies.png" data-fancybox="gallery" title="Hopeful, optimistic"><img src="data/poppies.png" alt=""></a>
-<a class="fancybox" href="data/rhoeo.png" data-fancybox="gallery" title="In pain, unwell"><img src="data/rhoeo.png" alt=""></a>
-<a class="fancybox" href="data/saplings.png" data-fancybox="gallery" title="Hungry, thirsty"><img src="data/saplings.png" alt=""></a>
-<a class="fancybox" href="data/tree tumbo.png" data-fancybox="gallery" title="Confused, scattered, disoriented"><img src="data/tree tumbo.png" alt=""></a>
-</div>
-
-</body></html>
+  </body>
+</html>
