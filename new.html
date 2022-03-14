@@ -194,7 +194,7 @@
           let caption = $(this).attr('title');
           let firstLine = caption.split('\.')[0];
           let secondLine = caption.split('\.')[1];
-          let figCaption = "<br/><figcaption style=\"color:white;text-align:center\"> <b>" + firstLine + "</b><br/>" + secondLine + "</figcaption> ";
+          let figCaption = "<br/><figcaption style=\"color:white;text-align:center;font-size:19px\"> <b>" + firstLine + "</b><br/>" + secondLine + "</figcaption> ";
           $(this).append(figCaption);
         })
 
@@ -241,7 +241,7 @@
 
       .grid-wrapper {
         display: grid;
-        grid-row-gap: 50px;
+        grid-row-gap: 53px;
         grid-column-gap: 5px;
         grid-template-columns: auto auto auto auto auto auto auto ;/*repeat(auto-fit, minmax(220px, 1fr));*/
         grid-auto-rows: 200px;
